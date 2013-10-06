@@ -1,18 +1,17 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="48" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" height="48" xmlns:xlink="http://www.w3.org/1999/xlink">
 <defs>
 <linearGradient id="linearGradient3795">
 <stop offset="0" style="stop-color:#cd5c24"/>
 <stop offset="1" style="stop-color:#ff6700"/>
 </linearGradient>
-<linearGradient xlink:href="#linearGradient3795" id="linearGradient3801" y1="1053.158" y2="1004.847" x2="0" gradientUnits="userSpaceOnUse"/>
+<linearGradient gradientTransform="translate(0 -1004.3622)" xlink:href="#linearGradient3795" id="linearGradient3008" y1="1053.158" y2="1004.847" gradientUnits="userSpaceOnUse" x2="0"/>
 </defs>
-<g transform="translate(0 -1004.3622)">
-<rect width="48" x="0" y="1004.362" rx="1.945" height="48" style="fill:url(#linearGradient3801)"/>
-<path style="opacity:.15;fill:#fff" d="M 0 0 L 0 48 L 16.78125 48 L 29.625 0 L 0 0 z " transform="translate(0 1004.3622)"/>
-<path style="fill:#2e3436" d="m -144.87015,1005.7549 c -0.0386,0 -0.0577,0.014 -0.0577,0.014 0,0 -7.46109,0.536 -7.79086,0.5771 -0.32977,0.041 -0.4184,0.4472 -0.4184,0.4472 l -0.40397,6.1461 2.48153,-0.2452 c 0,0 0.31741,-2.9371 0.31741,-3.3905 0,-0.4535 0.11542,-0.779 0.11542,-0.779 0,0 2.64229,-0.1588 2.97207,-0.1588 0.32977,0 0.17313,0.5772 0.17313,0.5772 l -0.31741,3.6068 2.79894,-0.1876 c 0,0 0.47611,-5.6946 0.47611,-6.1893 0,-0.371 -0.23033,-0.4184 -0.34626,-0.4184 z m 3.75115,1.7313 c -0.92485,0.04 -1.39806,0.165 -2.15945,0.1587 l -0.12985,2.4382 1.23609,-0.1587 c 0.75187,-0.2863 0.4184,1.6592 0.4184,1.6592 l -0.0577,0.4472 2.74123,-0.2453 0.23084,-3.3327 c -0.12366,-1.0578 -0.1347,-0.9133 -1.35618,-0.9666 -0.30537,-0.013 -0.61508,-0.013 -0.92337,0 z m 3.71233,5.2685 -24,2 -1.00515,19.4722 4.00515,0.5278 0,-6 3.03183,0.3581 0,6.074 17.96817,2.5679 0,-25 z m 2,0 0.0298,25.0002 3.97015,-4.0002 -1,-18 -3,-3 z"/>
-</g>
-<g style="fill:#fff" transform="translate(0 -1004.36219)">
+<rect width="48" x="0" y="-0" rx="1.945" height="48" style="fill:url(#linearGradient3008)"/>
+<g style="fill:#fff">
+<path style="opacity:.15" d="M 0,0 0,48 16.78125,48 29.625,0 0,0 z"/>
+<g transform="translate(0 -1004.36219)">
 <rect width="32" x="8" y="1019.362" rx="1.221" ry="1.259" height="24"/>
 <path d="m 20,1019.3622 0,-3 8,0 0,3 3,0 0,-3 c 0,0 0,-3 -3,-3 -2.909091,0 -8,0 -8,0 0,0 -3,0 -3,3 0,2.9091 0,3 0,3 z"/>
+</g>
 </g>
 </svg>
