@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 15 22">
+<g transform="translate(0 6)">
+<path style="opacity:.3;fill-rule:evenodd" d="m5 7c-0.554 0-1 0.446-1 1v2c0 1.108 1.338 2 3 2h1c1.662 0 3-0.892 3-2v-2c0-0.554-0.446-1-1-1h-5z"/>
+</g>
+<g style="fill:none;stroke-linecap:round">
+<g transform="translate(0 6)">
+<path style="opacity:.3;stroke:#000" d="m6.5-1.5h2c2.216 0 4 1.338 4 3v9c0 1.662-1.784 3-4 3h-2c-2.216 0-4-1.338-4-3v-9c0-1.662 1.784-3 4-3zm1.0419 0.000001v4"/>
+</g>
+<g style="stroke:#dfdbd2" transform="translate(0 6)">
+<g style="opacity:.3" transform="translate(-5 -7)">
+<path style="stroke-width:2" d="m12.5 5.3333v3.3333"/>
+<rect width="13.5" x="-18.75" y="8.25" rx="2.3" ry="3.3" height="8.5" style="stroke-width:.5" transform="matrix(0 -1 1 0 0 0)"/>
+</g>
+<path d="m6.5-2.5h2c2.216 0 4 1.338 4 3v9c0 1.662-1.784 3-4 3h-2c-2.216 0-4-1.338-4-3v-9c0-1.662 1.784-3 4-3zm1.0419 0.000001v4"/>
+</g>
+</g>
+<g transform="translate(0 6)">
+<path style="fill:#dfdbd2;fill-rule:evenodd" d="m5 4c-0.554 0-1 0.446-1 1v4c0 1.108 1.338 2 3 2h1c1.662 0 3-0.892 3-2v-4c0-0.554-0.446-1-1-1h-5z"/>
+</g>
+</svg>

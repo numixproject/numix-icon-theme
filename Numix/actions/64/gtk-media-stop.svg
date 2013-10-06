@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<linearGradient gradientTransform="matrix(1.2325 0 0 1.2519 63.763 -8.845)" id="linearGradient2847" y1="1.476" y2="41.689" gradientUnits="userSpaceOnUse" x2="0">
+<stop offset="0" style="stop-color:#fff"/>
+<stop offset="1" style="stop-color:#fff;stop-opacity:0"/>
+</linearGradient>
+<linearGradient id="linearGradient3680" y1="48.001" y2="40" gradientUnits="userSpaceOnUse" x2="0">
+<stop offset="0" style="stop-opacity:0"/>
+<stop offset=".5"/>
+<stop offset="1" style="stop-opacity:0"/>
+</linearGradient>
+<linearGradient id="linearGradient2781">
+<stop offset="0"/>
+<stop offset="1" style="stop-opacity:0"/>
+</linearGradient>
+<linearGradient gradientTransform="matrix(1.1928 0 0 1.2115 62.716 -7.9927)" id="linearGradient2852" y1="43.42" y2="-.203" gradientUnits="userSpaceOnUse" x2="0">
+<stop offset="0" style="stop-color:#791235"/>
+<stop offset="1" style="stop-color:#dd3b27"/>
+</linearGradient>
+<radialGradient cx="1" cy="44" gradientTransform="matrix(2 0 0 .8 -13 -79.2)" id="radialGradient3280" xlink:href="#linearGradient2781" r="5" gradientUnits="userSpaceOnUse"/>
+<radialGradient cx="1" cy="44" gradientTransform="matrix(2 0 0 .8 36 8.8)" id="radialGradient3282" xlink:href="#linearGradient2781" r="5" gradientUnits="userSpaceOnUse"/>
+<radialGradient cx="21.979" cy="5" gradientTransform="matrix(0 3.8797 -9.3033 0 78.347 -99.639)" id="radialGradient3630" r="20" gradientUnits="userSpaceOnUse">
+<stop offset="0" style="stop-color:#f8b17e"/>
+<stop offset=".262" style="stop-color:#e35d4f"/>
+<stop offset=".661" style="stop-color:#c6262e"/>
+<stop offset="1" style="stop-color:#690b54"/>
+</radialGradient>
+</defs>
+<g transform="translate(.16933 15.831)">
+<g style="opacity:.3" transform="matrix(1.2766 0 0 1.25 .55413 -12.831)">
+<rect width="10" x="-11" y="-48" height="8" style="fill:#555555url(#radialGradient3280)" transform="scale(-1)"/>
+<rect width="10" x="38" y="40" height="8" style="fill:#555555url(#radialGradient3282)"/>
+<rect width="27" x="11" y="40" height="8" style="fill:#555555url(#linearGradient3680)"/>
+</g>
+<rect width="51" x="6.331" y="-7.33" height="51" style="fill:#555555url(#radialGradient3630);stroke:url(#linearGradient2852);stroke-linejoin:round"/>
+<rect width="48.979" x="7.341" y="-6.32" height="48.979" style="opacity:.4;fill:#555555none;stroke:url(#linearGradient2847);stroke-width:1.02"/>
+</g>
+</svg>

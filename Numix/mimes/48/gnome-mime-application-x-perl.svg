@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<linearGradient id="linearGradient3824">
+<stop offset="0" style="stop-color:#e4e6e2"/>
+<stop offset=".5" style="stop-color:#d7dad3"/>
+<stop offset="1" style="stop-color:#b7beb1"/>
+</linearGradient>
+<linearGradient id="linearGradient5060">
+<stop offset="0"/>
+<stop offset="1" style="stop-opacity:0"/>
+</linearGradient>
+<linearGradient gradientTransform="matrix(1.125 0 0 1.16667 -3.75 -1.83333)" xlink:href="#linearGradient5060" id="linearGradient3822" y1="13.571" x1="25.556" y2="5.857" x2="33.556" gradientUnits="userSpaceOnUse"/>
+<radialGradient cx="24" cy="24" gradientTransform="matrix(1.53333 .53333 -.61089 1.7563 1.8613 -30.95123)" xlink:href="#linearGradient3824" id="radialGradient3832" r="15" gradientUnits="userSpaceOnUse"/>
+</defs>
+<path style="fill:url(#radialGradient3832);line-height:normal;color:#000" d="M 10.352222,4.0020356 C 9.6156987,4.0787465 8.9960613,4.7660772 9.0000217,5.5019592 l 0,36.9981168 C 9.0001006,43.285413 9.7191392,43.999922 10.509455,44 l 26.981112,0 C 38.280883,43.999922 38.999921,43.285413 39,42.500076 L 39,9 32,4 10.509455,4.00204 c -0.05236,-0.00271 -0.104869,-0.00271 -0.157233,-4.4e-6 z"/>
+<path style="fill:url(#linearGradient3822)" d="M 32,4 32,9 39,9 39,7.5 33.375,4 z"/>
+<g style="fill:#5c3566">
+<rect width="20" x="14" y="16" height="1" style="opacity:.5"/>
+<rect width="16" x="14" y="18" height="1" style="opacity:.5"/>
+</g>
+<g style="fill:#204a87">
+<rect width="5" x="14" y="20" height="1" style="opacity:.5"/>
+<rect width="7" x="21" y="20" height="1" style="opacity:.5"/>
+<rect width="9.962" x="19.038" y="23" height="1" style="opacity:.5"/>
+</g>
+<rect width="3" x="14" y="25" height="1" style="opacity:.5;fill:#4e9a06"/>
+<g style="fill:#204a87">
+<rect width="12" x="19" y="25" height="1" style="opacity:.5"/>
+<rect width="9.873" x="19.127" y="27" height="1" style="opacity:.5"/>
+<rect width="11" x="14" y="30" height="1" style="opacity:.5"/>
+<rect width="7" x="14" y="32" height="1" style="opacity:.5"/>
+<rect width="8" x="22" y="32" height="1" style="opacity:.5"/>
+<rect width="9" x="14" y="34" height="1" style="opacity:.5"/>
+</g>
+<g style="fill:#4e9a06">
+<rect width="3" x="14" y="27" height="1" style="opacity:.5"/>
+<rect width="3" x="14" y="23" height="1" style="opacity:.5"/>
+</g>
+</svg>

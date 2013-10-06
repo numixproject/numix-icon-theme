@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<linearGradient id="linearGradient3795">
+<stop offset="0" style="stop-color:#868bd8"/>
+<stop offset="1" style="stop-color:#4a42a4"/>
+</linearGradient>
+<linearGradient gradientTransform="translate(0 -2056.7244)" xlink:href="#linearGradient3795" id="linearGradient3801" y1="1053.158" y2="1004.847" x2="0" gradientUnits="userSpaceOnUse"/>
+</defs>
+<g transform="translate(0 -1004.3622)">
+<rect width="48" x="0" y="-1052.362" rx="1.945" height="48" style="fill:url(#linearGradient3801)" transform="scale(1 -1)"/>
+</g>
+<g transform="translate(-1.54423 -1005.83147)">
+<path style="fill:#fff" d="m 13.788916,1033.071 a 13.563779,13.187009 75 0 0 9.821248,10.0974 13.563779,13.187009 75 0 1 1.664198,-25.5086 13.563779,13.187009 75 0 1 6.520561,-0.01 13.563779,13.187009 75 0 0 -8.690934,-0.7152 13.563779,13.187009 75 0 0 -9.315073,16.1342 z"/>
+</g>
+<g style="fill:none;stroke:#fff;stroke-width:.4" transform="translate(-.04163 -1007.59097)">
+<path d="m 10.606601,1029.0277 c 4.419417,0 26.870057,0 26.870057,0"/>
+<path d="m 10.606601,1030.7365 c 4.419417,0 26.870057,0 26.870057,0"/>
+<path d="m 10.606601,1034.1542 c 4.419417,0 26.870057,0 26.870057,0"/>
+<path d="m 10.606601,1032.4454 c 4.419417,0 26.870057,0 26.870057,0"/>
+</g>
+<g transform="translate(0 -1004.3622)">
+<path style="opacity:.15;fill:#fff" d="m 2,1004.3622 c -1.108,0 -2,0.892 -2,2 l 0,44 c 0,1.108 0.892,2 2,2 l 14.78125,0 12.84375,-48 -27.625,0 z"/>
+</g>
+</svg>

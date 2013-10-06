@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<linearGradient gradientTransform="matrix(1.4321 0 0 1.3867 -2.3704 .12667)" id="linearGradient2529" y1="37" y2="39" gradientUnits="userSpaceOnUse" x2="0">
+<stop offset="0" style="stop-color:#333"/>
+<stop offset="1" style="stop-color:#3e3e3e"/>
+</linearGradient>
+<linearGradient gradientTransform="matrix(.66551 0 0 .45188 -54.615 45.875)" id="linearGradient2480" y1="-14.402" y2="-5.563" gradientUnits="userSpaceOnUse" x2="0">
+<stop offset="0" style="stop-opacity:0"/>
+<stop offset=".5"/>
+<stop offset="1" style="stop-opacity:0"/>
+</linearGradient>
+<linearGradient gradientTransform="matrix(1.32 0 0 1.3333 .32002 1.5)" id="linearGradient2517" y1="41.209" y2="44.023" gradientUnits="userSpaceOnUse" x2="0">
+<stop offset="0" style="stop-color:#aaa"/>
+<stop offset="1" style="stop-color:#6c6c6c"/>
+</linearGradient>
+<linearGradient gradientTransform="matrix(1.381 0 0 1.3684 -1.1428 .71055)" id="linearGradient2514" y1="3" y2="42.074" gradientUnits="userSpaceOnUse" x2="0">
+<stop offset="0" style="stop-color:#404040"/>
+<stop offset="1" style="stop-color:#282828"/>
+</linearGradient>
+<linearGradient gradientTransform="matrix(1.4211 0 0 1.3889 -2.1052 .25002)" id="linearGradient2508" y1="4" y2="48.301" gradientUnits="userSpaceOnUse" x2="0">
+<stop offset="0" style="stop-color:#fff"/>
+<stop offset="1" style="stop-color:#fff;stop-opacity:0"/>
+</linearGradient>
+<linearGradient id="linearGradient51765">
+<stop offset="0"/>
+<stop offset="1" style="stop-opacity:0"/>
+</linearGradient>
+<linearGradient gradientTransform="matrix(1.5 0 0 1.4 -3.5 0)" id="linearGradient2505" y1="2" y2="40" x1="14" gradientUnits="userSpaceOnUse" x2="32">
+<stop offset="0" style="stop-color:#e6e6e6"/>
+<stop offset="1" style="stop-color:#e6e6e6;stop-opacity:0"/>
+</linearGradient>
+<radialGradient cx="51.438" cy="-12.203" gradientTransform="matrix(1.8417 0 0 .92001 -115.23 52.586)" id="radialGradient2482" xlink:href="#linearGradient51765" r="2.172" gradientUnits="userSpaceOnUse"/>
+<radialGradient cx="24" cy="22.5" gradientTransform="matrix(1.4211 0 0 1.8173 -2.1052 -10.889)" id="radialGradient2511" r="10" gradientUnits="userSpaceOnUse">
+<stop offset="0" style="stop-color:#3c3c3c"/>
+<stop offset="1" style="stop-color:#313131"/>
+</radialGradient>
+<radialGradient cx="51.438" cy="-12.203" gradientTransform="matrix(-1.8417 0 0 .92001 52.236 52.586)" id="radialGradient2484" xlink:href="#linearGradient51765" r="2.172" gradientUnits="userSpaceOnUse"/>
+</defs>
+<g style="fill-rule:evenodd" transform="matrix(1.2667 0 0 1.7742 71.897 -15.931)">
+<rect width="22" x="-42.497" y="39.367" height="3.994" style="opacity:.3;fill:url(#linearGradient2480)"/>
+<path style="opacity:.3;fill:url(#radialGradient2482)" d="m-20.497 39.361v3.997c2.205-0.016 4-0.898 4-1.992 0-1.093-1.795-1.99-4-2.005z"/>
+<path style="opacity:.3;fill:url(#radialGradient2484)" d="m-42.497 39.361v3.997c-2.205-0.016-4-0.898-4-1.992 0-1.093 1.795-1.99 4-2.005z"/>
+</g>
+<g style="stroke-linejoin:round">
+<rect width="33" x="15.5" y="3.5" rx="3" height="56" style="fill:#e6e6e6;stroke:url(#linearGradient2517)"/>
+<rect width="29" x="17.5" y="5.5" rx="2" height="52" style="fill:url(#linearGradient2514);stroke:#1a1a1a"/>
+<rect width="27" x="18.5" y="12.5" height="35" style="fill:url(#radialGradient2511);stroke:#212121"/>
+<rect width="27" x="18.5" y="6.5" rx="1.006" ry="1.002" height="50" style="opacity:.2;fill:none;stroke:url(#linearGradient2508)"/>
+</g>
+<path style="opacity:.15;fill:url(#linearGradient2505)" d="m19 7v49l24-49h-24z"/>
+<rect width="8" x="28" y="9" rx=".5" height="1" style="fill:#333"/>
+<g style="fill:#7f7f7f">
+<rect width="1" x="15" y="14" height="1"/>
+<rect width="1" x="15" y="16" height="4"/>
+</g>
+<path style="fill:url(#linearGradient2529)" d="m34.066 52.719a1.8988 1.8988 0 1 1 -3.797 0 1.8988 1.8988 0 1 1 3.797 0z" transform="matrix(1.0721 0 0 1.1213 -2.4874 -6.9829)"/>
+<g style="fill:#7f7f7f">
+<rect width="1" x="3" y="-43" height="4" transform="rotate(90)"/>
+<rect width="1" x="15" y="21" height="4"/>
+</g>
+</svg>

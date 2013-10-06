@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<linearGradient id="linearGradient3799">
+<stop offset="0" style="stop-color:#5f8a36"/>
+<stop offset="1" style="stop-color:#3e560b"/>
+</linearGradient>
+<linearGradient xlink:href="#linearGradient3799" id="linearGradient3805" y1="-1003.614" x1="25.456" y2="-1052.934" x2="24.489" gradientUnits="userSpaceOnUse"/>
+</defs>
+<g transform="translate(0 -1004.3622)">
+<path style="fill:url(#linearGradient3805)" d="m 1.9445436,-1052.3622 44.1109124,0 c 1.077278,0 1.944544,0.8673 1.944544,1.9446 l 0,44.1109 c 0,1.0773 -0.867266,1.9445 -1.944544,1.9445 l -44.1109124,0 C 0.86726645,-1004.3622 0,-1005.2294 0,-1006.3067 l 0,-44.1109 c 0,-1.0773 0.86726645,-1.9446 1.9445436,-1.9446 z" transform="scale(1 -1)"/>
+</g>
+<g style="fill:#fff" transform="translate(0 -1004.3622)">
+<path style="opacity:.15" d="m 2,1004.3622 c -1.108,0 -2,0.892 -2,2 l 0,44 c 0,1.108 0.892,2 2,2 l 14.78125,0 12.84375,-48 -27.625,0 z"/>
+<path d="m 9,1013.3622 0,10 10,0 0,-10 -10,0 z m 10,10 0,5 -5,0 0,15 5,0 0,-5 10,0 0,5 5,0 0,-15 -5,0 0,-5 -10,0 z m 10,0 10,0 0,-10 -10,0 0,10 z"/>
+</g>
+</svg>

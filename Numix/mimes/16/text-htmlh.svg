@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<linearGradient gradientTransform="matrix(.27273 0 0 .30232 1.4546 .7442)" id="linearGradient2511" y1="2" y2="46.017" gradientUnits="userSpaceOnUse" x2="0">
+<stop offset="0" style="stop-color:#fff"/>
+<stop offset="1" style="stop-color:#fff;stop-opacity:0"/>
+</linearGradient>
+<linearGradient gradientTransform="matrix(.3092 0 0 .37669 .47615 .10718)" id="linearGradient3053" y1="8.059" y2="5.457" x1="32.892" gradientUnits="userSpaceOnUse" x2="36.358">
+<stop offset="0" style="stop-color:#fefefe"/>
+<stop offset="1" style="stop-color:#cbcbcb"/>
+</linearGradient>
+<linearGradient gradientTransform="matrix(.25379 0 0 .30502 19.129 -.68549)" id="linearGradient2519" y1="50.786" y2="2.906" gradientUnits="userSpaceOnUse" x2="0">
+<stop offset="0" style="stop-color:#aaa"/>
+<stop offset="1" style="stop-color:#c8c8c8"/>
+</linearGradient>
+<linearGradient gradientTransform="matrix(.31429 0 0 .32593 .45711 -.32225)" id="linearGradient2517" y1=".985" y2="47.013" gradientUnits="userSpaceOnUse" x2="0">
+<stop offset="0" style="stop-color:#f4f4f4"/>
+<stop offset="1" style="stop-color:#dbdbdb"/>
+</linearGradient>
+</defs>
+<path style="fill:url(#linearGradient2517);stroke:url(#linearGradient2519);stroke-linejoin:round" d="m1.5 0.49997h8.4412c0.44218 0.16179 2.9385 2.1328 3.5588 3.4091 0 3.9062 0.000026 7.6847 0.000026 11.591h-12v-15z"/>
+<path style="opacity:.6;fill:none;stroke:url(#linearGradient2511)" d="m12.5 4.2151v10.285h-10v-13h7.2363"/>
+<g style="fill-rule:evenodd">
+<path style="fill:#c1c1c1" d="m9.2941 0.8409c0.8479 2.8039-0.2941 4.1932-0.2941 4.1932s1.8928-1.2514 4.1714-0.1023c1.9429 0.97981 0.03608-1.008-0.04146-1.129-0.543-0.8475-2.423-2.6331-3.105-2.9302-0.0554-0.02424-0.4436-0.0317-0.7309-0.0317z"/>
+<path style="fill:url(#linearGradient3053)" d="m9.2941 0.8409c0.9879 0 0.7059 3.181 0.7059 3.181s2.2725-0.50073 3.1714 0.90989c0.16288 0.25561 0.03608-1.008-0.04146-1.129-0.543-0.8475-2.423-2.6331-3.105-2.9302-0.0554-0.02424-0.4436-0.0317-0.7309-0.0317z"/>
+</g>
+<path style="opacity:.4;fill:#666" d="m3.1192 9 1.7592-2.264-0.5879-0.736-2.2905 3 2.3514 3 0.6486-0.672-1.8808-2.328z"/>
+<path style="opacity:.4;fill-rule:evenodd;color:#000" d="m8 7h1l-2 4h-1l2-4z"/>
+<path style="opacity:.4;fill:#666" d="m11.885 8.944-1.763-2.208 0.587-0.736 2.291 2.944-2.351 3.056-0.649-0.672 1.885-2.384z"/>
+</svg>

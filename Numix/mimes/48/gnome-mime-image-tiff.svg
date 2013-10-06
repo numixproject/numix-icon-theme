@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<linearGradient id="linearGradient5060">
+<stop offset="0"/>
+<stop offset="1" style="stop-opacity:0"/>
+</linearGradient>
+<linearGradient gradientTransform="matrix(1.125 0 0 1.16667 -3.75 -1.83333)" xlink:href="#linearGradient5060" id="linearGradient3822" y1="19.571" x1="30.889" y2="14.429" x2="35.333" gradientUnits="userSpaceOnUse"/>
+<linearGradient gradientTransform="translate(0 -14)" xlink:href="#linearGradient5389" id="linearGradient5395" y1="36" y2="53" x2="0" gradientUnits="userSpaceOnUse"/>
+<linearGradient id="linearGradient3824">
+<stop offset="0" style="stop-color:#e4e6e2"/>
+<stop offset=".5" style="stop-color:#d7dad3"/>
+<stop offset="1" style="stop-color:#b7beb1"/>
+</linearGradient>
+<linearGradient id="linearGradient3835">
+<stop offset="0" style="stop-color:#77889b"/>
+<stop offset="1" style="stop-color:#313c48"/>
+</linearGradient>
+<linearGradient id="linearGradient5389">
+<stop offset="0" style="stop-color:#eeeeec"/>
+<stop offset="1" style="stop-color:#eeeeec;stop-opacity:0"/>
+</linearGradient>
+<radialGradient cx="21.6" cy="28.067" gradientTransform="matrix(1.32583 .44194 -.3125 .9375 .13301 -7.85844)" xlink:href="#linearGradient3835" id="radialGradient3938" r="16" gradientUnits="userSpaceOnUse"/>
+<radialGradient cx="24" cy="24" gradientTransform="matrix(1.53333 .53333 -.61089 1.7563 1.8613 -30.95123)" xlink:href="#linearGradient3824" id="radialGradient3832" r="15" gradientUnits="userSpaceOnUse"/>
+</defs>
+<path style="fill:url(#radialGradient3832);line-height:normal;color:#000" d="m 7.352222,13.002036 c -0.7365233,0.07671 -1.3561607,0.764041 -1.3522003,1.499923 l 0,27.998117 C 6.0001006,43.285413 6.7191392,43.999922 7.509455,44 l 32.981112,0 C 41.280883,43.999922 41.999921,43.285413 42,42.500076 L 42,18 35,13 7.509455,13.002 c -0.05236,-0.0027 -0.104869,-0.0027 -0.157233,-4e-6 z"/>
+<path style="fill:url(#linearGradient3822)" d="m 35,13 0,5 7,0 0,-1.5 -5.625,-3.5 z"/>
+<path style="fill:url(#radialGradient3938)" d="M 8 15 L 8 39 L 40 39 L 40 18 L 35 18 L 35 15 L 8 15 z "/>
+<path style="opacity:.15;fill:#eeeeec" d="M 8 15 L 8 39 L 12.25 39 L 27.375 15 L 8 15 z "/>
+<path style="fill:url(#linearGradient5395)" d="m 11,22 0,2 2,0 0,8 2,0 0,-8 2,0 0,-2 -6,0 z m 8,0 0,10 2,0 0,-10 -2,0 z m 4,0 0,10 2,0 0,-4 4,0 0,-2 -4,0 0,-2 4,0 0,-2 -6,0 z m 8,0 0,10 2,0 0,-4 4,0 0,-2 -4,0 0,-2 4,0 0,-2 -6,0 z"/>
+</svg>
