@@ -1,15 +1,15 @@
 <svg width="48" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" height="48" xmlns:xlink="http://www.w3.org/1999/xlink">
 <defs>
-<linearGradient id="linearGradient3649">
-<stop offset="0" style="stop-color:#c9c9c9"/>
-<stop offset="1" style="stop-color:#f0f0f0"/>
-</linearGradient>
-<linearGradient gradientTransform="matrix(1.44444 0 0 1.44444 -173.37815 -45.08093)" xlink:href="#linearGradient3649" id="linearGradient2880" y1="14" y2="24" x1="102" gradientUnits="userSpaceOnUse" x2="92"/>
 <linearGradient gradientTransform="translate(-124.48926 -339.41426)" xlink:href="#linearGradient3636" id="linearGradient2876" y1="413" y2="419" gradientUnits="userSpaceOnUse" x2="0"/>
 <linearGradient id="linearGradient3636">
 <stop offset="0" style="stop-color:#af3439"/>
 <stop offset=".5" style="stop-color:#912b2f"/>
 <stop offset="1" style="stop-color:#6d2023"/>
+</linearGradient>
+<linearGradient gradientTransform="matrix(1.44444 0 0 1.44444 -173.37815 -45.08093)" xlink:href="#linearGradient3649" id="linearGradient2880" y1="14" y2="24" x1="102" gradientUnits="userSpaceOnUse" x2="92"/>
+<linearGradient id="linearGradient3649">
+<stop offset="0" style="stop-color:#c9c9c9"/>
+<stop offset="1" style="stop-color:#f0f0f0"/>
 </linearGradient>
 </defs>
 <g transform="matrix(.34483 0 0 .34483 44.85827 16.55664)">
