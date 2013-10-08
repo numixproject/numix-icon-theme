@@ -1,0 +1,57 @@
+#!/bin/bash
+
+name="Numix"
+comment="Official icon theme from the Numix project"
+
+# Cleanup stuff
+rm -rf "./$name"
+mkdir -p "./$name"
+
+SAVEIFS="$IFS"
+IFS="
+"
+for source in `ls "./src"`; do
+    # We don't convert the scalable icons to PNG
+    if [[ "$source" == "scalable" ]]; then
+        cp -r "./src/scalable" "./$name/scalable"
+        continue
+    fi
+    for dir in `ls "./src/$source"`; do
+        sizes=( 16 22 24 32 48 64 128 256 )
+        # Exclude certain directories
+        for exdir in `ls "./src/16"`; do
+            if [[ "$dir" == "$exdir" ]]; then
+                if [[ "$source" == "16" ]]; then
+                    sizes=( 16 22 )
+                else
+                    sizes=( 24 32 48 64 128 256 )
+                fi
+            fi
+        done
+        for size in "${sizes[@]}"; do
+            mkdir -p "./$name/$size/$dir"
+            for icon in `ls "./src/$source/$dir"`; do
+                if [[ ! -h "./src/$source/$dir/$icon" ]]; then
+                    # Convert SVG to PNG
+                    rsvg-convert -w "$size" -h "$size" "./src/$source/$dir/$icon" -o "./$name/$size/$dir/${icon/.svg/}.png"
+                else
+                    # Create symlinks
+                    symlink=$(readlink "./src/$source/$dir/$icon") && ln -s "${symlink/.svg/}.png" "./$name/$size/$dir/${icon/.svg/}.png"
+                fi
+            done
+        done
+    done
+done
+IFS="$SAVEIFS"
+
+# Generate index.theme
+cat <<EOF | tee "./$name/index.theme" > /dev/null 2>&1
+[Icon Theme]
+Name=$name
+Comment=$comment
+Inherits=gnome,hicolor
+Example=directory-x-normal
+EOF
+
+printf "Directories=" >> "./$name/index.theme"
+for dir in `ls "./$name"`; do for subdir in `ls "./$name/$dir"`; do printf "$dir/$subdir," >> "./$name/index.theme"; done; done
