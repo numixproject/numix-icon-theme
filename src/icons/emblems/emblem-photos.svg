@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<linearGradient id="linearGradient4157-401">
+<stop offset="0" style="stop-color:#262626"/>
+<stop offset="1" style="stop-color:#828282"/>
+</linearGradient>
+<linearGradient id="linearGradient4342">
+<stop offset="0" style="stop-color:#6e8d5d"/>
+<stop offset=".5" style="stop-color:#a2ac34;stop-opacity:.498"/>
+<stop offset=".75" style="stop-color:#cbbd40;stop-opacity:.247"/>
+<stop offset=".875" style="stop-color:#dbc146;stop-opacity:.122"/>
+<stop offset="1" style="stop-color:#ff480f;stop-opacity:.133"/>
+</linearGradient>
+<linearGradient id="linearGradient3997">
+<stop offset="0" style="stop-color:#f3f7fa"/>
+<stop offset="1" style="stop-color:#fdfeff"/>
+</linearGradient>
+<linearGradient gradientTransform="matrix(.08429 0 0 .03706 -6.1149 25.412)" id="linearGradient2955" y1="366.65" y2="609.51" gradientUnits="userSpaceOnUse" x2="0">
+<stop offset="0" style="stop-opacity:0"/>
+<stop offset=".5"/>
+<stop offset="1" style="stop-opacity:0"/>
+</linearGradient>
+<linearGradient gradientTransform="matrix(.33339 0 0 .33591 2.9802 -1.4923)" id="linearGradient2907" xlink:href="#linearGradient4157-401" y1="40.523" y2="11.735" x1="20.253" gradientUnits="userSpaceOnUse" x2="5.525"/>
+<linearGradient gradientTransform="matrix(.34851 0 0 .30256 16.748 5.1582)" id="linearGradient2899" xlink:href="#linearGradient3997" y1="3.09" y2="170.29" x1=".633" gradientUnits="userSpaceOnUse" x2="79.104"/>
+<radialGradient cx="34.828" cy="65.617" gradientTransform="matrix(.14818 .01026 -.00895 .13265 2.708 -1.8757)" id="radialGradient2909" xlink:href="#linearGradient4342" r="42.271" gradientUnits="userSpaceOnUse"/>
+<radialGradient cx="605.71" cy="486.65" gradientTransform="matrix(.03213 0 0 .03706 25.337 25.412)" id="radialGradient2957" r="117.14" gradientUnits="userSpaceOnUse">
+<stop offset="0"/>
+<stop offset="1" style="stop-opacity:0"/>
+</radialGradient>
+<radialGradient cx="605.71" cy="486.65" gradientTransform="matrix(-.03213 0 0 .03706 23.363 25.412)" id="radialGradient2959" r="117.14" gradientUnits="userSpaceOnUse">
+<stop offset="0"/>
+<stop offset="1" style="stop-opacity:0"/>
+</radialGradient>
+</defs>
+<g transform="matrix(.9504 -.31104 .31104 .9504 -15.559 6.718)">
+<rect width="30.931" x="14.596" y="13.581" height="30.943" style="stroke-opacity:.969;fill:url(#linearGradient2899);stroke:#909090;stroke-linejoin:round;stroke-linecap:round;stroke-width:1.004" transform="matrix(1 -.00174 -.00211 1 0 0)"/>
+</g>
+<g transform="matrix(2.35119 -.76948 .74046 2.26252 -2.90131 12.53977)">
+<rect width="10.867" x="2.578" y="2.567" rx="0" height="9.622" style="stroke-opacity:.969;fill:url(#linearGradient2907);stroke:#333;stroke-linejoin:round;stroke-linecap:round;stroke-width:.437" transform="matrix(1 -.00179 -.00205 1 0 0)"/>
+<rect width="10.866" x="2.578" y="2.567" rx="0" height="9.622" style="opacity:.35;fill:url(#radialGradient2909)" transform="matrix(1 -.00179 -.00205 1 0 0)"/>
+</g>
+<g style="opacity:.3" transform="matrix(.73922 0 0 .55556 12 20.333)">
+<rect width="40.7" x="4" y="39" height="9" style="fill:url(#linearGradient2955)"/>
+<path style="fill:url(#radialGradient2957)" d="m44.7 39v8.9995c1.6546 0.01694 4-2.0163 4-4.5003s-1.8464-4.4992-4-4.4992z"/>
+<path style="fill:url(#radialGradient2959)" d="m4 39v8.9995c-1.6546 0.017-4-2.017-4-4.501s1.8464-4.499 4-4.499z"/>
+</g>
+<rect width="30.931" x="14.596" y="13.581" height="30.943" style="stroke-opacity:.969;fill:url(#linearGradient2899);stroke:#909090;stroke-linejoin:round;stroke-linecap:round;stroke-width:1.004" transform="matrix(1 -.00174 -.00211 1 0 0)"/>
+<g transform="matrix(2.4739 0 0 2.3806 10.219 9.47)">
+<rect width="10.867" x="2.578" y="2.567" rx="0" height="9.622" style="stroke-opacity:.969;fill:url(#linearGradient2907);stroke:#333;stroke-linejoin:round;stroke-linecap:round;stroke-width:.437" transform="matrix(1 -.00179 -.00205 1 0 0)"/>
+<rect width="10.866" x="2.578" y="2.567" rx="0" height="9.622" style="opacity:.35;fill:url(#radialGradient2909)" transform="matrix(1 -.00179 -.00205 1 0 0)"/>
+</g>
+</svg>

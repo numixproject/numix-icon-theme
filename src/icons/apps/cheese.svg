@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<linearGradient id="linearGradient3795">
+<stop offset="0" style="stop-color:#d09917"/>
+<stop offset="1" style="stop-color:#dfab0f"/>
+</linearGradient>
+<linearGradient xlink:href="#linearGradient3795" id="linearGradient3801" y1="1053.158" y2="1004.847" x2="0" gradientUnits="userSpaceOnUse"/>
+</defs>
+<g transform="translate(0 -1004.3622)">
+<rect width="48" x="0" y="1004.362" rx="1.945" height="48" style="fill:url(#linearGradient3801)"/>
+</g>
+<g transform="translate(0 -1004.3622)">
+<rect width="30" x="9" y="1019.393" rx="1.467" height="20" style="fill:none;stroke:#fff;stroke-linejoin:round;stroke-linecap:round;stroke-width:2"/>
+</g>
+<g style="fill:#fff" transform="translate(0 -1004.3622)">
+<rect width="6" x="12" y="13" rx="1" height="2" transform="translate(0 1004.3622)"/>
+<rect width="3" x="34" y="17" rx="1" height="3" transform="translate(0 1004.3622)"/>
+</g>
+<g transform="translate(0 -1004.3622)">
+<path style="fill:none;stroke:#fff;stroke-width:2" d="M 31,26.5 C 31,30.089851 28.089851,33 24.5,33 20.910149,33 18,30.089851 18,26.5 18,22.910149 20.910149,20 24.5,20 c 3.589851,0 6.5,2.910149 6.5,6.5 z" transform="translate(-.5 1003.3622)"/>
+</g>
+<g transform="translate(0 -1004.3622)">
+<path style="opacity:.15;fill:#fff" d="m 2,1004.3622 c -1.108,0 -2,0.892 -2,2 l 0,44 c 0,1.108 0.892,2 2,2 l 14.78125,0 12.84375,-48 -27.625,0 z"/>
+</g>
+</svg>

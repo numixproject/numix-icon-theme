@@ -1,0 +1,25 @@
+<svg width="48" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" height="48" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<linearGradient id="linearGradient3795">
+<stop offset="0" style="stop-color:#2a6d20"/>
+<stop offset="1" style="stop-color:#76c45a"/>
+</linearGradient>
+<linearGradient gradientTransform="translate(0 .00005)" xlink:href="#linearGradient3795" id="linearGradient3801" y1="1053.158" y2="1004.847" x2="0" gradientUnits="userSpaceOnUse"/>
+</defs>
+<g transform="translate(0 -1004.3622)">
+<rect width="48" x="0" y="1004.362" rx="1.945" height="48" style="fill:url(#linearGradient3801)"/>
+</g>
+<g transform="matrix(.16 0 0 .16 3.52 3.52)">
+<rect width="192" x="32" y="32" height="192" style="fill:none;stroke:#fff;stroke-width:8"/>
+</g>
+<g style="fill:#fff">
+<g transform="matrix(.16 0 0 .16 3.52 36.8)">
+<rect width="10" x="84.134" y="-175.324" height="188.824"/>
+<rect width="10" x="-116.004" y="-222.126" height="188.824" transform="rotate(90)"/>
+<rect width="10" x="-51.74" y="-222.126" height="188.824" transform="rotate(90)"/>
+</g>
+<g>
+<path style="opacity:.15" d="M 2,0 C 0.892,0 0,0.892 0,2 l 0,44 c 0,1.108 0.892,2 2,2 L 16.78125,48 29.625,0 2,0 z"/>
+</g>
+</g>
+</svg>

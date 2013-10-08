@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g style="fill:#bebebe;color:#bebebe">
+<g transform="translate(-81 -277)">
+<rect width="2.972" x="81" y="284" rx=".562" height="2"/>
+<rect width="3.017" x="93.984" y="284" rx=".562" height="2"/>
+</g>
+<g transform="matrix(.70711 -.70711 .70711 .70711 -256.46 -130.59)">
+<rect width="2.972" x="81" y="284" rx=".562" height="2"/>
+<rect width="3.017" x="93.984" y="284" rx=".562" height="2"/>
+</g>
+<g transform="matrix(0 -1 1 0 -277 97)">
+<rect width="2.972" x="81" y="284" rx=".562" height="2"/>
+<rect width="3.017" x="93.984" y="284" rx=".562" height="2"/>
+</g>
+<g transform="matrix(-.70711 -.70711 .70711 -.70711 -130.593 272.46)">
+<rect width="2.972" x="81" y="284" rx=".562" height="2"/>
+<rect width="3.017" x="93.984" y="284" rx=".562" height="2"/>
+</g>
+<g>
+<path xml:space="default" d="M 8.4,7.9999995 8.4,2 C 5.104223,2 2.4,4.7042234 2.4,7.9999995 2.4,11.295773 5.104223,14 8.4,14 l 0,-6.0000005 z"/>
+<path style="fill-rule:evenodd" xml:space="default" d="M 8,14 C 4.6865233,14 2,11.313478 2,8 2,4.6865225 4.6865233,2 8,2 c 3.313477,0 6,2.6865225 6,6 0,3.313478 -2.686523,6 -6,6 z M 8,3.5 C 5.5148983,3.5 3.5,5.5148975 3.5,8 c 0,2.485103 2.0148983,4.5 4.5,4.5 2.485102,0 4.5,-2.014897 4.5,-4.5 C 12.5,5.5148975 10.485102,3.5 8,3.5 Z"/>
+</g>
+</g>
+</svg>
