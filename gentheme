@@ -1,0 +1,107 @@
+#!/bin/bash
+# Script to generate Numix icon theme from source SVGs
+#
+# Copyright (C) 2012  Satyajit Sahoo
+#
+# This program is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program. If not, see <http://www.gnu.org/licenses/>.
+
+name="Numix"
+comment="Official icon theme from the Numix project"
+
+genicons() {
+# Cleanup stuff
+rm -rf "./$name"
+mkdir -p "./$name"
+
+SAVEIFS="$IFS"
+IFS="
+"
+for source in `find "./src" -maxdepth 1 ! -path "./src" -type d | sed -r "s/^.+\///"`; do
+    # We don't convert the scalable icons to PNG
+    if [[ "$source" == "scalable" ]]; then
+        cp -r "./src/scalable" "./$name/scalable"
+        continue
+    fi
+    for dir in `find "./src/$source" -maxdepth 1 ! -path "./src/$source" -type d | sed -r "s/^.+\///"`; do
+        sizes=( 16 22 24 32 48 64 128 256 )
+        # Exclude certain directories
+        for exdir in `find "./src/16" -maxdepth 1 ! -path "./src/16" -type d | sed -r "s/^.+\///"`; do
+            if [[ "$dir" == "$exdir" ]]; then
+                if [[ "$source" == "16" ]]; then
+                    sizes=( 16 22 )
+                else
+                    sizes=( 24 32 48 64 128 256 )
+                fi
+            fi
+        done
+        for size in "${sizes[@]}"; do
+            mkdir -p "./$name/$size/$dir"
+            for icon in `find "./src/$source/$dir" -maxdepth 1 -name "*.svg" | sed -r "s/^.+\///"`; do
+                if [[ ! -h "./src/$source/$dir/$icon" ]]; then
+                    # Convert SVG to PNG
+                    rsvg-convert -w "$size" -h "$size" "./src/$source/$dir/$icon" -o "./$name/$size/$dir/${icon/.svg/}.png"
+                else
+                    # Create symlinks
+                    symlink=$(readlink "./src/$source/$dir/$icon") && ln -s "${symlink/.svg/}.png" "./$name/$size/$dir/${icon/.svg/}.png"
+                fi
+            done
+        done
+    done
+done
+IFS="$SAVEIFS"
+}
+
+genindex() {
+# Generate index.theme
+cat <<EOF | tee "./$name/index.theme" > /dev/null 2>&1
+[Icon Theme]
+Name=$name
+Comment=$comment
+
+Inherits=gnome,hicolor
+
+Example=directory-x-normal
+
+# Directory list
+EOF
+
+printf "Directories=" >> "./$name/index.theme"
+for dir in `find "./$name" -maxdepth 1 ! -path "./$name" -type d | sed -r "s/^.+\///"`; do
+    for subdir in `find "./$name/$dir" -maxdepth 1 ! -path "./$name/$dir" -type d | sed -r "s/^.+\///"`; do
+        printf "$dir/$subdir," >> "./$name/index.theme"
+    done;
+done
+
+printf "\n\n" >> "./$name/index.theme"
+for dir in `find "./$name" -maxdepth 1 ! -path "./$name" -type d | sed -r "s/^.+\///"`; do
+    for subdir in `find "./$name/$dir" -maxdepth 1 ! -path "./$name/$dir" -type d | sed -r "s/^.+\///"`; do
+        printf "[$dir/$subdir]\nContext=$(printf $subdir | sed -e 's/^./\U&\E/g')\n" >> "./$name/index.theme"
+        if [[ "$dir" == "scalable" ]]; then
+            printf "Size=16\nMinSize=16\nMaxSize=256\nType=scalable\n\n" >> "./$name/index.theme"
+        else
+            printf "Size=$dir\nType=fixed\n\n" >> "./$name/index.theme"
+        fi
+    done;
+done
+}
+
+case "$1" in
+    "icons")
+        genicons;;
+    "index")
+        genindex;;
+    *)
+        genicons
+        genindex;;
+esac
