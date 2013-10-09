@@ -39,9 +39,9 @@ for source in `find "./src" -maxdepth 1 ! -path "./src" -type d | sed -r "s/^.+\
         for exdir in `find "./src/16" -maxdepth 1 ! -path "./src/16" -type d | sed -r "s/^.+\///"`; do
             if [[ "$dir" == "$exdir" ]]; then
                 if [[ "$source" == "16" ]]; then
-                    sizes=( 16 22 )
+                    sizes=( 16 22 24 )
                 else
-                    sizes=( 24 32 48 64 128 256 )
+                    sizes=( 32 48 64 128 256 )
                 fi
             fi
         done
@@ -50,7 +50,7 @@ for source in `find "./src" -maxdepth 1 ! -path "./src" -type d | sed -r "s/^.+\
             for icon in `find "./src/$source/$dir" -maxdepth 1 -name "*.svg" | sed -r "s/^.+\///"`; do
                 if [[ ! -h "./src/$source/$dir/$icon" ]]; then
                     # Convert SVG to PNG
-                    rsvg-convert -w "$size" -h "$size" "./src/$source/$dir/$icon" -o "./$name/$size/$dir/${icon/.svg/}.png"
+                    rsvg-convert -a -h "$size" "./src/$source/$dir/$icon" -o "./$name/$size/$dir/${icon/.svg/}.png"
                 else
                     # Create symlinks
                     symlink=$(readlink "./src/$source/$dir/$icon") && ln -s "${symlink/.svg/}.png" "./$name/$size/$dir/${icon/.svg/}.png"
