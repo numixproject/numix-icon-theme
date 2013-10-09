@@ -1,7 +1,7 @@
 #!/bin/bash
 # Script to generate Numix icon theme from source SVGs
 #
-# Copyright (C) 2012  Satyajit Sahoo
+# Copyright (C) 2013  Satyajit Sahoo
 #
 # This program is free software: you can redistribute it and/or modify
 # it under the terms of the GNU General Public License as published by
@@ -39,9 +39,9 @@ for source in `find "./src" -maxdepth 1 ! -path "./src" -type d | sed -r "s/^.+\
         for exdir in `find "./src/16" -maxdepth 1 ! -path "./src/16" -type d | sed -r "s/^.+\///"`; do
             if [[ "$dir" == "$exdir" ]]; then
                 if [[ "$source" == "16" ]]; then
-                    sizes=( 16 22 24 )
+                    sizes=( 16 )
                 else
-                    sizes=( 32 48 64 128 256 )
+                    sizes=( 22 24 32 48 64 128 256 )
                 fi
             fi
         done
