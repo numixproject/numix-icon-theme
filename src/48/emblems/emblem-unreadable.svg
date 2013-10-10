@@ -1,12 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48">
-<g transform="translate(0 -1004.3622)">
-<rect width="48" x="0" y="1004.367" height="48" style="fill:none"/>
-</g>
-<g style="fill:#d40000" transform="translate(-.59393 -1004.36213)">
-<rect width="39.775" x="4.707" y="1008.479" rx="3.409" height="39.775"/>
-</g>
-<g style="fill:none;stroke:#fff;stroke-width:4" transform="translate(-.46463 -1003.82981)">
-<path d="M 11.995562,11.003163 36.933703,35.941304" transform="translate(0 1004.3622)"/>
-<path d="m 11.995562,1040.3035 24.938141,-24.9381"/>
+<svg width="48" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" height="48" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g style="stroke:#777">
+<path style="fill:#f9f9f9;stroke-width:.5" d="m 25.932203,35.18644 a 12.254237,12.508474 0 1 1 -24.5084741,0 12.254237,12.508474 0 1 1 24.5084741,0 z" transform="matrix(1.59979 0 0 1.56727 2.11819 -31.14659)"/>
+<path style="fill:#b2b2b2" d="M 30.73077,11.5 23.999999,18.230768 17.269233,11.5 l -5.769231,5.76923 6.73077,6.730767 -6.73077,6.73077 L 17.269233,36.5 23.999999,29.769227 30.73077,36.5 36.499998,30.730767 29.769233,23.999997 36.499998,17.26923 30.73077,11.5 z"/>
 </g>
 </svg>
