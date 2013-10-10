@@ -19,14 +19,16 @@
 name="Numix"
 comment="Official icon theme from the Numix project"
 
-genicons() {
+cleanup() {
 # Cleanup stuff
 rm -rf "./$name"
-mkdir -p "./$name"
+}
 
+genicons() {
 SAVEIFS="$IFS"
 IFS="
 "
+mkdir -p "./$name"
 for source in `find "./src" -maxdepth 1 ! -path "./src" -type d | sed -r "s/^.+\///"`; do
     # We don't convert the scalable icons to PNG
     if [[ "$source" == "scalable" ]]; then
@@ -50,10 +52,11 @@ for source in `find "./src" -maxdepth 1 ! -path "./src" -type d | sed -r "s/^.+\
             for icon in `find "./src/$source/$dir" -maxdepth 1 -name "*.svg" | sed -r "s/^.+\///"`; do
                 if [[ ! -h "./src/$source/$dir/$icon" ]]; then
                     # Convert SVG to PNG
+                    rm -f "./$name/$size/$dir/${icon/.svg/}.png"
                     rsvg-convert -a -h "$size" "./src/$source/$dir/$icon" -o "./$name/$size/$dir/${icon/.svg/}.png"
                 else
                     # Create symlinks
-                    symlink=$(readlink "./src/$source/$dir/$icon") && ln -s "${symlink/.svg/}.png" "./$name/$size/$dir/${icon/.svg/}.png"
+                    symlink=$(readlink "./src/$source/$dir/$icon") && ln -sf "${symlink/.svg/}.png" "./$name/$size/$dir/${icon/.svg/}.png"
                 fi
             done
         done
@@ -101,7 +104,11 @@ case "$1" in
         genicons;;
     "index")
         genindex;;
+    "update")
+        genicons
+        genindex;;
     *)
+        cleanup
         genicons
         genindex;;
 esac
