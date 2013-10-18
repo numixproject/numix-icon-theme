@@ -1,0 +1,13 @@
+*~
+*.bak
+*.orig
+
+debian/files
+debian/numix-icon-theme.debhelper.log
+debian/numix-icon-theme.postinst.debhelper
+debian/numix-icon-theme.postrm.debhelper
+debian/numix-icon-theme.prerm.debhelper
+debian/numix-icon-theme.substvars
+debian/numix-icon-theme
+
+numix/.icon-theme.cache
