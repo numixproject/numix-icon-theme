@@ -1,12 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48">
-<g transform="translate(0 -1004.3622)">
-<rect width="48" x="0" y="1004.367" height="48" style="fill:none"/>
-</g>
-<g style="fill:#d40000" transform="translate(-.59393 -1004.36213)">
-<rect width="39.775" x="4.707" y="1008.479" rx="3.409" height="39.775"/>
-</g>
-<g style="fill:none;stroke:#fff;stroke-width:4" transform="translate(-.46463 -1003.82981)">
-<path d="M 11.995562,11.003163 36.933703,35.941304" transform="translate(0 1004.3622)"/>
-<path d="m 11.995562,1040.3035 24.938141,-24.9381"/>
-</g>
+<svg width="48" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" height="48">
+<path style="fill:#f9f9f9;stroke:#777;stroke-width:.792" d="m 43.604269,24.000062 a 19.604206,19.604156 0 0 1 -39.2084117,0 19.604206,19.604156 0 1 1 39.2084117,0 z"/>
+<path style="fill:#d64937" d="M 30.461541,12 23.999999,18.461537 17.538464,12 12,17.53846 18.461541,23.999997 12,30.461536 17.538464,36 23.999999,29.538457 30.461541,36 36,30.461536 29.538464,23.999997 36,17.53846 30.461541,12 z"/>
 </svg>

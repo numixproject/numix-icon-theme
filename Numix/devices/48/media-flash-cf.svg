@@ -1,10 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" xmlns:xlink="http://www.w3.org/1999/xlink">
 <defs>
+<linearGradient id="linearGradient5048">
+<stop offset="0" style="stop-opacity:0"/>
+<stop offset=".5"/>
+<stop offset="1" style="stop-opacity:0"/>
+</linearGradient>
 <linearGradient id="linearGradient5060">
 <stop offset="0"/>
 <stop offset="1" style="stop-opacity:0"/>
 </linearGradient>
-<linearGradient gradientTransform="matrix(2.77439 0 0 1.96971 -1892.179 -872.8854)" id="linearGradient6450" xlink:href="#linearGradient5048" y1="366.648" y2="609.505" x2="0" gradientUnits="userSpaceOnUse"/>
 <linearGradient id="linearGradient4992">
 <stop offset="0" style="stop-color:#787878"/>
 <stop offset="1" style="stop-color:#3c3c3c"/>
@@ -13,6 +17,7 @@
 <stop offset="0" style="stop-color:#edd563"/>
 <stop offset="1" style="stop-color:#e08223"/>
 </linearGradient>
+<linearGradient gradientTransform="matrix(2.77439 0 0 1.96971 -1892.179 -872.8854)" id="linearGradient6450" xlink:href="#linearGradient5048" y1="366.648" y2="609.505" x2="0" gradientUnits="userSpaceOnUse"/>
 <linearGradient id="linearGradient3627">
 <stop offset="0" style="stop-color:#e6e6e6"/>
 <stop offset="1" style="stop-color:#aaa"/>
@@ -20,11 +25,6 @@
 <linearGradient id="linearGradient5036">
 <stop offset="0" style="stop-color:#fff"/>
 <stop offset="1" style="stop-color:#fff;stop-opacity:0"/>
-</linearGradient>
-<linearGradient id="linearGradient5048">
-<stop offset="0" style="stop-opacity:0"/>
-<stop offset=".5"/>
-<stop offset="1" style="stop-opacity:0"/>
 </linearGradient>
 <linearGradient id="linearGradient3633" xlink:href="#linearGradient3627" y1="11" y2="42" x2="0" gradientUnits="userSpaceOnUse"/>
 <linearGradient gradientTransform="translate(0 2)" id="linearGradient4069" xlink:href="#linearGradient4071" y1="3.656" y2="21" x2="0" gradientUnits="userSpaceOnUse"/>
