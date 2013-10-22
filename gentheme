@@ -30,26 +30,27 @@ genicons() {
 SAVEIFS="$IFS"
 IFS="
 "
-for source in `find "./src" -maxdepth 1 ! -path "./src" -type d | sed -r "s/^.+\///"`; do
-    for size in "${sizes[@]}"; do
-        if [[ -d "./src/$size" ]]; then
-            cp -rf "./src/$size" "./$name/$size"
-        else
-            if [[ "$source" == "$base" ]]; then
-                for dir in `find "./src/$source" -maxdepth 1 ! -path "./src/$source" -type d | sed -r "s/^.+\///"`; do
-                    mkdir -p "./$name/$size/$dir"
-                    for icon in `find "./src/$source/$dir" -maxdepth 1 -name "*.svg" | sed -r "s/^.+\///"`; do
-                        rm -f "./$name/$size/$dir/$icon"
+for size in "${sizes[@]}"; do
+    for source in `find "./src" -maxdepth 1 ! -path "./src" -type d | sed -r "s/^.+\///"`; do
+        if [[ "$source" == "$base" ]]; then
+            for dir in `find "./src/$source" -maxdepth 1 ! -path "./src/$source" -type d | sed -r "s/^.+\///"`; do
+                mkdir -p "./$name/$size/$dir"
+                for icon in `find "./src/$source/$dir" -maxdepth 1 -name "*.svg" | sed -r "s/^.+\///"`; do
+                    rm -f "./$name/$size/$dir/$icon"
+                    if [[ ! -e "./src/$size/$dir/$icon" ]]; then
                         if [[ ! -h "./src/$source/$dir/$icon" ]]; then
+                            echo "$source $size/$dir/$icon" >> log.txt
                             rsvg-convert "./src/$source/$dir/$icon" -a -h "$size" -f svg -o "./$name/$size/$dir/$icon"
                             sed -i "s/\"${size}pt\"/\"${size}px\"/g" "./$name/$size/$dir/$icon"
                             svgcleaner-cli "./$name/$size/$dir/$icon" "./$name/$size/$dir/$icon" --keep-singly-grads --keep-absolute-paths --join-style-atts --keep-basic-shapes
                         else
                             cp -rf "./src/$source/$dir/$icon" "./$name/$size/$dir/$icon"
                         fi
-                    done
+                    else
+                        cp -rf "./src/$size/$dir/$icon" "./$name/$size/$dir/$icon"
+                    fi
                 done
-            fi
+            done
         fi
     done
 done
