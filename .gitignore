@@ -1,5 +1,4 @@
-# Backup files
 *~
-
-# Generated icons
-Numix
+*.bak
+*.orig
+*.cache
