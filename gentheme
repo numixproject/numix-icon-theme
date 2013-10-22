@@ -18,6 +18,8 @@
 
 name="Numix"
 comment="Official icon theme from the Numix project"
+base="48"
+sizes=( 16 22 24 32 48 64 128 256 scalable )
 
 cleanup() {
 # Cleanup stuff
@@ -28,38 +30,27 @@ genicons() {
 SAVEIFS="$IFS"
 IFS="
 "
-mkdir -p "./$name"
 for source in `find "./src" -maxdepth 1 ! -path "./src" -type d | sed -r "s/^.+\///"`; do
-    # We don't convert the scalable icons to PNG
-    if [[ "$source" == "scalable" ]]; then
-        cp -r "./src/scalable" "./$name/scalable"
-        continue
-    fi
-    for dir in `find "./src/$source" -maxdepth 1 ! -path "./src/$source" -type d | sed -r "s/^.+\///"`; do
-        sizes=( 16 22 24 32 48 64 128 256 )
-        # Exclude certain directories
-        for exdir in `find "./src/16" -maxdepth 1 ! -path "./src/16" -type d | sed -r "s/^.+\///"`; do
-            if [[ "$dir" == "$exdir" ]]; then
-                if [[ "$source" == "16" ]]; then
-                    sizes=( 16 )
-                else
-                    sizes=( 22 24 32 48 64 128 256 )
-                fi
+    for size in "${sizes[@]}"; do
+        if [[ -d "./src/$size" ]]; then
+            cp -rf "./src/$size" "./$name/$size"
+        else
+            if [[ "$source" == "$base" ]]; then
+                for dir in `find "./src/$source" -maxdepth 1 ! -path "./src/$source" -type d | sed -r "s/^.+\///"`; do
+                    mkdir -p "./$name/$size/$dir"
+                    for icon in `find "./src/$source/$dir" -maxdepth 1 -name "*.svg" | sed -r "s/^.+\///"`; do
+                        rm -f "./$name/$size/$dir/$icon"
+                        if [[ ! -h "./src/$source/$dir/$icon" ]]; then
+                            rsvg-convert "./src/$source/$dir/$icon" -a -h "$size" -f svg -o "./$name/$size/$dir/$icon"
+                            sed -i "s/\"${size}pt\"/\"${size}px\"/g" "./$name/$size/$dir/$icon"
+                            svgcleaner-cli "./$name/$size/$dir/$icon" "./$name/$size/$dir/$icon" --keep-singly-grads --keep-absolute-paths --join-style-atts --keep-basic-shapes
+                        else
+                            cp -rf "./src/$source/$dir/$icon" "./$name/$size/$dir/$icon"
+                        fi
+                    done
+                done
             fi
-        done
-        for size in "${sizes[@]}"; do
-            mkdir -p "./$name/$size/$dir"
-            for icon in `find "./src/$source/$dir" -maxdepth 1 -name "*.svg" | sed -r "s/^.+\///"`; do
-                if [[ ! -h "./src/$source/$dir/$icon" ]]; then
-                    # Convert SVG to PNG
-                    rm -f "./$name/$size/$dir/${icon/.svg/}.png"
-                    rsvg-convert -a -h "$size" "./src/$source/$dir/$icon" -o "./$name/$size/$dir/${icon/.svg/}.png"
-                else
-                    # Create symlinks
-                    symlink=$(readlink "./src/$source/$dir/$icon") && ln -sf "${symlink/.svg/}.png" "./$name/$size/$dir/${icon/.svg/}.png"
-                fi
-            done
-        done
+        fi
     done
 done
 IFS="$SAVEIFS"
