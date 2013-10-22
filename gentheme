@@ -19,7 +19,7 @@
 name="Numix"
 comment="Official icon theme from the Numix project"
 base="48"
-sizes=( 16 22 24 32 48 64 128 256 scalable )
+sizes=( 16 22 24 32 48 64 128 256 )
 
 cleanup() {
 # Cleanup stuff
@@ -32,22 +32,29 @@ IFS="
 "
 for size in "${sizes[@]}"; do
     for source in `find "./src" -maxdepth 1 ! -path "./src" -type d | sed -r "s/^.+\///"`; do
-        if [[ "$source" == "$base" ]]; then
+        if [[ "$source" == "scalable" ]]; then
+            # Treat the scalable directory differently
+            cp -rf "./src/$source" "./$name/$source"            
+        elif [[ "$source" == "$base" ]]; then
             for dir in `find "./src/$source" -maxdepth 1 ! -path "./src/$source" -type d | sed -r "s/^.+\///"`; do
+                # Make the required directory
                 mkdir -p "./$name/$size/$dir"
                 for icon in `find "./src/$source/$dir" -maxdepth 1 -name "*.svg" | sed -r "s/^.+\///"`; do
+                    # Delete the target icon file first, if exists
                     rm -f "./$name/$size/$dir/$icon"
                     if [[ ! -e "./src/$size/$dir/$icon" ]]; then
                         if [[ ! -h "./src/$source/$dir/$icon" ]]; then
-                            echo "$source $size/$dir/$icon" >> log.txt
+                            # Scale the SVG icon
                             rsvg-convert "./src/$source/$dir/$icon" -a -h "$size" -f svg -o "./$name/$size/$dir/$icon"
+                            # Use px instead of pt
                             sed -i "s/\"${size}pt\"/\"${size}px\"/g" "./$name/$size/$dir/$icon"
+                            # Optimize SVG
                             svgcleaner-cli "./$name/$size/$dir/$icon" "./$name/$size/$dir/$icon" --keep-singly-grads --keep-absolute-paths --join-style-atts --keep-basic-shapes
                         else
-                            cp -rf "./src/$source/$dir/$icon" "./$name/$size/$dir/$icon"
+                            cp -rdf "./src/$source/$dir/$icon" "./$name/$size/$dir/$icon"
                         fi
                     else
-                        cp -rf "./src/$size/$dir/$icon" "./$name/$size/$dir/$icon"
+                        cp -rdf "./src/$size/$dir/$icon" "./$name/$size/$dir/$icon"
                     fi
                 done
             done
