@@ -1,0 +1,25 @@
+<svg width="16" xmlns="http://www.w3.org/2000/svg" height="16" viewBox="0 0 16 16" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<linearGradient gradientTransform="matrix(.21113 0 0 .21847 3.43252 -219.12448)" id="linear3" y1="1015.994" y2="1041.86" gradientUnits="userSpaceOnUse" x2="0">
+<stop offset="0" style="stop-color:#fff"/>
+<stop offset="1" style="stop-color:#fff;stop-opacity:0"/>
+</linearGradient>
+<linearGradient gradientTransform="matrix(.21113 0 0 -.21847 3.433 235.54133)" id="linear2" y1="1015.994" y2="1041.86" gradientUnits="userSpaceOnUse" x2="0">
+<stop offset="0" style="stop-color:#fff"/>
+<stop offset="1" style="stop-color:#fff;stop-opacity:0"/>
+</linearGradient>
+<linearGradient gradientTransform="matrix(.30816 0 0 .33333 1.20833 -334.7874)" id="linear0" y1="1053.158" y2="1004.847" gradientUnits="userSpaceOnUse" x2="0">
+<stop offset="0" style="stop-color:#000"/>
+<stop offset="1" style="stop-color:#6c6c6c"/>
+</linearGradient>
+<linearGradient gradientTransform="matrix(.03134 0 0 .33333 0 -334.7874)" id="linear1" y1="1058.292" y2="988.181" gradientUnits="userSpaceOnUse" x2="0">
+<stop offset="0" style="stop-color:#000"/>
+<stop offset="1" style="stop-color:#6c6c6c"/>
+</linearGradient>
+</defs>
+<path style="fill:url(#linear0)" d="M 1.480469 0 L 15.351562 0 C 15.710938 0 16 0.289062 16 0.648438 L 16 15.351562 C 16 15.710938 15.710938 16 15.351562 16 L 1.503906 16 C 1.144531 16 1.207031 15.710938 1.207031 15.351562 L 1.207031 0.648438 C 1.207031 0.289062 1.121094 0 1.480469 0 Z "/>
+<path style="fill:url(#linear1)" d="M 0.753906 0 C 1.484375 0 1.503906 -0.0625 1.503906 0.355469 L 1.503906 15.71875 C 1.503906 16.136719 1.476562 16 0.753906 16 C 0.335938 16 0 15.664062 0 15.246094 L 0 0.753906 C 0 0.335938 0.335938 0 0.753906 0 Z "/>
+<path style="fill:#fff;fill-opacity:.149" d="M 0 0 L 0 16 L 5.59375 16 L 9.875 0 Z "/>
+<path style="fill:url(#linear2)" d="M 6.613281 10.597656 L 7.6875 10.597656 L 7.6875 8.207031 L 9.226562 8.207031 L 9.226562 10.597656 L 10.390625 10.597656 L 8.472656 13.539062 Z "/>
+<path style="fill:url(#linear3)" d="M 6.609375 5.820312 L 7.6875 5.820312 L 7.6875 8.210938 L 9.226562 8.210938 L 9.226562 5.820312 L 10.386719 5.820312 L 8.472656 2.875 Z "/>
+</svg>

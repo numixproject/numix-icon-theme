@@ -1,0 +1,19 @@
+<svg width="16" xmlns="http://www.w3.org/2000/svg" height="16" viewBox="0 0 16 16" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<radialGradient cx="24" cy="24" gradientTransform="matrix(.51111 .17778 -.20363 .58543 .62043 -10.31708)" id="radial0" r="15" gradientUnits="userSpaceOnUse">
+<stop offset="0" style="stop-color:#e4e5e2"/>
+<stop offset=".5" style="stop-color:#d6d9d2"/>
+<stop offset="1" style="stop-color:#b7beb1"/>
+</radialGradient>
+<radialGradient cx="24" cy="15.499" gradientTransform="matrix(.33333 0 0 .16664 0 2.5835)" id="radial1" r="15" gradientUnits="userSpaceOnUse">
+<stop offset="0" style="stop-color:#d15338"/>
+<stop offset="1" style="stop-color:#a63b00"/>
+</radialGradient>
+</defs>
+<path style="fill:url(#radial0)" d="M 3.449219 5.125 C 3.207031 5.152344 3 5.378906 3 5.625 L 3 14.167969 C 3 14.429688 3.238281 14.667969 3.503906 14.667969 L 12.496094 14.667969 C 12.761719 14.667969 13 14.429688 13 14.167969 L 13 5.675781 C 13 5.675781 13 5.125 12.511719 5.125 L 3.503906 5.125 C 3.484375 5.125 3.46875 5.125 3.449219 5.125 Z "/>
+<path style="fill:url(#radial1)" d="M 4 4.332031 C 3 4.332031 3 5.332031 3 5.332031 L 3 6.667969 L 13 6.667969 L 13 5.332031 C 13 5.332031 13 4.332031 12 4.332031 L 4.332031 4.332031 C 4.316406 4.332031 4.886719 4.332031 4 4.332031 Z "/>
+<g style="fill:#545653">
+<path d="M 5 9.332031 L 5.667969 9.332031 L 5.667969 9 L 7 9 L 7 10 L 5 10 L 5 12.332031 L 7.667969 12.332031 L 7.667969 11.667969 L 5.667969 11.667969 L 5.667969 10.667969 L 7.667969 10.667969 L 7.667969 8.332031 L 5 8.332031 Z "/>
+<path d="M 8.332031 8.332031 L 8.332031 10 L 8.667969 10.332031 L 8.332031 10.667969 L 8.332031 12.332031 L 11 12.332031 L 11 10.667969 L 10.667969 10.332031 L 11 10 L 11 8.332031 Z M 9 9 L 10.332031 9 L 10.332031 10 L 9 10 Z M 9 10.667969 L 10.332031 10.667969 L 10.332031 11.667969 L 9 11.667969 Z "/>
+</g>
+</svg>

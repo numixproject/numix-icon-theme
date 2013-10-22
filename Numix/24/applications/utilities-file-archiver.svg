@@ -1,0 +1,21 @@
+<svg width="24" xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 0 24 24" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<linearGradient gradientTransform="matrix(.5 0 0 .5 0 -502.1811)" id="linear0" y1="1053.158" y2="1004.847" gradientUnits="userSpaceOnUse" x2="0">
+<stop offset="0" style="stop-color:#000"/>
+<stop offset="1" style="stop-color:#5a5d60"/>
+</linearGradient>
+</defs>
+<path style="fill:url(#linear0)" d="M 0.972656 0 L 23.027344 0 C 23.566406 0 24 0.433594 24 0.972656 L 24 23.027344 C 24 23.566406 23.566406 24 23.027344 24 L 0.972656 24 C 0.433594 24 0 23.566406 0 23.027344 L 0 0.972656 C 0 0.433594 0.433594 0 0.972656 0 Z "/>
+<path style="fill:#fff;fill-opacity:.149" d="M 0 0 L 0 24 L 8.390625 24 L 14.8125 0 Z "/>
+<path style="fill:none;stroke:#fff;stroke-linejoin:round;stroke-width:2" d="M 9.023438 1017.377825 L 9.023438 1039.346575 L 39.0625 1039.346575 L 39.0625 1019.409075 L 25.992188 1019.409075 L 25.992188 1017.377825 Z " transform="matrix(.5 0 0 .5 0 -502.1811)"/>
+<g style="fill:#fff">
+<path d="M 6 7.003906 C 6 8.203125 6 8 6 8 L 7 8 L 7 7 Z "/>
+<path d="M 7 8 L 7 9 L 8 9 L 8 8 Z "/>
+<path d="M 6 9 L 6 10 L 7 10 L 7 9 Z "/>
+<path d="M 7 10 L 7 11 L 8 11 L 8 10 Z "/>
+<path d="M 6 11 L 6 12 L 7 12 L 7 11 Z "/>
+<path d="M 7 12 L 7 13 L 8 13 L 8 12 Z "/>
+<path d="M 6 13 L 6 14 L 7 14 L 7 13 Z "/>
+<path d="M 7 14 L 7 15 L 8 15 L 8 14 Z "/>
+</g>
+</svg>

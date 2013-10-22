@@ -1,0 +1,14 @@
+<svg width="128" xmlns="http://www.w3.org/2000/svg" height="128" viewBox="0 0 128 128" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<linearGradient gradientTransform="matrix(2.66667 0 0 2.66667 0 -2678.2992)" id="linear0" y1="1053.158" y2="1004.847" gradientUnits="userSpaceOnUse" x2="0">
+<stop offset="0" style="stop-color:#3f3f3f"/>
+<stop offset="1" style="stop-color:#535353"/>
+</linearGradient>
+</defs>
+<path style="fill:url(#linear0)" d="M 5.1875 0 L 122.8125 0 C 125.679688 0 128 2.320312 128 5.1875 L 128 122.8125 C 128 125.675781 125.679688 128 122.8125 128 L 5.1875 128 C 2.320312 128 0 125.675781 0 122.8125 L 0 5.1875 C 0 2.320312 2.320312 0 5.1875 0 Z "/>
+<g style="stroke-linecap:round;stroke-linejoin:round;stroke:#fff;fill:none">
+<path style="stroke-width:2" d="M 9.200684 1030.47597 L 21.88623 1043.161516 L 38.799316 1026.24843 L 38.799316 1013.562884 L 26.11377 1013.562884 Z " transform="matrix(2.66667 0 0 2.66667 0 -2678.2992)"/>
+<path style="stroke-width:2.5" d="M 38.000244 12.499146 C 38.000244 13.881592 36.88147 15.000366 35.500854 15.000366 C 34.118408 15.000366 32.999634 13.881592 32.999634 12.499146 C 32.999634 11.11853 34.118408 9.999756 35.500854 9.999756 C 36.88147 9.999756 38.000244 11.11853 38.000244 12.499146 Z " transform="matrix(2.13333 0 0 2.13333 12.8 12.8)"/>
+</g>
+<path style="fill:#fff;fill-opacity:.149" d="M 5.332031 0 C 2.378906 0 0 2.378906 0 5.332031 L 0 122.667969 C 0 125.621094 2.378906 128 5.332031 128 L 44.75 128 L 79 0 Z "/>
+</svg>

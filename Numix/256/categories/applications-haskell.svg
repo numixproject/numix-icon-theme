@@ -1,0 +1,30 @@
+<svg width="256" xmlns="http://www.w3.org/2000/svg" height="256" viewBox="0 0 256 256" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<clipPath id="clip4">
+<path d="M 148 97 L 225.625 97 L 225.625 121 L 148 121 Z "/>
+</clipPath>
+<clipPath id="clip3">
+<path d="M 171 132 L 225.625 132 L 225.625 156 L 171 156 Z "/>
+</clipPath>
+<clipPath id="clip1">
+<path d="M 27.707031 56.824219 L 110 56.824219 L 110 196.511719 L 27.707031 196.511719 Z "/>
+</clipPath>
+<clipPath id="clip2">
+<path d="M 74 56.824219 L 203 56.824219 L 203 196.511719 L 74 196.511719 Z "/>
+</clipPath>
+</defs>
+<g style="clip-rule:nonzero">
+<g style="clip-path:url(#clip1)">
+<path style="fill:#4eb09d" d="M 27.707031 196.511719 L 74.269531 126.667969 L 27.707031 56.824219 L 62.628906 56.824219 L 109.191406 126.667969 L 62.628906 196.511719 Z "/>
+</g>
+<g style="clip-path:url(#clip2)">
+<path style="fill:#4eb09d" d="M 74.269531 196.511719 L 120.832031 126.667969 L 74.269531 56.824219 L 109.191406 56.824219 L 202.34375 196.511719 L 167.421875 196.511719 L 138.308594 152.863281 L 109.191406 196.511719 Z "/>
+</g>
+<g style="clip-path:url(#clip3)">
+<path style="fill:#4eb09d" d="M 186.824219 155.78125 L 171.300781 132.5 L 225.625 132.472656 L 225.625 155.78125 Z "/>
+</g>
+<g style="clip-path:url(#clip4)">
+<path style="fill:#4eb09d" d="M 163.542969 120.832031 L 148.019531 97.550781 L 225.625 97.550781 L 225.625 120.832031 Z "/>
+</g>
+</g>
+</svg>

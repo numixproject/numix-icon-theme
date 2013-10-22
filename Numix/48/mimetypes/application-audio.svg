@@ -1,0 +1,21 @@
+<svg width="48" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" height="48" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<linearGradient id="linearGradient3649">
+<stop offset="0" style="stop-color:#c9c9c9"/>
+<stop offset="1" style="stop-color:#f0f0f0"/>
+</linearGradient>
+<linearGradient id="linearGradient3636">
+<stop offset="0" style="stop-color:#af3472"/>
+<stop offset=".5" style="stop-color:#912b60"/>
+<stop offset="1" style="stop-color:#6d2048"/>
+</linearGradient>
+<linearGradient gradientTransform="matrix(.34483 0 0 .34483 1.93064 -100.48358)" xlink:href="#linearGradient3636" id="linearGradient2876" y1="413" y2="419" gradientUnits="userSpaceOnUse" x2="0"/>
+<linearGradient gradientTransform="matrix(.49809 0 0 .49809 -14.92772 1.01138)" xlink:href="#linearGradient3649" id="linearGradient2880" y1="14" y2="24" x1="102" gradientUnits="userSpaceOnUse" x2="92"/>
+</defs>
+<path style="fill:#e6e6e6" d="m 8.1375785,44.000191 25.5174195,0 c 6.20694,0 6.20694,-6.20694 6.20694,-6.20694 l 0,-24.82776 c 0,0 -8.96558,-8.9655803 -8.96558,-8.9655803 l -16.55184,0 c 0,0 -6.2069395,0 -6.2069395,6.2069403 l 0,33.79334 z"/>
+<path style="fill:url(#linearGradient2880)" d="m 30.896358,3.9999107 0,8.9655803 8.96558,0 -8.96558,-8.9655803 z"/>
+<path style="fill:url(#linearGradient2876)" d="m 8.1375785,44.000191 25.5174195,0 c 6.20694,0 6.20694,-6.20694 6.20694,-6.20694 0,0 0,-5.51728 0,-5.51728 0,0 0,9.65524 -6.20694,9.65524 l -19.31048,0 c 0,0 -6.2069395,0 -6.2069395,2.06898 z"/>
+<g style="fill:#af3472" transform="matrix(1.25 0 0 1.25 14 -1281.4531)">
+<path d="m 9.2022843,1036.5424 c -1.1648291,0.2929 -2.1430427,1.3626 -2.1430427,1.3626 l 0.029831,0.034 1.8658283,6.9321 c -1.3341199,-0.7236 -3.2394269,-0.5419 -4.8167636,0.5981 -2.0377369,1.473 -2.7469842,3.9837 -1.566995,5.6008 1.1800836,1.6174 3.7833323,1.7312 5.8210647,0.2582 1.6063259,-1.161 2.500751,-2.991 2.177773,-4.4941 -0.01001,-0.047 -0.02452,-0.091 -0.03688,-0.137 l -1.7905338,-6.9305 c 0.041606,-0.061 0.5641537,-0.3008 2.2556898,-0.4161 1.790111,-0.1206 3.001746,-2.9883 3.001746,-2.9883 0,0 -2.012721,0.7708 -3.597226,0.2122 -0.396122,-0.1396 -0.8132901,-0.1327 -1.2011851,-0.034 z"/>
+</g>
+</svg>

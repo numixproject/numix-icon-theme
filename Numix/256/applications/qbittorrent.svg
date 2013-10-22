@@ -1,0 +1,16 @@
+<svg width="256" xmlns="http://www.w3.org/2000/svg" height="256" viewBox="0 0 256 256" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<linearGradient gradientTransform="matrix(5.33333 0 0 -5.33333 0 5612.5984)" id="linear0" y1="1053.158" y2="1004.847" gradientUnits="userSpaceOnUse" x2="0">
+<stop offset="0" style="stop-color:#73bef2"/>
+<stop offset="1" style="stop-color:#1381cf"/>
+</linearGradient>
+</defs>
+<path style="fill:url(#linear0)" d="M 10.375 256 L 245.625 256 C 251.355469 256 256 251.355469 256 245.625 L 256 10.371094 C 256 4.644531 251.355469 0 245.625 0 L 10.375 0 C 4.644531 0 0 4.644531 0 10.371094 L 0 245.625 C 0 251.355469 4.644531 256 10.375 256 Z "/>
+<g style="fill:#fff">
+<g>
+<use x="47.312" y="163.846"/>
+<use x="128.562" y="163.846"/>
+</g>
+<path style="fill-opacity:.149" d="M 0 0 L 0 256 L 89.5 256 L 158 0 Z "/>
+</g>
+</svg>
