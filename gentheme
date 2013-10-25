@@ -30,6 +30,7 @@ genicons() {
 SAVEIFS="$IFS"
 IFS="
 "
+mkdir -p "./$name"
 for size in "${sizes[@]}"; do
     for source in `find "./src" -maxdepth 1 ! -path "./src" -type d | sed -r "s/^.+\///"`; do
         if [[ "$source" == "scalable" ]]; then
