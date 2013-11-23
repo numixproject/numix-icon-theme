@@ -1,21 +1,16 @@
 [Icon Theme]
-Name=Numix
-Comment=Official icon theme from the Numix project
+Name=numix-base
+Comment=The basic Numix icon theme
 
 Inherits=gnome,hicolor
 
 Example=directory-x-normal
 
 # Directory list
-Directories=48/places,48/applications,48/actions,48/categories,48/emblems,48/devices,48/mimetypes,48/status,48/animations,128/places,128/applications,128/actions,128/categories,128/emblems,128/devices,128/mimetypes,128/status,128/animations,256/places,256/applications,256/actions,256/categories,256/emblems,256/devices,256/mimetypes,256/status,256/animations,22/places,22/applications,22/actions,22/categories,22/emblems,22/devices,22/mimetypes,22/status,22/animations,24/places,24/applications,24/actions,24/categories,24/emblems,24/devices,24/mimetypes,24/status,24/animations,16/places,16/applications,16/actions,16/categories,16/emblems,16/devices,16/mimetypes,16/status,16/animations,64/places,64/applications,64/actions,64/categories,64/emblems,64/devices,64/mimetypes,64/status,64/animations,32/places,32/applications,32/actions,32/categories,32/emblems,32/devices,32/mimetypes,32/status,32/animations,scalable/places,scalable/applications,scalable/actions,scalable/categories,scalable/emblems,scalable/devices,scalable/mimetypes,scalable/status,scalable/scalable,
+Directories=48/places,48/actions,48/categories,48/emblems,48/devices,48/mimetypes,48/status,48/animations,128/places,48/stock,128/actions,128/categories,128/emblems,128/devices,128/mimetypes,128/status,128/animations,256/places,256/actions,256/categories,256/emblems,256/devices,256/mimetypes,256/status,256/animations,22/places,22/actions,22/categories,22/emblems,22/devices,22/mimetypes,22/status,22/animations,22/stock,24/places,24/actions,24/categories,24/emblems,24/devices,24/mimetypes,24/status,24/animations,24/stock,16/places,16/actions,16/categories,16/emblems,16/devices,16/mimetypes,16/status,16/animations,16/stock64/places,64/actions,64/categories,64/emblems,64/devices,64/mimetypes,64/status,64/animations,32/places,32/actions,32/categories,32/emblems,32/devices,32/mimetypes,32/status,32/animations,32/stock,scalable/places,scalable/applications,scalable/actions,scalable/categories,scalable/emblems,scalable/devices,scalable/mimetypes,scalable/status,scalable/scalable
 
 [48/places]
 Context=Places
-Size=48
-Type=fixed
-
-[48/applications]
-Context=Applications
 Size=48
 Type=fixed
 
@@ -54,13 +49,13 @@ Context=Animations
 Size=48
 Type=fixed
 
+[48/stock]
+Size=48
+Context=Stock
+Type=Scalable
+
 [128/places]
 Context=Places
-Size=128
-Type=fixed
-
-[128/applications]
-Context=Applications
 Size=128
 Type=fixed
 
@@ -104,11 +99,6 @@ Context=Places
 Size=256
 Type=fixed
 
-[256/applications]
-Context=Applications
-Size=256
-Type=fixed
-
 [256/actions]
 Context=Actions
 Size=256
@@ -149,11 +139,6 @@ Context=Places
 Size=22
 Type=fixed
 
-[22/applications]
-Context=Applications
-Size=22
-Type=fixed
-
 [22/actions]
 Context=Actions
 Size=22
@@ -189,13 +174,13 @@ Context=Animations
 Size=22
 Type=fixed
 
+[22/stock]
+Size=22
+Context=Stock
+Type=Scalable
+
 [24/places]
 Context=Places
-Size=24
-Type=fixed
-
-[24/applications]
-Context=Applications
 Size=24
 Type=fixed
 
@@ -234,13 +219,13 @@ Context=Animations
 Size=24
 Type=fixed
 
+[24/stock]
+Size=24
+Context=Stock
+Type=Scalable
+
 [16/places]
 Context=Places
-Size=16
-Type=fixed
-
-[16/applications]
-Context=Applications
 Size=16
 Type=fixed
 
@@ -279,13 +264,13 @@ Context=Animations
 Size=16
 Type=fixed
 
+[16/stock]
+Size=16
+Context=Stock
+Type=Scalable
+
 [64/places]
 Context=Places
-Size=64
-Type=fixed
-
-[64/applications]
-Context=Applications
 Size=64
 Type=fixed
 
@@ -329,11 +314,6 @@ Context=Places
 Size=32
 Type=fixed
 
-[32/applications]
-Context=Applications
-Size=32
-Type=fixed
-
 [32/actions]
 Context=Actions
 Size=32
@@ -368,6 +348,11 @@ Type=fixed
 Context=Animations
 Size=32
 Type=fixed
+
+[32/stock]
+Size=32
+Context=Stock
+Type=Scalable
 
 [scalable/places]
 Context=Places

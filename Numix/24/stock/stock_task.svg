@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<filter width="1.134" x="-.067" y="-.57" height="2.14" style="color-interpolation-filters:sRGB" id="filter9723">
+<feGaussianBlur stdDeviation=".475"/>
+</filter>
+<linearGradient id="linearGradient4814" y1="169.16" y2="171.16" gradientUnits="userSpaceOnUse" x2="0">
+<stop offset="0" style="stop-color:#d3d7cf"/>
+<stop offset="1" style="stop-color:#eeeeec"/>
+</linearGradient>
+<linearGradient id="linearGradient4816" y1="171.28" y2="167.34" gradientUnits="userSpaceOnUse" x2="0">
+<stop offset="0" style="stop-color:#555753"/>
+<stop offset=".668" style="stop-color:#d3d7cf"/>
+<stop offset="1" style="stop-color:#888a85"/>
+</linearGradient>
+<linearGradient gradientTransform="matrix(1.1333 0 0 1 -343.8 -156)" id="linearGradient9308" y1="182.12" y2="174.09" x1="311.06" gradientUnits="userSpaceOnUse" x2="309.81">
+<stop offset="0" style="stop-color:#fff"/>
+<stop offset="1" style="stop-color:#eeeeec"/>
+</linearGradient>
+<linearGradient gradientTransform="matrix(1.125 0 0 1.0556 -341.19 -167.42)" id="linearGradient9318" y1="181.62" y2="186.19" x1="305" gradientUnits="userSpaceOnUse" x2="321.2">
+<stop offset="0" style="stop-color:#d3d7cf"/>
+<stop offset="1" style="stop-color:#eeeeec"/>
+</linearGradient>
+<linearGradient gradientTransform="matrix(1.125 0 0 1.0556 -340.06 -167.42)" id="linearGradient9734" y1="169" y2="185.24" x1="318.06" gradientUnits="userSpaceOnUse" x2="321">
+<stop offset="0" style="stop-color:#babdb6"/>
+<stop offset="1" style="stop-color:#555753"/>
+</linearGradient>
+</defs>
+<g transform="translate(0 -8)">
+<path style="filter:url(#filter9723)" d="m304.98 183.69h15.041l0.98 4.31h-17l0.97963-4.3057z" transform="matrix(1.1575 0 0 .86742 -350.23 -131.9)"/>
+<rect width="18" x="2.5" y="11.5" rx=".844" ry=".792" height="19" style="fill:url(#linearGradient9318);stroke:url(#linearGradient9734)"/>
+<rect width="17" x="3" y="13" rx="0" height="15" style="fill:url(#linearGradient9308)"/>
+</g>
+<g style="fill:#888a85;enable-background:new" transform="translate(-351 -166)">
+<rect width="1" x="356" y="176" rx="0" height="1" style="opacity:.48"/>
+<rect width="10" x="359" y="176" rx="0" height="1" style="opacity:.48"/>
+<rect width="1" x="356" y="178" rx="0" height="1" style="opacity:.48"/>
+<rect width="1" x="356" y="180" rx="0" height="1" style="opacity:.48"/>
+<rect width="6" x="359" y="180" rx="0" height="1" style="opacity:.48"/>
+<rect width="1" x="356" y="182" rx="0" height="1" style="opacity:.48"/>
+<rect width="10" x="359" y="182" rx="0" height="1" style="opacity:.48"/>
+<rect width="1" x="356" y="184" rx="0" height="1" style="opacity:.48"/>
+<rect width="9" x="359" y="178" rx="0" height="1" style="opacity:.48"/>
+<rect width="1" x="356" y="174" rx="0" height="1" style="opacity:.48"/>
+<rect width="10" x="359" y="174" rx="0" height="1" style="opacity:.48"/>
+<rect width="10" x="359" y="184" rx="0" height="1" style="opacity:.48"/>
+</g>
+<g transform="translate(0 -8)">
+<rect width="19" x="2" y="30" rx="0" height="1" style="fill:#2e3436"/>
+<rect width="16" x="3.5" y="12.5" rx="0" height="17" style="opacity:.5;fill:none;stroke:#fff"/>
+<path style="opacity:.1" d="m5.5 12c-0.828 0-1.5 0.67199-1.5 1.5 0 0.828 0.67201 1.5 1.5 1.5 0.38234 0 0.73499-0.13923 1-0.375 0.0104 0.009 0.0206 0.0223 0.0312 0.0312 0.11343 0.0951 0.23673 0.16023 0.375 0.21875 0.0624 0.0271 0.12108 0.0439 0.1875 0.0625 0.0317 0.009 0.0612 0.0246 0.0937 0.0312 0.0106 0.002 0.0206-0.002 0.0312 0 0.0886 0.0163 0.188 0.0312 0.28125 0.0312 0.38234 0 0.73499-0.13923 1-0.375 0.1325 0.11789 0.29967 0.21697 0.46875 0.28125 0.16908 0.0643 0.34008 0.0937 0.53125 0.0937 0.38234 0 0.73499-0.13923 1-0.375 0.1325 0.11789 0.29967 0.21697 0.46875 0.28125 0.16908 0.0643 0.34008 0.0937 0.53125 0.0937 0.38234 0 0.73499-0.13923 1-0.375 0.1325 0.11789 0.29967 0.21697 0.46875 0.28125 0.16908 0.0643 0.34008 0.0937 0.53125 0.0937 0.38234 0 0.73499-0.13923 1-0.375 0.1325 0.11789 0.29967 0.21697 0.46875 0.28125 0.16908 0.0643 0.34008 0.0937 0.53125 0.0937 0.1035 0 0.21488-0.0113 0.3125-0.0312 0.0345-0.007 0.0601-0.0218 0.0937-0.0312 0.0539-0.0148 0.10491-0.042 0.15625-0.0625 0.008-0.003 0.0231 0.004 0.0312 0 0.13827-0.0585 0.26157-0.12362 0.375-0.21875 0.0113-0.009 0.0203-0.0215 0.0312-0.0312 0.26501 0.23577 0.61766 0.375 1 0.375 0.828 0 1.5-0.67201 1.5-1.5 0-0.828-0.672-1.5-1.5-1.5-0.38234 0-0.73499 0.13923-1 0.375-0.011-0.01-0.02-0.0218-0.0312-0.0312-0.11343-0.0951-0.23673-0.16023-0.375-0.21875-0.0598-0.0253-0.12403-0.045-0.1875-0.0625-0.132-0.037-0.263-0.063-0.406-0.063-0.0956 0-0.19028 0.0145-0.28125 0.0312-0.091 0.0167-0.16546 0.0304-0.25 0.0625-0.16908 0.0643-0.33625 0.16336-0.46875 0.28125-0.26501-0.23577-0.61766-0.375-1-0.375-0.0956 0-0.19028 0.0145-0.28125 0.0312-0.091 0.0167-0.16546 0.0304-0.25 0.0625-0.16908 0.0643-0.33625 0.16336-0.46875 0.28125-0.26501-0.23577-0.61766-0.375-1-0.375-0.0956 0-0.19028 0.0145-0.28125 0.0312-0.091 0.0167-0.16546 0.0304-0.25 0.0625-0.16908 0.0643-0.33625 0.16336-0.46875 0.28125-0.26501-0.23577-0.61766-0.375-1-0.375-0.0956 0-0.19028 0.0145-0.28125 0.0312-0.091 0.0167-0.16546 0.0304-0.25 0.0625-0.16908 0.0643-0.33625 0.16336-0.46875 0.28125-0.26501-0.23577-0.61766-0.375-1-0.375-0.138 0-0.27931 0.0276-0.40625 0.0625-0.0664 0.0186-0.12514 0.0354-0.1875 0.0625-0.13827 0.0585-0.26157 0.12362-0.375 0.21875-0.0107 0.009-0.0209 0.022-0.0312 0.0312-0.26501-0.23577-0.61766-0.375-1-0.375z"/>
+<g style="enable-background:new" id="g9344" transform="translate(-303 -158)">
+<rect width="2" x="307.5" y="167.5" rx="1" height="4" style="fill:url(#linearGradient4814);stroke:url(#linearGradient4816);stroke-linejoin:round"/>
+<rect width="1.344" x="307.5" y="167.69" rx=".672" height="1.344" style="fill:#fff"/>
+</g>
+<use width="400" height="300" xlink:href="#g9344" transform="translate(2)"/>
+<use width="400" height="300" xlink:href="#g9344" transform="translate(4)"/>
+<use width="400" height="300" xlink:href="#g9344" transform="translate(6)"/>
+<use width="400" height="300" xlink:href="#g9344" transform="translate(8)"/>
+<use width="400" height="300" xlink:href="#g9344" transform="translate(10)"/>
+<use width="400" height="300" xlink:href="#g9344" transform="translate(12)"/>
+</g>
+</svg>
