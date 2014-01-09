@@ -1,11 +1,9 @@
 <svg width="32" xmlns="http://www.w3.org/2000/svg" height="32" viewBox="0 0 32 32" xmlns:xlink="http://www.w3.org/1999/xlink">
-<g style="fill:#aaa">
-<path d="M 6.902344 2.667969 C 6.410156 2.71875 5.996094 3.175781 6 3.667969 L 6 28.332031 C 6 28.855469 6.480469 29.332031 7.007812 29.332031 L 24.992188 29.332031 C 25.519531 29.332031 26 28.855469 26 28.332031 L 26 5.347656 C 25.332031 4.667969 22.636719 3.332031 22 2.667969 L 7.007812 2.667969 C 6.972656 2.667969 6.9375 2.667969 6.902344 2.667969 Z M 8.011719 4.667969 L 20 4.667969 L 20 7.332031 L 24 7.332031 L 23.988281 27.332031 L 8.011719 27.332031 Z "/>
-<g style="stroke:#aaa;stroke-linecap:round;stroke-width:2">
-<path d="M 15 34.998047 L 15 37.998047 L 18 37.998047 " transform="scale(.66667)"/>
-<path d="M 33 34.998047 L 33 37.998047 L 30 37.998047 " transform="scale(.66667)"/>
-<path d="M 30 13.998047 L 33 13.998047 L 33 16.998047 " transform="scale(.66667)"/>
-<path d="M 15 16.998047 L 15 13.998047 L 18 13.998047 " transform="scale(.66667)"/>
-</g>
+<path style="fill:#ffffff;fill-rule:evenodd" d="M 6 0 L 26 0 C 30 0 30 0 30 3.554688 L 30 28.445312 C 30 32 30 32 26 32 L 6 32 C 2 32 2 32 2 28.445312 L 2 3.554688 C 2 0 2 0 6 0 Z "/>
+<g style="fill:#aaa;stroke:#aaa;stroke-linecap:round;stroke-width:2">
+<path d="M 15 35 L 15 38 L 18 38 " transform="translate(-8 -10)"/>
+<path d="M 33 35 L 33 38 L 30 38 " transform="translate(-8 -10)"/>
+<path d="M 30 14 L 33 14 L 33 17 " transform="translate(-8 -10)"/>
+<path d="M 15 17 L 15 14 L 18 14 " transform="translate(-8 -10)"/>
 </g>
 </svg>

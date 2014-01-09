@@ -1,1 +1,9 @@
-gtk-justify-center.svg
+<svg width="128" xmlns="http://www.w3.org/2000/svg" height="128" viewBox="0 0 128 128" xmlns:xlink="http://www.w3.org/1999/xlink">
+<path style="fill:#ffffff;fill-rule:evenodd" d="M 113.777344 0 L 14.222656 0 C 0 0 0 0 0 12.800781 L 0 115.199219 C 0 128 0 128 14.222656 128 L 113.777344 128 C 128 128 128 128 128 115.199219 L 128 12.800781 C 128 0 128 0 113.777344 0 Z "/>
+<g style="fill:#878787">
+<path d="M 96 8 L 96 24 L 32 24 L 32 8 Z "/>
+<path d="M 104 72 L 104 88 L 24 88 L 24 72 Z "/>
+<path d="M 120 40 L 120 56 L 8 56 L 8 40 Z "/>
+<path d="M 96 104 L 96 120 L 32 120 L 32 104 Z "/>
+</g>
+</svg>
