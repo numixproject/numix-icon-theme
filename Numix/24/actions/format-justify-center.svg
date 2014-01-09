@@ -1,1 +1,9 @@
-gtk-justify-center.svg
+<svg width="24" xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 0 24 24">
+<path style="fill:#f9f9f9;fill-rule:evenodd" d="M 19,2 5,2 C 3,2 3,2 3,4 l 0,16 c 0,2 0,2 2,2 l 14,0 c 2,0 2,0 2,-2 L 21,4 C 21,2 21,2 19,2 z"/>
+<g style="fill:#888">
+<path d="M 16,5 16,7 8,7 8,5 z"/>
+<path d="m 17,13 0,2 -10,0 0,-2 z"/>
+<path d="M 19,9 19,11 5,11 5,9 z"/>
+<path d="m 16,17 0,2 -8,0 0,-2 z"/>
+</g>
+</svg>

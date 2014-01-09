@@ -1,10 +1,9 @@
-<svg width="24" xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 0 24 24" xmlns:xlink="http://www.w3.org/1999/xlink">
-<g style="fill:#aaa">
-<path d="M 19 4.5 L 19 5.5 L 5 5.5 L 5 4.5 Z "/>
-<path d="M 16 6.5 L 16 7.5 L 5 7.5 L 5 6.5 Z "/>
-<path d="M 19 8.5 L 19 9.5 L 5 9.5 L 5 8.5 Z "/>
-<path d="M 16 10.5 L 16 11.5 L 5 11.5 L 5 10.5 Z "/>
-<path d="M 19 12.5 L 19 13.5 L 5 13.5 L 5 12.5 Z "/>
-<path d="M 16 14.5 L 16 15.5 L 5 15.5 L 5 14.5 Z "/>
+<svg width="24" xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 0 24 24">
+<path style="fill:#f9f9f9;fill-rule:evenodd" d="m 5,2 14,0 c 2,0 2,0 2,2 l 0,16 c 0,2 0,2 -2,2 L 5,22 C 3,22 3,22 3,20 L 3,4 C 3,2 3,2 5,2 z"/>
+<g style="fill:#888">
+<path d="M 5,5 5,7 19,7 19,5 z"/>
+<path d="m 5,13 0,2 10,0 0,-2 z"/>
+<path d="m 5,9 0,2 14,0 0,-2 z"/>
+<path d="m 5,17 0,2 8,0 0,-2 z"/>
 </g>
 </svg>

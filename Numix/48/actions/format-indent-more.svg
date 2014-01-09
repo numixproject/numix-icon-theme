@@ -1,11 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48">
-<g style="fill:#aaa#aaa5" transform="matrix(-1 0 0 1 46 -1004.3622)">
-<path d="m 10,9 0,2 28,0 0,-2 z" transform="translate(0 1004.3622)"/>
-<path d="m 13,1017.3622 0,2 22,0 0,-2 z"/>
-<path d="m 10,1021.3622 0,2 28,0 0,-2 z"/>
-<path d="m 13,1025.3622 0,2 22,0 0,-2 z"/>
-<path d="m 4,1029.3622 0,2 28.000005,0 0,-2 z"/>
-<path d="m 7.0000023,1033.3622 0,2 22.0000027,0 0,-2 z"/>
-<path d="m 34,1032.3622 8,-6 0,12 z"/>
+<svg width="48" xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 0 48 48" xmlns:xlink="http://www.w3.org/1999/xlink">
+<path style="fill:#f9f9f9;fill-rule:evenodd" d="M 38 4 L 10 4 C 6 4 6 4 6 8 L 6 40 C 6 44 6 44 10 44 L 38 44 C 42 44 42 44 42 40 L 42 8 C 42 4 42 4 38 4 Z "/>
+<g style="fill:#878787">
+<path d="M 34 10 L 34 14 L 10 14 L 10 10 Z "/>
+<path d="M 38 26 L 38 30 L 18 30 L 18 26 Z "/>
+<path d="M 30 18 L 30 22 L 10 22 L 10 18 Z "/>
+<path d="M 38 34 L 38 38 L 22 38 L 22 34 Z "/>
 </g>
+<path style="fill:#d64936" d="M 18 32 L 10 26 L 10 38 Z "/>
 </svg>
