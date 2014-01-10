@@ -1,6 +1,8 @@
-<svg width="24" xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 0 24 24" xmlns:xlink="http://www.w3.org/1999/xlink">
-<g style="fill:none;stroke:#d64936">
-<path style="stroke-width:1.964" d="M 47.015625 24 C 47.015625 36.710938 36.710938 47.015625 24 47.015625 C 11.289062 47.015625 0.984375 36.710938 0.984375 24 C 0.984375 11.289062 11.289062 0.984375 24 0.984375 C 36.710938 0.984375 47.015625 11.289062 47.015625 24 Z " transform="scale(.5)"/>
-<path style="stroke-linecap:round;stroke-width:2" d="M 13.984375 11.382812 L 13.984375 14.320312 M 13.984375 36.609375 L 13.984375 21.40625 C 13.984375 15.851562 18.460938 11.382812 24.007812 11.382812 C 29.5625 11.382812 34.03125 15.851562 34.03125 21.40625 L 34.03125 36.609375 " transform="scale(.5)"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+<g style="fill:#d64937;fill-rule:evenodd" transform="translate(0 -8)">
+<rect width="9" x="2" y="10" height="9"/>
+<rect width="9" x="13" y="10" height="9"/>
+<rect width="9" x="2" y="21" height="9"/>
+<rect width="9" x="13" y="21" height="9"/>
 </g>
 </svg>

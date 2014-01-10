@@ -1,6 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
-<g transform="translate(0 -1036.3622)">
-<path style="fill:#d64937;color:#000" d="M 16,8 A 8,8 0 1 1 0,8 8,8 0 1 1 16,8 z" transform="translate(0 1036.3622)"/>
-<path style="fill:none;stroke:#f9f9f9;stroke-linecap:round" d="m 4.5,1039.8622 0,-0.013 m 0,9.0127 0,-5.4246 c 0,-1.0122 0.4076307,-1.9236 1.0650293,-2.5728 0.6290643,-0.6213 1.4868301,-1.0026 2.4349795,-1.0026 l 0,0 c 1.9389877,0 3.4999912,1.5945 3.4999912,3.5754 l 0,5.4246"/>
+<g style="fill:#d64937;fill-rule:evenodd" transform="translate(0 -16)">
+<rect width="6" x="1" y="17" height="6"/>
+<rect width="6" x="9" y="17" height="6"/>
+<rect width="6" x="9" y="25" height="6"/>
+<rect width="6" x="9" y="25" height="6"/>
+<rect width="6" x="1" y="25" height="6"/>
 </g>
 </svg>
