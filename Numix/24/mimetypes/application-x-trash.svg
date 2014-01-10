@@ -1,29 +1,10 @@
 <svg width="24" xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 0 24 24" xmlns:xlink="http://www.w3.org/1999/xlink">
-<defs>
-<linearGradient gradientTransform="matrix(.5625 0 0 .58334 -1.875 -.91666)" id="linear0" y1="13.571" x1="25.556" y2="5.857" gradientUnits="userSpaceOnUse" x2="33.556">
-<stop offset="0" style="stop-color:#000"/>
-<stop offset="1" style="stop-color:#000;stop-opacity:0"/>
-</linearGradient>
-<radialGradient cx="24" cy="24" gradientTransform="matrix(.76667 .26666 -.30545 .87815 .93065 -15.47561)" id="radial0" r="15" gradientUnits="userSpaceOnUse">
-<stop offset="0" style="stop-color:#e4e5e2"/>
-<stop offset=".5" style="stop-color:#d6d9d2"/>
-<stop offset="1" style="stop-color:#b7beb1"/>
-</radialGradient>
-</defs>
-<path style="fill:url(#radial0)" d="M 5.175781 2 C 4.808594 2.039062 4.496094 2.382812 4.5 2.75 L 4.5 21.25 C 4.5 21.644531 4.859375 22 5.253906 22 L 18.746094 22 C 19.140625 22 19.5 21.644531 19.5 21.25 L 19.5 4.5 L 16 2 L 5.253906 2 C 5.230469 2 5.203125 2 5.175781 2 Z "/>
-<path style="fill:url(#linear0)" d="M 16 2 L 16 4.5 L 19.5 4.5 L 19.5 3.75 L 16.6875 2 Z "/>
-<g style="fill:#878985;fill-opacity:.502">
-<path d="M 7 8 L 17 8 L 17 8.5 L 7 8.5 Z "/>
-<path d="M 7 9 L 15 9 L 15 9.5 L 7 9.5 Z "/>
-<path d="M 7 10 L 9.5 10 L 9.5 10.5 L 7 10.5 Z "/>
-<path d="M 10.5 10 L 14 10 L 14 10.5 L 10.5 10.5 Z "/>
-<path d="M 7 11.5 L 14.5 11.5 L 14.5 12 L 7 12 Z "/>
-<path d="M 7 12.5 L 8.5 12.5 L 8.5 13 L 7 13 Z "/>
-<path d="M 9.5 12.5 L 15.5 12.5 L 15.5 13 L 9.5 13 Z "/>
-<path d="M 7 13.5 L 14.5 13.5 L 14.5 14 L 7 14 Z "/>
-<path d="M 7 15 L 12.5 15 L 12.5 15.5 L 7 15.5 Z "/>
-<path d="M 7 16 L 10.5 16 L 10.5 16.5 L 7 16.5 Z "/>
-<path d="M 11 16 L 15 16 L 15 16.5 L 11 16.5 Z "/>
-<path d="M 7 17 L 11.5 17 L 11.5 17.5 L 7 17.5 Z "/>
+<path style="fill:#dcdcdc" d="M 4 0.5 C 3.484375 0.5 3 0.984375 3 1.5 L 3 22.5 C 3 22.984375 3.515625 23.5 4 23.5 L 20 23.5 C 20.484375 23.5 21 22.984375 21 22.5 L 21 7 L 14.5 0.5 Z "/>
+<path style="fill:#000;fill-opacity:.196" d="M 14.5 6 L 14.53125 6.03125 L 14.609375 6 Z M 15.5 7 L 21 12.5 L 21 7 Z "/>
+<path style="fill:#fff;fill-opacity:.392" d="M 14.5 0.5 L 21 7 L 15.5 7 C 15.015625 7 14.5 6.484375 14.5 6 Z "/>
+<g style="fill:#878787">
+<path d="M 11.570312 17.253906 L 11.570312 14.84375 L 9.230469 14.84375 L 9.636719 14.15625 L 10.386719 14.15625 L 9.300781 12.324219 L 6.925781 12.324219 L 7.441406 12.617188 L 6.75 13.785156 L 8.609375 16.917969 L 8.785156 17.21875 L 8.828125 17.292969 Z "/>
+<path d="M 15.84375 11.613281 L 13.703125 12.816406 L 14.875 14.792969 L 14.058594 14.792969 L 13.683594 14.160156 L 12.597656 15.992188 L 13.785156 18 L 13.785156 17.417969 L 15.171875 17.417969 L 17.027344 14.28125 L 17.207031 13.980469 L 17.25 13.90625 Z "/>
+<path d="M 8.6875 10.332031 L 10.828125 11.535156 L 12 9.558594 L 12.40625 10.246094 L 12.03125 10.878906 L 14.207031 10.878906 L 15.394531 8.875 L 14.875 9.167969 L 14.183594 8 L 10.027344 8 Z "/>
 </g>
 </svg>

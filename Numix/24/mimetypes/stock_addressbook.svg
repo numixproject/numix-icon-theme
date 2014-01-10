@@ -1,16 +1,1 @@
-<svg width="24" xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 0 24 24" xmlns:xlink="http://www.w3.org/1999/xlink">
-<defs>
-<linearGradient gradientTransform="matrix(.5625 0 0 .58334 -1.875 -.91666)" id="linear0" y1="13.571" x1="25.556" y2="5.857" gradientUnits="userSpaceOnUse" x2="33.556">
-<stop offset="0" style="stop-color:#000"/>
-<stop offset="1" style="stop-color:#000;stop-opacity:0"/>
-</linearGradient>
-<radialGradient cx="24" cy="24" gradientTransform="matrix(.76667 .26666 -.30545 .87815 .93065 -15.47561)" id="radial0" r="15" gradientUnits="userSpaceOnUse">
-<stop offset="0" style="stop-color:#e4e5e2"/>
-<stop offset=".5" style="stop-color:#d6d9d2"/>
-<stop offset="1" style="stop-color:#b7beb1"/>
-</radialGradient>
-</defs>
-<path style="fill:url(#radial0)" d="M 5.175781 2 C 4.808594 2.039062 4.496094 2.382812 4.5 2.75 L 4.5 21.25 C 4.5 21.644531 4.859375 22 5.253906 22 L 18.746094 22 C 19.140625 22 19.5 21.644531 19.5 21.25 L 19.5 4.5 L 16 2 L 5.253906 2 C 5.230469 2 5.203125 2 5.175781 2 Z "/>
-<path style="fill:url(#linear0)" d="M 16 2 L 16 4.5 L 19.5 4.5 L 19.5 3.75 L 16.6875 2 Z "/>
-<path style="fill:#c00;fill-opacity:.8" d="M 9.007812 8 L 9.023438 15 L 9.960938 15.984375 C 10.707031 15.984375 11.625 15.996094 12.523438 16 C 13.046875 16 13.585938 16 14.023438 16 L 15.523438 16 L 15.523438 9 L 10.523438 9 L 10.007812 8.5 L 14.523438 8.5 L 14.523438 8 Z M 12.523438 10.5 C 13.523438 10.5 13.523438 11.5 13.523438 11.5 L 13.523438 12.5 L 13.023438 13 L 13.195312 13.078125 L 14.023438 13.5 L 14.023438 14 L 11.023438 14 L 11.023438 13.5 L 12.023438 13 L 11.523438 12.5 L 11.523438 11.5 C 11.523438 11.5 11.523438 10.5 12.523438 10.5 Z "/>
-</svg>
+x-office-address-book.svg

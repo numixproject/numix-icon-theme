@@ -1,30 +1,16 @@
 <svg width="24" xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 0 24 24" xmlns:xlink="http://www.w3.org/1999/xlink">
-<defs>
-<linearGradient gradientTransform="matrix(.24904 0 0 .24904 -7.46386 .50569)" id="linear0" y1="14" x1="102" y2="24" gradientUnits="userSpaceOnUse" x2="92">
-<stop offset="0" style="stop-color:#c8c8c8"/>
-<stop offset="1" style="stop-color:#efefef"/>
-</linearGradient>
-<linearGradient gradientTransform="matrix(.17242 0 0 .17242 .96532 -50.24179)" id="linear1" y1="413" y2="419" gradientUnits="userSpaceOnUse" x2="0">
-<stop offset="0" style="stop-color:#4e4e4e"/>
-<stop offset=".5" style="stop-color:#3e3e3e"/>
-<stop offset="1" style="stop-color:#2f2f2f"/>
-</linearGradient>
-</defs>
-<path style="fill:#e5e5e5" d="M 4.070312 22 L 16.828125 22 C 19.929688 22 19.929688 18.898438 19.929688 18.898438 L 19.929688 6.484375 C 19.929688 6.484375 15.449219 2 15.449219 2 L 7.171875 2 C 7.171875 2 4.070312 2 4.070312 5.101562 Z "/>
-<path style="fill:url(#linear0)" d="M 15.449219 2 L 15.449219 6.484375 L 19.929688 6.484375 Z "/>
-<path style="fill:url(#linear1)" d="M 4.070312 22 L 16.828125 22 C 19.929688 22 19.929688 18.898438 19.929688 18.898438 C 19.929688 18.898438 19.929688 16.136719 19.929688 16.136719 C 19.929688 16.136719 19.929688 20.964844 16.828125 20.964844 L 7.171875 20.964844 C 7.171875 20.964844 4.070312 20.964844 4.070312 22 Z "/>
-<g style="fill:#4e4e4e">
-<path d="M 7 7.5 L 17 7.5 L 17 8 L 7 8 Z "/>
-<path d="M 7 8.5 L 15 8.5 L 15 9 L 7 9 Z "/>
-<path d="M 7 9.5 L 9.5 9.5 L 9.5 10 L 7 10 Z "/>
-<path d="M 10.5 9.5 L 14 9.5 L 14 10 L 10.5 10 Z "/>
-<path d="M 7 11 L 14.5 11 L 14.5 11.5 L 7 11.5 Z "/>
-<path d="M 7 12 L 8.5 12 L 8.5 12.5 L 7 12.5 Z "/>
-<path d="M 9.5 12 L 15.5 12 L 15.5 12.5 L 9.5 12.5 Z "/>
-<path d="M 7 13 L 14.5 13 L 14.5 13.5 L 7 13.5 Z "/>
-<path d="M 7 14.5 L 12.5 14.5 L 12.5 15 L 7 15 Z "/>
-<path d="M 7 15.5 L 10.5 15.5 L 10.5 16 L 7 16 Z "/>
-<path d="M 11 15.5 L 15 15.5 L 15 16 L 11 16 Z "/>
-<path d="M 7 16.5 L 11.5 16.5 L 11.5 17 L 7 17 Z "/>
+<path style="fill:#dcdcdc" d="M 4 0.5 C 3.484375 0.5 3 0.984375 3 1.5 L 3 22.5 C 3 22.984375 3.515625 23.5 4 23.5 L 20 23.5 C 20.484375 23.5 21 22.984375 21 22.5 L 21 7 L 14.5 0.5 Z "/>
+<path style="fill:#000;fill-opacity:.196" d="M 14.5 6 L 14.53125 6.03125 L 14.609375 6 Z M 15.5 7 L 21 12.5 L 21 7 Z "/>
+<path style="fill:#fff;fill-opacity:.392" d="M 14.5 0.5 L 21 7 L 15.5 7 C 15.015625 7 14.5 6.484375 14.5 6 Z "/>
+<g style="fill:#878787">
+<path d="M 7 9.5 L 7 10 L 17 10 L 17 9.5 Z "/>
+<path d="M 7 10.5 L 7 11 L 17 11 L 17 10.5 Z "/>
+<path d="M 7 11.5 L 7 12 L 17 12 L 17 11.5 Z "/>
+<path d="M 7 12.5 L 7 13 L 17 13 L 17 12.5 Z "/>
+<path d="M 7 13.5 L 7 14 L 17 14 L 17 13.5 Z "/>
+<path d="M 7 14.5 L 7 15 L 17 15 L 17 14.5 Z "/>
+<path d="M 7 15.5 L 7 16 L 17 16 L 17 15.5 Z "/>
+<path d="M 7 16.5 L 7 17 L 17 17 L 17 16.5 Z "/>
+<path d="M 7 17.5 L 7 18 L 17 18 L 17 17.5 Z "/>
 </g>
 </svg>

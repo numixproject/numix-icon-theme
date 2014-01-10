@@ -1,16 +1,1 @@
-<svg width="32" xmlns="http://www.w3.org/2000/svg" height="32" viewBox="0 0 32 32" xmlns:xlink="http://www.w3.org/1999/xlink">
-<defs>
-<linearGradient gradientTransform="matrix(.75 0 0 .77778 -2.5 -1.22222)" id="linear0" y1="13.571" x1="25.556" y2="5.857" gradientUnits="userSpaceOnUse" x2="33.556">
-<stop offset="0" style="stop-color:#000"/>
-<stop offset="1" style="stop-color:#000;stop-opacity:0"/>
-</linearGradient>
-<radialGradient cx="24" cy="24" gradientTransform="matrix(1.02222 .35555 -.40726 1.17087 1.24087 -20.63415)" id="radial0" r="15" gradientUnits="userSpaceOnUse">
-<stop offset="0" style="stop-color:#e4e5e2"/>
-<stop offset=".5" style="stop-color:#d6d9d2"/>
-<stop offset="1" style="stop-color:#b7beb1"/>
-</radialGradient>
-</defs>
-<path style="fill:url(#radial0)" d="M 6.902344 2.667969 C 6.410156 2.71875 5.996094 3.175781 6 3.667969 L 6 28.332031 C 6 28.855469 6.480469 29.332031 7.007812 29.332031 L 24.992188 29.332031 C 25.519531 29.332031 26 28.855469 26 28.332031 L 26 6 L 21.332031 2.667969 L 7.007812 2.667969 C 6.972656 2.667969 6.9375 2.667969 6.902344 2.667969 Z "/>
-<path style="fill:url(#linear0)" d="M 21.332031 2.667969 L 21.332031 6 L 26 6 L 26 5 L 22.25 2.667969 Z "/>
-<path style="fill:#3464a3" d="M 10 22 L 14.667969 22 L 16 20.667969 L 17.332031 22 L 22 22 L 22 10.667969 L 19.332031 10.667969 L 19.332031 19.332031 L 17.332031 19.332031 L 17.332031 11.332031 L 14.667969 11.332031 L 14.667969 19.332031 L 12.667969 19.332031 L 12.667969 10.667969 L 10 10.667969 Z "/>
-</svg>
+application-vnd.oasis.opendocument.text.svg

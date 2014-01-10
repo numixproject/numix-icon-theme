@@ -1,19 +1,9 @@
 <svg width="16" xmlns="http://www.w3.org/2000/svg" height="16" viewBox="0 0 16 16" xmlns:xlink="http://www.w3.org/1999/xlink">
-<defs>
-<linearGradient gradientTransform="matrix(.16603 0 0 .16603 -4.97591 .33713)" id="linear0" y1="14" x1="102" y2="24" gradientUnits="userSpaceOnUse" x2="92">
-<stop offset="0" style="stop-color:#c8c8c8"/>
-<stop offset="1" style="stop-color:#efefef"/>
-</linearGradient>
-<linearGradient gradientTransform="matrix(.11494 0 0 .11494 .64355 -33.49453)" id="linear1" y1="413" y2="419" gradientUnits="userSpaceOnUse" x2="0">
-<stop offset="0" style="stop-color:#545653"/>
-<stop offset=".5" style="stop-color:#464945"/>
-<stop offset="1" style="stop-color:#393939"/>
-</linearGradient>
-</defs>
-<path style="fill:#e5e5e5" d="M 2.710938 14.667969 L 11.21875 14.667969 C 13.289062 14.667969 13.289062 12.597656 13.289062 12.597656 L 13.289062 4.320312 C 13.289062 4.320312 10.296875 1.332031 10.296875 1.332031 L 4.78125 1.332031 C 4.78125 1.332031 2.710938 1.332031 2.710938 3.402344 Z "/>
-<path style="fill:url(#linear0)" d="M 10.296875 1.332031 L 10.296875 4.320312 L 13.289062 4.320312 Z "/>
-<path style="fill:url(#linear1)" d="M 2.710938 14.667969 L 11.21875 14.667969 C 13.289062 14.667969 13.289062 12.597656 13.289062 12.597656 C 13.289062 12.597656 13.289062 10.757812 13.289062 10.757812 C 13.289062 10.757812 13.289062 13.976562 11.21875 13.976562 L 4.78125 13.976562 C 4.78125 13.976562 2.710938 13.976562 2.710938 14.667969 Z "/>
-<g style="fill:#545653">
-<use x="4.93" y="11.596"/>
+<defs/>
+<path style="fill:#dcdcdc" d="M 2.667969 0.332031 C 2.324219 0.332031 2 0.65625 2 1 L 2 15 C 2 15.324219 2.34375 15.667969 2.667969 15.667969 L 13.332031 15.667969 C 13.65625 15.667969 14 15.324219 14 15 L 14 4.667969 L 9.667969 0.332031 Z "/>
+<path style="fill:#000;fill-opacity:.196" d="M 9.667969 4 L 9.6875 4.019531 L 9.738281 4 Z M 10.332031 4.667969 L 14 8.332031 L 14 4.667969 Z "/>
+<path style="fill:#fff;fill-opacity:.392" d="M 9.667969 0.332031 L 14 4.667969 L 10.332031 4.667969 C 10.007812 4.667969 9.667969 4.324219 9.667969 4 Z "/>
+<g style="fill:#545454">
+<use x="5" y="11.548"/>
 </g>
 </svg>

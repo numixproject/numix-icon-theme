@@ -1,16 +1,1 @@
-<svg width="64" xmlns="http://www.w3.org/2000/svg" height="64" viewBox="0 0 64 64" xmlns:xlink="http://www.w3.org/1999/xlink">
-<defs>
-<linearGradient gradientTransform="matrix(1.5 0 0 1.55556 -5 -2.44444)" id="linear0" y1="13.571" x1="25.556" y2="5.857" gradientUnits="userSpaceOnUse" x2="33.556">
-<stop offset="0" style="stop-color:#000"/>
-<stop offset="1" style="stop-color:#000;stop-opacity:0"/>
-</linearGradient>
-<radialGradient cx="24" cy="24" gradientTransform="matrix(2.04444 .71111 -.81452 2.34173 2.48173 -41.26831)" id="radial0" r="15" gradientUnits="userSpaceOnUse">
-<stop offset="0" style="stop-color:#e4e5e2"/>
-<stop offset=".5" style="stop-color:#d6d9d2"/>
-<stop offset="1" style="stop-color:#b7beb1"/>
-</radialGradient>
-</defs>
-<path style="fill:url(#radial0)" d="M 13.804688 5.335938 C 12.820312 5.4375 11.996094 6.355469 12 7.335938 L 12 56.667969 C 12 57.714844 12.957031 58.667969 14.011719 58.667969 L 49.988281 58.667969 C 51.042969 58.667969 52 57.714844 52 56.667969 L 52 12 L 42.667969 5.332031 L 14.011719 5.335938 C 13.941406 5.332031 13.871094 5.332031 13.804688 5.335938 Z "/>
-<path style="fill:url(#linear0)" d="M 42.667969 5.332031 L 42.667969 12 L 52 12 L 52 10 L 44.5 5.332031 Z "/>
-<path style="fill:#754f7a" d="M 23.972656 24.167969 L 23.183594 28.125 L 39.285156 28.125 L 38.785156 30.679688 L 22.667969 30.679688 L 21.886719 34.636719 L 37.992188 34.636719 L 37.09375 39.148438 L 30.601562 41.296875 L 24.976562 39.148438 L 25.363281 37.191406 L 21.40625 37.191406 L 20.464844 41.9375 L 29.769531 45.5 L 40.496094 41.9375 L 41.917969 34.796875 L 42.207031 33.363281 L 44.035156 24.167969 Z "/>
-</svg>
+text-x-css.svg

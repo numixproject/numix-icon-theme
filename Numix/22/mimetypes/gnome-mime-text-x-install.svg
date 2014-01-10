@@ -1,18 +1,1 @@
-<svg width="22" xmlns="http://www.w3.org/2000/svg" height="22" viewBox="0 0 22 22" xmlns:xlink="http://www.w3.org/1999/xlink">
-<defs>
-<linearGradient gradientTransform="matrix(.51562 0 0 .53472 -1.71875 -.84028)" id="linear0" y1="13.571" x1="25.556" y2="5.857" gradientUnits="userSpaceOnUse" x2="33.556">
-<stop offset="0" style="stop-color:#000"/>
-<stop offset="1" style="stop-color:#000;stop-opacity:0"/>
-</linearGradient>
-<radialGradient cx="24" cy="24" gradientTransform="matrix(.70278 .24444 -.27999 .80497 .8531 -14.18598)" id="radial0" r="15" gradientUnits="userSpaceOnUse">
-<stop offset="0" style="stop-color:#e4e5e2"/>
-<stop offset=".5" style="stop-color:#d6d9d2"/>
-<stop offset="1" style="stop-color:#b7beb1"/>
-</radialGradient>
-</defs>
-<path style="fill:url(#radial0)" d="M 4.746094 1.835938 C 4.40625 1.871094 4.125 2.183594 4.125 2.523438 L 4.125 19.480469 C 4.125 19.839844 4.453125 20.167969 4.816406 20.167969 L 17.183594 20.167969 C 17.546875 20.167969 17.875 19.839844 17.875 19.480469 L 17.875 4.125 L 14.667969 1.832031 L 4.816406 1.835938 C 4.792969 1.832031 4.769531 1.832031 4.746094 1.835938 Z "/>
-<path style="fill:url(#linear0)" d="M 14.667969 1.832031 L 14.667969 4.125 L 17.875 4.125 L 17.875 3.4375 L 15.296875 1.832031 Z "/>
-<path style="fill:#4d9a05" d="M 9.625 6.417969 L 12.375 6.417969 L 12.375 10.082031 L 13.75 10.082031 L 11 12.832031 L 8.25 10.082031 L 9.625 10.082031 Z "/>
-<path style="fill:#545653;fill-opacity:.373" d="M 7.964844 13.519531 C 7.484375 13.519531 7.105469 13.925781 7.105469 14.4375 C 7.105469 14.949219 7.484375 15.355469 7.964844 15.355469 L 12.375 15.355469 L 12.375 13.75 C 12.375 13.671875 12.386719 13.59375 12.402344 13.519531 Z "/>
-<path style="fill:none;stroke:#4d9a05;stroke-width:.975" d="M 17.377841 29.488636 L 30.622159 29.488636 C 31.661932 29.488636 32.514205 30.392045 32.514205 31.5 C 32.514205 32.607955 31.661932 33.511364 30.622159 33.511364 L 17.377841 33.511364 C 16.338068 33.511364 15.485795 32.607955 15.485795 31.5 C 15.485795 30.392045 16.338068 29.488636 17.377841 29.488636 Z " transform="scale(.45833)"/>
-</svg>
+text-x-install.svg
