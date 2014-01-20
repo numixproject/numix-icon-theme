@@ -7,7 +7,7 @@
 <feColorMatrix values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0" in="SourceGraphic" type="matrix"/>
 </filter>
 <g style="clip-path:url(#clip1)" id="surface6">
-<path style="fill:#d64936;fill-rule:evenodd" d="M 16 0.0273438 L 112 -0.167969 L 112 130 L 64 82 L 16 130 Z "/>
+<path style="fill:#dc322f;fill-rule:evenodd" d="M 16 0.0273438 L 112 -0.167969 L 112 130 L 64 82 L 16 130 Z "/>
 <path style="fill:#000;fill-rule:evenodd;fill-opacity:.102" d="M 96 -0.25 L 96 114 L 112 130 L 112 -0.25 Z M 16 0 L 16 130 L 32 114 L 32 0 Z "/>
 </g>
 <mask id="mask0">
