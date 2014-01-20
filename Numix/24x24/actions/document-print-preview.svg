@@ -4,11 +4,11 @@
 <path style="fill:#ccc" d="m 4,7 16,0 c 2,0 2,0 2,2 l 0,6 c 0,2 0,2 -2,2 L 4,17 C 2,17 2,17 2,15 L 2,9 C 2,7 2,7 4,7 z"/>
 </g>
 <g transform="translate(0 1)">
-<path style="fill:#e85c41" d="m 6,11 12,0 0,10 -12,0 z"/>
+<path style="fill:#dc322f" d="m 6,11 12,0 0,10 -12,0 z"/>
 </g>
 <g style="fill-rule:evenodd">
-<path style="fill:#ffffff" d="m 19,12.5 a 5.5,6.5 0 1 1 -11,0 5.5,6.5 0 1 1 11,0 z" transform="matrix(1.091 0 0 .9231 -2.729 .4612)"/>
+<path style="fill:#fff" d="m 19,12.5 a 5.5,6.5 0 1 1 -11,0 5.5,6.5 0 1 1 11,0 z" transform="matrix(1.091 0 0 .9231 -2.729 .4612)"/>
 <path style="fill:#555" d="m 19,12.5 a 5.5,6.5 0 1 1 -11,0 5.5,6.5 0 1 1 11,0 z" transform="matrix(.7273 0 0 .6154 2.181 4.308)"/>
-<path style="fill:#dedede" d="m 19,12.5 a 5.5,6.5 0 1 1 -11,0 5.5,6.5 0 1 1 11,0 z" transform="matrix(.2727 0 0 .2308 9.818 7.615)"/>
+<path style="fill:#eee" d="m 19,12.5 a 5.5,6.5 0 1 1 -11,0 5.5,6.5 0 1 1 11,0 z" transform="matrix(.2727 0 0 .2308 9.818 7.615)"/>
 </g>
 </svg>

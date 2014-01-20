@@ -1,10 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48px" height="48px" viewBox="0 0 48 48" version="1.1">
-<g id="surface1">
-<path style=" stroke:none;fill-rule:nonzero;fill:rgb(53.333333%,53.333333%,53.333333%);fill-opacity:1;" d="M 14 10 L 14 14 L 38 14 L 38 10 Z "/>
-<path style=" stroke:none;fill-rule:nonzero;fill:rgb(53.333333%,53.333333%,53.333333%);fill-opacity:1;" d="M 10 26 L 10 30 L 30 30 L 30 26 Z "/>
-<path style=" stroke:none;fill-rule:nonzero;fill:rgb(53.333333%,53.333333%,53.333333%);fill-opacity:1;" d="M 18 18 L 18 22 L 38 22 L 38 18 Z "/>
-<path style=" stroke:none;fill-rule:nonzero;fill:rgb(53.333333%,53.333333%,53.333333%);fill-opacity:1;" d="M 10 34 L 10 38 L 26 38 L 26 34 Z "/>
-<path style=" stroke:none;fill-rule:nonzero;fill:rgb(83.921569%,28.627451%,21.568627%);fill-opacity:1;" d="M 30 32 L 38 26 L 38 38 Z "/>
+<svg width="48" xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 0 48 48" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g style="fill:#888">
+<path d="M 14 10 L 14 14 L 38 14 L 38 10 Z "/>
+<path d="M 10 26 L 10 30 L 30 30 L 30 26 Z "/>
+<path d="M 18 18 L 18 22 L 38 22 L 38 18 Z "/>
+<path d="M 10 34 L 10 38 L 26 38 L 26 34 Z "/>
 </g>
+<path style="fill:#dc322f" d="M 30 32 L 38 26 L 38 38 Z "/>
 </svg>
