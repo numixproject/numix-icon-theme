@@ -13,7 +13,7 @@
    inkscape:version="0.48.4 r9939"
    width="100%"
    height="100%"
-   sodipodi:docname="network-wired.svg">
+   sodipodi:docname="network-transmit-receive.svg">
   <metadata
      id="metadata14">
     <rdf:RDF>
@@ -41,15 +41,18 @@
      id="namedview10"
      showgrid="false"
      inkscape:zoom="10.727273"
-     inkscape:cx="11.186441"
+     inkscape:cx="11.372882"
      inkscape:cy="11"
      inkscape:window-x="0"
      inkscape:window-y="26"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2" />
   <path
-     inkscape:connector-curvature="0"
-     id="path8"
-     d="m 20,15 -5,5 -5,-5 h 3 V 8 h 4 v 7 h 3 z M 12,8 7,3 2,8 h 3 v 7 H 9 V 8 h 3 z"
-     style="fill:#268bd2;fill-rule:evenodd;fill-opacity:1" />
+     style="fill:#268bd2;fill-rule:evenodd;fill-opacity:1"
+     d="m 20,15 -5,5 -5,-5 h 3 V 8 h 4 v 7 h 3 z"
+     id="path2984" />
+  <path
+     style="fill:#859900;fill-rule:evenodd;fill-opacity:1"
+     d="M 12,8 7,3 2,8 h 3 v 7 H 9 V 8 h 3 z"
+     id="path8" />
 </svg>
