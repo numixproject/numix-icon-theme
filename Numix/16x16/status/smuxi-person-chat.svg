@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="16"
+   height="16"
+   viewBox="0 0 16 16"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="smuxi-person-chat.svg">
+  <metadata
+     id="metadata26">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="742"
+     id="namedview24"
+     showgrid="false"
+     inkscape:zoom="19.462742"
+     inkscape:cx="8.3404802"
+     inkscape:cy="7.9993767"
+     inkscape:window-x="0"
+     inkscape:window-y="26"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <defs
+     id="defs4">
+    <clipPath
+       id="clip1">
+      <rect
+         width="16"
+         height="16"
+         id="rect7" />
+    </clipPath>
+    <filter
+       width="100%"
+       x="0"
+       y="0"
+       height="100%"
+       filterUnits="objectBoundingBox"
+       id="alpha">
+      <feColorMatrix
+         values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"
+         in="SourceGraphic"
+         type="matrix"
+         id="feColorMatrix10" />
+    </filter>
+    <g
+       style="clip-path:url(#clip1)"
+       id="surface7"
+       clip-path="url(#clip1)">
+      <path
+         style="fill:#000"
+         d="M 7.269531 3.636719 L 8.730469 3.636719 C 10.925781 3.636719 10.878906 5.863281 10.878906 5.863281 L 10.878906 7.773438 C 10.878906 8.5 9.601562 10 9.601562 10 L 9.601562 10.953125 L 12.480469 12.546875 L 12.480469 13.816406 L 3.519531 13.816406 L 3.519531 12.546875 L 6.398438 10.953125 L 6.398438 10 C 6.398438 10 5.113281 8.5 5.121094 7.773438 L 5.121094 5.863281 C 5.121094 5.863281 5.074219 3.636719 7.269531 3.636719 Z "
+         id="path13" />
+    </g>
+    <mask
+       id="mask0">
+      <g
+         style="filter:url(#alpha)"
+         id="g16">
+        <rect
+           width="16"
+           x="0"
+           y="0"
+           height="16"
+           style="fill:#000;fill-opacity:.302"
+           id="rect18" />
+      </g>
+    </mask>
+  </defs>
+  <path
+     style="fill:#b8abbe;fill-opacity:1"
+     d="m 7.103313,2 1.7933746,0 c 2.6948554,0 2.6373144,2.6247127 2.6373144,2.6247127 l 0,2.2517263 C 11.534002,7.7329246 10,9.5 10,9.5 L 10,11 13.5,12.498848 13.5,14 2.5,14 2.5,12.498848 6,11 6,9.5 C 6,9.5 4.4564081,7.7329246 4.4659989,6.876439 l 0,-2.2517263 C 4.4659989,4.6247127 4.4084579,2 7.103313,2 z"
+     id="path22"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="sscsccccccccccs" />
+</svg>
