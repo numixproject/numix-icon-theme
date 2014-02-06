@@ -13,7 +13,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="battery-full-charged-symbolic.svg">
+   sodipodi:docname="battery-empty-charging-symbolic.svg">
   <metadata
      id="metadata10">
     <rdf:RDF>
@@ -22,7 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -42,14 +42,16 @@
      id="namedview6"
      showgrid="false"
      inkscape:zoom="15.806089"
-     inkscape:cx="8.9306865"
+     inkscape:cx="9.05722"
      inkscape:cy="5.1360739"
      inkscape:window-x="0"
      inkscape:window-y="26"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2" />
   <path
-     style="fill:#bebebe"
-     d="M 5 0 L 5 2 L 2 2 L 2 16 L 14 16 L 14 2 L 11 2 L 11 0 L 5 0 z M 10 3 L 9 8 L 12 8 L 6 15 L 7 10 L 4 10 L 10 3 z "
-     id="path2998" />
+     style="fill:#ef555c;fill-opacity:1"
+     d="M 5,0 5,2 2,2 2,16 14,16 14,2 11,2 11,0 5,0 z m 5,3 -1,5 3,0 -6,7 1,-5 -3,0 6,-7 z"
+     id="path2998"
+     class="error"
+     inkscape:connector-curvature="0" />
 </svg>
