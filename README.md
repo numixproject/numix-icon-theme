@@ -1,6 +1,6 @@
 Numix icon theme
 ================
-Numix is the official icon theme from the [Numix project](http://numixproject.org). It is heavily inspired by, and based upon parts of the Elementary, Humanity and Gnome icon themes. Designed to be used along side the application icon theme [Numix Circle](https://github.com/numixproject/numix-icon-theme-circle). This readme provides information on [installation](https://github.com/Foggalong/numix-icon-theme#installation) and [icon requests](https://github.com/Foggalong/numix-icon-theme#icon-requests). Licensed under the GPL-3.0+
+Numix is the official icon theme from the [Numix project](http://numixproject.org). It is heavily inspired by, and based upon parts of the Elementary, Humanity and Gnome icon themes. Designed to be used along side the application icon theme [Numix Circle](https://github.com/numixproject/numix-icon-theme-circle). This readme provides information on [installation](https://github.com/numixproject/numix-icon-theme#installation) and [icon requests](https://github.com/numixproject/numix-icon-theme#icon-requests). Licensed under the GPL-3.0+
 
 ### Installation
 If you use Ubuntu or any of it's derivatives (including Mint and elementary OS) you can use our Numix PPA. Fire up a Terminal and run the following:
