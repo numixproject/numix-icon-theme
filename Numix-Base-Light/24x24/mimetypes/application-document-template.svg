@@ -1,0 +1,13 @@
+<svg width="24" xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 0 24 24" xmlns:xlink="http://www.w3.org/1999/xlink">
+<path style="fill:#dcdcdc" d="M 4 0.5 C 3.484375 0.5 3 0.984375 3 1.5 L 3 22.5 C 3 22.984375 3.515625 23.5 4 23.5 L 20 23.5 C 20.484375 23.5 21 22.984375 21 22.5 L 21 1.5 C 21 0.984375 20.515625 0.5 20 0.5 Z "/>
+<path style="fill:#888" d="M 8.039062 7.5 L 11.460938 7.5 C 11.621094 7.5 11.75 7.632812 11.75 7.800781 L 11.75 10.699219 C 11.75 10.867188 11.621094 11 11.460938 11 L 8.039062 11 C 7.878906 11 7.75 10.867188 7.75 10.699219 L 7.75 7.800781 C 7.75 7.632812 7.878906 7.5 8.039062 7.5 Z "/>
+<g style="stroke-linejoin:round;fill:none;stroke:#888;stroke-linecap:round">
+<path d="M 26.5 17.5 L 31.5 17.5 " transform="matrix(.5 0 0 .5 -.25 -1)"/>
+<path d="M 26.5 20.5 L 31.5 20.5 " transform="matrix(.5 0 0 .5 -.25 -1)"/>
+<path d="M 26.5 23.5 L 31.5 23.5 " transform="matrix(.5 0 0 .5 -.25 -1)"/>
+<path d="M 16 26.5 L 32 26.5 " transform="matrix(.5 0 0 .5 -.25 -1)"/>
+<path d="M 16 29.5 L 32 29.5 " transform="matrix(.5 0 0 .5 -.25 -1)"/>
+<path d="M 16 32.5 L 32 32.5 " transform="matrix(.5 0 0 .5 -.25 -1)"/>
+<path d="M 16 35.5 L 32 35.5 " transform="matrix(.5 0 0 .5 -.25 -1)"/>
+</g>
+</svg>

@@ -1,0 +1,20 @@
+<svg width="128" xmlns="http://www.w3.org/2000/svg" height="128" viewBox="0 0 128 128" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<clipPath id="clip1">
+<rect width="128" height="128"/>
+</clipPath>
+<filter width="100%" x="0" y="0" height="100%" filterUnits="objectBoundingBox" id="alpha">
+<feColorMatrix values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0" in="SourceGraphic" type="matrix"/>
+</filter>
+<g style="clip-path:url(#clip1)" id="surface6">
+<path style="fill:#dc322f;fill-rule:evenodd" d="M 16 0.0273438 L 112 -0.167969 L 112 130 L 64 82 L 16 130 Z "/>
+<path style="fill:#000;fill-rule:evenodd;fill-opacity:.102" d="M 96 -0.25 L 96 114 L 112 130 L 112 -0.25 Z M 16 0 L 16 130 L 32 114 L 32 0 Z "/>
+</g>
+<mask id="mask0">
+<g style="filter:url(#alpha)">
+<rect width="128" x="0" y="0" height="128" style="fill:#000;fill-opacity:.502"/>
+</g>
+</mask>
+</defs>
+<use style="mask:url(#mask0)" xlink:href="#surface6"/>
+</svg>
