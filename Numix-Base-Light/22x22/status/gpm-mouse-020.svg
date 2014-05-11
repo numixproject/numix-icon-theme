@@ -3,7 +3,7 @@
   <g transform="translate(0 6)">
    <path d="m6.5-1.5h2c2.216 0 4 1.338 4 3v9c0 1.662-1.784 3-4 3h-2c-2.216 0-4-1.338-4-3v-9c0-1.662 1.784-3 4-3zm1.0419 0.000001v4" opacity="0.3" stroke="#000"/>
   </g>
-  <g transform="translate(0 6)" stroke="#dcdcdc">
+  <g transform="translate(0 6)" stroke="#333333">
    <g transform="translate(-5 -7)" opacity="0.3">
     <path d="m12.5 5.3333v3.3333" stroke-width="2"/>
     <rect width="13.5" x="-18.75" y="8.25" rx="2.3" ry="3.3" height="8.5" transform="matrix(0 -1 1 0 0 0)" stroke-width="0.5"/>
