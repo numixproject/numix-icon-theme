@@ -1,3 +1,95 @@
-<svg width="16" xmlns="http://www.w3.org/2000/svg" height="16" viewBox="0 0 16 16" xmlns:xlink="http://www.w3.org/1999/xlink">
-<path style="fill:#909ea9" d="M 6.269531 2.667969 C 5.9375 2.667969 5.667969 2.9375 5.667969 3.269531 L 5.667969 11.394531 C 5.667969 11.730469 5.9375 12 6.269531 12 L 6.332031 12 L 6.332031 13.332031 L 9.667969 13.332031 L 9.667969 12 L 9.730469 12 C 10.0625 12 10.332031 11.730469 10.332031 11.394531 L 10.332031 3.269531 C 10.332031 2.9375 10.0625 2.667969 9.730469 2.667969 Z M 6.9375 3.332031 L 9.0625 3.332031 C 9.398438 3.332031 9.667969 3.601562 9.667969 3.9375 L 9.667969 10.730469 C 9.667969 11.0625 9.398438 11.332031 9.0625 11.332031 L 6.9375 11.332031 C 6.601562 11.332031 6.332031 11.0625 6.332031 10.730469 L 6.332031 3.9375 C 6.332031 3.601562 6.601562 3.332031 6.9375 3.332031 Z M 6.667969 12.332031 L 7.332031 12.332031 L 7.332031 13 L 6.667969 13 Z M 8.667969 12.332031 L 9.332031 12.332031 L 9.332031 13 L 8.667969 13 Z "/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="16"
+   height="16"
+   viewBox="0 0 16 16"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="drive-harddisk-usb.svg">
+  <metadata
+     id="metadata10">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview6"
+     showgrid="false"
+     inkscape:zoom="14.75"
+     inkscape:cx="8"
+     inkscape:cy="8"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" />
+  <path
+     style="fill:#dc4946;fill-opacity:1;stroke:none"
+     d="M 7.9999999,16 C 12,16 12.003364,12.5 12.003364,12.5 l 0,-7.4865442 c 0,-0.554 -0.446,-1 -1,-1 l -6.0067275,0 c -0.5540004,0 -1.0000004,0.446 -1.0000004,1 l 0,7.4865442 c 0,0 0.00336,3.5 4.0033638,3.5 z"
+     id="rect2991"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="scsssscs" />
+  <path
+     style="opacity:0.39446369;fill:#ffffff;fill-opacity:1;stroke:none"
+     d="m 9.9999999,15.6045 0,-11.6044993 1.0000001,0 0,10.9280903 c -0.262907,0.205663 -0.593092,0.567641 -1.0000001,0.676409 z"
+     id="rect3761"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ccccc" />
+  <rect
+     style="fill:#657b83;fill-opacity:1;stroke:none"
+     id="rect3763"
+     width="6"
+     height="4.0000005"
+     x="5"
+     y="-4.000001"
+     transform="scale(1,-1)"
+     ry="0" />
+  <rect
+     style="opacity:0.31141872;fill:#ffffff;fill-opacity:1;stroke:none"
+     id="rect3765"
+     width="1"
+     height="4.0000005"
+     x="9"
+     y="-4.000001"
+     transform="scale(1,-1)" />
+  <rect
+     style="fill:#002b36;fill-opacity:1;stroke:none"
+     id="rect3767"
+     width="1"
+     height="2"
+     x="6"
+     y="-3.0000007"
+     transform="scale(1,-1)" />
+  <rect
+     style="fill:#002b36;fill-opacity:1;stroke:none"
+     id="rect3769"
+     width="1"
+     height="2"
+     x="9"
+     y="-3.0000007"
+     transform="scale(1,-1)" />
 </svg>

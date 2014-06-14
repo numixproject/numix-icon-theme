@@ -1,3 +1,99 @@
-<svg width="24" xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 0 24 24" xmlns:xlink="http://www.w3.org/1999/xlink">
-<path style="fill:#909ea9" d="M 9.40625 4 C 8.902344 4 8.5 4.402344 8.5 4.90625 L 8.5 17.09375 C 8.5 17.597656 8.902344 18 9.40625 18 L 9.5 18 L 9.5 20 L 14.5 20 L 14.5 18 L 14.59375 18 C 15.097656 18 15.5 17.597656 15.5 17.09375 L 15.5 4.90625 C 15.5 4.402344 15.097656 4 14.59375 4 Z M 10.40625 5 L 13.59375 5 C 14.097656 5 14.5 5.402344 14.5 5.90625 L 14.5 16.09375 C 14.5 16.597656 14.097656 17 13.59375 17 L 10.40625 17 C 9.902344 17 9.5 16.597656 9.5 16.09375 L 9.5 5.90625 C 9.5 5.402344 9.902344 5 10.40625 5 Z M 10 18.5 L 11 18.5 L 11 19.5 L 10 19.5 Z M 13 18.5 L 14 18.5 L 14 19.5 L 13 19.5 Z "/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="drive-harddisk-usb.svg">
+  <metadata
+     id="metadata10">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="704"
+     id="namedview6"
+     showgrid="true"
+     inkscape:zoom="27.812867"
+     inkscape:cx="12"
+     inkscape:cy="13.051275"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3004" />
+  </sodipodi:namedview>
+  <path
+     style="fill:#dc4946;fill-opacity:1;stroke:none"
+     d="m 12,20 c 4,0 4.003364,-3.5 4.003364,-3.5 l 0,-7.4865449 c 0,-0.554 -0.446,-1 -1,-1 l -6.0067274,0 c -0.5540004,0 -1.0000004,0.446 -1.0000004,1 l 0,7.4865449 C 7.9966362,16.5 8,20 12,20 z"
+     id="rect2991"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="scsssscs" />
+  <path
+     style="opacity:0.39446369;fill:#ffffff;fill-opacity:1;stroke:none"
+     d="M 14,19.6045 14,8 l 1,0 0,10.928091 c -0.262907,0.205663 -0.593092,0.567641 -1,0.676409 z"
+     id="rect3761"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ccccc" />
+  <rect
+     style="fill:#657b83;fill-opacity:1;stroke:none"
+     id="rect3763"
+     width="6"
+     height="4.0000005"
+     x="9"
+     y="-8"
+     transform="scale(1,-1)"
+     ry="0" />
+  <rect
+     style="opacity:0.31141872;fill:#ffffff;fill-opacity:1;stroke:none"
+     id="rect3765"
+     width="1"
+     height="4.0000005"
+     x="13"
+     y="-8"
+     transform="scale(1,-1)" />
+  <rect
+     style="opacity:1;fill:#002b36;fill-opacity:1;stroke:none"
+     id="rect3767"
+     width="1"
+     height="2"
+     x="10"
+     y="-7"
+     transform="scale(1,-1)" />
+  <rect
+     style="opacity:1;fill:#002b36;fill-opacity:1;stroke:none"
+     id="rect3769"
+     width="1"
+     height="2"
+     x="13"
+     y="-7"
+     transform="scale(1,-1)" />
 </svg>
