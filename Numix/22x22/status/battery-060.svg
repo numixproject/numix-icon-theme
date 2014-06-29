@@ -1,5 +1,78 @@
-<svg width="22" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 22" height="22">
-<path style="opacity:.3;fill:#dcdcdc" d="M 9 3 L 9 5.40625 L 7 5.40625 L 7 15.8125 L 15 15.8125 L 15 5.40625 L 13 5.40625 L 13 3 L 9 3 z "/>
-<rect width="8" x="7" y="16.8" height="3.2" style="opacity:.3"/>
-<rect width="8" x="7" y="9.4" height="9.6" style="fill:#dcdcdc"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="22"
+   viewBox="0 0 22 22"
+   height="22"
+   id="svg5808"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="battery-060.svg">
+  <metadata
+     id="metadata5820">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs5818" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="811"
+     inkscape:window-height="480"
+     id="namedview5816"
+     showgrid="false"
+     inkscape:zoom="7.5853273"
+     inkscape:cx="8.6249716"
+     inkscape:cy="14.8227"
+     inkscape:window-x="10"
+     inkscape:window-y="34"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg5808" />
+  <g
+     id="g6360"
+     transform="matrix(1,0,0,0.83333333,4.754237,2.3672317)">
+    <path
+       id="path5812-9"
+       d="m 16.245763,8.559322 -2.5,0 0,-3 -17.5,0 0,12 17.5,0 0,-3 2.5,0 z"
+       inkscape:connector-curvature="0"
+       style="opacity:0.12000002;fill:#000000;fill-opacity:1" />
+    <path
+       id="path5814-6"
+       d="m 8.745763,5.559322 -12.5,0 0,12 12.5,0 z"
+       inkscape:connector-curvature="0"
+       style="opacity:0.3;fill:#000000;fill-opacity:1" />
+  </g>
+  <g
+     id="g5822"
+     transform="matrix(0,0.83333333,-1.25,0,24.75,1.8333333)">
+    <path
+       id="path5812"
+       d="M 8,3 8,5 5,5 5,19 17,19 17,5 14,5 14,3 z"
+       inkscape:connector-curvature="0"
+       style="opacity:0.4;fill:#dcdcdc" />
+    <path
+       id="path5814"
+       d="M 5,9 5,19 17,19 17,9 z"
+       inkscape:connector-curvature="0"
+       style="fill:#dedede" />
+  </g>
 </svg>
