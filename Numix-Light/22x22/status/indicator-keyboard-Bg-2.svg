@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="22"
+   version="1.1"
+   height="22"
+   id="svg2"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="indicator-keyboard-Bg-2.svg">
+  <metadata
+     id="metadata17">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1301"
+     inkscape:window-height="744"
+     id="namedview15"
+     showgrid="false"
+     inkscape:zoom="25.644886"
+     inkscape:cx="11.077988"
+     inkscape:cy="11"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <defs
+     id="defs4">
+    <mask
+       id="m">
+      <rect
+         y="0"
+         x="0"
+         style="fill:#fff"
+         height="22"
+         width="22"
+         id="rect7" />
+      <text
+         y="15.5"
+         x="1"
+         style="font-size:12;font-family:Ubuntu;font-weight:500;fill:black"
+         id="text9">Bg</text>
+      <text
+         y="18.5"
+         x="16"
+         style="font-size:8;font-family:Ubuntu;font-weight:500;fill:black"
+         id="text11">2</text>
+    </mask>
+  </defs>
+  <rect
+     id="rect2994"
+     x="1"
+     y="1"
+     width="20"
+     height="20"
+     rx="2"
+     mask="url(#m)"
+     style="fill:#050300;fill-opacity:1;opacity:0.3"
+     transform="translate(0,1)" />
+  <rect
+     style="fill:#353535;fill-opacity:1"
+     mask="url(#m)"
+     rx="2"
+     height="20"
+     width="20"
+     y="1"
+     x="1"
+     id="rect13" />
+</svg>
