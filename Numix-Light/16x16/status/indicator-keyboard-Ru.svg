@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" viewBox="0 0 16 16">
+ <defs>
+  <filter id="0" filterUnits="objectBoundingBox" x="0" y="0" width="16" height="16">
+   <feColorMatrix type="matrix" in="SourceGraphic" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
+  </filter>
+  <image id="1" width="16" height="16" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABmJLR0QA/wD/AP+gvaeTAAABKUlEQVQ4jWNgoBAwerWf48l7eECRHM2T5B3uM/o584mw7f9iQY4Bvxx5TjCRoxEZDLwBLMgc82Klv+dunT8XeOPYxzV5vMz8jDL/ppbv4JR5Ea1vx8vLTZQLHPYzsOSFq5n8y7VxzNh7znGqhjmP/I2c97s/NP0UcUo9c//Hn+9/NjP+6l2680yw+5V/LOgGHHBk+DNp5a0zBsqvmCwU0n7LHNsopWiTJHbrJcN/klxgfumNQ4Isv0TNCjvh8wY/2JDVXMve8z+sWR4zDJCBM7cW0wwTVRktpst3Od9EiBodrmeM1NH8Z9i59p9T5+c/Zn93/WJ4konbAAYGBob7dv8EBfrF2Tm+STyb+uGvrPXcf7y2Wy8ceycbxtPNdIFZNrzu72hKZGAAAOVPcmg0ZEECAAAAAElFTkSuQmCC"/>
+  <mask id="2">
+   <g filter="url(#0)">
+    <use xlink:href="#1"/>
+   </g>
+  </mask>
+  <clipPath id="3">
+   <rect width="16" height="16"/>
+  </clipPath>
+  <g id="4" clip-path="url(#3)">
+   <path d="M 2.183594 1.453125 L 13.816406 1.453125 C 14.621094 1.453125 15.273438 2.105469 15.273438 2.910156 L 15.273438 14.546875 C 15.273438 15.347656 14.621094 16 13.816406 16 L 2.183594 16 C 1.378906 16 0.726562 15.347656 0.726562 14.546875 L 0.726562 2.910156 C 0.726562 2.105469 1.378906 1.453125 2.183594 1.453125 Z "/>
+  </g>
+  <image id="5" width="16" height="16" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABmJLR0QA/wD/AP+gvaeTAAABDklEQVQ4jWNk5uUVWv7tmzEDGSCSi+sswypmZldmJqY/5OBVzMyuTOTYjAwGmQGP+6b9M3sj9MI5fc7DDAaGR6t2cT6UmLn6KaPis99Eu+D3KzEm33d94jMYGOQEfU3lbA5eYTNYYfVDZ4bj316tuhf/lJ79gbFbbSoEWdANYBV79W+zUNfL4F2zGJ+s5fhrvFCeh0lEkeuaFokuWCTMJ/OwajH3WbsHnKsm7Wcm2gswwG28h0mWaw1vreDEz5y5Pf8YGBgYdKYk/n9ev/yf46nffzs/9vxlYGBgwPACMkiTTuIIDHnFEnTjwxfNG9945VIesi2sF3+28edxtv0ejIw/1EUYRlMiAwMjpdkZAL05g9BNrjsRAAAAAElFTkSuQmCC"/>
+  <mask id="6">
+   <g filter="url(#0)">
+    <use xlink:href="#5"/>
+   </g>
+  </mask>
+  <clipPath id="7">
+   <rect width="16" height="16"/>
+  </clipPath>
+  <g id="8" clip-path="url(#7)">
+   <path d="M 2.183594 0.726562 L 13.816406 0.726562 C 14.621094 0.726562 15.273438 1.378906 15.273438 2.183594 L 15.273438 13.816406 C 15.273438 14.621094 14.621094 15.273438 13.816406 15.273438 L 2.183594 15.273438 C 1.378906 15.273438 0.726562 14.621094 0.726562 13.816406 L 0.726562 2.183594 C 0.726562 1.378906 1.378906 0.726562 2.183594 0.726562 Z " fill="#353535"/>
+  </g>
+ </defs>
+ <g>
+  <use xlink:href="#4" mask="url(#2)"/>
+  <use xlink:href="#8" mask="url(#6)"/>
+ </g>
+</svg>
