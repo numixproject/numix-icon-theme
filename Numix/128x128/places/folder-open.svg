@@ -1,6 +1,97 @@
-<svg width="128" xmlns="http://www.w3.org/2000/svg" height="128" viewBox="0 0 128 128" xmlns:xlink="http://www.w3.org/1999/xlink">
-<g style="stroke:#a57953">
-<path style="fill:#a57953" d="M 4.34668 25.5 C 3.887695 25.453125 3.5 24.992188 3.5 24.498047 L 3.5 5.506836 C 3.5 4.979492 3.946289 4.5 4.4375 4.5 L 27.5625 4.5 C 28.053711 4.5 28.5 4.979492 28.5 5.506836 L 28.5 21.742188 C 28.5 22.268555 27.782227 23.025391 27.290039 23.025391 L 18.825195 23.010742 L 18.825195 24.334961 C 18.825195 24.856445 18.414062 25.5 17.925781 25.5 L 4.4375 25.5 C 4.408203 25.5 4.378906 25.5 4.34668 25.5 Z " transform="scale(4)"/>
-<path style="fill:#e9b080" d="M 1.549805 13.5 C 0.980469 13.53125 0.506836 14.176758 0.506836 14.506836 L 0.5 26.829102 C 0.5 27.179688 1.052734 27.5 1.663086 27.5 L 30.336914 27.5 C 30.947266 27.5 31.499023 27.179688 31.5 26.829102 L 31.524414 16.485352 C 31.524414 16.133789 31.041016 15.509766 30.431641 15.509766 L 19.527344 15.495117 L 19.50293 14.277344 C 19.496094 13.928711 18.993164 13.5 18.387695 13.5 L 1.663086 13.5 C 1.625977 13.5 1.589844 13.5 1.549805 13.5 Z " transform="scale(4)"/>
-</g>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="128"
+   height="128"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="folder-drag-accept.svg"
+   inkscape:export-filename="/media/Data/Main/Visuals/Icons/Numix/Desktop/repos/numix-wiki/Gjorgi/Numix-folders/48/New/folder-144.png"
+   inkscape:export-xdpi="270"
+   inkscape:export-ydpi="270">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="11.144306"
+     inkscape:cx="10.433544"
+     inkscape:cy="83.045512"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1023"
+     inkscape:window-x="0"
+     inkscape:window-y="28"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2985"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-924.3622)">
+    <rect
+       style="fill:#e9a439;fill-opacity:1;stroke:none"
+       id="rect3839"
+       width="104"
+       height="46"
+       x="12"
+       y="943.36218"
+       rx="5"
+       ry="5" />
+    <rect
+       style="fill:#f5c14e;fill-opacity:1;stroke:none"
+       id="rect2990"
+       width="120"
+       height="60"
+       x="4"
+       y="977.36218"
+       rx="8"
+       ry="8" />
+    <path
+       style="opacity:0.1;fill:#ffffff;fill-opacity:1;stroke:none"
+       d="m 12,977.36222 c -4.432,0 -8,3.568 -8,8 l 0,2 c 0,-4.432 3.568,-8 8,-8 l 104,0 c 4.432,0 8,3.568 8,8 l 0,-2 c 0,-4.432 -3.568,-8 -8,-8 l -104,0 z"
+       id="rect3763"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:none;opacity:0.05"
+       d="M 17 19 C 14.23 19 12 21.23 12 24 L 12 26 C 12 23.23 14.23 21 17 21 L 111 21 C 113.77 21 116 23.23 116 26 L 116 24 C 116 21.23 113.77 19 111 19 L 17 19 z "
+       transform="translate(0,924.3622)"
+       id="rect2986" />
+  </g>
 </svg>

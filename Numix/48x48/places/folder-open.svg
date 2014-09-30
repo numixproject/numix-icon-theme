@@ -1,6 +1,97 @@
-<svg width="48" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" height="48">
-<g style="stroke:#a57953;line-height:normal">
-<path style="fill:#a57953" d="M 5.7714988,37.990215 C 5.0728456,37.918066 4.4820155,37.22675 4.4852765,36.485241 l 0,-28.4899326 c 7.31e-5,-0.7879795 0.6787679,-1.5048907 1.424738,-1.5049711 l 35.1435465,0 c 0.745973,8.04e-5 1.424664,0.7169916 1.424742,1.5049711 l 0,25.8457836 c -7.8e-5,0.787981 -0.678769,1.504889 -1.424742,1.50497 l -13.723,0 0,1.139179 c -7.5e-5,0.787981 -0.678768,1.504896 -1.424738,1.504974 l -19.9958085,0 c -0.046135,0.0023 -0.092382,0.0023 -0.1385157,0 z"/>
-<path style="fill:#e9b080" d="M 3.0320563,20.479036 C 2.2048912,20.527157 1.5053836,20.98817 1.509244,21.482662 l 0,18.999209 c 8.84e-5,0.525484 0.8036213,1.003574 1.6868076,1.003625 l 41.6079114,0 c 0.883188,-5.1e-5 1.686718,-0.478141 1.686808,-1.003625 l 0,-17.235893 c -9e-5,-0.525483 -0.80362,-1.003573 -1.686808,-1.003627 l -16.247234,0 0,-0.759689 c -8.9e-5,-0.525484 -0.803621,-1.003574 -1.686806,-1.003626 l -23.6738714,0 c -0.054622,-0.0016 -0.1093734,-0.0016 -0.1639953,0 z"/>
-</g>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48"
+   height="48"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="fileopen.svg"
+   inkscape:export-filename="/media/Data/Main/Visuals/Icons/Numix/Desktop/repos/numix-wiki/Gjorgi/Numix-folders/48/New/folder-144.png"
+   inkscape:export-xdpi="270"
+   inkscape:export-ydpi="270">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#f9f9f9"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="13.360521"
+     inkscape:cx="12.468739"
+     inkscape:cy="37.145515"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1023"
+     inkscape:window-x="0"
+     inkscape:window-y="28"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2985"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-1004.3622)">
+    <rect
+       style="fill:#e9a439;fill-opacity:1;stroke:none"
+       id="rect2993"
+       width="34"
+       height="20"
+       x="7"
+       y="1009.3622"
+       rx="2"
+       ry="2" />
+    <rect
+       style="fill:#f5c14e;fill-opacity:1;stroke:none"
+       id="rect2990"
+       width="42"
+       height="20"
+       x="3"
+       y="1024.3622"
+       rx="2"
+       ry="2" />
+    <path
+       style="opacity:0.1;fill:#ffffff;fill-opacity:1;stroke:none"
+       d="m 5,1024.3622 c -1.108,0 -2,0.892 -2,2 l 0,1 c 0,-1.108 0.892,-2 2,-2 l 38,0 c 1.108,0 2,0.892 2,2 l 0,-1 c 0,-1.108 -0.892,-2 -2,-2 l -38,0 z"
+       id="rect2991"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:none;opacity:0.05000000000000000"
+       d="M 9 5 C 7.892 5 7 5.892 7 7 L 7 8 C 7 6.892 7.892 6 9 6 L 39 6 C 40.108 6 41 6.892 41 8 L 41 7 C 41 5.892 40.108 5 39 5 L 9 5 z "
+       transform="translate(0,1004.3622)"
+       id="rect3763" />
+  </g>
 </svg>
