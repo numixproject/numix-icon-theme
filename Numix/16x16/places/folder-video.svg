@@ -13,8 +13,8 @@
    height="16"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
-   sodipodi:docname="folder-templates.svg"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="folder-video.svg"
    inkscape:export-filename="/media/Data/Main/Visuals/Icons/Numix/Desktop/repos/numix-wiki/Gjorgi/Numix-folders/48/New/folder-144.png"
    inkscape:export-xdpi="270"
    inkscape:export-ydpi="270">
@@ -27,8 +27,8 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="19.696326"
-     inkscape:cx="0.42859731"
+     inkscape:zoom="65.782651"
+     inkscape:cx="-2.1556707"
      inkscape:cy="14.18178"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -56,7 +56,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -67,7 +67,7 @@
      transform="translate(0,-1036.3622)">
     <path
        inkscape:connector-curvature="0"
-       style="fill:#f5c14e;fill-opacity:1"
+       style="fill:#e9a439;fill-opacity:1"
        d="m 2,1036.3622 c -1.108,0 -2,0.892 -2,2 l 0,12 c 0,1.108 0.892,2 2,2 l 12,0 c 1.108,0 2,-0.892 2,-2 l 0,-12 c 0,-1.108 -0.892,-2 -2,-2 l -12,0 z m 0,2 2,0 0,2 -2,0 0,-2 z m 10,0 2,0 0,2 -2,0 0,-2 z m -10,5 2,0 0,2 -2,0 0,-2 z m 10,0 2,0 0,2 -2,0 0,-2 z m -10,5 2,0 0,2 -2,0 0,-2 z m 10,0 2,0 0,2 -2,0 0,-2 z"
        id="rect3007" />
   </g>

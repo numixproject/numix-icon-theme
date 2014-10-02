@@ -13,8 +13,8 @@
    height="16"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
-   sodipodi:docname="folder-documents.svg"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="folder-download.svg"
    inkscape:export-filename="/media/Data/Main/Visuals/Icons/Numix/Desktop/repos/numix-wiki/Gjorgi/Numix-folders/48/New/folder-144.png"
    inkscape:export-xdpi="270"
    inkscape:export-ydpi="270">
@@ -27,9 +27,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="19.696326"
-     inkscape:cx="9.2627322"
-     inkscape:cy="14.18178"
+     inkscape:zoom="65.782651"
+     inkscape:cx="6.6784642"
+     inkscape:cy="11.749528"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -56,7 +56,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -67,7 +67,7 @@
      transform="translate(0,-1036.3622)">
     <g
        id="g3838"
-       style="opacity:1;fill:#f5c14e;fill-opacity:1"
+       style="opacity:1;fill:#e9a439;fill-opacity:1"
        transform="translate(15.607183,15.874895)">
       <rect
          ry="1"
@@ -77,10 +77,10 @@
          height="2"
          width="16"
          id="rect2989"
-         style="fill:#f5c14e;fill-opacity:1;stroke:none" />
+         style="fill:#e9a439;fill-opacity:1;stroke:none" />
       <rect
          transform="matrix(0,1,-1,0,0,0)"
-         style="fill:#f5c14e;fill-opacity:1;stroke:none"
+         style="fill:#e9a439;fill-opacity:1;stroke:none"
          id="rect2991-6"
          width="7"
          height="2"
@@ -96,14 +96,14 @@
          height="2"
          width="7"
          id="rect2993"
-         style="fill:#f5c14e;fill-opacity:1;stroke:none"
+         style="fill:#e9a439;fill-opacity:1;stroke:none"
          transform="matrix(0,1,-1,0,0,0)" />
       <path
          sodipodi:nodetypes="ccccccc"
          inkscape:connector-curvature="0"
          id="path2997-6"
          d="m -6.607183,1032.4873 c -1,1 -1,1 -2,0 l -3,-3 c -1,-1 -1,-1 0,-1 l 8,0 c 1,0 1,0 0,1 z"
-         style="fill:#f5c14e;fill-opacity:1;stroke:none" />
+         style="fill:#e9a439;fill-opacity:1;stroke:none" />
       <rect
          ry="2"
          rx="2"
@@ -112,7 +112,7 @@
          height="10"
          width="4"
          id="rect2995"
-         style="fill:#f5c14e;fill-opacity:1;stroke:none" />
+         style="fill:#e9a439;fill-opacity:1;stroke:none" />
     </g>
   </g>
 </svg>
