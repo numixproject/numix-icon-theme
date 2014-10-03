@@ -293,40 +293,47 @@ Type=Fixed
 Size=16
 MinSize=16
 MaxSize=256
+Context=Actions
 Type=Scalable
 
 [scalable/categories]
 Size=16
 MinSize=16
 MaxSize=256
+Context=Categories
 Type=Scalable
 
 [scalable/devices]
 Size=16
 MinSize=16
 MaxSize=256
+Context=Devices
 Type=Scalable
 
 [scalable/emblems]
 Size=16
 MinSize=16
 MaxSize=256
+Context=Emblems
 Type=Scalable
 
 [scalable/mimetypes]
 Size=16
 MinSize=16
 MaxSize=256
+Context=MimeTypes
 Type=Scalable
 
 [scalable/places]
 Size=16
 MinSize=16
 MaxSize=256
+Context=Places
 Type=Scalable
 
 [scalable/status]
 Size=16
 MinSize=16
 MaxSize=256
+Context=Status
 Type=Scalable
