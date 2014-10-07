@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="audio-recorder.svg">
+  <metadata
+     id="metadata44">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="672"
+     inkscape:window-height="480"
+     id="namedview42"
+     showgrid="false"
+     inkscape:zoom="4.9166667"
+     inkscape:cx="8.4518379"
+     inkscape:cy="2.0776872"
+     inkscape:window-x="109"
+     inkscape:window-y="101"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" />
+  <defs
+     id="defs4">
+    <clipPath
+       id="clip1">
+      <rect
+         width="24"
+         height="24"
+         id="rect7" />
+    </clipPath>
+    <filter
+       width="100%"
+       x="0"
+       y="0"
+       height="100%"
+       filterUnits="objectBoundingBox"
+       id="alpha">
+      <feColorMatrix
+         values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"
+         in="SourceGraphic"
+         type="matrix"
+         id="feColorMatrix10" />
+    </filter>
+    <g
+       style="clip-path:url(#clip1)"
+       id="surface6"
+       clip-path="url(#clip1)">
+      <path
+         style="fill:#000"
+         d="M 8.363281 3.273438 C 6.355469 3.273438 4.726562 4.921875 4.726562 6.953125 L 4.726562 13.101562 C 4.726562 15.136719 6.355469 16.785156 8.363281 16.785156 C 10.371094 16.785156 12 15.136719 12 13.101562 L 12 6.953125 C 12 4.921875 10.371094 3.273438 8.363281 3.273438 Z "
+         id="path13" />
+      <path
+         style="fill:#000"
+         d="M 1.089844 13.089844 C 1.089844 16.742188 3.707031 19.757812 7.152344 20.339844 L 7.152344 21.683594 L 5.9375 21.683594 L 5.9375 22.910156 L 10.789062 22.910156 L 10.789062 21.683594 L 9.574219 21.683594 L 9.574219 20.339844 C 13.019531 19.757812 15.636719 16.742188 15.636719 13.089844 L 13.210938 13.089844 C 13.210938 15.800781 11.042969 18 8.363281 18 C 5.6875 18 3.515625 15.800781 3.515625 13.089844 Z "
+         id="path15" />
+      <path
+         style="fill:#000"
+         d="M 22.910156 5.726562 C 22.910156 7.082031 21.824219 8.183594 20.484375 8.183594 C 19.144531 8.183594 18.0625 7.082031 18.0625 5.726562 C 18.0625 4.371094 19.144531 3.273438 20.484375 3.273438 C 21.824219 3.273438 22.910156 4.371094 22.910156 5.726562 Z "
+         id="path17" />
+      <path
+         style="fill:#000"
+         d="M 22.910156 13.089844 C 22.910156 14.445312 21.824219 15.546875 20.484375 15.546875 C 19.144531 15.546875 18.0625 14.445312 18.0625 13.089844 C 18.0625 11.734375 19.144531 10.636719 20.484375 10.636719 C 21.824219 10.636719 22.910156 11.734375 22.910156 13.089844 Z "
+         id="path19" />
+      <path
+         style="fill:#000"
+         d="M 22.910156 20.453125 C 22.910156 21.808594 21.824219 22.910156 20.484375 22.910156 C 19.144531 22.910156 18.0625 21.808594 18.0625 20.453125 C 18.0625 19.097656 19.144531 18 20.484375 18 C 21.824219 18 22.910156 19.097656 22.910156 20.453125 Z "
+         id="path21" />
+    </g>
+    <mask
+       id="mask0">
+      <g
+         style="filter:url(#alpha)"
+         id="g24">
+        <rect
+           width="24"
+           x="0"
+           y="0"
+           height="24"
+           style="fill:#000;fill-opacity:.302"
+           id="rect26" />
+      </g>
+    </mask>
+  </defs>
+  <path
+     style="fill:#b3b3b3;fill-opacity:1"
+     d="m 8.375,3.187 c -2.007812,0 -3.65625,1.65625 -3.65625,3.6875 l 0,6.125 c 0,2.03125 1.648438,3.6875 3.65625,3.6875 2.007813,0 3.625,-1.65625 3.625,-3.6875 l 0,-6.125 C 12,4.84325 10.382813,3.187 8.375,3.187 z M 20.5,10.562 c -1.339844,0 -2.4375,1.082031 -2.4375,2.4375 0,1.355469 1.097656,2.4375 2.4375,2.4375 1.339844,0 2.40625,-1.082031 2.40625,-2.4375 0,-1.355469 -1.066406,-2.4375 -2.40625,-2.4375 z M 1.09375,12.9995 c 0,3.652344 2.617187,6.667969 6.0625,7.25 l 0,1.34375 -1.21875,0 0,1.21875 4.84375,0 0,-1.21875 -1.21875,0 0,-1.34375 c 3.445312,-0.582031 6.0625,-3.597656 6.0625,-7.25 l -2.40625,0 c 0,2.710938 -2.164062,4.90625 -4.84375,4.90625 -2.675781,0 -4.875,-2.195312 -4.875,-4.90625 l -2.40625,0 z"
+     id="path3794"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:#dcdcdc"
+     inkscape:connector-curvature="0"
+     id="path32"
+     d="m 8.363281,2.183594 c -2.007812,0 -3.636719,1.648437 -3.636719,3.679687 l 0,6.148438 c 0,2.03125 1.628907,3.679687 3.636719,3.679687 C 10.371094,15.691406 12,14.042969 12,12.011719 L 12,5.863281 C 12,3.832031 10.371094,2.183594 8.363281,2.183594 z" />
+  <path
+     style="fill:#dcdcdc"
+     inkscape:connector-curvature="0"
+     id="path34"
+     d="m 1.089844,12 c 0,3.652344 2.617187,6.667969 6.0625,7.25 l 0,1.339844 -1.214844,0 0,1.226562 4.851562,0 0,-1.226562 -1.214843,0 0,-1.339844 c 3.445312,-0.582031 6.0625,-3.597656 6.0625,-7.25 l -2.425781,0 c 0,2.710938 -2.167969,4.910156 -4.847657,4.910156 C 5.6875,16.910156 3.515625,14.710938 3.515625,12 z" />
+  <path
+     style="fill:#dcdcdc"
+     inkscape:connector-curvature="0"
+     id="path38"
+     d="m 22.910156,12 c 0,1.355469 -1.085937,2.453125 -2.425781,2.453125 -1.339844,0 -2.421875,-1.097656 -2.421875,-2.453125 0,-1.355469 1.082031,-2.453125 2.421875,-2.453125 1.339844,0 2.425781,1.097656 2.425781,2.453125 z" />
+</svg>
