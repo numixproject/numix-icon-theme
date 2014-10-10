@@ -12,8 +12,8 @@
    viewBox="0 0 128 128"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
-   sodipodi:docname="package-install.svg">
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="package-upgrade.svg">
   <metadata
      id="metadata18">
     <rdf:RDF>
@@ -22,7 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -65,8 +65,8 @@
        id="path10" />
   </g>
   <path
-     style="fill:#859900"
-     d="M 92.570312,56 56,88 l 24,0 0,40 24,0 0,-40 24,0 z"
+     style="fill:#cb4b16;fill-opacity:1"
+     d="M 91.429688,128 128,96 l -24,0 0,-40 -24,0 0,40 -24,0 z"
      id="path12"
      inkscape:connector-curvature="0" />
 </svg>

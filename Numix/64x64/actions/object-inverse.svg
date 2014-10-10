@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="64"
+   height="64"
+   viewBox="0 0 64 64"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="object-inverse.svg">
+  <metadata
+     id="metadata10">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1280"
+     inkscape:window-height="998"
+     id="namedview6"
+     showgrid="true"
+     inkscape:zoom="2.6074563"
+     inkscape:cx="14.862056"
+     inkscape:cy="-24.989125"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2987" />
+  </sodipodi:namedview>
+  <path
+     style="fill:#2d2d2d;fill-rule:evenodd;fill-opacity:1"
+     d="M 64 32.003906 C 63.996094 49.675781 49.671875 64 32 64 C 14.328125 64 0.00390625 49.675781 0 32.003906 C -0.00390625 14.328125 14.324219 0 32 0 C 49.675781 0 64.003906 14.328125 64 32.003906 Z "
+     id="path4" />
+  <path
+     style="fill:#f9f9f9;fill-rule:evenodd;fill-opacity:1"
+     d="M 32 3 L 32 61 C 48.015137 61 60.99646 48.015137 61 32 C 61.00354 15.981323 48.018677 3 32 3 z "
+     id="path2989" />
+</svg>
