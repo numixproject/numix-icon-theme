@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 16 16"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   width="100%"
+   height="100%"
+   sodipodi:docname="bookmark-new.svg">
+  <metadata
+     id="metadata12">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs10" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="672"
+     inkscape:window-height="480"
+     id="namedview8"
+     showgrid="true"
+     inkscape:zoom="7.375"
+     inkscape:cx="11.129575"
+     inkscape:cy="0.22802173"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3758" />
+  </sodipodi:namedview>
+  <path
+     inkscape:connector-curvature="0"
+     id="path6"
+     d="M 8,0.6875 C 6.99948,0.6835 6.43687,4.22775 5.625,4.8125 4.81345,5.39702 1.28149,4.8 0.96875,5.75 0.65589,6.70036 3.851,8.32842 4.15625,9.28125 4.46138,10.2337 2.81815,13.40901 3.625,14 c 0.80717,0.59122 3.34323,-1.94163 4.34375,-1.9375 1.00013,0.004 3.5011,2.58473 4.3125,2 0.81172,-0.58496 -0.81311,-3.79972 -0.5,-4.75 C 12.09423,8.3626 15.30538,6.76487 15,5.8125 14.6945,4.85975 11.15076,5.43518 10.34375,4.84375 9.53705,4.25255 9.00013,0.69137 8,0.6875 z"
+     style="color:#000000;fill:#f1c40f;fill-opacity:1"
+     sodipodi:nodetypes="csssscssssc" />
+  <path
+     style="opacity:1;fill:#859900;fill-opacity:1;fill-rule:evenodd;stroke:none"
+     d="M 7 5 L 7 7 L 5 7 L 5 9 L 7 9 L 7 11 L 9 11 L 9 9 L 11 9 L 11 7 L 9 7 L 9 5 L 7 5 z "
+     id="rect2983" />
+</svg>
