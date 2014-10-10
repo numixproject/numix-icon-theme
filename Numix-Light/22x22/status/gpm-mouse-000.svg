@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 22" width="22" height="22">
+ <g transform="translate(3.5,0)">
+  <g fill="none" stroke-linecap="round">
+   <g>
+    <path d="m 6.5,4.5 h 2 c 2.216,0 4,1.338 4,3 v 9 c 0,1.662 -1.784,3 -4,3 h -2 c -2.216,0 -4,-1.338 -4,-3 v -9 c 0,-1.662 1.784,-3 4,-3 z m 1.0419,1e-6 v 4" opacity="0.3" stroke="#000000"/>
+   </g>
+   <g stroke="#df382c">
+    <g transform="translate(-5,-1)" opacity="0.3">
+     <path d="M 12.5,5.3333 V 8.6666" stroke-width="2"/>
+     <rect transform="matrix(0,-1,1,0,0,0)" height="8.5" ry="3.3" rx="2.3" y="8.25" x="-18.75" width="13.5" stroke-width="0.5"/>
+    </g>
+    <path d="m 6.5,3.5 h 2 c 2.216,0 4,1.338 4,3 v 9 c 0,1.662 -1.784,3 -4,3 h -2 c -2.216,0 -4,-1.338 -4,-3 v -9 c 0,-1.662 1.784,-3 4,-3 z m 1.0419,1e-6 v 4"/>
+   </g>
+  </g>
+ </g>
+</svg>
