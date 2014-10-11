@@ -1,5 +1,76 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="22" viewBox="0 0 22 22" height="22">
- <path d="m 5,16 0,4 12,0 0,-4 z" opacity="0.3"/>
- <path d="M 8,3 8,5 5,5 5,19 17,19 17,5 14,5 14,3 z" opacity="0.4" fill="#353535"/>
- <path d="M 5,6 5,19 17,19 17,6 z" fill="#353535"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="16"
+   viewBox="0 0 16 16"
+   height="16"
+   id="svg3033"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="battery-080.svg">
+  <metadata
+     id="metadata3045">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs3043" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1280"
+     inkscape:window-height="998"
+     id="namedview3041"
+     showgrid="true"
+     inkscape:zoom="15.170655"
+     inkscape:cx="-1.1590931"
+     inkscape:cy="9.6467213"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3033">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3091"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true" />
+  </sodipodi:namedview>
+  <path
+     d="M 4,11.941176 4,15 l 8,0 0,-3.058824 z"
+     id="path3035"
+     inkscape:connector-curvature="0"
+     style="opacity:0.3"
+     sodipodi:nodetypes="ccccc" />
+  <path
+     d="M 6,2 6,4 4,4 4,14 12,14 12,4 10,4 10,2 z"
+     id="path3037"
+     inkscape:connector-curvature="0"
+     style="opacity:0.4;fill:#353535"
+     sodipodi:nodetypes="ccccccccc" />
+  <path
+     d="M 4,4.294118 4,14 l 8,0 0,-9.705882 z"
+     id="path3039"
+     inkscape:connector-curvature="0"
+     style="fill:#353535"
+     sodipodi:nodetypes="ccccc" />
 </svg>
