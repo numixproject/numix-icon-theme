@@ -7,12 +7,12 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="22"
-   viewBox="0 0 22 22"
-   height="22"
+   width="24"
+   viewBox="0 0 24 24"
+   height="24"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.48.5 r10040"
    sodipodi:docname="battery-020-charging.svg">
   <metadata
      id="metadata14">
@@ -36,28 +36,37 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1366"
-     inkscape:window-height="740"
+     inkscape:window-width="1280"
+     inkscape:window-height="998"
      id="namedview10"
-     showgrid="false"
-     inkscape:zoom="24.178267"
-     inkscape:cx="11.082719"
-     inkscape:cy="11"
+     showgrid="true"
+     inkscape:zoom="34.193233"
+     inkscape:cx="13.548161"
+     inkscape:cy="11.21522"
      inkscape:window-x="0"
-     inkscape:window-y="28"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg2" />
+     inkscape:current-layer="svg2">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3123"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true" />
+  </sodipodi:namedview>
   <path
-     d="m 5,16 0,4 12,0 0,-4 -5.4375,0 L 9,19 9.59375,16 5,16 z"
-     opacity="0.4"
-     id="path4" />
+     d="m 6,17 0,4 12,0 0,-4 -5.4375,0 L 10,20 10.59375,17 6,17 z"
+     id="path4"
+     inkscape:connector-curvature="0"
+     style="opacity:0.4" />
   <path
-     d="M 8,3 8,5 5,5 5,19 17,19 17,5 14,5 14,3 8,3 z m 5,3 -1,5 3,0 -6,7 1,-5 -3,0 6,-7 z"
-     opacity="0.6"
-     fill="#bebebe"
-     id="path6" />
+     d="M 9,4 9,6 6,6 6,20 18,20 18,6 15,6 15,4 9,4 z m 5,3 -1,5 3,0 -6,7 1,-5 -3,0 6,-7 z"
+     id="path6"
+     inkscape:connector-curvature="0"
+     style="opacity:0.6;fill:#bebebe" />
   <path
-     d="m 5,15 0,4 12,0 0,-4 -5.4375,0 L 9,18 9.59375,15 5,15 z"
+     d="m 6,16 0,4 12,0 0,-4 -5.4375,0 L 10,19 10.59375,16 6,16 z"
      id="path8"
      style="fill:#ff8000;fill-opacity:1"
      class="warning"

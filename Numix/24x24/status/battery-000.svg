@@ -7,12 +7,12 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="22"
-   viewBox="0 0 22 22"
-   height="22"
+   width="24"
+   viewBox="0 0 24 24"
+   height="24"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.48.5 r10040"
    sodipodi:docname="battery-000.svg">
   <metadata
      id="metadata12">
@@ -36,23 +36,32 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1366"
-     inkscape:window-height="740"
+     inkscape:window-width="1280"
+     inkscape:window-height="998"
      id="namedview8"
-     showgrid="false"
+     showgrid="true"
      inkscape:zoom="24.178267"
-     inkscape:cx="11.082719"
-     inkscape:cy="11"
+     inkscape:cx="11.165438"
+     inkscape:cy="10.917281"
      inkscape:window-x="0"
-     inkscape:window-y="28"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg2" />
+     inkscape:current-layer="svg2">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3011"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true" />
+  </sodipodi:namedview>
   <path
-     d="M 8,4 8,6 5,6 5,20 17,20 17,6 14,6 14,4 z"
-     opacity="0.15"
-     id="path4" />
+     d="M 9,5 9,7 6,7 6,21 18,21 18,7 15,7 15,5 z"
+     id="path4"
+     inkscape:connector-curvature="0"
+     style="opacity:0.15" />
   <path
-     d="M 8,3 8,5 5,5 5,19 17,19 17,5 14,5 14,3 z"
+     d="M 9,4 9,6 6,6 6,20 18,20 18,6 15,6 15,4 z"
      id="path6"
      class="error"
      inkscape:connector-curvature="0"
