@@ -1,10 +1,5 @@
-<svg width="22" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 22" height="22">
-<path style="opacity:.12" d="M 14 4 L 9.1875 9.40625 L 13.09375 9.40625 L 14 4 z "/>
-<g style="fill-rule:evenodd">
-<path style="opacity:.3" d="M 9.1875 9.40625 L 6 13 L 9 13 L 8 20 L 16 10 L 13 10 L 13.09375 9.40625 L 9.1875 9.40625 z "/>
-<g style="fill:#353535">
-<path d="M 8.3126194,9.40625 6,12 9.0001548,12 8.0001032,19 15.688,9.40625 l -7.3753806,0 z"/>
-<path style="opacity:.3" d="M 14 3 L 8.3125 9.40625 L 15.6875 9.40625 L 16 9 L 13 9 L 14 3 z "/>
-</g>
-</g>
+<svg xmlns="http://www.w3.org/2000/svg" width="22" viewBox="0 0 22 22" height="22">
+ <path d="M 5,10 5,20 17,20 17,10 12.40625,10 12,12 15,12 9,19 10,14 7,14 10.4375,10 5,10 z" opacity="0.3"/>
+ <path d="M 8 3 L 8 5 L 5 5 L 5 19 L 17 19 L 17 5 L 14 5 L 14 3 L 8 3 z M 13 6 L 12 11 L 15 11 L 9 18 L 10 13 L 7 13 L 13 6 z " opacity="0.4" fill="#353535"/>
+ <path d="M 5 9 L 5 19 L 17 19 L 17 9 L 12.40625 9 L 12 11 L 15 11 L 9 18 L 10 13 L 7 13 L 10.4375 9 L 5 9 z " fill="#353535"/>
 </svg>
