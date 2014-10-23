@@ -1,20 +1,110 @@
-<svg width="16" xmlns="http://www.w3.org/2000/svg" height="16" viewBox="0 0 16 16" xmlns:xlink="http://www.w3.org/1999/xlink">
-<defs>
-<clipPath id="clip1">
-<rect width="16" height="16"/>
-</clipPath>
-<filter width="100%" x="0" y="0" height="100%" filterUnits="objectBoundingBox" id="alpha">
-<feColorMatrix values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0" in="SourceGraphic" type="matrix"/>
-</filter>
-<g style="clip-path:url(#clip1)" id="surface6">
-<path style="fill:#000" d="M 2.476562 4.226562 C 2.582031 4.257812 2.675781 4.3125 2.757812 4.378906 L 8 8.113281 L 13.242188 4.378906 C 13.339844 4.304688 13.453125 4.253906 13.574219 4.226562 Z M 14.546875 5.148438 C 14.515625 5.371094 14.398438 5.574219 14.214844 5.710938 L 8.484375 9.800781 C 8.195312 10.015625 7.804688 10.015625 7.515625 9.800781 L 1.785156 5.710938 C 1.628906 5.605469 1.511719 5.453125 1.453125 5.273438 L 1.453125 12.410156 C 1.453125 12.835938 1.84375 13.226562 2.273438 13.226562 L 13.726562 13.226562 C 14.15625 13.226562 14.546875 12.835938 14.546875 12.410156 Z "/>
-</g>
-<mask id="mask0">
-<g style="filter:url(#alpha)">
-<rect width="16" x="0" y="0" height="16" style="fill:#000;fill-opacity:.302"/>
-</g>
-</mask>
-</defs>
-<use style="mask:url(#mask0)" xlink:href="#surface6"/>
-<path style="fill:#54cdee" d="M 2.476562 3.5 C 2.582031 3.53125 2.675781 3.582031 2.757812 3.652344 L 8 7.386719 L 13.242188 3.652344 C 13.339844 3.578125 13.453125 3.523438 13.574219 3.5 Z M 14.546875 4.421875 C 14.515625 4.644531 14.398438 4.847656 14.214844 4.984375 L 8.484375 9.074219 C 8.195312 9.285156 7.804688 9.285156 7.515625 9.074219 L 1.785156 4.984375 C 1.628906 4.878906 1.511719 4.726562 1.453125 4.546875 L 1.453125 11.683594 C 1.453125 12.109375 1.84375 12.5 2.273438 12.5 L 13.726562 12.5 C 14.15625 12.5 14.546875 12.109375 14.546875 11.683594 Z "/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="16"
+   height="16"
+   viewBox="0 0 16 16"
+   id="svg3003"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="indicator-messages-new.svg">
+  <metadata
+     id="metadata3027">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="892"
+     inkscape:window-height="767"
+     id="namedview3025"
+     showgrid="true"
+     inkscape:zoom="22.627417"
+     inkscape:cx="10.853721"
+     inkscape:cy="4.540572"
+     inkscape:window-x="386"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg3003">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3029" />
+  </sodipodi:namedview>
+  <defs
+     id="defs3005">
+    <clipPath
+       id="clip1">
+      <rect
+         width="16"
+         height="16"
+         id="rect3008" />
+    </clipPath>
+    <filter
+       width="100%"
+       x="0"
+       y="0"
+       height="100%"
+       filterUnits="objectBoundingBox"
+       id="alpha">
+      <feColorMatrix
+         values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"
+         in="SourceGraphic"
+         type="matrix"
+         id="feColorMatrix3011" />
+    </filter>
+    <g
+       style="clip-path:url(#clip1)"
+       id="surface6"
+       clip-path="url(#clip1)">
+      <path
+         style="fill:#000"
+         d="M 2.476562 4.226562 C 2.582031 4.257812 2.675781 4.3125 2.757812 4.378906 L 8 8.113281 L 13.242188 4.378906 C 13.339844 4.304688 13.453125 4.253906 13.574219 4.226562 Z M 14.546875 5.148438 C 14.515625 5.371094 14.398438 5.574219 14.214844 5.710938 L 8.484375 9.800781 C 8.195312 10.015625 7.804688 10.015625 7.515625 9.800781 L 1.785156 5.710938 C 1.628906 5.605469 1.511719 5.453125 1.453125 5.273438 L 1.453125 12.410156 C 1.453125 12.835938 1.84375 13.226562 2.273438 13.226562 L 13.726562 13.226562 C 14.15625 13.226562 14.546875 12.835938 14.546875 12.410156 Z "
+         id="path3014" />
+    </g>
+    <mask
+       id="mask0">
+      <g
+         style="filter:url(#alpha)"
+         id="g3017">
+        <rect
+           width="16"
+           x="0"
+           y="0"
+           height="16"
+           style="fill:#000;fill-opacity:.302"
+           id="rect3019" />
+      </g>
+    </mask>
+  </defs>
+  <path
+     style="opacity:0.3"
+     inkscape:connector-curvature="0"
+     d="m 2,12.999839 12,0 -1.125,-1.941176 -9.7499994,0 z m 4,1 c 0.3601085,0.953933 1,1.511049 2.0000005,1.5 C 8.999939,15.488791 9.639892,14.953772 10,13.999839 z M 8.0186703,2.8292957 C 6.1786073,2.7261043 4.4121083,3.9849525 3.6970301,5.4559215 3.2160557,6.4834525 3.1938183,6.6451462 3.157249,9.4391506 l -0.032256,2.4430414 9.75,0 L 13,8.9998387 C 13.099581,6.7037379 12.839633,6.928846 12.596615,6.1486582 12.342606,5.3331642 12.054572,4.8443258 11.435586,4.180495 10.477508,3.0992259 9.0597509,2.8320795 8.0186703,2.8292957 z"
+     id="path2991"
+     sodipodi:nodetypes="ccccccscccccccsscc" />
+  <path
+     style="fill:#55cdef"
+     inkscape:connector-curvature="0"
+     d="m 2,11.999839 12,0 -1,-2.0000003 -10,0 z m 4,1 c 0.3601085,0.953933 0.9997599,1.497181 2,1.5 1,0.0028 1.639892,-0.546067 2,-1.5 z M 8.0186703,2.0057663 C 6,2 4.4121083,3.1614231 3.6970301,4.632392 3.2160557,5.659923 3,5.9998387 3,7.9998387 l 0,2 10,0 0,-2 c 0,-2 -0.363492,-2.6288971 -0.715885,-3.2997099 C 11.470006,3.1970476 10,2 8.0186703,2.0057663 z"
+     id="path2993"
+     sodipodi:nodetypes="ccccccscccccccccc" />
 </svg>
