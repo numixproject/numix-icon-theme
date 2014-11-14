@@ -7,9 +7,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="16"
-   height="16"
-   viewBox="0 0 16 16"
+   width="22"
+   height="22"
+   viewBox="0 0 22 22"
    id="svg2"
    version="1.1"
    inkscape:version="0.48.5 r10040"
@@ -40,23 +40,23 @@
      inkscape:window-height="970"
      id="namedview18"
      showgrid="false"
-     inkscape:zoom="14.75"
-     inkscape:cx="8"
-     inkscape:cy="8"
+     inkscape:zoom="3.6875"
+     inkscape:cx="-6.8644021"
+     inkscape:cy="35.707428"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2" />
   <path
      style="fill:#785a8b;fill-opacity:1"
-     d="M 2.667969,6e-7 C 2.324219,6e-7 2,-0.0097694 2,0.3339851 L 2,15.332031 C 2,15.65625 2.34375,16 2.667969,16 l 10.664062,0 C 13.65625,16 14,15.65625 14,15.332031 L 14,0.6679696 C 14,0.3242196 13.675781,6e-7 13.332031,6e-7 z"
-     id="path2991"
+     d="m 4,-5e-7 c -0.472657,0 -1,0.527345 -1,1 L 3,21 c 0,0.445312 0.554687,1 1,1 l 14,0 c 0.445313,0 1,-0.554688 1,-1 L 19,0.9999995 c 0,-0.472655 -0.527343,-1 -1,-1 z"
+     id="path4-1"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="sssssssss" />
   <path
      style="fill:#ffffff"
      inkscape:connector-curvature="0"
      id="path14"
-     d="m 5,5 0,5 -1,0 1,2 1,0 0,-6 6,0 0,-1 z M 7.9009123,6.6173408 6.9934815,7.5664926 8.5840938,9.224903 6.9934815,10.888526 7.9009123,11.837679 9.4967408,10.174054 11.087353,11.837679 12,10.888526 10.404172,9.224903 12,7.5664926 11.087353,6.6173408 9.4967408,8.2757494 z"
+     d="M 7,7.0000003 7,14 l -2,0 2,3 0.9999999,0 0,-8.9999997 9.0000001,0 0,-1 z m 3.372228,1.9111175 -1.2099071,1.3050472 2.1208161,2.28025 -2.1208161,2.287419 1.2099071,1.305048 2.127772,-2.28742 2.120816,2.28742 1.216863,-1.305048 -2.127771,-2.287419 2.127771,-2.28025 L 14.620816,8.9111178 12.5,11.191364 z"
      sodipodi:nodetypes="cccccccccccccccccccccc" />
 </svg>
