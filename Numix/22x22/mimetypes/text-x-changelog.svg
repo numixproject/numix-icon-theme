@@ -7,9 +7,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="16"
-   height="16"
-   viewBox="0 0 16 16"
+   width="22"
+   height="22"
+   viewBox="0 0 22 22"
    id="svg2"
    version="1.1"
    inkscape:version="0.48.5 r10040"
@@ -40,81 +40,97 @@
      inkscape:window-height="970"
      id="namedview36"
      showgrid="true"
-     inkscape:zoom="14.75"
-     inkscape:cx="12.855979"
-     inkscape:cy="5.6928436"
+     inkscape:zoom="32"
+     inkscape:cx="15.474096"
+     inkscape:cy="11.334909"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2">
     <inkscape:grid
        type="xygrid"
-       id="grid3036" />
+       id="grid3036"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true" />
   </sodipodi:namedview>
   <path
-     style="fill:#dcdcdc;fill-opacity:1"
-     d="M 2.667969,-4.458e-4 C 2.324219,-4.458e-4 2,0.3378122 2,0.6964469 L 2,15.303108 C 2,15.641365 2.34375,16 2.667969,16 l 10.664062,0 C 13.65625,16 14,15.641365 14,15.303108 L 14,3.999554 10,-4.458e-4 z"
+     style="fill:#dcdcdc"
+     d="M 4,0 C 3.527343,0 3,0.527344 3,1 l 0,20 c 0,0.445312 0.554687,1 1,1 l 14,0 c 0.445313,0 0.992367,-0.554753 1,-1 L 19,6 13,0 z"
      id="path4"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="ssssssccs" />
   <path
-     style="fill:#888888"
-     inkscape:connector-curvature="0"
-     id="path16"
-     d="m 6,8 0,1 6,0 0,-1 z" />
-  <path
-     style="fill:#888888"
-     inkscape:connector-curvature="0"
-     id="path22"
-     d="m 6,10 0,1 6,0 0,-1 z" />
-  <path
-     style="fill:#888888"
-     inkscape:connector-curvature="0"
-     id="path28"
-     d="m 6,12 0,1 6,0 0,-1 z" />
-  <path
      style="fill:#000000;fill-opacity:0.19599998"
-     d="m 10.583223,3.331585 0.0154,0.01953 0.04005,-0.01953 z m 0.02978,0.667969 3.387,3.664062 0,-3.664062 z"
+     d="m 14,6 5,5 0,-5 z"
      id="path6"
      inkscape:connector-curvature="0"
-     sodipodi:nodetypes="cccccccc" />
+     sodipodi:nodetypes="cccc" />
   <path
      style="fill:#ffffff;fill-opacity:0.39200003"
-     d="m 10,-4.458e-4 3.996396,3.9999998 -3.383784,0 C 10.313513,3.999554 10,3.682437 10,3.383338 z"
+     d="m 13,0 6,6 -5,0 C 13.554688,6 13,5.445312 13,5 z"
      id="path8"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="ccssc" />
   <path
      style="fill:#888888"
      inkscape:connector-curvature="0"
+     id="path16"
+     d="m 8.000002,13 0,1 L 16,14 16,13 z" />
+  <path
+     style="fill:#888888"
+     inkscape:connector-curvature="0"
+     id="path22"
+     d="m 8,15 0,1 8,0 0,-1 z" />
+  <path
+     style="fill:#888888"
+     inkscape:connector-curvature="0"
+     id="path28"
+     d="m 8,17 0,1 8,0 0,-1 z" />
+  <path
+     style="fill:#888888"
+     inkscape:connector-curvature="0"
      id="path16-4"
-     d="m 6,6 0,1 6,0 0,-1 z" />
+     d="m 8,9 0,1 8,0 0,-1 z" />
   <rect
      style="fill:#888888;fill-opacity:1;fill-rule:evenodd;stroke:none"
      id="rect3038"
      width="1"
-     height="1"
-     x="4"
-     y="6" />
+     height="0.99999994"
+     x="6"
+     y="9" />
   <rect
      style="fill:#888888;fill-opacity:1;fill-rule:evenodd;stroke:none"
      id="rect3040"
      width="1"
-     height="1"
-     x="4"
-     y="8" />
+     height="0.99999988"
+     x="6"
+     y="13" />
   <rect
      style="fill:#888888;fill-opacity:1;fill-rule:evenodd;stroke:none"
      id="rect3042"
      width="1"
-     height="1"
-     x="4"
-     y="10" />
+     height="0.99999988"
+     x="6"
+     y="15" />
   <rect
      style="fill:#888888;fill-opacity:1;fill-rule:evenodd;stroke:none"
      id="rect3044"
      width="1"
-     height="1"
-     x="4"
-     y="12" />
+     height="0.99999988"
+     x="6"
+     y="17" />
+  <path
+     style="fill:#888888"
+     inkscape:connector-curvature="0"
+     id="path28-0"
+     d="m 8,11 0,1 8,0 0,-1 z" />
+  <rect
+     style="fill:#888888;fill-opacity:1;fill-rule:evenodd;stroke:none"
+     id="rect3044-3"
+     width="1"
+     height="0.99999988"
+     x="6"
+     y="11" />
 </svg>
