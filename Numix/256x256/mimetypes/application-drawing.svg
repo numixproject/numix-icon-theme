@@ -1,6 +1,10 @@
-<svg width="256" xmlns="http://www.w3.org/2000/svg" height="256" viewBox="0 0 256 256" xmlns:xlink="http://www.w3.org/1999/xlink">
-<path style="fill:#edaf02" d="M 42.667969 5.332031 C 37.179688 5.332031 32 10.515625 32 16 L 32 240 C 32 245.179688 37.484375 250.667969 42.667969 250.667969 L 213.332031 250.667969 C 218.515625 250.667969 224 245.179688 224 240 L 224 74.667969 L 154.667969 5.332031 Z "/>
-<path style="fill:#000;fill-opacity:.196" d="M 154.667969 64 L 155 64.332031 L 155.832031 64 Z M 165.332031 74.667969 L 224 133.332031 L 224 74.667969 Z "/>
-<path style="fill:#fff;fill-opacity:.392" d="M 154.667969 5.332031 L 224 74.667969 L 165.332031 74.667969 C 160.152344 74.667969 154.667969 69.179688 154.667969 64 Z "/>
-<path style="fill:#fff" d="M 80 192 L 80 96 L 176 96 L 176 192 L 122.667969 192 L 122.667969 144 L 149.332031 144 L 149.332031 160 L 138.667969 160 L 138.667969 176 L 160 176 L 160 112 L 96 112 L 96 192 Z "/>
+
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="256px" height="256px" viewBox="0 0 256 256" version="1.1">
+<g id="surface1">
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(92.941176%,68.627451%,0.784314%);fill-opacity:1;" d="M 42.6875 0 C 37.1875 0 32 5.421875 32 11.15625 L 32 244.84375 C 32 250.265625 37.5 256 42.6875 256 L 213.3125 256 C 218.5 256 224 250.265625 224 244.84375 L 224 72 L 152 0 Z M 42.6875 0 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(0%,0%,0%);fill-opacity:0.196078;" d="M 168 72 L 224 128 L 224 72 Z M 168 72 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(100%,100%,100%);fill-opacity:0.392157;" d="M 152 0 L 223.9375 72 L 163.03125 72 C 157.640625 72 152 66.296875 152 60.90625 Z M 152 0 "/>
+<path style=" stroke:none;fill-rule:evenodd;fill:rgb(53.333333%,53.333333%,53.333333%);fill-opacity:1;" d="M 136 104 L 176 104 L 176 112 L 136 112 Z M 136 104 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(100%,100%,100%);fill-opacity:1;" d="M 80 192 L 80 96 L 176 96 L 176 192 L 120 192 L 120 144 L 144 144 L 144 160 L 136 160 L 136 176 L 160 176 L 160 112 L 96 112 L 96 192 Z M 80 192 "/>
+</g>
 </svg>
