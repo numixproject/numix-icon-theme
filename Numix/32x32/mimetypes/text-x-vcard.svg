@@ -34,17 +34,21 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="640"
-     inkscape:window-height="480"
+     inkscape:window-width="1280"
+     inkscape:window-height="970"
      id="namedview16"
-     showgrid="false"
-     inkscape:zoom="7.375"
-     inkscape:cx="16"
-     inkscape:cy="16"
+     showgrid="true"
+     inkscape:zoom="14.75"
+     inkscape:cx="29.034936"
+     inkscape:cy="5.9298887"
      inkscape:window-x="0"
      inkscape:window-y="0"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="svg2" />
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2986" />
+  </sodipodi:namedview>
   <defs
      id="defs4" />
   <path
@@ -73,4 +77,16 @@
        y="23.274"
        id="use14" />
   </g>
+  <text
+     x="7.8689299"
+     y="24.416016"
+     style="font-size:16.09028244px;line-height:125%;letter-spacing:0;word-spacing:0;fill:#888888;font-family:Ubuntu Mono"
+     xml:space="preserve"
+     transform="scale(1.0078874,0.99217433)"
+     id="text10"
+     sodipodi:linespacing="125%"><tspan
+       x="7.8689299"
+       y="24.416016"
+       style="font-weight:bold;font-family:Open Sans"
+       id="tspan12">@</tspan></text>
 </svg>
