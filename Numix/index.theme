@@ -316,43 +316,59 @@ Type=Fixed
 
 [256x256/actions]
 Size=256
+MinSize=56
+MaxSize=512
 Context=Actions
-Type=Fixed
+Type=Scalable
 
 [256x256/animations]
 Size=256
+MinSize=56
+MaxSize=512
 Context=Animations
-Type=Fixed
+Type=Scalable
 
 [256x256/categories]
 Size=256
+MinSize=56
+MaxSize=512
 Context=Categories
-Type=Fixed
+Type=Scalable
 
 [256x256/devices]
 Size=256
+MinSize=56
+MaxSize=512
 Context=Devices
-Type=Fixed
+Type=Scalable
 
 [256x256/emblems]
 Size=256
+MinSize=56
+MaxSize=512
 Context=Emblems
-Type=Fixed
+Type=Scalable
 
 [256x256/mimetypes]
 Size=256
+MinSize=56
+MaxSize=512
 Context=MimeTypes
-Type=Fixed
+Type=Scalable
 
 [256x256/places]
 Size=256
+MinSize=56
+MaxSize=512
 Context=Places
-Type=Fixed
+Type=Scalable
 
 [256x256/status]
 Size=256
+MinSize=56
+MaxSize=512
 Context=Status
-Type=Fixed
+Type=Scalable
 
 [scalable/actions]
 Size=16
