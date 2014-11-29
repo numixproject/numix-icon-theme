@@ -10,12 +10,12 @@
    width="24"
    viewBox="0 0 24 24"
    height="24"
-   id="svg2991"
+   id="svg3019"
    version="1.1"
    inkscape:version="0.48.5 r10040"
    sodipodi:docname="battery-040-charging.svg">
   <metadata
-     id="metadata3003">
+     id="metadata3031">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -26,7 +26,7 @@
     </rdf:RDF>
   </metadata>
   <defs
-     id="defs3001" />
+     id="defs3029" />
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -38,18 +38,18 @@
      inkscape:pageshadow="2"
      inkscape:window-width="1280"
      inkscape:window-height="998"
-     id="namedview2999"
+     id="namedview3027"
      showgrid="true"
-     inkscape:zoom="21.454545"
-     inkscape:cx="12.813875"
-     inkscape:cy="14.094734"
+     inkscape:zoom="30.341309"
+     inkscape:cx="15.408866"
+     inkscape:cy="11.776281"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg2991">
+     inkscape:current-layer="svg3019">
     <inkscape:grid
        type="xygrid"
-       id="grid3091"
+       id="grid3119"
        empspacing="5"
        visible="true"
        enabled="true"
@@ -57,17 +57,17 @@
   </sodipodi:namedview>
   <path
      d="m 6,14 0,7 12,0 0,-7 -2.84375,0 L 10,20 11,15 8,15 8.84375,14 6,14 z"
-     id="path2993"
+     id="path3021"
      inkscape:connector-curvature="0"
      style="opacity:0.3" />
   <path
      d="M 9,4 9,6 6,6 6,20 18,20 18,6 15,6 15,4 9,4 z m 5,3 -1,5 3,0 -6,7 1,-5 -3,0 6,-7 z"
-     id="path2995"
+     id="path3023"
      inkscape:connector-curvature="0"
      style="opacity:0.4;fill:#353535" />
   <path
      d="m 6,13 0,7 12,0 0,-7 -2.84375,0 L 10,19 11,14 8,14 8.84375,13 6,13 z"
-     id="path2997"
+     id="path3025"
      inkscape:connector-curvature="0"
      style="fill:#353535" />
 </svg>

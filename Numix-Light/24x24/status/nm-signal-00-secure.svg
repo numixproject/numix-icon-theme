@@ -10,12 +10,12 @@
    width="24"
    height="24"
    viewBox="0 0 24 24"
-   id="svg2"
+   id="svg3007"
    version="1.1"
    inkscape:version="0.48.5 r10040"
    sodipodi:docname="nm-signal-00-secure.svg">
   <metadata
-     id="metadata75">
+     id="metadata3080">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -34,46 +34,46 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1280"
-     inkscape:window-height="970"
-     id="namedview73"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview3078"
      showgrid="false"
      inkscape:zoom="9.8333333"
-     inkscape:cx="12.20339"
-     inkscape:cy="11.79661"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg2" />
+     inkscape:cx="12"
+     inkscape:cy="12"
+     inkscape:window-x="402"
+     inkscape:window-y="261"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg3007" />
   <defs
-     id="defs4">
+     id="defs3009">
     <clipPath
        id="clip3">
       <rect
          width="24"
          height="24"
-         id="rect7" />
+         id="rect3012" />
     </clipPath>
     <clipPath
        id="clip1">
       <rect
          width="24"
          height="24"
-         id="rect10" />
+         id="rect3015" />
     </clipPath>
     <clipPath
        id="clip2">
       <rect
          width="24"
          height="24"
-         id="rect13" />
+         id="rect3018" />
     </clipPath>
     <clipPath
        id="clip4">
       <rect
          width="24"
          height="24"
-         id="rect16" />
+         id="rect3021" />
     </clipPath>
     <filter
        width="100%"
@@ -86,7 +86,7 @@
          values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"
          in="SourceGraphic"
          type="matrix"
-         id="feColorMatrix19" />
+         id="feColorMatrix3024" />
     </filter>
     <g
        style="clip-path:url(#clip3)"
@@ -96,12 +96,12 @@
          style="stroke-opacity:.302;fill:none;stroke:#000;stroke-linecap:round;stroke-width:1.7"
          d="M 8.351237 16.189453 C 8.351237 16.189453 9.318034 15.118815 11.94987 15.097331 C 14.545898 15.079427 15.648763 16.189453 15.648763 16.189453 "
          transform="matrix(1.09091 0 0 1.09091 -1.09091 -1.09091)"
-         id="path22" />
+         id="path3027" />
       <path
          style="fill:none;stroke:#353535;stroke-linecap:round;stroke-width:1.7"
          d="M 8.351237 15.19043 C 8.351237 15.19043 9.318034 14.119792 11.94987 14.098307 C 14.545898 14.080404 15.648763 15.19043 15.648763 15.19043 "
          transform="matrix(1.09091 0 0 1.09091 -1.09091 -1.09091)"
-         id="path24" />
+         id="path3029" />
     </g>
     <g
        style="clip-path:url(#clip2)"
@@ -111,12 +111,12 @@
          style="stroke-opacity:.302;fill:none;stroke:#000;stroke-linecap:round;stroke-width:1.7"
          d="M 5.350586 13.750977 C 5.350586 13.750977 7.495443 11.538086 12 11.616862 C 16.540365 11.695638 18.649414 13.786784 18.649414 13.786784 "
          transform="matrix(1.09091 0 0 1.09091 -1.09091 -1.09091)"
-         id="path27" />
+         id="path3032" />
       <path
          style="fill:none;stroke:#353535;stroke-linecap:round;stroke-width:1.7"
          d="M 5.350586 12.751953 C 5.350586 12.751953 7.495443 10.535482 12 10.614258 C 16.540365 10.696615 18.649414 12.78776 18.649414 12.78776 "
          transform="matrix(1.09091 0 0 1.09091 -1.09091 -1.09091)"
-         id="path29" />
+         id="path3034" />
     </g>
     <g
        style="clip-path:url(#clip4)"
@@ -125,11 +125,11 @@
       <path
          style="fill:#000;fill-rule:evenodd;fill-opacity:.302"
          d="M 11.066406 18.546875 C 10.550781 18.546875 10.136719 18.871094 10.136719 19.273438 C 10.136719 19.421875 10.191406 19.5625 10.292969 19.675781 C 10.292969 19.675781 11.390625 20.550781 11.390625 20.550781 C 11.554688 20.660156 11.765625 20.726562 12 20.726562 C 12.277344 20.726562 12.523438 20.632812 12.695312 20.484375 C 12.695312 20.484375 13.679688 19.710938 13.679688 19.710938 C 13.796875 19.585938 13.863281 19.4375 13.863281 19.273438 C 13.863281 18.871094 13.449219 18.546875 12.933594 18.546875 C 12.933594 18.546875 11.066406 18.546875 11.066406 18.546875 Z "
-         id="path32" />
+         id="path3037" />
       <path
          style="fill:#353535;fill-rule:evenodd"
          d="M 11.066406 17.453125 C 10.550781 17.453125 10.136719 17.78125 10.136719 18.183594 C 10.136719 18.332031 10.191406 18.46875 10.292969 18.585938 C 10.292969 18.585938 11.390625 19.460938 11.390625 19.460938 C 11.554688 19.570312 11.765625 19.636719 12 19.636719 C 12.277344 19.636719 12.523438 19.542969 12.695312 19.394531 C 12.695312 19.394531 13.679688 18.617188 13.679688 18.617188 C 13.796875 18.496094 13.863281 18.34375 13.863281 18.183594 C 13.863281 17.78125 13.449219 17.453125 12.933594 17.453125 C 12.933594 17.453125 11.066406 17.453125 11.066406 17.453125 Z "
-         id="path34" />
+         id="path3039" />
     </g>
     <g
        style="clip-path:url(#clip1)"
@@ -139,78 +139,78 @@
          style="stroke-opacity:.302;fill:none;stroke:#000;stroke-linecap:round;stroke-width:1.7"
          d="M 2.851237 11.144206 C 2.851237 11.144206 5.748047 7.849935 11.982096 7.849935 C 18.183919 7.849935 21.148763 11.151367 21.148763 11.151367 "
          transform="matrix(1.09091 0 0 1.09091 -1.09091 -1.09091)"
-         id="path37" />
+         id="path3042" />
       <path
          style="fill:none;stroke:#353535;stroke-linecap:round;stroke-width:1.7"
          d="M 2.851237 10.145182 C 2.851237 10.145182 5.748047 6.850911 11.982096 6.850911 C 18.183919 6.850911 21.148763 10.148763 21.148763 10.148763 "
          transform="matrix(1.09091 0 0 1.09091 -1.09091 -1.09091)"
-         id="path39" />
+         id="path3044" />
     </g>
     <mask
        id="mask0">
       <g
          style="filter:url(#alpha)"
-         id="g42">
+         id="g3047">
         <rect
            width="24"
            x="0"
            y="0"
            height="24"
            style="fill:#000;fill-opacity:.4"
-           id="rect44" />
+           id="rect3049" />
       </g>
     </mask>
     <mask
        id="mask3">
       <g
          style="filter:url(#alpha)"
-         id="g47">
+         id="g3052">
         <rect
            width="24"
            x="0"
            y="0"
            height="24"
            style="fill:#000;fill-opacity:.4"
-           id="rect49" />
+           id="rect3054" />
       </g>
     </mask>
     <mask
        id="mask1">
       <g
          style="filter:url(#alpha)"
-         id="g52">
+         id="g3057">
         <rect
            width="24"
            x="0"
            y="0"
            height="24"
            style="fill:#000;fill-opacity:.4"
-           id="rect54" />
+           id="rect3059" />
       </g>
     </mask>
     <mask
        id="mask2">
       <g
          style="filter:url(#alpha)"
-         id="g57">
+         id="g3062">
         <rect
            width="24"
            x="0"
            y="0"
            height="24"
            style="fill:#000;fill-opacity:.502"
-           id="rect59" />
+           id="rect3064" />
       </g>
     </mask>
   </defs>
   <path
      style="fill:#000;fill-opacity:.302"
      d="M 20.726562 15.273438 C 19.519531 15.273438 18.546875 16.265625 18.546875 17.488281 L 18.546875 18.546875 C 17.941406 18.546875 17.453125 19.03125 17.453125 19.636719 L 17.453125 22.910156 C 17.453125 23.511719 17.941406 24 18.546875 24 L 22.910156 24 C 23.511719 24 24 23.511719 24 22.910156 L 24 19.636719 C 24 19.03125 23.511719 18.546875 22.910156 18.546875 L 22.910156 17.488281 C 22.910156 16.265625 21.9375 15.273438 20.726562 15.273438 Z M 20.726562 16.363281 C 21.332031 16.363281 21.816406 16.847656 21.816406 17.453125 L 21.816406 18.546875 L 19.636719 18.546875 L 19.636719 17.453125 C 19.636719 16.847656 20.121094 16.363281 20.726562 16.363281 Z "
-     id="path69" />
+     id="path3074" />
   <path
      style="fill:#353535"
      d="M 20.726562 14.183594 C 19.519531 14.183594 18.546875 15.175781 18.546875 16.398438 L 18.546875 17.453125 C 17.941406 17.453125 17.453125 17.941406 17.453125 18.546875 L 17.453125 21.816406 C 17.453125 22.421875 17.941406 22.910156 18.546875 22.910156 L 22.910156 22.910156 C 23.511719 22.910156 24 22.421875 24 21.816406 L 24 18.546875 C 24 17.941406 23.511719 17.453125 22.910156 17.453125 L 22.910156 16.398438 C 22.910156 15.175781 21.9375 14.183594 20.726562 14.183594 Z M 20.726562 15.273438 C 21.332031 15.273438 21.816406 15.753906 21.816406 16.363281 L 21.816406 17.453125 L 19.636719 17.453125 L 19.636719 16.363281 C 19.636719 15.753906 20.121094 15.273438 20.726562 15.273438 Z "
-     id="path71" />
+     id="path3076" />
   <g
      style="line-height:normal;color:#000000"
      id="g4"
@@ -241,7 +241,7 @@
          inkscape:connector-curvature="0" />
     </g>
     <g
-       style="fill:#dcdcdc"
+       style="fill:#353535"
        id="g16">
       <path
          style="opacity:0.4"
@@ -256,12 +256,12 @@
       <path
          style="opacity:0.4"
          d="m 11.021825,11.524615 c -1.5723002,0 -3.0659401,0.464341 -4.3795693,1.259012 l 1.6423426,2.334424 c 0.84105,-0.41345 1.7547647,-0.655746 2.7153227,-0.655746 0.96696,0 1.893588,0.23705 2.737225,0.655746 l 1.620439,-2.334424 c -1.305348,-0.788111 -2.770414,-1.259012 -4.33576,-1.259012 z"
-         id="path22-6"
+         id="path22"
          inkscape:connector-curvature="0" />
       <path
          style="opacity:0.4"
          d="m 10.999998,15.590175 c -0.732914,0 -1.4264755,0.172342 -2.0802805,0.445895 L 10.999998,19 13.080294,16.009841 c -0.64836,-0.26985 -1.352577,-0.419666 -2.080296,-0.419666 z"
-         id="path24-6"
+         id="path24"
          inkscape:connector-curvature="0" />
     </g>
   </g>

@@ -10,12 +10,12 @@
    width="16"
    viewBox="0 0 16 16"
    height="16"
-   id="svg3033"
+   id="svg2"
    version="1.1"
    inkscape:version="0.48.5 r10040"
    sodipodi:docname="battery-080.svg">
   <metadata
-     id="metadata3045">
+     id="metadata14">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -26,7 +26,7 @@
     </rdf:RDF>
   </metadata>
   <defs
-     id="defs3043" />
+     id="defs12" />
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -38,18 +38,18 @@
      inkscape:pageshadow="2"
      inkscape:window-width="1280"
      inkscape:window-height="998"
-     id="namedview3041"
+     id="namedview10"
      showgrid="true"
-     inkscape:zoom="15.170655"
-     inkscape:cx="-1.1590931"
-     inkscape:cy="9.6467213"
+     inkscape:zoom="30.341309"
+     inkscape:cx="3.3019859"
+     inkscape:cy="9.6335486"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg3033">
+     inkscape:current-layer="svg2">
     <inkscape:grid
        type="xygrid"
-       id="grid3091"
+       id="grid2991"
        empspacing="5"
        visible="true"
        enabled="true"
@@ -57,19 +57,18 @@
   </sodipodi:namedview>
   <path
      d="M 4,11.941176 4,15 l 8,0 0,-3.058824 z"
-     id="path3035"
+     id="path4"
      inkscape:connector-curvature="0"
-     style="opacity:0.3"
-     sodipodi:nodetypes="ccccc" />
+     style="opacity:0.3" />
   <path
      d="M 6,2 6,4 4,4 4,14 12,14 12,4 10,4 10,2 z"
-     id="path3037"
+     id="path6"
      inkscape:connector-curvature="0"
      style="opacity:0.4;fill:#353535"
      sodipodi:nodetypes="ccccccccc" />
   <path
      d="M 4,4.294118 4,14 l 8,0 0,-9.705882 z"
-     id="path3039"
+     id="path8"
      inkscape:connector-curvature="0"
      style="fill:#353535"
      sodipodi:nodetypes="ccccc" />

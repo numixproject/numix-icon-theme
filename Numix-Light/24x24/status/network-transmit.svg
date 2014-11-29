@@ -39,8 +39,8 @@
      id="namedview3037"
      showgrid="true"
      inkscape:zoom="13.906433"
-     inkscape:cx="9.9085968"
-     inkscape:cy="12.958274"
+     inkscape:cx="4.0120452"
+     inkscape:cy="11.735818"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -82,7 +82,7 @@
          d="M 21.816406 17.453125 L 16.363281 22.910156 L 10.910156 17.453125 L 14.183594 17.453125 L 14.183594 9.816406 L 18.546875 9.816406 L 18.546875 17.453125 Z "
          id="path3020" />
       <path
-         style="fill:#dcdcdc;fill-rule:evenodd"
+         style="fill:#353535;fill-rule:evenodd"
          d="M 21.816406 16.363281 L 16.363281 21.816406 L 10.910156 16.363281 L 14.183594 16.363281 L 14.183594 8.726562 L 18.546875 8.726562 L 18.546875 16.363281 Z "
          id="path3022" />
     </g>
@@ -112,7 +112,7 @@
      inkscape:connector-curvature="0"
      id="path3035"
      d="M 13,9 7.5,3.5 2,9 l 3,0 0,8 5,0 0,-8 z"
-     style="fill:#353535;fill-rule:evenodd;fill-opacity:1" />
+     style="fill:#353535;fill-rule:evenodd" />
   <path
      sodipodi:nodetypes="cccccccc"
      inkscape:connector-curvature="0"
@@ -124,5 +124,5 @@
      inkscape:connector-curvature="0"
      id="path3035-7"
      d="m 11,15 5.5,5.5 5.5,-5.5 -3,0 0,-8 -5,0 0,8 z"
-     style="fill:#dcdcdc;fill-rule:evenodd;opacity:0.4" />
+     style="fill:#353535;fill-rule:evenodd;opacity:0.4" />
 </svg>
