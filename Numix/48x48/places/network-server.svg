@@ -13,7 +13,7 @@
    height="48"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.48.5 r10040"
    sodipodi:docname="network-server.svg"
    inkscape:export-filename="/media/Data/Main/Visuals/Icons/Numix/Desktop/repos/numix-wiki/Gjorgi/Numix-folders/48/New/folder-144.png"
    inkscape:export-xdpi="270"
@@ -28,13 +28,13 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="19.696326"
-     inkscape:cx="21.139259"
-     inkscape:cy="23.487493"
+     inkscape:cx="12.508208"
+     inkscape:cy="23.385951"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1023"
+     inkscape:window-height="1052"
      inkscape:window-x="0"
      inkscape:window-y="28"
      inkscape:window-maximized="1"
@@ -56,7 +56,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -67,20 +67,20 @@
      transform="translate(0,-1004.3622)">
     <rect
        y="1032.3622"
-       x="23"
+       x="22"
        height="5"
-       width="2"
+       width="4"
        id="rect3804"
-       style="fill:#e95c36;fill-opacity:1;stroke:none" />
+       style="fill:#42a5f5;fill-opacity:1;stroke:none" />
     <rect
-       style="fill:#e95c36;fill-opacity:1;stroke:none"
+       style="fill:#42a5f5;fill-opacity:1;stroke:none"
        id="rect3802"
-       width="2"
+       width="4"
        height="5"
-       x="23"
+       x="22"
        y="1019.3622" />
     <rect
-       style="fill:#21a6d7;fill-opacity:1;stroke:none"
+       style="fill:#09b69e;fill-opacity:1;stroke:none"
        id="rect3000"
        width="42"
        height="10"
@@ -96,9 +96,9 @@
        height="10"
        width="42"
        id="rect2998"
-       style="opacity:1;fill:#e95c36;fill-opacity:1;stroke:none" />
+       style="opacity:1;fill:#42a5f5;fill-opacity:1;stroke:none" />
     <rect
-       style="fill:#21a6d7;fill-opacity:1;stroke:none"
+       style="fill:#486cd7;fill-opacity:1;stroke:none"
        id="rect2992"
        width="42"
        height="10"
@@ -121,11 +121,11 @@
        sodipodi:cy="17"
        sodipodi:rx="2"
        sodipodi:ry="2"
-       d="m -5,17 a 2,2 0 1 1 -4,0 2,2 0 1 1 4,0 z"
+       d="m -5,17 c 0,1.104569 -0.8954305,2 -2,2 -1.1045695,0 -2,-0.895431 -2,-2 0,-1.104569 0.8954305,-2 2,-2 1.1045695,0 2,0.895431 2,2 z"
        transform="translate(40,998.3622)" />
     <path
        transform="translate(47,998.3622)"
-       d="m -5,17 a 2,2 0 1 1 -4,0 2,2 0 1 1 4,0 z"
+       d="m -5,17 c 0,1.104569 -0.8954305,2 -2,2 -1.1045695,0 -2,-0.895431 -2,-2 0,-1.104569 0.8954305,-2 2,-2 1.1045695,0 2,0.895431 2,2 z"
        sodipodi:ry="2"
        sodipodi:rx="2"
        sodipodi:cy="17"
@@ -142,7 +142,7 @@
        style="fill:#f9f9f9;fill-opacity:1;stroke:none" />
     <path
        transform="translate(40,1024.3622)"
-       d="m -5,17 a 2,2 0 1 1 -4,0 2,2 0 1 1 4,0 z"
+       d="m -5,17 c 0,1.104569 -0.8954305,2 -2,2 -1.1045695,0 -2,-0.895431 -2,-2 0,-1.104569 0.8954305,-2 2,-2 1.1045695,0 2,0.895431 2,2 z"
        sodipodi:ry="2"
        sodipodi:rx="2"
        sodipodi:cy="17"
@@ -158,7 +158,7 @@
        sodipodi:cy="17"
        sodipodi:rx="2"
        sodipodi:ry="2"
-       d="m -5,17 a 2,2 0 1 1 -4,0 2,2 0 1 1 4,0 z"
+       d="m -5,17 c 0,1.104569 -0.8954305,2 -2,2 -1.1045695,0 -2,-0.895431 -2,-2 0,-1.104569 0.8954305,-2 2,-2 1.1045695,0 2,0.895431 2,2 z"
        transform="translate(47,1024.3622)" />
     <rect
        style="fill:#f9f9f9;fill-opacity:1;stroke:none"
@@ -175,11 +175,11 @@
        sodipodi:cy="17"
        sodipodi:rx="2"
        sodipodi:ry="2"
-       d="m -5,17 a 2,2 0 1 1 -4,0 2,2 0 1 1 4,0 z"
+       d="m -5,17 c 0,1.104569 -0.8954305,2 -2,2 -1.1045695,0 -2,-0.895431 -2,-2 0,-1.104569 0.8954305,-2 2,-2 1.1045695,0 2,0.895431 2,2 z"
        transform="translate(40,1011.3622)" />
     <path
        transform="translate(47,1011.3622)"
-       d="m -5,17 a 2,2 0 1 1 -4,0 2,2 0 1 1 4,0 z"
+       d="m -5,17 c 0,1.104569 -0.8954305,2 -2,2 -1.1045695,0 -2,-0.895431 -2,-2 0,-1.104569 0.8954305,-2 2,-2 1.1045695,0 2,0.895431 2,2 z"
        sodipodi:ry="2"
        sodipodi:rx="2"
        sodipodi:cy="17"

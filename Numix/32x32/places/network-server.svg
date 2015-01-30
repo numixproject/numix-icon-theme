@@ -37,12 +37,12 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1023"
+     inkscape:window-height="1015"
      id="namedview18"
      showgrid="true"
      inkscape:zoom="24.631348"
-     inkscape:cx="16.162395"
-     inkscape:cy="16"
+     inkscape:cx="16.32479"
+     inkscape:cy="15.918803"
      inkscape:window-x="0"
      inkscape:window-y="28"
      inkscape:window-maximized="1"
@@ -53,20 +53,20 @@
   </sodipodi:namedview>
   <rect
      y="18.25"
-     x="15"
+     x="14"
      height="3.5000005"
-     width="1.5"
+     width="4"
      id="rect3804"
-     style="fill:#e95c36;fill-opacity:1;stroke:none" />
+     style="fill:#42a5f5;fill-opacity:1;stroke:none" />
   <rect
-     style="fill:#e95c36;fill-opacity:1;stroke:none"
+     style="fill:#42a5f5;fill-opacity:1;stroke:none"
      id="rect3802"
-     width="1.5"
+     width="4"
      height="3.5000005"
-     x="15"
+     x="14"
      y="10.25" />
   <rect
-     style="fill:#21a6d7;fill-opacity:1;stroke:none"
+     style="fill:#09b69e;fill-opacity:1;stroke:none"
      id="rect3000"
      width="26"
      height="6"
@@ -82,9 +82,9 @@
      height="6"
      width="26"
      id="rect2998"
-     style="fill:#e95c36;fill-opacity:1;stroke:none" />
+     style="fill:#42a5f5;fill-opacity:1;stroke:none" />
   <rect
-     style="fill:#21a6d7;fill-opacity:1;stroke:none"
+     style="fill:#486cd7;fill-opacity:1;stroke:none"
      id="rect2992"
      width="26"
      height="6"
@@ -108,31 +108,24 @@
      sodipodi:rx="2"
      sodipodi:ry="2"
      d="m -5,17 a 2,2 0 1 1 -4,0 2,2 0 1 1 4,0 z"
-     transform="matrix(0.5,0,0,0.49999997,24.5,-0.49999949)" />
-  <rect
-     y="15"
-     x="5"
-     height="2"
-     width="13"
-     id="rect3034"
-     style="fill:#f9f9f9;fill-opacity:1;stroke:none" />
-  <rect
-     style="fill:#f9f9f9;fill-opacity:1;stroke:none"
-     id="rect3036"
-     width="13"
-     height="2"
-     x="5"
-     y="23" />
+     transform="matrix(0.5,0,0,0.49999997,24.5,-0.49999955)" />
   <path
-     transform="matrix(0.5,0,0,0.49999997,28.5,-0.49999949)"
+     transform="matrix(0.5,0,0,0.5,28.918803,-0.5)"
      d="m -5,17 a 2,2 0 1 1 -4,0 2,2 0 1 1 4,0 z"
      sodipodi:ry="2"
      sodipodi:rx="2"
      sodipodi:cy="17"
      sodipodi:cx="-7"
-     id="path3038"
+     id="path3810"
      style="fill:#f9f9f9;fill-opacity:1;stroke:none"
      sodipodi:type="arc" />
+  <rect
+     y="15"
+     x="5"
+     height="2"
+     width="13"
+     id="rect3045"
+     style="fill:#f9f9f9;fill-opacity:1;stroke:none" />
   <path
      transform="matrix(0.5,0,0,0.49999997,24.5,7.5000005)"
      d="m -5,17 a 2,2 0 1 1 -4,0 2,2 0 1 1 4,0 z"
@@ -140,23 +133,30 @@
      sodipodi:rx="2"
      sodipodi:cy="17"
      sodipodi:cx="-7"
-     id="path3040"
+     id="path3047"
      style="fill:#f9f9f9;fill-opacity:1;stroke:none"
      sodipodi:type="arc" />
   <path
      sodipodi:type="arc"
      style="fill:#f9f9f9;fill-opacity:1;stroke:none"
-     id="path3042"
+     id="path3049"
      sodipodi:cx="-7"
      sodipodi:cy="17"
      sodipodi:rx="2"
      sodipodi:ry="2"
      d="m -5,17 a 2,2 0 1 1 -4,0 2,2 0 1 1 4,0 z"
-     transform="matrix(0.5,0,0,0.49999997,28.5,7.5000005)" />
+     transform="matrix(0.5,0,0,0.5,28.918803,7.5)" />
+  <rect
+     style="fill:#f9f9f9;fill-opacity:1;stroke:none"
+     id="rect3051"
+     width="13"
+     height="2"
+     x="5"
+     y="23" />
   <path
      sodipodi:type="arc"
      style="fill:#f9f9f9;fill-opacity:1;stroke:none"
-     id="path3044"
+     id="path3053"
      sodipodi:cx="-7"
      sodipodi:cy="17"
      sodipodi:rx="2"
@@ -164,13 +164,13 @@
      d="m -5,17 a 2,2 0 1 1 -4,0 2,2 0 1 1 4,0 z"
      transform="matrix(0.5,0,0,0.49999997,24.5,15.5)" />
   <path
-     transform="matrix(0.5,0,0,0.49999997,28.5,15.5)"
+     transform="matrix(0.5,0,0,0.5,28.918803,15.5)"
      d="m -5,17 a 2,2 0 1 1 -4,0 2,2 0 1 1 4,0 z"
      sodipodi:ry="2"
      sodipodi:rx="2"
      sodipodi:cy="17"
      sodipodi:cx="-7"
-     id="path3046"
+     id="path3055"
      style="fill:#f9f9f9;fill-opacity:1;stroke:none"
      sodipodi:type="arc" />
 </svg>

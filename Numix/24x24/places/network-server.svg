@@ -37,33 +37,37 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1023"
+     inkscape:window-height="1052"
      id="namedview18"
      showgrid="true"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:zoom="109.68647"
-     inkscape:cx="12.158264"
-     inkscape:cy="14.2023"
+     inkscape:zoom="17.148375"
+     inkscape:cx="2.1420201"
+     inkscape:cy="14.200242"
      inkscape:window-x="0"
      inkscape:window-y="28"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2">
     <inkscape:grid
        type="xygrid"
-       id="grid3032" />
+       id="grid3032"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true" />
   </sodipodi:namedview>
   <rect
      y="14"
      x="10"
      height="4"
-     width="2"
+     width="4"
      id="rect3804"
-     style="fill:#e95c36;fill-opacity:1;stroke:none" />
+     style="fill:#42a5f5;fill-opacity:1;stroke:none" />
   <rect
-     style="fill:#e95c36;fill-opacity:1;stroke:none"
+     style="fill:#42a5f5;fill-opacity:1;stroke:none"
      id="rect3802"
-     width="2"
+     width="4"
      height="4"
      x="10"
      y="6" />
@@ -75,9 +79,9 @@
      height="6"
      width="22"
      id="rect2998"
-     style="fill:#e95c36;fill-opacity:1;stroke:none" />
+     style="fill:#42a5f5;fill-opacity:1;stroke:none" />
   <rect
-     style="fill:#21a6d7;fill-opacity:1;stroke:none"
+     style="fill:#486cd7;fill-opacity:1;stroke:none"
      id="rect2992"
      width="22"
      height="6"
@@ -113,7 +117,7 @@
      style="fill:#f9f9f9;fill-opacity:1;stroke:none"
      sodipodi:type="arc" />
   <rect
-     style="fill:#21a6d7;fill-opacity:1;stroke:none"
+     style="fill:#09b69e;fill-opacity:1;stroke:none"
      id="rect3000"
      width="22"
      height="6"
