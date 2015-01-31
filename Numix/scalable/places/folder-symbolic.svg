@@ -10,7 +10,7 @@
    viewBox="0 0 16 16"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.91 r13725"
    width="100%"
    height="100%"
    sodipodi:docname="folder-symbolic.svg">
@@ -22,6 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -37,39 +38,30 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1023"
+     inkscape:window-height="1052"
      id="namedview10"
-     showgrid="false"
+     showgrid="true"
      inkscape:zoom="27.519111"
-     inkscape:cx="1.9483078"
-     inkscape:cy="8"
+     inkscape:cx="4.5463515"
+     inkscape:cy="7.8546464"
      inkscape:window-x="0"
      inkscape:window-y="28"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg2" />
-  <rect
-     ry="2"
-     rx="2"
-     y="4"
-     x="0"
-     height="12"
-     width="16"
-     id="rect2992"
-     style="fill:#bebebe;fill-opacity:1;stroke:none" />
-  <g
-     id="g3827"
-     style="opacity:0.5">
-    <path
-       sodipodi:nodetypes="csssssscc"
-       style="fill:#bebebe;fill-opacity:1;stroke:none"
-       d="m 3.0000004,2.0000198 10.0499996,0 c 0.9,0 1.95,1 1.95,2 l 0,4 c 0,1.108 -0.8974,2.0000002 -1.95,2.0000002 l -10.0499996,0 c -1.0526,0 -2,-0.8920002 -2,-2.0000002 l 0,-6 z"
-       id="path3002"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:#bebebe;fill-opacity:1;stroke:none"
-       d="m 1.0000004,3.0000198 c 0,-2 0,-2.999999963208 1.818182,-2.999999963208 l 2.363636,0 c 1.818182,0 1.818182,0.999999963208 1.818182,2.999999963208 z"
-       id="path3004"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="csscc" />
-  </g>
+     inkscape:current-layer="svg2">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3336" />
+  </sodipodi:namedview>
+  <path
+     sodipodi:nodetypes="ccccccccc"
+     inkscape:connector-curvature="0"
+     id="path3029"
+     d="M 0,2 0,15 16,15 16,8 15,3 10,3 9,1 1,1 C 0.5,1 0,1.5 0,2 Z"
+     style="fill:#bebebe;fill-opacity:1;stroke:none;opacity:0.5" />
+  <path
+     style="fill:#bebebe;fill-opacity:1;stroke:none"
+     d="M 16,4 16,15 0,15 0,5 7,5 8,3 15,3 c 0.5,0 1,0.5 1,1 z"
+     id="rect2987"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cccccccc" />
 </svg>
