@@ -12,7 +12,7 @@
    height="16"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.48.5 r10040"
    sodipodi:docname="input-keyboard-symbolic.svg">
   <metadata
      id="metadata26">
@@ -37,11 +37,11 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1023"
+     inkscape:window-height="1052"
      id="namedview22"
      showgrid="true"
      inkscape:zoom="51.362483"
-     inkscape:cx="8.2693882"
+     inkscape:cx="8.3083271"
      inkscape:cy="7.2194822"
      inkscape:window-x="0"
      inkscape:window-y="28"
@@ -57,6 +57,8 @@
   </sodipodi:namedview>
   <path
      style="fill:#bebebe;fill-opacity:1;stroke:none"
-     d="M 2 3 C 0.892 3 0 3.892 0 5 L 0 11 C 0 12.108 0.892 13 2 13 L 14 13 C 15.108 13 16 12.108 16 11 L 16 5 C 16 3.892 15.108 3 14 3 L 2 3 z M 3 6 L 4 6 L 4 7 L 3 7 L 3 6 z M 5 6 L 6 6 L 6 7 L 5 7 L 5 6 z M 7 6 L 8 6 L 8 7 L 7 7 L 7 6 z M 9 6 L 10 6 L 10 7 L 9 7 L 9 6 z M 11 6 L 13 6 L 13 10 L 12 10 L 12 7 L 11 7 L 11 6 z M 3 9 L 5 9 L 5 10 L 3 10 L 3 9 z M 6 9 L 11 9 L 11 10 L 6 10 L 6 9 z "
-     id="rect3005" />
+     d="M 2,3 C 0.892,3 0,3.892 0,5 l 0,6 c 0,1.108 0.892,2 2,2 l 12,0 c 1.108,0 2,-0.892 2,-2 L 16,5 C 16,3.892 15.108,3 14,3 z M 2,5 4,5 4,7 2,7 z M 6,5 8,5 8,7 6,7 z m 3,0 4,0 0,6 -2,0 0,-4 -2,0 z m -7,4 3,0 0,2 -3,0 z m 4,0 4,0 0,2 -4,0 z"
+     id="rect3005"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="sssssssssccccccccccccccccccccccccccc" />
 </svg>
