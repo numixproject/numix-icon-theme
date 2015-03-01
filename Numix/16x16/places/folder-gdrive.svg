@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="16"
+   height="16"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r"
+   sodipodi:docname="folder-gdrive.svg"
+   inkscape:export-filename="/media/Data/Main/Visuals/Icons/Numix/Desktop/repos/numix-wiki/Gjorgi/Numix-folders/48/New/folder-144.png"
+   inkscape:export-xdpi="270"
+   inkscape:export-ydpi="270">
+  <defs
+     id="defs4">
+    <linearGradient
+       x2="0"
+       gradientUnits="userSpaceOnUse"
+       y2="268.32999"
+       y1="279.09601"
+       id="linearGradient3017"
+       xlink:href="#linearGradient4460"
+       gradientTransform="matrix(1.10525,0,0,1.10525,-134.27881,-295.76193)" />
+    <linearGradient
+       id="linearGradient4460">
+      <stop
+         id="stop3462"
+         style="stop-color:#1b1b1b"
+         offset="0" />
+      <stop
+         id="stop3464"
+         style="stop-color:#383838"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4460"
+       id="linearGradient3501"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(3.9162401,0,0,3.9162401,-553.078,-1047.9741)"
+       y1="279.09601"
+       x2="0"
+       y2="268.32999" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="9.8499999"
+     inkscape:cx="-17.959071"
+     inkscape:cy="12.502391"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:window-width="1366"
+     inkscape:window-height="747"
+     inkscape:window-x="0"
+     inkscape:window-y="21"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2985"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-1036.3622)">
+    <g
+       style="opacity:1;fill:#ff9800;fill-opacity:1;fill-rule:evenodd"
+       transform="matrix(1.5019977,0,0,1.4672192,-23.229566,618.6042)"
+       id="g3473">
+      <polygon
+         points="22194,115341 44385,76894 133156,76894 110963,115341 "
+         style="fill:#ff9800;fill-opacity:1"
+         transform="matrix(8e-5,0,0,8e-5,15.46578,285.56659)"
+         id="polygon3475" />
+      <polygon
+         points="88772,76894 133156,76894 88772,0 44385,0 "
+         style="fill:#ff9800;fill-opacity:1"
+         transform="matrix(8e-5,0,0,8e-5,15.46578,285.56659)"
+         id="polygon3477" />
+      <polygon
+         points="0,76894 22194,115341 66578,38447 44385,0 "
+         style="fill:#ff9800;fill-opacity:1"
+         transform="matrix(8e-5,0,0,8e-5,15.46578,285.56659)"
+         id="polygon3479" />
+    </g>
+  </g>
+</svg>
