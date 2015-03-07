@@ -37,9 +37,11 @@
      inkscape:window-height="744"
      id="namedview13"
      showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
      inkscape:zoom="25.644886"
-     inkscape:cx="11.077988"
-     inkscape:cy="11"
+     inkscape:cx="14.909903"
+     inkscape:cy="14.944443"
      inkscape:window-x="65"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
@@ -57,13 +59,46 @@
          id="rect7" />
       <text
          y="15.5"
-         x="3.5"
-         style="font-size:12;font-family:Ubuntu;font-weight:500;fill:black"
+         x="11"
+         style="text-anchor:middle;font-size:12;font-family:Ubuntu;font-weight:500;fill:black"
          id="text9">Ru</text>
     </mask>
+    <clipPath
+       id="clipPath14">
+      <rect
+         id="rect16"
+         color="#bebebe"
+         fill="#bebebe"
+         x="26.999"
+         y="221.5"
+         width="1.876"
+         height="4.874" />
+    </clipPath>
+    <clipPath
+       id="clipPath10">
+      <rect
+         id="rect12"
+         color="#bebebe"
+         fill="#bebebe"
+         x="26.966"
+         y="221.33"
+         width="2.898"
+         height="5.216" />
+    </clipPath>
+    <clipPath
+       id="clipPath6">
+      <rect
+         id="rect8"
+         color="#bebebe"
+         fill="#bebebe"
+         x="26.85"
+         y="220.75"
+         width="3.825"
+         height="6.375" />
+    </clipPath>
   </defs>
   <rect
-     id="rect2992"
+     id="rect3857"
      x="1"
      y="1"
      width="20"
@@ -73,7 +108,7 @@
      style="fill:#000000;fill-opacity:1;opacity:0.3"
      transform="translate(0,1)" />
   <rect
-     style="fill:#dedede;fill-opacity:1"
+     style="fill:#dcdcdc;fill-opacity:1"
      mask="url(#m)"
      rx="2"
      height="20"
