@@ -1,4 +1,62 @@
-<svg xmlns="http://www.w3.org/2000/svg" height="16" width="16">
- <path d="m2.5 13c1.5-1.5 3.5-1.5 5.5 0 2.0669 1.5502 4 1.5 5.5 0.000002m-11-3.9999c1.5-1.5 3.5-1.5 5.5 0 2.0669 1.5502 4 1.5 5.5 0.000001m-11-4c1.5-1.5 3.5-1.5 5.5 0 2.0669 1.5502 4 1.5 5.5 0" opacity="0.3" fill="none" stroke="#000" stroke-linecap="round" stroke-width="1.5"/>
- <path d="m2.5 12c1.5-1.5 3.5-1.5 5.5 0 2.0669 1.5502 4 1.5 5.5 0.000002m-11-3.9999c1.5-1.5 3.5-1.5 5.5 0 2.0669 1.5502 4 1.5 5.5 0.000001m-11-4c1.5-1.5 3.5-1.5 5.5 0 2.0669 1.5502 4 1.5 5.5 0" fill="none" stroke="#353535" stroke-linecap="round" stroke-width="1.5"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="16"
+   viewBox="0 0 16.000001 16"
+   height="16"
+   style="enable-background:new"
+   id="svg11355"
+   version="1.1"
+   inkscape:version="0.91 r"
+   sodipodi:docname="stock_weather-fog.svg">
+  <metadata
+     id="metadata11363">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="747"
+     id="namedview11361"
+     showgrid="false"
+     inkscape:zoom="14.75"
+     inkscape:cx="-3.0507979"
+     inkscape:cy="8"
+     inkscape:window-x="0"
+     inkscape:window-y="21"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg11355" />
+  <defs
+     id="defs11357" />
+  <path
+     style="fill:#000000;fill-opacity:1;enable-background:new;opacity:0.3"
+     d="m 10.222749,5.499999 c -2.6385168,0 -4.7772505,0.4416597 -4.7772505,0.9909226 0,0.5492376 2.1387337,0.9908967 4.7772505,0.9908967 2.638521,0 4.777253,-0.441659 4.777253,-0.9908967 0,-0.5492628 -2.138732,-0.9909226 -4.777253,-0.9909226 z M 6.515404,8.3181806 c -3.0465481,0 -5.5154044,0.417833 -5.5154044,0.9454562 0,0.5276211 2.4688563,0.9636362 5.5154044,0.9636362 3.0465483,0 5.51955,-0.4360151 5.51955,-0.9636362 0,-0.5276231 -2.4730017,-0.9454562 -5.51955,-0.9454562 z m 3.2138633,2.7181974 c -2.0338261,0 -3.6824654,0.322733 -3.6824654,0.727274 0,0.404507 1.6486393,0.736349 3.6824654,0.736349 2.0338267,0 3.6824647,-0.331842 3.6824647,-0.736349 0,-0.404541 -1.648638,-0.727274 -3.6824647,-0.727274 z"
+     id="path11359-9"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:#353535;fill-opacity:1"
+     d="m 10.222749,4.4999998 c -2.638517,0 -4.7772503,0.4416597 -4.7772503,0.9909226 0,0.5492375 2.1387333,0.9908964 4.7772503,0.9908964 2.63852,0 4.777252,-0.4416589 4.777252,-0.9908964 0,-0.5492629 -2.138732,-0.9909226 -4.777252,-0.9909226 z M 6.515404,7.3181811 c -3.0465476,0 -5.5154034,0.417833 -5.5154034,0.945456 0,0.527621 2.4688558,0.963636 5.5154034,0.963636 3.0465474,0 5.51955,-0.436015 5.51955,-0.963636 0,-0.527623 -2.4730026,-0.945456 -5.51955,-0.945456 z m 3.2138624,2.7181969 c -2.0338254,0 -3.6824644,0.322733 -3.6824644,0.727273 0,0.404507 1.648639,0.736349 3.6824644,0.736349 2.0338276,0 3.6824646,-0.331842 3.6824646,-0.736349 0,-0.40454 -1.648637,-0.727273 -3.6824646,-0.727273 z"
+     id="path11359"
+     inkscape:connector-curvature="0" />
 </svg>
