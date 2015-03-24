@@ -1,35 +1,120 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" viewBox="0 0 16 16">
- <defs>
-  <filter id="0" filterUnits="objectBoundingBox" x="0" y="0" width="16" height="16">
-   <feColorMatrix type="matrix" in="SourceGraphic" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
-  </filter>
-  <image id="1" width="16" height="16" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABmJLR0QA/wD/AP+gvaeTAAABAElEQVQ4jWNgoBAwerWf48l7eECRHM2T5B3uM/o584mw7f9iQY4Bvxx5TjCRoxEZDLwBLMgc82Klv+dunT8XeOPYR3PWBmYGBgYGDQ15zkf+bgaZ8SkcBA1gYGBgcNjPwJJXoGZi03JSgIGBgcH72kmGMH39X0ptPqdlrbb/9RG89FnWYK240rof2s6TJmEacMCR4c+klbfOmGuZMzMwMDBo+b4VzksRVeu2//pH8a+VmrXBZu6wD3GXEqY/+fWYAYsB6C7wvMbA8EEy/lfjv7esSeyzOJvuFjIl5/cxlfwQ+B+qTmIgCk0oIxwG6F7Yxb6TZcWPe1oyOAwdTYkMDABvXVzpjTDEpQAAAABJRU5ErkJggg=="/>
-  <mask id="2">
-   <g filter="url(#0)">
-    <use xlink:href="#1"/>
-   </g>
-  </mask>
-  <clipPath id="3">
-   <rect width="16" height="16"/>
-  </clipPath>
-  <g id="4" clip-path="url(#3)">
-   <path d="M 2.183594 1.453125 L 13.816406 1.453125 C 14.621094 1.453125 15.273438 2.105469 15.273438 2.910156 L 15.273438 14.546875 C 15.273438 15.347656 14.621094 16 13.816406 16 L 2.183594 16 C 1.378906 16 0.726562 15.347656 0.726562 14.546875 L 0.726562 2.910156 C 0.726562 2.105469 1.378906 1.453125 2.183594 1.453125 Z "/>
-  </g>
-  <image id="5" width="16" height="16" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABmJLR0QA/wD/AP+gvaeTAAAA/UlEQVQ4jWNk5uUVWv7tmzEDGSCSi+sswypmZldmJqY/5OBVzMyuTOTYjAwGmQGP+6b9M3sj9MI5fc7DDAaGRxkMDI9EZq159v6N0R+iXfD7lRiT77s+8RkMDHIzGBjk3qSFSAW8Osy4uJX/+dMTa56t28X5wMdhwevE7W/+MzAwMLCgG8Aq9urfZqGulxkMKYwMDAwMJo4BnCzbXgtKuhz9v747VPAyix2r68u7r+1WfflzA5sBMBcUMDBwMDAwMDDs38BgP3Xp39IX/5msebezrC4VZfR98YqRYTEOL5AKMAyAeKHoJSwQk16JPtl6r/knThNGUyIDI6XZGQBItXxFvocBkgAAAABJRU5ErkJggg=="/>
-  <mask id="6">
-   <g filter="url(#0)">
-    <use xlink:href="#5"/>
-   </g>
-  </mask>
-  <clipPath id="7">
-   <rect width="16" height="16"/>
-  </clipPath>
-  <g id="8" clip-path="url(#7)">
-   <path d="M 2.183594 0.726562 L 13.816406 0.726562 C 14.621094 0.726562 15.273438 1.378906 15.273438 2.183594 L 15.273438 13.816406 C 15.273438 14.621094 14.621094 15.273438 13.816406 15.273438 L 2.183594 15.273438 C 1.378906 15.273438 0.726562 14.621094 0.726562 13.816406 L 0.726562 2.183594 C 0.726562 1.378906 1.378906 0.726562 2.183594 0.726562 Z " fill="#dcdcdc"/>
-  </g>
- </defs>
- <g>
-  <use xlink:href="#4" mask="url(#2)"/>
-  <use xlink:href="#8" mask="url(#6)"/>
- </g>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="16"
+   version="1.1"
+   height="16"
+   id="svg2"
+   inkscape:version="0.91 r"
+   sodipodi:docname="indicator-keyboard-En.svg">
+  <metadata
+     id="metadata15">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="747"
+     id="namedview13"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:zoom="12.822443"
+     inkscape:cx="8.1764071"
+     inkscape:cy="11.637943"
+     inkscape:window-x="0"
+     inkscape:window-y="21"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <defs
+     id="defs4">
+    <mask
+       id="m">
+      <rect
+         y="0"
+         x="0"
+         style="fill:#ffffff"
+         height="22"
+         width="22"
+         id="rect7" />
+      <text
+         y="15.5"
+         x="11"
+         style="font-weight:500;font-size:12px;font-family:Ubuntu;text-anchor:middle;fill:#000000"
+         id="text9">En</text>
+    </mask>
+    <clipPath
+       id="clipPath14">
+      <rect
+         id="rect16"
+         x="26.999001"
+         y="221.5"
+         width="1.876"
+         height="4.8740001"
+         style="color:#bebebe;fill:#bebebe" />
+    </clipPath>
+    <clipPath
+       id="clipPath10">
+      <rect
+         id="rect12"
+         x="26.966"
+         y="221.33"
+         width="2.898"
+         height="5.2160001"
+         style="color:#bebebe;fill:#bebebe" />
+    </clipPath>
+    <clipPath
+       id="clipPath6">
+      <rect
+         id="rect8"
+         x="26.85"
+         y="220.75"
+         width="3.825"
+         height="6.375"
+         style="color:#bebebe;fill:#bebebe" />
+    </clipPath>
+  </defs>
+  <rect
+     id="rect3857"
+     x="1"
+     y="1"
+     width="20"
+     height="20"
+     rx="2.7586207"
+     mask="url(#m)"
+     style="opacity:0.3;fill:#000000;fill-opacity:1"
+     transform="matrix(0.725,0,0,0.725,0.025,0.3875)"
+     ry="2.7586207" />
+  <rect
+     style="fill:#dcdcdc;fill-opacity:1"
+     mask="url(#m)"
+     rx="2.7586207"
+     height="20"
+     width="20"
+     y="1"
+     x="1"
+     id="rect11"
+     ry="2.7586207"
+     transform="matrix(0.725,0,0,0.725,0.025,-0.3375)" />
 </svg>
