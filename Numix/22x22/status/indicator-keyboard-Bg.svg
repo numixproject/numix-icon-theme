@@ -59,8 +59,8 @@
          id="rect7" />
       <text
          y="15.5"
-         x="11"
-         style="text-anchor:middle;font-size:12;font-family:Ubuntu;font-weight:500;fill:black"
+         x="3.5"
+         style="font-size:12;font-family:Ubuntu;font-weight:500;fill:black"
          id="text9">Bg</text>
     </mask>
     <clipPath
@@ -108,7 +108,7 @@
      style="fill:#000000;fill-opacity:1;opacity:0.3"
      transform="translate(0,1)" />
   <rect
-     style="fill:#dcdcdc;fill-opacity:1"
+     style="fill:#dedede;fill-opacity:1"
      mask="url(#m)"
      rx="2"
      height="20"
