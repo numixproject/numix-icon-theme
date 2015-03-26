@@ -12,7 +12,7 @@
    height="48"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="text-x-vcard.svg">
   <metadata
      id="metadata18">
@@ -22,6 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -36,15 +37,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1280"
-     inkscape:window-height="970"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
      id="namedview14"
      showgrid="true"
      inkscape:zoom="9.8333333"
-     inkscape:cx="8.1807833"
+     inkscape:cx="-7.8870134"
      inkscape:cy="11.938997"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2">
     <inkscape:grid
@@ -63,16 +64,13 @@
      style="fill:#fff;fill-opacity:.392"
      d="m 29,1 13,13 -11,0 c -0.971429,0 -2,-1.028571 -2,-2 L 29,1 z"
      id="path8" />
-  <text
-     x="11.231547"
-     y="34.912415"
-     style="font-size:25.28473091px;line-height:125%;letter-spacing:0;word-spacing:0;fill:#888888;font-family:Ubuntu Mono"
-     xml:space="preserve"
+  <g
      transform="scale(1.0078875,0.99217427)"
-     id="text10"
-     sodipodi:linespacing="125%"><tspan
-       x="11.231547"
-       y="34.912415"
-       style="font-weight:bold;font-family:Open Sans"
-       id="tspan12">@</tspan></text>
+     style="font-size:25.28473091px;line-height:125%;font-family:'Ubuntu Mono';letter-spacing:0;word-spacing:0;fill:#888888"
+     id="text10">
+    <path
+       d="m 32.651961,25.628177 q 0,1.777833 -0.567918,3.25936 -0.567919,1.469181 -1.604988,2.308713 -1.037069,0.839533 -2.407482,0.839533 -0.913608,0 -1.617334,-0.432113 -0.703725,-0.444458 -1.012377,-1.160529 l -0.197537,0 q -1.333374,1.592642 -3.395166,1.592642 -2.185253,0 -3.444551,-1.308683 -1.259298,-1.321028 -1.259298,-3.605049 0,-2.605019 1.654372,-4.197661 1.654372,-1.592641 4.321121,-1.592641 1.061761,0 2.333405,0.209883 1.283991,0.197537 2.111177,0.481496 l -0.28396,6.037223 q 0,1.716103 0.938301,1.716103 0.790148,0 1.259298,-1.148184 0.46915,-1.16053 0.46915,-3.024785 0,-1.987715 -0.827186,-3.506281 -0.827186,-1.530911 -2.333405,-2.333405 -1.493873,-0.802494 -3.419859,-0.802494 -2.493904,0 -4.333467,1.024723 -1.839563,1.024723 -2.827247,2.963054 -0.975339,1.925986 -0.975339,4.456928 0,3.407513 1.814871,5.23473 1.827217,1.81487 5.284113,1.81487 1.308683,0 2.876632,-0.283959 1.56795,-0.296305 3.086515,-0.851878 l 0,2.370443 q -2.642057,1.123492 -5.864378,1.123492 -4.691503,0 -7.321214,-2.469212 -2.617365,-2.469212 -2.617365,-6.86441 0,-3.049476 1.333375,-5.531034 1.345721,-2.493905 3.814933,-3.901355 2.481558,-1.419797 5.703879,-1.419797 2.716133,0 4.852002,1.111145 2.135868,1.111145 3.296398,3.160591 1.160529,2.049446 1.160529,4.728541 z m -12.642365,1.543258 q 0,2.605019 2.123522,2.605019 1.111146,0 1.691411,-0.777802 0.580264,-0.790148 0.703725,-2.555635 l 0.160499,-2.728479 q -0.629649,-0.135807 -1.419797,-0.135807 -1.543258,0 -2.407482,0.962993 -0.851878,0.962993 -0.851878,2.629711 z"
+       style="font-weight:bold;font-family:'Open Sans'"
+       id="path4195" />
+  </g>
 </svg>
