@@ -34,21 +34,27 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="640"
-     inkscape:window-height="480"
+     inkscape:window-width="1280"
+     inkscape:window-height="998"
      id="namedview10"
-     showgrid="false"
-     inkscape:zoom="10.727273"
-     inkscape:cx="11"
+     showgrid="true"
+     inkscape:zoom="32.539065"
+     inkscape:cx="6.1156135"
      inkscape:cy="11"
      inkscape:window-x="0"
      inkscape:window-y="0"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="svg2" />
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2990" />
+  </sodipodi:namedview>
   <defs
      id="defs4" />
   <path
-     style="fill:#ececec;fill-opacity:1"
-     d="m 11,3 -5,4.4444447 3.3333333,0 0,7.1111103 L 6,14.555555 11,19 l 5,-4.444445 -3.333333,0 0,-7.1111103 3.333333,0 z"
-     id="path8" />
+     sodipodi:nodetypes="cccccccccccccccccc"
+     inkscape:connector-curvature="0"
+     id="path2996"
+     d="m 6,3 0,2 4,0 0,8 2,0 0,-8 4,0 0,-2 z M 5,9 2,19 20,19 17,9 14,9 14,14 8,14 8,9 z"
+     style="opacity:1;fill:#ececec;fill-opacity:1;stroke:none" />
 </svg>

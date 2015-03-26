@@ -10,12 +10,12 @@
    width="16"
    viewBox="0 0 16 22"
    height="22"
-   id="svg3009"
+   id="svg3025"
    version="1.1"
    inkscape:version="0.48.5 r10040"
    sodipodi:docname="bluetooth-paired.svg">
   <metadata
-     id="metadata3035">
+     id="metadata3051">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -26,7 +26,7 @@
     </rdf:RDF>
   </metadata>
   <defs
-     id="defs3033" />
+     id="defs3049" />
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -38,27 +38,30 @@
      inkscape:pageshadow="2"
      inkscape:window-width="1280"
      inkscape:window-height="998"
-     id="namedview3031"
+     id="namedview3047"
      showgrid="false"
-     inkscape:zoom="10.727273"
-     inkscape:cx="8"
-     inkscape:cy="11"
+     inkscape:zoom="15.170655"
+     inkscape:cx="17.210728"
+     inkscape:cy="3.3802563"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg3009" />
+     inkscape:current-layer="svg3025" />
+  <g
+     id="g3037"
+     style="fill:none;stroke:#353535;stroke-linecap:round">
+    <path
+       inkscape:connector-curvature="0"
+       id="path3039"
+       d="M 5.788737,18.294 9.2942534,14.553666 2.7057475,7.9226089 m -1e-7,6.0660801 L 9.2942534,7.3576307 5.742683,3.705494"
+       style="stroke-width:1.41100001;stroke-linejoin:round" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3041"
+       d="M 5.507463,3.8746361 5.595703,18.030475" />
+  </g>
   <path
-     style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#353535;fill-opacity:1;stroke:none;stroke-width:1.41100000999999997;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
-     d="M 5.59375,3 A 0.70557056,0.70557056 0 0 0 5.25,4.1875 l 3.0625,3.15625 -2.59375,2.625 -2.5,-2.53125 a 0.70557056,0.70557056 0 1 0 -1,0.96875 L 4.75,10.96875 2.21875,13.5 a 0.70710678,0.70710678 0 1 0 1,1 l 2.5,-2.53125 2.59375,2.59375 -3.03125,3.25 a 0.70745196,0.70745196 0 1 0 1.03125,0.96875 l 3.5,-3.75 A 0.70557056,0.70557056 0 0 0 9.78125,14.0625 l -3.0625,-3.09375 3.0625,-3.125 A 0.70557056,0.70557056 0 0 0 9.8125,6.875 L 6.25,3.21875 A 0.70557056,0.70557056 0 0 0 5.59375,3 z"
-     id="path3023"
-     inkscape:connector-curvature="0" />
-  <path
-     style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#353535;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
-     d="M 5.40625,3.375 A 0.50005,0.50005 0 0 0 5,3.875 l 0.09375,14.15625 a 0.50005,0.50005 0 1 0 1,0 L 6,3.875 a 0.50005,0.50005 0 0 0 -0.59375,-0.5 z"
-     id="path3025"
-     inkscape:connector-curvature="0" />
-  <path
-     style="fill:#353535;fill-opacity:1"
+     style="fill:#353535"
      d="m 12.999747,13 c -1.108,0 -2,0.910763 -2,2.03125 l 0,0.96875 c -0.554,0 -0.9999996,0.446 -0.9999996,1 l 0,3 c 0,0.554 0.4459996,1 0.9999996,1 l 4,0 c 0.554,0 1,-0.446 1,-1 l 0,-3 c 0,-0.554 -0.446,-1 -1,-1 l 0,-0.96875 c 0,-1.120486 -0.892,-2.03125 -2,-2.03125 z m 0,1 c 0.554,0 1,0.442363 1,1 l 0,1 -2,0 0,-1 c 0,-0.557637 0.446,-1 1,-1 z"
-     id="path3029" />
+     id="path3045" />
 </svg>
