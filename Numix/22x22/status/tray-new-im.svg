@@ -1,6 +1,55 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 22">
-<g style="fill-rule:evenodd" transform="translate(0 6)">
-<path style="opacity:.3" d="m9.5-1c-4.14 0-7.5 3.36-7.5 7.5s3.36 7.5 7.5 7.5c1.9648 0 3.7561-0.76222 5.0938-2h5.406l-3.344-3.3438c0.208-0.6876 0.344-1.401 0.344-2.1562 0-4.14-3.36-7.5-7.5-7.5z"/>
-<path style="fill:#19b6ee" d="m9.5-2c-4.14 0-7.5 3.36-7.5 7.5s3.36 7.5 7.5 7.5c1.9648 0 3.7561-0.76222 5.0938-2h5.406l-3.344-3.3438c0.208-0.6876 0.344-1.401 0.344-2.1562 0-4.14-3.36-7.5-7.5-7.5z"/>
-</g>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 20 22"
+   id="svg2989"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   width="100%"
+   height="100%"
+   sodipodi:docname="tray-new-im.svg">
+  <metadata
+     id="metadata3001">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs2999" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview2997"
+     showgrid="false"
+     inkscape:zoom="10.727273"
+     inkscape:cx="10"
+     inkscape:cy="11"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2989" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path2995"
+     d="M 9.5,4 C 5.36,4 2,7.36 2,11.5 2,15.64 5.36,19 9.5,19 c 1.9648,0 3.7561,-0.76222 5.0938,-2 h 5.406 l -3.344,-3.3438 c 0.208,-0.6876 0.344,-1.401 0.344,-2.1562 0,-4.14 -3.36,-7.5 -7.5,-7.5 z"
+     style="fill:#54cdee;fill-rule:evenodd;fill-opacity:1" />
 </svg>

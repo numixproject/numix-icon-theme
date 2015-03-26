@@ -7,15 +7,15 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="24"
-   height="24"
    viewBox="0 0 24 24"
    id="svg2"
    version="1.1"
    inkscape:version="0.48.5 r10040"
+   width="100%"
+   height="100%"
    sodipodi:docname="indicator-appmenu-menu-panel.svg">
   <metadata
-     id="metadata26">
+     id="metadata30">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -26,7 +26,7 @@
     </rdf:RDF>
   </metadata>
   <defs
-     id="defs24" />
+     id="defs28" />
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -37,102 +37,55 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1280"
-     inkscape:window-height="970"
-     id="namedview22"
+     inkscape:window-height="998"
+     id="namedview26"
      showgrid="true"
-     inkscape:zoom="6.9532167"
-     inkscape:cx="-28.274502"
-     inkscape:cy="-1.8282777"
+     inkscape:zoom="21.454545"
+     inkscape:cx="11.291969"
+     inkscape:cy="8.5504372"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2">
     <inkscape:grid
        type="xygrid"
-       id="grid3003" />
+       id="grid3079"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true" />
   </sodipodi:namedview>
-  <g
-     transform="matrix(1.8333333,0,0,1.8333333,-14.998697,-9.998348)"
-     id="g3017"
-     style="fill:#000000;fill-opacity:0.3019608">
-    <path
-       inkscape:connector-curvature="0"
-       id="path3019"
-       d="m 12,13.089844 8.726562,0 0,1.09375 -8.726562,0 z"
-       style="fill:#000000;fill-opacity:0.3019608" />
-    <path
-       inkscape:connector-curvature="0"
-       id="path3021"
-       d="m 12,15.273438 8.726562,0 0,1.089843 -8.726562,0 z"
-       style="fill:#000000;fill-opacity:0.3019608" />
-    <path
-       inkscape:connector-curvature="0"
-       id="path3023"
-       d="m 13.089844,10.910156 7.636718,0 0,1.089844 -7.636718,0 z"
-       style="fill:#000000;fill-opacity:0.3019608" />
-  </g>
+  <rect
+     style="color:#000000;fill:#353535;fill-opacity:1"
+     width="14"
+     x="7"
+     y="12.999999"
+     height="1.9999998"
+     id="rect8" />
+  <rect
+     style="color:#000000;fill:#353535;fill-opacity:1"
+     width="14"
+     x="7"
+     y="15.999999"
+     height="2.0000007"
+     id="rect10" />
+  <rect
+     style="color:#000000;fill:#353535;fill-opacity:1"
+     width="11.000001"
+     x="10"
+     y="9.999999"
+     height="1.9999998"
+     id="rect12" />
   <path
-     inkscape:connector-curvature="0"
-     id="path3025"
-     d="M 1,6.000349 5.9986988,10.999048 11.004559,6.000349 z"
-     style="fill:#000000;fill-opacity:0.3019608" />
-  <path
-     inkscape:connector-curvature="0"
-     id="path3027"
-     d="m 13.002606,6.000349 9.997394,0 0,1.9980473 -9.997394,0 z"
-     style="fill:#000000;fill-opacity:0.3019608" />
-  <g
-     style="fill:#353535"
-     id="g4"
-     transform="matrix(1.8333333,0,0,1.8333333,-14.998697,-10.998697)">
-    <path
-       d="m 12,13.089844 8.726562,0 0,1.09375 -8.726562,0 z"
-       id="path6"
-       inkscape:connector-curvature="0" />
-    <path
-       d="m 12,15.273438 8.726562,0 0,1.089843 -8.726562,0 z"
-       id="path8"
-       inkscape:connector-curvature="0" />
-    <path
-       d="m 13.089844,10.910156 7.636718,0 0,1.089844 -7.636718,0 z"
-       id="path10"
-       inkscape:connector-curvature="0" />
-  </g>
-  <path
-     style="fill:#353535"
-     d="M 1,5 5.9986988,9.998699 11.004559,5 z"
-     id="path14"
-     inkscape:connector-curvature="0" />
-  <path
-     style="fill:#353535"
-     d="M 13.002606,5 23,5 l 0,1.9980473 -9.997394,0 z"
+     style="color:#000000;fill:#353535;fill-opacity:1"
+     d="M 2,6.9999997 6.5000001,12.063944 11,6.9999997 H 2 z"
      id="path18"
      inkscape:connector-curvature="0" />
-  <g
-     transform="matrix(1.8333333,0,0,1.8333333,-14.998697,-10.998697)"
-     id="g3005"
-     style="fill:#353535">
-    <path
-       inkscape:connector-curvature="0"
-       id="path3007"
-       d="m 12,13.089844 8.726562,0 0,1.09375 -8.726562,0 z" />
-    <path
-       inkscape:connector-curvature="0"
-       id="path3009"
-       d="m 12,15.273438 8.726562,0 0,1.089843 -8.726562,0 z" />
-    <path
-       inkscape:connector-curvature="0"
-       id="path3011"
-       d="m 13.089844,10.910156 7.636718,0 0,1.089844 -7.636718,0 z" />
-  </g>
-  <path
-     inkscape:connector-curvature="0"
-     id="path3013"
-     d="M 1,5 5.9986988,9.998699 11.004559,5 z"
-     style="fill:#353535" />
-  <path
-     inkscape:connector-curvature="0"
-     id="path3015"
-     d="M 13.002606,5 23,5 l 0,1.9980473 -9.997394,0 z"
-     style="fill:#353535" />
+  <rect
+     width="9"
+     x="12"
+     y="6.999999"
+     height="1.9999998"
+     style="color:#000000;fill:#353535;fill-opacity:1"
+     id="rect22" />
 </svg>

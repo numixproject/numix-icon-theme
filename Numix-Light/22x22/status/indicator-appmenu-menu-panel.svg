@@ -37,93 +37,51 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1280"
-     inkscape:window-height="970"
+     inkscape:window-height="998"
      id="namedview26"
      showgrid="true"
-     inkscape:zoom="15.170655"
-     inkscape:cx="8.5243787"
-     inkscape:cy="8.9271601"
+     inkscape:zoom="21.454545"
+     inkscape:cx="11.291969"
+     inkscape:cy="8.5504372"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2">
     <inkscape:grid
        type="xygrid"
-       id="grid3007" />
+       id="grid3079" />
   </sodipodi:namedview>
-  <g
-     transform="matrix(2,0,0,2,-16,-11)"
-     style="color:#000000;fill:#000000;fill-opacity:0.3019608"
-     id="g3024">
-    <rect
-       width="7.5"
-       x="10.5"
-       y="12"
-       height="1"
-       id="rect3026"
-       style="fill:#000000;fill-opacity:0.3019608" />
-    <rect
-       width="7.5"
-       x="10.5"
-       y="14"
-       height="1"
-       id="rect3028"
-       style="fill:#000000;fill-opacity:0.3019608" />
-    <rect
-       width="6"
-       x="12"
-       y="10"
-       height="1"
-       id="rect3030"
-       style="fill:#000000;fill-opacity:0.3019608" />
-  </g>
-  <path
-     sodipodi:nodetypes="cccc"
-     inkscape:connector-curvature="0"
-     id="path3032"
-     d="M 1,5 5,9 9,5 z"
-     style="color:#000000;fill:#000000;fill-opacity:0.3019608" />
   <rect
-     id="rect3034"
-     style="color:#000000;fill:#000000;fill-opacity:0.3019608"
-     height="2"
-     y="5"
-     x="12"
-     width="8" />
-  <g
-     id="g6"
-     style="color:#000000;fill:#353535"
-     transform="matrix(2,0,0,2,-16,-12)">
-    <rect
-       id="rect8"
-       height="1"
-       y="12"
-       x="10.5"
-       width="7.5" />
-    <rect
-       id="rect10"
-       height="1"
-       y="14"
-       x="10.5"
-       width="7.5" />
-    <rect
-       id="rect12"
-       height="1"
-       y="10"
-       x="12"
-       width="6" />
-  </g>
+     style="color:#000000;fill:#353535;fill-opacity:1"
+     width="14"
+     x="6"
+     y="11.999999"
+     height="1.9999998"
+     id="rect8" />
+  <rect
+     style="color:#000000;fill:#353535;fill-opacity:1"
+     width="14"
+     x="6"
+     y="14.999999"
+     height="2.0000007"
+     id="rect10" />
+  <rect
+     style="color:#000000;fill:#353535;fill-opacity:1"
+     width="11.000001"
+     x="9"
+     y="8.999999"
+     height="1.9999998"
+     id="rect12" />
   <path
-     style="color:#000000;fill:#353535"
-     d="M 1,4 5,8 9,4 z"
+     style="color:#000000;fill:#353535;fill-opacity:1"
+     d="M 1,5.9999995 5.5000001,11.063944 10,5.9999995 H 1 z"
      id="path18"
-     inkscape:connector-curvature="0"
-     sodipodi:nodetypes="cccc" />
+     inkscape:connector-curvature="0" />
   <rect
-     width="8"
-     x="12"
-     y="4"
-     height="2"
-     style="color:#000000;fill:#353535"
+     width="9"
+     x="11"
+     y="5.999999"
+     height="1.9999998"
+     style="color:#000000;fill:#353535;fill-opacity:1"
      id="rect22" />
 </svg>

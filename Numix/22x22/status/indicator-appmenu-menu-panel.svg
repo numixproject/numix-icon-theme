@@ -1,16 +1,87 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 22">
-<g style="color:#000">
-<g style="fill:#dcdcdc">
-<rect width="8" x="11" y="12" height="1"/>
-<rect width="8" x="11" y="14" height="1"/>
-<rect width="7" x="12" y="10" height="1"/>
-</g>
-<g>
-<path style="opacity:.3" d="m8 7 2.5 2.5 2.5-2.5h-5z"/>
-<path style="fill:#dcdcdc" d="m8 8l2.5 2.5 2.5-2.5h-5z"/>
-<rect width="5" x="14" y="7" height="1" style="opacity:.3"/>
-<rect width="5" x="14" y="8" height="1" style="fill:#dcdcdc"/>
-<rect width="2" x="13" y="9" height="1" style="opacity:.3"/>
-</g>
-</g>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 22 22"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   width="100%"
+   height="100%"
+   sodipodi:docname="indicator-appmenu-menu-panel.svg">
+  <metadata
+     id="metadata30">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs28" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1280"
+     inkscape:window-height="998"
+     id="namedview26"
+     showgrid="true"
+     inkscape:zoom="21.454545"
+     inkscape:cx="11.291969"
+     inkscape:cy="8.5504372"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3079" />
+  </sodipodi:namedview>
+  <rect
+     style="color:#000000;fill:#ececec;fill-opacity:1"
+     width="14"
+     x="6"
+     y="11.999999"
+     height="1.9999998"
+     id="rect8" />
+  <rect
+     style="color:#000000;fill:#ececec;fill-opacity:1"
+     width="14"
+     x="6"
+     y="14.999999"
+     height="2.0000007"
+     id="rect10" />
+  <rect
+     style="color:#000000;fill:#ececec;fill-opacity:1"
+     width="11.000001"
+     x="9"
+     y="8.999999"
+     height="1.9999998"
+     id="rect12" />
+  <path
+     style="color:#000000;fill:#ececec;fill-opacity:1"
+     d="M 1,5.9999995 5.5000001,11.063944 10,5.9999995 H 1 z"
+     id="path18"
+     inkscape:connector-curvature="0" />
+  <rect
+     width="9"
+     x="11"
+     y="5.999999"
+     height="1.9999998"
+     style="color:#000000;fill:#ececec;fill-opacity:1"
+     id="rect22" />
 </svg>

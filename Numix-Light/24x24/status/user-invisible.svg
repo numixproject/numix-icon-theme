@@ -22,7 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -35,15 +35,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1052"
+     inkscape:window-width="1280"
+     inkscape:window-height="998"
      id="namedview16"
      showgrid="true"
      inkscape:zoom="34.147786"
      inkscape:cx="12.117138"
      inkscape:cy="12"
      inkscape:window-x="0"
-     inkscape:window-y="28"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2">
     <inkscape:grid
@@ -62,38 +62,16 @@
          id="rect8" />
     </clipPath>
   </defs>
-  <g
-     transform="translate(4,5)"
-     id="g3939"
-     style="opacity:0.3;fill:#000000;fill-opacity:1">
-    <path
-       style="fill:#000000;fill-opacity:1;stroke:none"
-       d="M 8,0 C 3.581722,0 0,3.1340067 0,7 c 0,3.865993 3.581722,7 8,7 4.418278,0 8,-3.134007 8,-7 C 16,3.1340067 12.418278,0 8,0 z"
-       id="path3941"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="sssss" />
-    <path
-       style="fill:#000000;fill-opacity:1;stroke:none"
-       d="M 8.3362186,12 14,16 13,10 z"
-       id="path3943"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccc" />
-  </g>
-  <g
-     id="g3935"
-     style="fill:#353535;fill-opacity:1"
-     transform="translate(4,4)">
-    <path
-       sodipodi:nodetypes="sssss"
-       inkscape:connector-curvature="0"
-       id="path2999-7"
-       d="M 8,0 C 3.581722,0 0,3.1340067 0,7 c 0,3.865993 3.581722,7 8,7 4.418278,0 8,-3.134007 8,-7 C 16,3.1340067 12.418278,0 8,0 z"
-       style="fill:#353535;fill-opacity:1;stroke:none" />
-    <path
-       sodipodi:nodetypes="cccc"
-       inkscape:connector-curvature="0"
-       id="path3001-7"
-       d="M 8.3362186,12 14,16 13,10 z"
-       style="fill:#353535;fill-opacity:1;stroke:none" />
-  </g>
+  <path
+     style="fill:#353535;fill-opacity:1;stroke:none"
+     d="m 12,4 c -4.418278,0 -8,3.1340067 -8,7 0,3.865993 3.581722,7 8,7 4.418278,0 8,-3.134007 8,-7 0,-3.8659933 -3.581722,-7 -8,-7 z"
+     id="path2999-7"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="sssss" />
+  <path
+     style="fill:#353535;fill-opacity:1;stroke:none"
+     d="M 12.336219,16 18,20 17,14 z"
+     id="path3001-7"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cccc" />
 </svg>

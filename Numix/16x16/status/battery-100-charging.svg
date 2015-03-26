@@ -36,16 +36,16 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="640"
-     inkscape:window-height="480"
+     inkscape:window-width="1280"
+     inkscape:window-height="998"
      id="namedview8"
      showgrid="true"
-     inkscape:zoom="10.727273"
-     inkscape:cx="9.9462951"
-     inkscape:cy="11.51526"
+     inkscape:zoom="21.454546"
+     inkscape:cx="4.0816927"
+     inkscape:cy="10.931789"
      inkscape:window-x="0"
      inkscape:window-y="0"
-     inkscape:window-maximized="0"
+     inkscape:window-maximized="1"
      inkscape:current-layer="svg2">
     <inkscape:grid
        type="xygrid"
@@ -56,13 +56,9 @@
        snapvisiblegridlinesonly="true" />
   </sodipodi:namedview>
   <path
-     style="opacity:0.3"
-     d="M 6 2.75 L 6 4.28125 L 4 4.28125 L 4 14 L 4 15 L 12 15 L 12 14 L 12 4.28125 L 10 4.28125 L 10 2.75 L 6 2.75 z M 9.34375 5.0625 L 8.65625 8.875 L 10.65625 8.875 L 6.84375 14 L 6.6875 14 L 7.34375 10.40625 L 5.34375 10.40625 L 9.34375 5.0625 z "
-     id="path4" />
-  <path
      d="m 6.0000002,2 0,2 L 4,4 l 0,10 8,0 0,-10 -1.999999,0 0,-2 z M 9.3333335,4.2941176 8.666667,8.117647 l 2,0 -4.0000001,5.352941 0.6666667,-3.8235292 -2.0000002,0 z"
      id="path6"
      inkscape:connector-curvature="0"
-     style="fill:#dcdcdc"
+     style="fill:#ececec;fill-opacity:1"
      sodipodi:nodetypes="cccccccccccccccc" />
 </svg>

@@ -56,14 +56,9 @@
        snapvisiblegridlinesonly="true" />
   </sodipodi:namedview>
   <path
-     d="M 9,5 9,7 6,7 6,21 18,21 18,7 15,7 15,5 9,5 z m 5,3 -1,5 3,0 -6,7 1,-5 -3,0 6,-7 z"
-     id="path4"
-     inkscape:connector-curvature="0"
-     style="opacity:0.3" />
-  <path
      d="M 9,4 9,6 6,6 6,20 18,20 18,6 15,6 15,4 9,4 z m 5,3 -1,5 3,0 -6,7 1,-5 -3,0 6,-7 z"
      id="path6"
      class="error"
      inkscape:connector-curvature="0"
-     style="fill:#ef555c" />
+     style="fill:#ef555c;fill-opacity:1" />
 </svg>

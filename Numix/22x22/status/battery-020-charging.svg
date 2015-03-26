@@ -12,7 +12,7 @@
    height="22"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.48.5 r10040"
    sodipodi:docname="battery-020-charging.svg">
   <metadata
      id="metadata14">
@@ -36,26 +36,23 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1366"
-     inkscape:window-height="740"
+     inkscape:window-width="1280"
+     inkscape:window-height="998"
      id="namedview10"
      showgrid="false"
      inkscape:zoom="24.178267"
      inkscape:cx="11.082719"
      inkscape:cy="11"
      inkscape:window-x="0"
-     inkscape:window-y="28"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2" />
-  <path
-     d="m 5,16 0,4 12,0 0,-4 -5.4375,0 L 9,19 9.59375,16 5,16 z"
-     opacity="0.4"
-     id="path4" />
   <path
      d="M 8,3 8,5 5,5 5,19 17,19 17,5 14,5 14,3 8,3 z m 5,3 -1,5 3,0 -6,7 1,-5 -3,0 6,-7 z"
      opacity="0.6"
      fill="#bebebe"
-     id="path6" />
+     id="path6"
+     style="fill:#ececec;fill-opacity:1" />
   <path
      d="m 5,15 0,4 12,0 0,-4 -5.4375,0 L 9,18 9.59375,15 5,15 z"
      id="path8"

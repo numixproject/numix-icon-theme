@@ -34,16 +34,16 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="640"
-     inkscape:window-height="480"
+     inkscape:window-width="1280"
+     inkscape:window-height="998"
      id="namedview24"
      showgrid="true"
-     inkscape:zoom="9.8333333"
-     inkscape:cx="12"
-     inkscape:cy="12"
-     inkscape:window-x="638"
-     inkscape:window-y="489"
-     inkscape:window-maximized="0"
+     inkscape:zoom="13.906433"
+     inkscape:cx="7.2721331"
+     inkscape:cy="7.0583462"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
      inkscape:current-layer="svg2">
     <inkscape:grid
        type="xygrid"
@@ -96,12 +96,7 @@
     </mask>
   </defs>
   <path
-     style="opacity:0.3"
-     inkscape:connector-curvature="0"
-     d="M 4,18 19.999999,18 18,15 6,15 z m 5,1 c 0.443211,1.158348 1.611924,2 3,2 1.388076,0 2.556789,-0.841652 3,-2 L 9,19 z M 12.022979,5.0071978 C 9.758286,4.8818939 7.584133,6.4104953 6.704037,8.1966719 6.112069,9.444388 6.084699,9.6407305 6.039691,13.03345 L 6,16 18,16 18,13.313844 C 18,10.523101 17.95648,9.985223 17.657381,9.0378522 17.344746,8.0476094 16.990242,7.4540201 16.228413,6.6479397 15.049239,5.3349702 13.304308,5.0105781 12.022979,5.0071978 z"
-     id="path4" />
-  <path
-     style="fill:#dedede"
+     style="fill:#ececec;fill-opacity:1"
      inkscape:connector-curvature="0"
      d="M 4,17 19.999999,17 18,14 6,14 z m 5,1 c 0.443211,1.158348 1.611924,2 3,2 1.388076,0 2.556789,-0.841652 3,-2 L 9,18 z M 12.022979,4.0071978 C 9.758286,3.8818939 7.584133,5.4104953 6.704037,7.1966719 6.112069,8.444388 6.084699,8.6407305 6.039691,12.03345 L 6,15 18,15 18,12.313844 C 18,9.5231009 17.95648,8.985223 17.657381,8.0378522 17.344746,7.0476094 16.990242,6.4540201 16.228413,5.6479397 15.049239,4.3349702 13.304308,4.0105781 12.022979,4.0071978 z"
      id="path6" />

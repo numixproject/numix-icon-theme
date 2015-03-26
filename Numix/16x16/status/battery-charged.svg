@@ -13,7 +13,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.5 r10040"
-   sodipodi:docname="battery-100.svg">
+   sodipodi:docname="battery-charged.svg">
   <metadata
      id="metadata12">
     <rdf:RDF>
@@ -41,8 +41,8 @@
      id="namedview8"
      showgrid="true"
      inkscape:zoom="17.205451"
-     inkscape:cx="-4.2201549"
-     inkscape:cy="9.3671476"
+     inkscape:cx="-6.4868784"
+     inkscape:cy="10.00648"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -56,12 +56,7 @@
        snapvisiblegridlinesonly="true" />
   </sodipodi:namedview>
   <path
-     id="path3780"
-     d="m 6,2.7647059 0,1.5294117 -2,0 L 4,15 l 8,0 0,-10.7058824 -2,0 0,-1.5294117 -4,0 z m 4.083333,3.8235293 1.25,1.4099264 -4.1666663,4.7077204 c -0.854701,-0.965309 -1.6452992,-1.854544 -2.5,-2.8198528 l 1.25,-1.4099264 1.25,1.4099264 2.9166663,-3.297794 z"
-     style="fill:#000000;fill-opacity:0.30196078"
-     inkscape:connector-curvature="0" />
-  <path
-     style="fill:#dcdcdc;fill-opacity:1"
+     style="fill:#ececec;fill-opacity:1"
      d="m 6,2 0,2 -2,0 0,10 8,0 0,-10 -2,0 0,-2 z m 4.083333,3.8235293 1.25,1.4099264 -4.1666663,4.7077213 c -0.854701,-0.96531 -1.6452992,-1.854545 -2.5,-2.8198537 l 1.25,-1.4099264 1.25,1.4099264 z"
      id="path2991"
      inkscape:connector-curvature="0"

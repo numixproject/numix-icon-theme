@@ -41,7 +41,7 @@
      id="namedview10"
      showgrid="true"
      inkscape:zoom="42.909091"
-     inkscape:cx="9.5384819"
+     inkscape:cx="1.7545837"
      inkscape:cy="7.2703625"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -56,20 +56,15 @@
        snapvisiblegridlinesonly="true" />
   </sodipodi:namedview>
   <path
-     d="M 4,11.941176 4,15 l 8,0 0,-3.058824 z"
-     id="path4"
-     inkscape:connector-curvature="0"
-     style="opacity:0.3" />
-  <path
      d="M 6,2 6,4 4,4 4,14 12,14 12,4 10,4 10,2 z"
      id="path6"
      inkscape:connector-curvature="0"
-     style="opacity:0.4;fill:#dcdcdc"
+     style="opacity:0.4;fill:#ececec;fill-opacity:1"
      sodipodi:nodetypes="ccccccccc" />
   <path
      d="M 4,6.588235 4,14 l 8,0 0,-7.411765 z"
      id="path8"
      inkscape:connector-curvature="0"
-     style="fill:#dedede"
+     style="fill:#ececec;fill-opacity:1"
      sodipodi:nodetypes="ccccc" />
 </svg>

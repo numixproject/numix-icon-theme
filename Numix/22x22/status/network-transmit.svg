@@ -1,10 +1,60 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 22">
-<g style="fill-rule:evenodd">
-<g style="opacity:.4">
-<path style="opacity:.3" d="m20 16-5 5-5-5h3v-7h4v7h3z"/>
-<path style="fill:#dcdcdc" d="m20 15-5 5-5-5h3v-7h4v7h3z"/>
-</g>
-<path style="opacity:.3" d="m12 9-5-5-5 5h3v7h4v-7h3z"/>
-<path style="fill:#dcdcdc" d="m12 8-5-5-5 5h3v7h4v-7h3z"/>
-</g>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 22 22"
+   id="svg3010"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   width="100%"
+   height="100%"
+   sodipodi:docname="network-transmit.svg">
+  <metadata
+     id="metadata3028">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs3026" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1280"
+     inkscape:window-height="998"
+     id="namedview3024"
+     showgrid="false"
+     inkscape:zoom="30.341309"
+     inkscape:cx="8.3918113"
+     inkscape:cy="2.2645228"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3010" />
+  <path
+     style="opacity:0.4;fill:#ececec;fill-opacity:1;fill-rule:evenodd"
+     d="m 20,15 -5,5 -5,-5 h 3 V 8 h 4 v 7 h 3 z"
+     id="path3018"
+     inkscape:connector-curvature="0" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path3022"
+     d="M 12,8 7,3 2,8 h 3 v 7 H 9 V 8 h 3 z"
+     style="fill:#ececec;fill-opacity:1;fill-rule:evenodd" />
 </svg>
