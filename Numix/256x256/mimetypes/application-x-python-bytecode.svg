@@ -13,7 +13,7 @@
    version="1.1"
    id="svg2"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="text-x-python.svg">
+   sodipodi:docname="application-x-python-bytecode.svg">
   <metadata
      id="metadata19">
     <rdf:RDF>
@@ -22,7 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -42,7 +42,7 @@
      id="namedview15"
      showgrid="false"
      inkscape:zoom="1"
-     inkscape:cx="123.25424"
+     inkscape:cx="105.75424"
      inkscape:cy="106.30508"
      inkscape:window-x="0"
      inkscape:window-y="28"
@@ -55,7 +55,7 @@
   <g
      id="surface1">
     <path
-       style=" stroke:none;fill-rule:nonzero;fill:rgb(21.176471%,41.176471%,58.039216%);fill-opacity:1;"
+       style="stroke:none;fill-rule:nonzero;fill:#2d2d2d;fill-opacity:1"
        d="M 42.6875 0 C 37.1875 0 32 5.421875 32 11.15625 L 32 244.84375 C 32 250.265625 37.5 256 42.6875 256 L 213.3125 256 C 218.5 256 224 250.265625 224 244.84375 L 224 72 L 152 0 Z M 42.6875 0 "
        id="path5" />
     <path
