@@ -7,12 +7,12 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="16"
+   width="13.091"
    height="16"
    viewBox="0 0 16 16"
    id="svg2991"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
+   inkscape:version="0.91 r"
    sodipodi:docname="account-logged-in.svg">
   <metadata
      id="metadata3015">
@@ -34,16 +34,16 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="688"
-     inkscape:window-height="480"
+     inkscape:window-width="1366"
+     inkscape:window-height="747"
      id="namedview3013"
      showgrid="false"
      inkscape:zoom="14.75"
      inkscape:cx="8"
      inkscape:cy="8"
-     inkscape:window-x="381"
-     inkscape:window-y="165"
-     inkscape:window-maximized="0"
+     inkscape:window-x="0"
+     inkscape:window-y="21"
+     inkscape:window-maximized="1"
      inkscape:current-layer="svg2991" />
   <defs
      id="defs2993">
@@ -93,6 +93,7 @@
   </defs>
   <path
      style="fill:#ececec;fill-opacity:1"
-     d="M 12.480469 2.90625 C 13.105469 2.890625 13.726562 3.195312 14.023438 3.667969 C 14.320312 4.140625 14.28125 4.757812 13.921875 5.199219 L 8.296875 12.480469 C 7.742188 13.191406 6.394531 13.300781 5.691406 12.691406 L 2.316406 9.777344 C 1.628906 9.253906 1.59375 8.214844 2.246094 7.65625 C 2.898438 7.097656 4.101562 7.132812 4.707031 7.730469 L 6.625 9.382812 L 11.109375 3.574219 C 11.40625 3.179688 11.933594 2.921875 12.480469 2.90625 Z "
-     id="path3011" />
+     d="m 12.481041,1.7789457 c 0.625052,-0.019094 1.246197,0.3532431 1.543098,0.9308451 0.296899,0.5776009 0.257833,1.3318233 -0.101571,1.8712368 L 8.2970981,13.47895 C 7.7423648,14.347738 6.3945954,14.481398 5.6914117,13.736721 L 2.3161301,10.175644 C 1.6285727,9.5359856 1.5934138,8.2662184 2.2458123,7.5835985 2.8982107,6.9009787 4.1014351,6.9439405 4.7069546,7.6742966 l 1.918129,2.019216 4.4847494,-7.0982873 C 11.406732,2.1130957 11.93412,1.7980399 12.481041,1.7789457 Z"
+     id="path3011"
+     inkscape:connector-curvature="0" />
 </svg>
