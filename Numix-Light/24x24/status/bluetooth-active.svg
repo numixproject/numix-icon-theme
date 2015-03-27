@@ -7,24 +7,27 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="24"
+   width="19.639999"
+   viewBox="0 0 19.639999 24"
    height="24"
-   viewBox="0 0 24 24"
-   id="svg3006"
+   id="svg2"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
+   inkscape:version="0.91 r"
    sodipodi:docname="bluetooth-active.svg">
   <metadata
-     id="metadata3030">
+     id="metadata16">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
+  <defs
+     id="defs14" />
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -34,65 +37,29 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1280"
-     inkscape:window-height="998"
-     id="namedview3028"
+     inkscape:window-width="1366"
+     inkscape:window-height="747"
+     id="namedview12"
      showgrid="false"
-     inkscape:zoom="19.666667"
-     inkscape:cx="10.31765"
-     inkscape:cy="10.338712"
+     inkscape:zoom="10.727273"
+     inkscape:cx="-11.259511"
+     inkscape:cy="6.0259212"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="21"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg3006" />
-  <defs
-     id="defs3008">
-    <clipPath
-       id="clip1">
-      <rect
-         width="24"
-         height="24"
-         id="rect3011" />
-    </clipPath>
-    <filter
-       width="100%"
-       x="0"
-       y="0"
-       height="100%"
-       filterUnits="objectBoundingBox"
-       id="alpha">
-      <feColorMatrix
-         values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"
-         in="SourceGraphic"
-         type="matrix"
-         id="feColorMatrix3014" />
-    </filter>
-    <g
-       style="clip-path:url(#clip1)"
-       id="surface6"
-       clip-path="url(#clip1)">
-      <path
-         style="fill:#000;fill-rule:evenodd"
-         d="M 10.859375 3.273438 L 10.859375 11.101562 L 5.601562 7.828125 L 3.820312 8.988281 L 10.363281 13.089844 L 3.71875 17.195312 L 5.800781 18.476562 L 10.859375 15.144531 L 10.859375 22.910156 L 20.28125 17.195312 L 14.039062 13.15625 L 20.082031 9.171875 Z M 13.4375 7.0625 L 16.515625 9.238281 L 13.4375 11.164062 Z M 13.339844 15.210938 L 16.617188 17.128906 L 13.539062 18.863281 Z "
-         id="path3017" />
-    </g>
-    <mask
-       id="mask0">
-      <g
-         style="filter:url(#alpha)"
-         id="g3020">
-        <rect
-           width="24"
-           x="0"
-           y="0"
-           height="24"
-           style="fill:#000;fill-opacity:.302"
-           id="rect3022" />
-      </g>
-    </mask>
-  </defs>
-  <path
-     style="fill:#353535;fill-rule:evenodd;fill-opacity:1"
-     d="M 10.859375 2.183594 L 10.859375 10.007812 L 5.601562 6.734375 L 3.820312 7.898438 L 10.363281 12 L 3.71875 16.101562 L 5.800781 17.382812 L 10.859375 14.054688 L 10.859375 21.816406 L 20.28125 16.101562 L 14.039062 12.066406 L 20.082031 8.082031 Z M 13.4375 5.96875 L 16.515625 8.148438 L 13.4375 10.074219 Z M 13.339844 14.121094 L 16.617188 16.039062 L 13.539062 17.773438 Z "
-     id="path3026" />
+     inkscape:current-layer="svg2" />
+  <g
+     style="opacity:0.3"
+     transform="matrix(0.09,0,0,0.09,-2.52,21.2)"
+     id="g4" />
+  <g
+     style="fill:#353535;fill-opacity:1"
+     transform="matrix(0.09,0,0,0.09,-1.7000003,19.2)"
+     id="g8">
+    <path
+       style="fill:#353535;fill-opacity:1;fill-rule:evenodd"
+       d="m 118.49886,-180 0,79.72062 -43.81941,-33.3325 L 59.83072,-121.79 114.34537,-79.999998 59,-38.210628 l 17.3409,13.055 42.15796,-33.90875 0,79.064378 L 197,-38.210628 144.97745,-79.342498 195.33862,-119.90188 118.49886,-180 Z m 21.49439,38.58812 25.64786,22.1675 -25.64786,19.621883 0,-41.789383 z m -0.83073,83.005002 27.30925,19.54 -25.6478,17.65188 -1.66145,-37.19188 z"
+       id="path10"
+       inkscape:connector-curvature="0" />
+  </g>
 </svg>
