@@ -7,12 +7,12 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="23"
-   viewBox="0 0 23 22"
+   width="22"
+   viewBox="0 0 22 22"
    height="22"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
+   inkscape:version="0.91 r"
    sodipodi:docname="input-keyboard.svg">
   <metadata
      id="metadata44">
@@ -22,6 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -36,16 +37,16 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="640"
-     inkscape:window-height="480"
+     inkscape:window-width="1366"
+     inkscape:window-height="747"
      id="namedview40"
      showgrid="true"
-     inkscape:zoom="5.3636364"
-     inkscape:cx="-6.5913912"
-     inkscape:cy="2.7565373"
+     inkscape:zoom="15.170655"
+     inkscape:cx="15.881096"
+     inkscape:cy="6.926769"
      inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="0"
+     inkscape:window-y="21"
+     inkscape:window-maximized="1"
      inkscape:current-layer="svg2">
     <inkscape:grid
        type="xygrid"
@@ -55,40 +56,40 @@
      style="fill:#ececec;fill-opacity:1"
      inkscape:connector-curvature="0"
      id="path24"
-     d="M 2.3125,5.06547 C 1.585375,5.06547 1,5.6536726 1,6.38431 l 0,9.23188 c 0,0.730637 0.585375,1.31884 1.3125,1.31884 l 18.375,0 C 21.414625,16.93503 22,16.346827 22,15.61619 L 22,6.38431 C 22,5.6536726 21.414625,5.06547 20.6875,5.06547 z m 2.6874999,1.9345336 13.0000001,0 c 1.292568,0 1.999999,0.7790944 1.999999,2.0000053 l 0,4.0000111 c 0,1.10399 -0.997937,2.000005 -1.999999,2.000005 l -13.0000001,0 C 4.1069643,15.000025 3,14.189338 3,13.00002 L 3,9.0000089 C 3,8.1628549 3.6764951,7.0000036 4.9999999,7.0000036 z" />
+     d="M 1.8125,5.06547 C 1.085375,5.06547 0.5,5.6536726 0.5,6.38431 l 0,9.23188 c 0,0.730637 0.585375,1.31884 1.3125,1.31884 l 18.375,0 c 0.727125,0 1.3125,-0.588203 1.3125,-1.31884 l 0,-9.23188 c 0,-0.7306374 -0.585375,-1.31884 -1.3125,-1.31884 z m 2.6874999,1.9345336 13.0000001,0 c 1.292568,0 1.999999,0.7790944 1.999999,2.0000053 l 0,4.0000111 c 0,1.10399 -0.997937,2.000005 -1.999999,2.000005 l -13.0000001,0 C 3.6069643,15.000025 2.5,14.189338 2.5,13.00002 l 0,-4.0000111 c 0,-0.837154 0.6764951,-2.0000053 1.9999999,-2.0000053 z" />
   <path
      style="fill:#ececec;fill-opacity:1"
      inkscape:connector-curvature="0"
      id="path26"
-     d="m 4.9375,9.02199 0,1.31884 1.3125,0 0,-1.31884 z" />
+     d="m 4.4375,9.02199 0,1.31884 1.3125,0 0,-1.31884 z" />
   <path
      style="fill:#ececec;fill-opacity:1"
      inkscape:connector-curvature="0"
      id="path28"
-     d="m 7.5625,9.02199 0,1.31884 1.3125,0 0,-1.31884 z" />
+     d="m 7.0625,9.02199 0,1.31884 1.3125,0 0,-1.31884 z" />
   <path
      style="fill:#ececec;fill-opacity:1"
      inkscape:connector-curvature="0"
      id="path30"
-     d="m 10.1875,9.02199 0,1.31884 1.3125,0 0,-1.31884 z" />
+     d="m 9.6875,9.02199 0,1.31884 1.3125,0 0,-1.31884 z" />
   <path
      style="fill:#ececec;fill-opacity:1"
      inkscape:connector-curvature="0"
      id="path32"
-     d="m 12.8125,9.02199 0,1.31884 1.3125,0 0,-1.31884 z" />
+     d="m 12.3125,9.02199 0,1.31884 1.3125,0 0,-1.31884 z" />
   <path
      style="fill:#ececec;fill-opacity:1"
      inkscape:connector-curvature="0"
      id="path34"
-     d="m 4.9375,11.65967 0,1.31884 2.6724319,0 0,-1.31884 z" />
+     d="m 4.4375,11.65967 0,1.31884 2.6724319,0 0,-1.31884 z" />
   <path
      style="fill:#ececec;fill-opacity:1"
      inkscape:connector-curvature="0"
      id="path36"
-     d="m 8.875,11.65967 0,1.31884 6.515717,0 0,-1.31884 z" />
+     d="m 8.375,11.65967 0,1.31884 6.515717,0 0,-1.31884 z" />
   <path
      style="fill:#ececec;fill-opacity:1"
      inkscape:connector-curvature="0"
      id="path38"
-     d="m 15.4375,9.02199 0,1.31884 1.3125,0 0,2.63768 1.3125,0 0,-3.95652 z" />
+     d="m 14.9375,9.02199 0,1.31884 1.3125,0 0,2.63768 1.3125,0 0,-3.95652 z" />
 </svg>

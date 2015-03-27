@@ -8,23 +8,26 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="24"
-   height="24"
    viewBox="0 0 24 24"
+   height="24"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
+   inkscape:version="0.91 r"
    sodipodi:docname="input-keyboard.svg">
   <metadata
-     id="metadata56">
+     id="metadata44">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
+  <defs
+     id="defs42" />
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -34,129 +37,59 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1280"
-     inkscape:window-height="998"
-     id="namedview54"
-     showgrid="false"
-     inkscape:zoom="19.666667"
-     inkscape:cx="11.834093"
-     inkscape:cy="8.4220963"
+     inkscape:window-width="1366"
+     inkscape:window-height="747"
+     id="namedview40"
+     showgrid="true"
+     inkscape:zoom="15.170655"
+     inkscape:cx="1.6760403"
+     inkscape:cy="6.926769"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="21"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg2" />
-  <defs
-     id="defs4">
-    <clipPath
-       id="clip1">
-      <rect
-         width="24"
-         height="24"
-         id="rect7" />
-    </clipPath>
-    <filter
-       width="100%"
-       x="0"
-       y="0"
-       height="100%"
-       filterUnits="objectBoundingBox"
-       id="alpha">
-      <feColorMatrix
-         values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"
-         in="SourceGraphic"
-         type="matrix"
-         id="feColorMatrix10" />
-    </filter>
-    <g
-       style="clip-path:url(#clip1)"
-       id="surface6"
-       clip-path="url(#clip1)">
-      <path
-         style="fill:#000"
-         d="M 2.414062 6.617188 C 1.65625 6.617188 1.042969 7.257812 1.042969 8.054688 L 1.042969 18.125 C 1.042969 18.921875 1.65625 19.566406 2.414062 19.566406 L 21.585938 19.566406 C 22.34375 19.566406 22.957031 18.921875 22.957031 18.125 L 22.957031 8.054688 C 22.957031 7.257812 22.34375 6.617188 21.585938 6.617188 Z M 5.21875 8.726562 L 18.78125 8.726562 C 20.132812 8.726562 20.871094 9.578125 20.871094 10.910156 L 20.871094 15.273438 C 20.871094 16.476562 19.828125 17.453125 18.78125 17.453125 L 5.21875 17.453125 C 4.285156 17.453125 3.128906 16.570312 3.128906 15.273438 L 3.128906 10.910156 C 3.128906 9.996094 3.835938 8.726562 5.21875 8.726562 Z "
-         id="path13" />
-      <path
-         style="fill:#000"
-         d="M 5.152344 10.933594 L 5.152344 12.371094 L 6.523438 12.371094 L 6.523438 10.933594 Z "
-         id="path15" />
-      <path
-         style="fill:#000"
-         d="M 7.890625 10.933594 L 7.890625 12.371094 L 9.261719 12.371094 L 9.261719 10.933594 Z "
-         id="path17" />
-      <path
-         style="fill:#000"
-         d="M 10.628906 10.933594 L 10.628906 12.371094 L 12 12.371094 L 12 10.933594 Z "
-         id="path19" />
-      <path
-         style="fill:#000"
-         d="M 13.371094 10.933594 L 13.371094 12.371094 L 14.738281 12.371094 L 14.738281 10.933594 Z "
-         id="path21" />
-      <path
-         style="fill:#000"
-         d="M 5.152344 13.8125 L 5.152344 15.25 L 7.941406 15.25 L 7.941406 13.8125 Z "
-         id="path23" />
-      <path
-         style="fill:#000"
-         d="M 9.261719 13.8125 L 9.261719 15.25 L 16.058594 15.25 L 16.058594 13.8125 Z "
-         id="path25" />
-      <path
-         style="fill:#000"
-         d="M 16.109375 10.933594 L 16.109375 12.371094 L 17.476562 12.371094 L 17.476562 15.25 L 18.847656 15.25 L 18.847656 10.933594 Z "
-         id="path27" />
-    </g>
-    <mask
-       id="mask0">
-      <g
-         style="filter:url(#alpha)"
-         id="g30">
-        <rect
-           width="24"
-           x="0"
-           y="0"
-           height="24"
-           style="fill:#000;fill-opacity:.302"
-           id="rect32" />
-      </g>
-    </mask>
-  </defs>
+     inkscape:current-layer="svg2">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3037" />
+  </sodipodi:namedview>
+  <path
+     style="fill:#ececec;fill-opacity:1"
+     inkscape:connector-curvature="0"
+     id="path24"
+     d="M 2.8125,6.06522 C 2.085375,6.06522 1.5,6.6534226 1.5,7.38406 l 0,9.23188 c 0,0.730637 0.585375,1.31884 1.3125,1.31884 l 18.375,0 c 0.727125,0 1.3125,-0.588203 1.3125,-1.31884 l 0,-9.23188 c 0,-0.7306374 -0.585375,-1.31884 -1.3125,-1.31884 z m 2.6874999,1.9345336 13.0000001,0 c 1.292568,0 1.999999,0.7790944 1.999999,2.0000054 l 0,4.000011 c 0,1.10399 -0.997937,2.000005 -1.999999,2.000005 l -13.0000001,0 C 4.6069643,15.999775 3.5,15.189088 3.5,13.99977 l 0,-4.000011 C 3.5,9.162605 4.1764951,7.9997536 5.4999999,7.9997536 Z" />
+  <path
+     style="fill:#ececec;fill-opacity:1"
+     inkscape:connector-curvature="0"
+     id="path26"
+     d="m 5.4375,10.02174 0,1.31884 1.3125,0 0,-1.31884 z" />
+  <path
+     style="fill:#ececec;fill-opacity:1"
+     inkscape:connector-curvature="0"
+     id="path28"
+     d="m 8.0625,10.02174 0,1.31884 1.3125,0 0,-1.31884 z" />
+  <path
+     style="fill:#ececec;fill-opacity:1"
+     inkscape:connector-curvature="0"
+     id="path30"
+     d="m 10.6875,10.02174 0,1.31884 1.3125,0 0,-1.31884 z" />
+  <path
+     style="fill:#ececec;fill-opacity:1"
+     inkscape:connector-curvature="0"
+     id="path32"
+     d="m 13.3125,10.02174 0,1.31884 1.3125,0 0,-1.31884 z" />
+  <path
+     style="fill:#ececec;fill-opacity:1"
+     inkscape:connector-curvature="0"
+     id="path34"
+     d="m 5.4375,12.65942 0,1.31884 2.6724319,0 0,-1.31884 z" />
+  <path
+     style="fill:#ececec;fill-opacity:1"
+     inkscape:connector-curvature="0"
+     id="path36"
+     d="m 9.375,12.65942 0,1.31884 6.515717,0 0,-1.31884 z" />
   <path
      style="fill:#ececec;fill-opacity:1"
      inkscape:connector-curvature="0"
      id="path38"
-     d="m 2.414062,5.527344 c -0.757812,0 -1.371093,0.640625 -1.371093,1.4375 l 0,10.070312 c 0,0.796875 0.613281,1.4375 1.371093,1.4375 l 19.171876,0 c 0.757812,0 1.371093,-0.640625 1.371093,-1.4375 l 0,-10.070312 c 0,-0.796875 -0.613281,-1.4375 -1.371093,-1.4375 z m 2.804688,2.109375 13.5625,0 c 1.351562,0 2.089844,0.847656 2.089844,2.179687 l 0,4.367188 c 0,1.203125 -1.042969,2.179687 -2.089844,2.179687 l -13.5625,0 c -0.933594,0 -2.089844,-0.882812 -2.089844,-2.179687 l 0,-4.367188 c 0,-0.910156 0.707032,-2.179687 2.089844,-2.179687 z" />
-  <path
-     style="fill:#ececec;fill-opacity:1"
-     inkscape:connector-curvature="0"
-     id="path40"
-     d="m 5.152344,9.84375 0,1.4375 1.371094,0 0,-1.4375 z" />
-  <path
-     style="fill:#ececec;fill-opacity:1"
-     inkscape:connector-curvature="0"
-     id="path42"
-     d="m 7.890625,9.84375 0,1.4375 1.371094,0 0,-1.4375 z" />
-  <path
-     style="fill:#ececec;fill-opacity:1"
-     inkscape:connector-curvature="0"
-     id="path44"
-     d="m 10.628906,9.84375 0,1.4375 1.371094,0 0,-1.4375 z" />
-  <path
-     style="fill:#ececec;fill-opacity:1"
-     inkscape:connector-curvature="0"
-     id="path46"
-     d="m 13.371094,9.84375 0,1.4375 1.367187,0 0,-1.4375 z" />
-  <path
-     style="fill:#ececec;fill-opacity:1"
-     inkscape:connector-curvature="0"
-     id="path48"
-     d="m 5.152344,12.71875 0,1.441406 2.789062,0 0,-1.441406 z" />
-  <path
-     style="fill:#ececec;fill-opacity:1"
-     inkscape:connector-curvature="0"
-     id="path50"
-     d="m 9.261719,12.71875 0,1.441406 6.796875,0 0,-1.441406 z" />
-  <path
-     style="fill:#ececec;fill-opacity:1"
-     inkscape:connector-curvature="0"
-     id="path52"
-     d="m 16.109375,9.84375 0,1.4375 1.367187,0 0,2.878906 1.371094,0 0,-4.316406 z" />
+     d="m 15.9375,10.02174 0,1.31884 1.3125,0 0,2.63768 1.3125,0 0,-3.95652 z" />
 </svg>
