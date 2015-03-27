@@ -7,12 +7,12 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="16"
+   width="10.182"
+   viewBox="0 0 10.182 16"
    height="16"
-   viewBox="0 0 16 16"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
+   inkscape:version="0.91 r"
    sodipodi:docname="ac-adapter-symbolic.svg">
   <metadata
      id="metadata14">
@@ -22,6 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -36,24 +37,20 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1280"
-     inkscape:window-height="998"
+     inkscape:window-width="811"
+     inkscape:window-height="480"
      id="namedview10"
-     showgrid="true"
-     inkscape:zoom="41.7193"
-     inkscape:cx="8.5504673"
-     inkscape:cy="8.3992211"
+     showgrid="false"
+     inkscape:zoom="10.727273"
+     inkscape:cx="7.0000002"
+     inkscape:cy="11"
      inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg2">
-    <inkscape:grid
-       type="xygrid"
-       id="grid3799" />
-  </sodipodi:namedview>
+     inkscape:window-y="30"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" />
   <path
      inkscape:connector-curvature="0"
      id="path8"
-     d="m 11.429688,2.183594 -9.144532,6.542968 5.714844,0 -3.429688,5.089844 9.144532,-7.269531 -4.285156,0 z"
-     style="fill:#353535;fill-rule:evenodd;fill-opacity:1" />
+     d="m 7.2729001,2.1816 -5.8184,6.5457 3.6365,0 -2.1819,5.0911 5.8184,-7.273 -2.727375,0 1.272775,-4.3638 z"
+     style="fill:#353535;fill-opacity:1;fill-rule:evenodd" />
 </svg>
