@@ -21,3 +21,12 @@ For Arch users there's a [community maintained package](https://aur.archlinux.or
 
 ### Icon Requests
 Application icon requests should be posted in the [Numix Circle](https://github.com/numixproject/numix-icon-theme-circle) issue tracker. Action icons, indicators, file types and everything else should be posted here.
+
+### Colours for Panel Icons
+| Colour & Use | Hex Value | Shadow (if) Opacity | "Inactive" Opacity|
+| ------------ | ------------ | ------------ | ------------ |
+| Grey light fixed size | ![dcdcdc](readme-colours/dcdcdc.png) `#dcdcdc` | 30% black `#000000` | 40% (shadow: 12%) |
+| Grey dark fixed size | ![353535](readme-colours/353535.png) `#353535` | 30% black `#000000` | 40% (shadow: 12%) |
+| Grey scalable symbolic | ![bebebe](readme-colours/bebebe.png) `#bebebe` | No shadow | |
+| Red warning | ![ef555c](readme-colours/ef555c.png) `#ef555c` | 30% black `#000000` | |
+| Orange warning | ![ff8000](readme-colours/ff8000.png) `#ff8000` | 30% black `#000000` | |
