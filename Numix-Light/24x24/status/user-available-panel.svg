@@ -7,26 +7,27 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="24"
+   width="21.818001"
+   viewBox="0 0 21.818001 24"
    height="24"
-   viewBox="0 0 24 24"
-   id="svg3071"
+   id="svg2"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
+   inkscape:version="0.91 r"
    sodipodi:docname="user-available-panel.svg">
   <metadata
-     id="metadata3083">
+     id="metadata14">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <defs
-     id="defs3081" />
+     id="defs12" />
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -36,20 +37,20 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="640"
-     inkscape:window-height="480"
-     id="namedview3079"
+     inkscape:window-width="1366"
+     inkscape:window-height="747"
+     id="namedview10"
      showgrid="false"
-     inkscape:zoom="9.8333333"
-     inkscape:cx="12"
-     inkscape:cy="12"
+     inkscape:zoom="10.727273"
+     inkscape:cx="-5.5059355"
+     inkscape:cy="11"
      inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="svg3071" />
+     inkscape:window-y="21"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
   <path
      inkscape:connector-curvature="0"
-     id="path3077"
-     d="m 11.398438,4.363281 c -4.964844,0 -9,3.664063 -9,8.183594 0,4.515625 4.035156,8.179687 9,8.179687 2.359374,0 4.507812,-0.832031 6.113281,-2.179687 l 6.488281,0 -4.011719,-3.648437 c 0.25,-0.75 0.410157,-1.527344 0.410157,-2.351563 0,-4.519531 -4.03125,-8.183594 -9,-8.183594 z"
-     style="fill:#353535;fill-rule:evenodd;fill-opacity:1" />
+     id="path8"
+     d="m 10.409,5 c -4.14,0 -7.5,3.36 -7.5,7.5 0,4.14 3.36,7.5 7.5,7.5 1.9648,0 3.7561,-0.76222 5.0938,-2 l 5.406,0 -3.344,-3.3438 c 0.208,-0.6876 0.344,-1.401 0.344,-2.1562 0,-4.14 -3.36,-7.5 -7.5,-7.5 z"
+     style="fill:#353535;fill-opacity:1;fill-rule:evenodd" />
 </svg>

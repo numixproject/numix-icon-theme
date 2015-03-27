@@ -7,26 +7,27 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="16"
+   width="14.545"
+   viewBox="0 0 14.545 16"
    height="16"
-   viewBox="0 0 16 16"
-   id="svg3013"
+   id="svg3012"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
+   inkscape:version="0.91 r"
    sodipodi:docname="user-busy-panel.svg">
   <metadata
-     id="metadata3025">
+     id="metadata3024">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <defs
-     id="defs3023" />
+     id="defs3022" />
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -36,20 +37,20 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="640"
+     inkscape:window-width="811"
      inkscape:window-height="480"
-     id="namedview3021"
+     id="namedview3020"
      showgrid="false"
-     inkscape:zoom="14.75"
-     inkscape:cx="8"
-     inkscape:cy="8"
+     inkscape:zoom="10.727273"
+     inkscape:cx="10"
+     inkscape:cy="11"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="30"
      inkscape:window-maximized="0"
-     inkscape:current-layer="svg3013" />
+     inkscape:current-layer="svg3012" />
   <path
      inkscape:connector-curvature="0"
-     id="path3019"
-     d="m 7.601562,2.910156 c -3.3125,0 -6,2.441406 -6,5.453125 0,3.011719 2.6875,5.453125 6,5.453125 1.570313,0 3.003907,-0.550781 4.074219,-1.453125 l 4.324219,0 -2.675781,-2.433593 c 0.167969,-0.496094 0.277343,-1.015626 0.277343,-1.566407 0,-3.011719 -2.691406,-5.453125 -6,-5.453125 z M 11.199219,9.453125 4,9.453125 4,8 11.199219,8 z"
-     style="fill:#ececec;fill-rule:evenodd;fill-opacity:1" />
+     id="path3018"
+     d="m 6.908644,2.9087121 c -3.0109634,0 -5.4546439,2.4436805 -5.4546439,5.454644 0,3.0109639 2.4436805,5.4546439 5.4546439,5.4546439 1.4289713,0 2.7317581,-0.554352 3.704649,-1.454572 l 3.931707,0 -2.432044,-2.4320436 c 0.151276,-0.4996454 0.250186,-1.0189275 0.250186,-1.5680283 0,-3.0109635 -2.4436799,-5.454644 -5.4546434,-5.454644 z m 3.272786,6.5455727 -6.5455723,0 0,-1.4545717 6.5455723,0 0,1.4545717 z"
+     style="fill:#ececec;fill-opacity:1;fill-rule:evenodd" />
 </svg>
