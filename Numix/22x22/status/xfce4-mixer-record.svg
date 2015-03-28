@@ -10,7 +10,7 @@
    viewBox="0 0 14 22"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
+   inkscape:version="0.91 r"
    width="100%"
    height="100%"
    sodipodi:docname="xfce4-mixer-record.svg">
@@ -22,6 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -36,20 +37,20 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1280"
-     inkscape:window-height="998"
+     inkscape:window-width="1366"
+     inkscape:window-height="747"
      id="namedview10"
      showgrid="false"
      inkscape:zoom="30.341309"
-     inkscape:cx="11.061858"
-     inkscape:cy="4.9266243"
+     inkscape:cx="5.6896442"
+     inkscape:cy="8.8816284"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="21"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2" />
   <path
      inkscape:connector-curvature="0"
      id="path8"
-     d="M 7,1 C 5.338,1 4,2.338 4,4 v 8 c 0,1.662 1.338,3 3,3 1.662,0 3,-1.338 3,-3 V 4 C 10,2.338 8.662,1 7,1 z M 1,8 v 1 h 1 v 3 c 0,2.4238 1.7175,4.4415 4,4.9062 v 2.094 H 5 v 1 h 4 v -1 H 8 v -2.0938 c 2.283,-0.464 4,-2.482 4,-4.906 v -3 h 1 v -1 h -1 -1 v 4 c 0,2.216 -1.784,4 -4,4 -2.216,0 -4,-1.784 -4,-4 v -4 H 2 1 z"
+     d="m 7,1.4999 c -1.662,0 -3,1.338 -3,3 l 0,8 c 0,1.662 1.338,3 3,3 1.662,0 3,-1.338 3,-3 l 0,-8 c 0,-1.662 -1.338,-3 -3,-3 z m -6,7 0,1 1,0 0,3 c 0,2.4238 1.7175,4.4415 4,4.9062 l 0,2.094 -1,0 0,1 4,0 0,-1 -1,0 0,-2.0938 c 2.283,-0.464 4,-2.482 4,-4.906 l 0,-3 1,0 0,-1 -1,0 -1,0 0,4 c 0,2.216 -1.784,4 -4,4 -2.216,0 -4,-1.784 -4,-4 l 0,-4 -1,0 -1,0 z"
      style="color:#000000;fill:#ececec;fill-opacity:1" />
 </svg>
