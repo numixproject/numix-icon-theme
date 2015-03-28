@@ -12,7 +12,7 @@
    viewBox="0 0 24 24"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
+   inkscape:version="0.91 r"
    sodipodi:docname="audio-output-none-panel.svg">
   <metadata
      id="metadata79">
@@ -34,15 +34,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1280"
-     inkscape:window-height="998"
+     inkscape:window-width="1366"
+     inkscape:window-height="747"
      id="namedview77"
      showgrid="true"
-     inkscape:zoom="27.812867"
-     inkscape:cx="7.0699578"
-     inkscape:cy="10.684724"
+     inkscape:zoom="19.666668"
+     inkscape:cx="7.5524029"
+     inkscape:cy="12.323353"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="21"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2">
     <inkscape:grid
@@ -193,49 +193,115 @@
            id="rect53" />
       </g>
     </mask>
+    <clipPath
+       id="clipPath6">
+      <rect
+         id="rect8"
+         color="#bebebe"
+         fill="#bebebe"
+         x="26.85"
+         y="220.75"
+         width="3.825"
+         height="6.375" />
+    </clipPath>
+    <clipPath
+       id="clipPath10">
+      <rect
+         id="rect12"
+         color="#bebebe"
+         fill="#bebebe"
+         x="26.966"
+         y="221.33"
+         width="2.898"
+         height="5.216" />
+    </clipPath>
+    <clipPath
+       id="clipPath14">
+      <rect
+         id="rect16-5"
+         color="#bebebe"
+         fill="#bebebe"
+         x="26.999"
+         y="221.5"
+         width="1.876"
+         height="4.874" />
+    </clipPath>
+    <clipPath
+       id="clipPath3025">
+      <rect
+         height="4.874"
+         width="1.876"
+         y="221.5"
+         x="26.999"
+         fill="#bebebe"
+         color="#bebebe"
+         id="rect3027" />
+    </clipPath>
+    <clipPath
+       id="clipPath3021">
+      <rect
+         height="5.216"
+         width="2.898"
+         y="221.33"
+         x="26.966"
+         fill="#bebebe"
+         color="#bebebe"
+         id="rect3023" />
+    </clipPath>
+    <clipPath
+       id="clipPath3017">
+      <rect
+         height="6.375"
+         width="3.825"
+         y="220.75"
+         x="26.85"
+         fill="#bebebe"
+         color="#bebebe"
+         id="rect3019" />
+    </clipPath>
   </defs>
   <g
-     id="g3101"
-     transform="matrix(1.0001112,0,0,1,0.9991101,1)"
-     style="fill:#ececec;fill-opacity:1">
+     style="fill:#ececec;fill-opacity:1"
+     id="g3101-3"
+     transform="matrix(1.0001112,0,0,1,1.9991101,1)">
     <path
        sodipodi:nodetypes="cccccccc"
        style="fill:#ececec;fill-opacity:1"
        inkscape:connector-curvature="0"
-       id="path40"
-       d="M 6.0010672,5 3,8 l 0,6 3.0010672,3 0,-4 L 8,11 6.0010672,9 z" />
+       id="path40-7"
+       d="M 6.0010672,5 3,8 l 0,6 3.0010672,3 0,-4 L 8,11 6.0010672,9 Z" />
     <path
        sodipodi:nodetypes="ssssccs"
        style="fill:#ececec;fill-opacity:1"
        inkscape:connector-curvature="0"
-       id="path42"
+       id="path42-0"
        d="M 1,8 C 0.4769561,8 8.898e-4,8.4981434 8.898e-4,9 l 0,4 c 0,0.579702 0.432648,1 0.9991102,1 l 3.9964407,0 0,-6 z" />
   </g>
   <rect
      style="fill:#ececec;fill-opacity:1"
-     width="4"
-     height="2"
-     x="9"
-     y="11"
+     width="3.1428573"
+     height="1.4"
+     x="11"
+     y="11.3"
      rx="0.255"
      ry="0.20999999"
-     id="rect3031" />
+     id="rect3031-3" />
   <rect
      style="fill:#ececec;fill-opacity:1"
      ry="0.20999999"
      rx="0.255"
-     y="11"
-     x="14"
-     height="2"
-     width="4"
-     id="rect3035" />
+     y="11.3"
+     x="14.928572"
+     height="1.4"
+     width="3.1428573"
+     id="rect3035-6" />
   <rect
      style="fill:#ececec;fill-opacity:1"
-     width="4"
-     height="2"
-     x="19"
-     y="11"
+     width="3.1428573"
+     height="1.4"
+     x="18.857143"
+     y="11.3"
      rx="0.255"
      ry="0.20999999"
-     id="rect3039" />
+     id="rect3039-7" />
 </svg>
