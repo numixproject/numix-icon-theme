@@ -67,14 +67,18 @@
      inkscape:window-width="1920"
      inkscape:window-height="1016"
      id="namedview10"
-     showgrid="false"
-     inkscape:zoom="9.8333333"
-     inkscape:cx="-0.022026846"
-     inkscape:cy="19.817205"
+     showgrid="true"
+     inkscape:zoom="11.313709"
+     inkscape:cx="13.72126"
+     inkscape:cy="22.870994"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg2" />
+     inkscape:current-layer="svg2">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4146" />
+  </sodipodi:namedview>
   <path
      style="fill:#376a94;fill-opacity:1"
      d="M 8,1 C 6.971429,1 6,1.9714285 6,3 l 0,42 c 0,0.971429 1.028572,2 2,2 l 32,0 c 0.971429,0 2,-1.028571 2,-2 L 42,14 29,1 Z"
@@ -89,7 +93,7 @@
      d="m 29,1 13,13 -11,0 c -0.971429,0 -2,-1.028571 -2,-2 L 29,1 z"
      id="path8" />
   <g
-     transform="matrix(0.82246838,0,0,0.74815286,4.2636375,9.5981913)"
+     transform="matrix(0.83306979,0,0,0.7688543,4.0119871,8.7730325)"
      id="g49"
      style="fill:#ffffff">
     <g
@@ -101,7 +105,7 @@
          id="g53"
          style="fill:#ffffff">
         <path
-           d="m 19.09,12 c -3.926,0 -7.094,3.168 -7.094,7.094 l 0,7.813 c 0,3.926 3.168,7.094 7.094,7.094 l 9.813,0 c 3.926,0 7.094,-3.168 7.094,-7.094 l 0,-7.813 C 35.997,15.168 32.829,12 28.903,12"
+           d="m 19.191685,12.000931 c -3.926,0 -7.202279,3.877819 -7.202278,7.803819 l 10e-7,3.90191 c 1e-6,3.926 3.276277,7.803819 7.202277,7.803819 l 9.603037,0 c 3.925956,0 7.202277,-3.877818 7.202278,-7.803819 l 0,-3.90191 c 0,-3.926 -3.276278,-7.803819 -7.202278,-7.803819"
            id="path55"
            inkscape:connector-curvature="0"
            style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -109,11 +113,10 @@
         <path
            style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
            inkscape:connector-curvature="0"
-           d="m 34,30 -14.996,0 -3.989168,9.35928"
+           d="m 33.59624,27.60857 -14.404555,0 -3.601139,9.104455"
            id="path57"
            sodipodi:nodetypes="ccc" />
       </g>
     </g>
   </g>
 </svg>
-
