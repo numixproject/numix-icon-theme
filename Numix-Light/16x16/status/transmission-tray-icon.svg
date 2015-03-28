@@ -8,25 +8,24 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="16"
-   height="16"
    viewBox="0 0 16 16"
-   id="svg2997"
+   height="16"
+   id="svg2"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
+   inkscape:version="0.91 r"
    sodipodi:docname="transmission-tray-icon.svg">
   <metadata
-     id="metadata3009">
+     id="metadata12">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <defs
-     id="defs3007" />
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -36,20 +35,27 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="640"
-     inkscape:window-height="480"
-     id="namedview3005"
-     showgrid="false"
-     inkscape:zoom="14.75"
-     inkscape:cx="8"
-     inkscape:cy="8"
+     inkscape:window-width="1366"
+     inkscape:window-height="747"
+     id="namedview10"
+     showgrid="true"
+     inkscape:zoom="28.412836"
+     inkscape:cx="8.8470987"
+     inkscape:cy="9.8683807"
      inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="svg2997" />
+     inkscape:window-y="21"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2990" />
+  </sodipodi:namedview>
+  <defs
+     id="defs4" />
   <path
-     style="fill:#353535;fill-opacity:1"
+     sodipodi:nodetypes="cccccccccccccccccc"
      inkscape:connector-curvature="0"
-     id="path3003"
-     d="m 8,2.183594 -3.636719,3.230468 2.425781,0 0,5.171876 -2.425781,0 L 8,13.816406 l 3.636719,-3.230468 -2.425781,0 0,-5.171876 2.425781,0 z" />
+     id="path2996"
+     d="m 4.3636111,2.1817778 0,1.4545555 2.9091111,0 0,5.8182222 1.4545556,0 0,-5.8182222 2.9091112,0 0,-1.4545555 z M 3.6363333,6.5454444 1.4545,13.818222 l 13.091,0 -2.181833,-7.2727776 -2.181834,0 0,3.6363886 -4.3636663,0 0,-3.6363886 z"
+     style="opacity:1;fill:#353535;fill-opacity:1;stroke:none" />
 </svg>

@@ -7,15 +7,15 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="24"
-   height="24"
    viewBox="0 0 24 24"
-   id="svg3041"
+   id="svg3149"
    version="1.1"
    inkscape:version="0.48.5 r10040"
+   width="100%"
+   height="100%"
    sodipodi:docname="transmission-tray-icon.svg">
   <metadata
-     id="metadata3053">
+     id="metadata3161">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -26,7 +26,7 @@
     </rdf:RDF>
   </metadata>
   <defs
-     id="defs3051" />
+     id="defs3159" />
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -36,20 +36,20 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="640"
-     inkscape:window-height="480"
-     id="namedview3049"
+     inkscape:window-width="1280"
+     inkscape:window-height="998"
+     id="namedview3157"
      showgrid="false"
      inkscape:zoom="9.8333333"
      inkscape:cx="12"
      inkscape:cy="12"
      inkscape:window-x="0"
      inkscape:window-y="0"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="svg3041" />
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3149" />
   <path
-     style="fill:#353535;fill-opacity:1"
      inkscape:connector-curvature="0"
-     id="path3047"
-     d="m 12,3.273438 -5.453125,4.847656 3.636719,0 0,7.757812 -3.636719,0 L 12,20.726562 l 5.453125,-4.847656 -3.636719,0 0,-7.757812 3.636719,0 z" />
+     id="path3155"
+     d="m 8.0005,4 c -0.554,0 -1,0.446 -1,1 0,0.554 0.446,1 1,1 h 3.0312 l -0.0625,4 H 6.813 l -1.875,8 v 1 H 19 V 18.0625 L 17.25,10 H 13 v 3 h 2 l -2.9688,3.0625 -3.0315,-3.062 h 1.9688 l 0.0625,-3 h 1.9688 v -4 h 3 c 0.554,0 1,-0.446 1,-1 0,-0.554 -0.446,-1 -1,-1 h -8 z"
+     style="color:#000000;fill:#353535;fill-rule:evenodd" />
 </svg>
