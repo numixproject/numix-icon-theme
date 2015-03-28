@@ -12,7 +12,7 @@
    height="22"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
+   inkscape:version="0.91 r"
    sodipodi:docname="audio-output-none-panel.svg">
   <metadata
      id="metadata46">
@@ -35,15 +35,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1280"
-     inkscape:window-height="998"
+     inkscape:window-width="1366"
+     inkscape:window-height="747"
      id="namedview44"
      showgrid="true"
-     inkscape:zoom="40.424161"
-     inkscape:cx="10.793399"
-     inkscape:cy="9.6470285"
+     inkscape:zoom="14.292099"
+     inkscape:cx="6.4485518"
+     inkscape:cy="16.608873"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="21"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2">
     <inkscape:grid
@@ -122,13 +122,13 @@
   <g
      style="fill:#ececec;fill-opacity:1"
      id="g3101"
-     transform="matrix(1.0001112,0,0,1,-8.8989898e-4,0)">
+     transform="matrix(1.0001112,0,0,1,0.9991101,0)">
     <path
        sodipodi:nodetypes="cccccccc"
        style="fill:#ececec;fill-opacity:1"
        inkscape:connector-curvature="0"
        id="path40"
-       d="M 6.0010672,5 3,8 l 0,6 3.0010672,3 0,-4 L 8,11 6.0010672,9 z" />
+       d="M 6.0010672,5 3,8 l 0,6 3.0010672,3 0,-4 L 8,11 6.0010672,9 Z" />
     <path
        sodipodi:nodetypes="ssssccs"
        style="fill:#ececec;fill-opacity:1"
@@ -138,10 +138,10 @@
   </g>
   <rect
      style="fill:#ececec;fill-opacity:1"
-     width="4"
-     height="2"
-     x="8"
-     y="10"
+     width="3.1428573"
+     height="1.4"
+     x="10"
+     y="10.3"
      rx="0.255"
      ry="0.20999999"
      id="rect3031" />
@@ -149,17 +149,17 @@
      style="fill:#ececec;fill-opacity:1"
      ry="0.20999999"
      rx="0.255"
-     y="10"
-     x="13"
-     height="2"
-     width="4"
+     y="10.3"
+     x="13.928572"
+     height="1.4"
+     width="3.1428573"
      id="rect3035" />
   <rect
      style="fill:#ececec;fill-opacity:1"
-     width="4"
-     height="2"
-     x="18"
-     y="10"
+     width="3.1428573"
+     height="1.4"
+     x="17.857143"
+     y="10.3"
      rx="0.255"
      ry="0.20999999"
      id="rect3039" />
