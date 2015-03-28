@@ -13,7 +13,7 @@
    height="22"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
+   inkscape:version="0.91 r"
    sodipodi:docname="google-chrome.svg"
    inkscape:export-filename="/home/nathanel/GitHub/numix-icon-theme-circle/Numix-Circle/22x22/status/google-chrome.png"
    inkscape:export-xdpi="90"
@@ -39,15 +39,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1280"
-     inkscape:window-height="998"
+     inkscape:window-width="1366"
+     inkscape:window-height="747"
      id="namedview397"
      showgrid="true"
-     inkscape:zoom="31.136364"
-     inkscape:cx="11"
-     inkscape:cy="11"
+     inkscape:zoom="11.008367"
+     inkscape:cx="10.146785"
+     inkscape:cy="4.7989507"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="21"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2"
      inkscape:object-paths="true"
@@ -165,7 +165,7 @@
   </defs>
   <g
      id="g3386"
-     transform="matrix(0.38108407,0,0,0.38108407,-9.370621,1.7159524)"
+     transform="matrix(0.38108407,0,0,0.38183495,-9.370621,1.7087678)"
      style="fill:#ececec;fill-opacity:1">
     <path
        inkscape:transform-center-y="7.9404831"
@@ -189,12 +189,7 @@
        cy="0.5"
        style="fill:#ececec;fill-opacity:1"
        r="41"
-       d="m 41.5,0.5 c 0,22.643675 -18.356325,41 -41,41 -22.643675,0 -41,-18.356325 -41,-41 0,-22.643675 18.356325,-41 41,-41 22.643675,0 41,18.356325 41,41 z"
        transform="matrix(0.03441734,0,0,0.03441734,32.720637,3.6516805)"
-       id="circle3294"
-       sodipodi:cx="0.5"
-       sodipodi:cy="0.5"
-       sodipodi:rx="41"
-       sodipodi:ry="41" />
+       id="circle3294" />
   </g>
 </svg>
