@@ -14,9 +14,9 @@
    width="22"
    version="1.0"
    inkscape:version="0.91 r"
-   sodipodi:docname="nm-vpn-connecting13.svg">
+   sodipodi:docname="nm-stage01-connecting05.svg">
   <defs
-     id="defs20750" />
+     id="defs14050" />
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -26,16 +26,16 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1366"
-     inkscape:window-height="747"
-     id="namedview20748"
+     inkscape:window-width="1188"
+     inkscape:window-height="650"
+     id="namedview14048"
      showgrid="false"
      inkscape:zoom="9.8333333"
-     inkscape:cx="-9.0508475"
-     inkscape:cy="12"
+     inkscape:cx="0.22690526"
+     inkscape:cy="16.127944"
      inkscape:window-x="0"
-     inkscape:window-y="21"
-     inkscape:window-maximized="1"
+     inkscape:window-y="34"
+     inkscape:window-maximized="0"
      inkscape:current-layer="svg3208" />
   <metadata
      id="metadata17">
@@ -48,30 +48,24 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <!-- imported from '../../status/22/nm-vpn-lock.svg' -->
   <path
-     style="line-height:normal;opacity:0.4;color:#000000;fill:#ececec"
-     d="M 10.999998,2.9999991 C 7.689901,2.9999991 4.601371,4.1418461 2,6.1212775 L 2.175185,6.4098025 3.861312,8.796683 C 5.957007,7.2907925 8.5133,6.4086475 11.021903,6.4098025 c 2.508604,0.0011 5.044547,0.88411 7.138687,2.3868805 L 19.824826,6.4098025 20,6.1212775 C 17.398628,4.1418461 14.310099,2.9999991 10.999998,2.9999991 z"
+     style="line-height:normal;opacity:0.4;color:#000000;fill:#353535"
+     d="M 10.999998,2.9999998 C 7.689901,2.9999998 4.601371,4.1418468 2,6.1212778 L 2.175185,6.4098028 3.861312,8.796684 C 5.957007,7.2907928 8.5133,6.4086478 11.021903,6.4098028 c 2.508604,0.0011 5.044547,0.88411 7.138687,2.3868812 L 19.824826,6.4098028 20,6.1212778 c -2.601372,-1.979431 -5.689901,-3.121278 -9.000002,-3.121278 z"
      id="path8424"
      inkscape:connector-curvature="0" />
   <path
-     style="line-height:normal;opacity:0.4;color:#000000;fill:#ececec"
-     d="m 11.021825,7.5115235 c -2.396565,0 -4.638927,0.7796875 -6.569348,2.1245725 l 1.598546,2.281957 c 1.481637,-0.945357 3.182445,-1.495068 4.970802,-1.495068 1.788344,0 3.471558,0.549711 4.948898,1.495068 L 17.569269,9.636096 C 15.645317,8.291211 13.418379,7.5115235 11.021825,7.5115235 z"
+     style="line-height:normal;opacity:0.6;color:#000000;fill:#353535"
+     d="m 11.021825,7.5115238 c -2.396565,0 -4.638927,0.7796882 -6.569348,2.1245732 l 1.598546,2.281956 c 1.481637,-0.945356 3.182445,-1.495067 4.970802,-1.495067 1.788344,0 3.471558,0.549711 4.948898,1.495067 L 17.569269,9.636097 C 15.645317,8.291212 13.418379,7.5115238 11.021825,7.5115238 z"
      id="path8426"
      inkscape:connector-curvature="0" />
   <path
-     style="line-height:normal;opacity:0.4;color:#000000;fill:#ececec"
+     style="line-height:normal;opacity:0.8;color:#000000;fill:#353535"
      d="m 11.021825,11.524615 c -1.5723,0 -3.06594,0.464341 -4.379569,1.259012 l 1.642342,2.334424 c 0.84105,-0.41345 1.754765,-0.655746 2.715323,-0.655746 0.96696,0 1.893588,0.23705 2.737225,0.655746 l 1.620439,-2.334424 c -1.305348,-0.788111 -2.770414,-1.259012 -4.33576,-1.259012 z"
      id="path8428"
      inkscape:connector-curvature="0" />
   <path
-     style="line-height:normal;color:#000000;fill:#ececec"
+     style="line-height:normal;opacity:0.4;color:#000000;fill:#353535"
      d="m 10.999998,15.590175 c -0.732914,0 -1.426476,0.172342 -2.080281,0.445895 L 10.999998,19 13.080294,16.009841 c -0.64836,-0.26985 -1.352577,-0.419666 -2.080296,-0.419666 z"
      id="path8430"
      inkscape:connector-curvature="0" />
-  <path
-     inkscape:connector-curvature="0"
-     d="m 17.000001,11 c -1.108,0 -2,0.911 -2,2.031 l 0,0.969 c -0.554,0 -1,0.446 -1,1 l 0,3 c 0,0.554 0.446,1 1,1 l 4,0 c 0.554,0 1,-0.446 1,-1 l 0,-3 c 0,-0.554 -0.446,-1 -1,-1 l 0,-0.969 c 0,-1.12 -0.892,-2.031 -2,-2.031 z m 0,1 c 0.554,0 1,0.442 1,1 l 0,1 -2,0 0,-1 c 0,-0.558 0.446,-1 1,-1 z"
-     style="fill:#ececec;fill-opacity:1"
-     id="rect2822-2" />
 </svg>

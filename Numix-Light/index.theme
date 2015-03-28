@@ -7,7 +7,7 @@ Inherits=Numix
 
 Example=folder
 
-Directories=16x16/apps,16x16/status,22x22/apps,22x22/status,24x24/apps,24x24/status,scalable/actions,scalable/categories,scalable/devices,scalable/emblems,scalable/mimetypes,scalable/places,scalable/status
+Directories=16x16/apps,16x16/status,22x22/animations,22x22/apps,22x22/status,24x24/apps,24x24/status,scalable/actions,scalable/categories,scalable/devices,scalable/emblems,scalable/mimetypes,scalable/places,scalable/status
 
 [16x16/apps]
 Size=16
@@ -17,6 +17,11 @@ Type=Fixed
 [16x16/status]
 Size=16
 Context=Status
+Type=Fixed
+
+[22x22/animations]
+Size=22
+Context=Animations
 Type=Fixed
 
 [22x22/apps]
