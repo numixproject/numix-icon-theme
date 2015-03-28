@@ -8,14 +8,14 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="24"
-   viewBox="0 0 6.7733335 6.7733335"
-   height="24"
+   width="16"
+   viewBox="0 0 4.5155556 4.5155556"
+   height="16"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
-   sodipodi:docname="product_logo_22.svg"
-   inkscape:export-filename="/home/nathanel/GitHub/numix-icon-theme-circle/Numix-Circle/24x24/apps/google-chrome.png"
+   inkscape:version="0.91 r"
+   sodipodi:docname="google-chrome.svg"
+   inkscape:export-filename="/home/nathanel/GitHub/numix-icon-theme-circle/Numix-Circle/22x22/status/google-chrome.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <metadata
@@ -26,7 +26,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -39,15 +39,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1280"
-     inkscape:window-height="998"
+     inkscape:window-width="1366"
+     inkscape:window-height="747"
      id="namedview397"
      showgrid="true"
-     inkscape:zoom="37.083333"
-     inkscape:cx="12"
-     inkscape:cy="12"
+     inkscape:zoom="13.8125"
+     inkscape:cx="-4.9177986"
+     inkscape:cy="11.271759"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="21"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2"
      inkscape:object-paths="true"
@@ -61,11 +61,7 @@
      inkscape:guide-bbox="true">
     <inkscape:grid
        type="xygrid"
-       id="grid3000"
-       empspacing="5"
-       visible="true"
-       enabled="true"
-       snapvisiblegridlinesonly="true" />
+       id="grid3000" />
     <sodipodi:guide
        orientation="1,0"
        position="45.999999,8.9999998"
@@ -169,7 +165,8 @@
   </defs>
   <g
      id="g3386"
-     transform="matrix(0.42871958,0,0,0.42871958,-10.647782,1.8246132)">
+     transform="matrix(0.27715101,0,0,0.2776971,-6.8149632,1.2427439)"
+     style="fill:#353535;fill-opacity:1">
     <path
        inkscape:transform-center-y="7.9404831"
        inkscape:transform-center-x="-8.6015473"
@@ -192,12 +189,7 @@
        cy="0.5"
        style="fill:#353535;fill-opacity:1"
        r="41"
-       d="m 41.5,0.5 c 0,22.643675 -18.356325,41 -41,41 -22.643675,0 -41,-18.356325 -41,-41 0,-22.643675 18.356325,-41 41,-41 22.643675,0 41,18.356325 41,41 z"
        transform="matrix(0.03441734,0,0,0.03441734,32.720637,3.6516805)"
-       id="circle3294"
-       sodipodi:cx="0.5"
-       sodipodi:cy="0.5"
-       sodipodi:rx="41"
-       sodipodi:ry="41" />
+       id="circle3294" />
   </g>
 </svg>
