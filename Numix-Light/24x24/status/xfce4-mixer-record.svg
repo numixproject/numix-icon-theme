@@ -7,12 +7,12 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="24"
+   width="15.273"
    height="24"
-   viewBox="0 0 24 24"
+   viewBox="0 0 15.273 24"
    id="svg3402"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
+   inkscape:version="0.91 r"
    sodipodi:docname="xfce4-mixer-record.svg">
   <metadata
      id="metadata3412">
@@ -22,6 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -36,19 +37,20 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1280"
-     inkscape:window-height="998"
+     inkscape:window-width="1366"
+     inkscape:window-height="747"
      id="namedview3408"
      showgrid="false"
      inkscape:zoom="9.8333333"
-     inkscape:cx="12"
+     inkscape:cx="-4.5762712"
      inkscape:cy="12"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="21"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg3402" />
   <path
-     style="fill:#353535;fill-opacity:1"
-     d="M 12 1.089844 C 9.152344 1.089844 6.855469 2.550781 6.855469 4.363281 L 6.855469 13.089844 C 6.855469 14.902344 9.152344 16.363281 12 16.363281 C 14.847656 16.363281 17.144531 14.902344 17.144531 13.089844 L 17.144531 4.363281 C 17.144531 2.550781 14.847656 1.089844 12 1.089844 Z M 1.714844 8.726562 L 1.714844 9.816406 L 3.429688 9.816406 L 3.429688 13.089844 C 3.429688 15.734375 6.371094 17.9375 10.285156 18.441406 L 10.285156 20.726562 L 8.570312 20.726562 L 8.570312 21.820312 L 15.429688 21.820312 L 15.429688 20.726562 L 13.714844 20.726562 L 13.714844 18.441406 C 17.628906 17.9375 20.570312 15.734375 20.570312 13.089844 L 20.570312 9.820312 L 22.285156 9.820312 L 22.285156 8.726562 L 18.855469 8.726562 L 18.855469 13.089844 C 18.855469 15.507812 15.800781 17.453125 12 17.453125 C 8.199219 17.453125 5.144531 15.507812 5.144531 13.089844 L 5.144531 8.726562 Z "
-     id="path3406" />
+     inkscape:connector-curvature="0"
+     id="path8"
+     d="m 7.6364999,2.4999 c -1.662,0 -3,1.338 -3,3 l 0,8 c 0,1.662 1.338,3 3,3 1.662,0 3.0000001,-1.338 3.0000001,-3 l 0,-8 c 0,-1.662 -1.3380001,-3 -3.0000001,-3 z m -6,7 0,1 1,0 0,3 c 0,2.4238 1.7175,4.4415 4,4.9062 l 0,2.094 -1,0 0,1 4,0 0,-1 -1,0 0,-2.0938 C 10.9195,17.9423 12.6365,15.9243 12.6365,13.5003 l 0,-3 1,0 0,-1 -1,0 -1,0 0,4 c 0,2.216 -1.7840001,4 -4.0000001,4 -2.216,0 -4,-1.784 -4,-4 l 0,-4 -1,0 -1,0 z"
+     style="color:#000000;fill:#ececec;fill-opacity:1" />
 </svg>
