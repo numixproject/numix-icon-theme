@@ -12,7 +12,7 @@
    viewBox="0 0 16 16"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
+   inkscape:version="0.91 r"
    sodipodi:docname="indicator-messages.svg">
   <metadata
      id="metadata26">
@@ -34,16 +34,16 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="640"
-     inkscape:window-height="480"
+     inkscape:window-width="1366"
+     inkscape:window-height="747"
      id="namedview24"
      showgrid="false"
      inkscape:zoom="14.75"
      inkscape:cx="8"
      inkscape:cy="8"
-     inkscape:window-x="638"
-     inkscape:window-y="489"
-     inkscape:window-maximized="0"
+     inkscape:window-x="0"
+     inkscape:window-y="21"
+     inkscape:window-maximized="1"
      inkscape:current-layer="svg2" />
   <defs
      id="defs4">
@@ -92,13 +92,7 @@
     </mask>
   </defs>
   <path
-     style="opacity:0.3"
-     inkscape:connector-curvature="0"
-     d="m 2,12.999838 12,0 -1.125,-1.941176 -9.75,0 z m 4,1.000001 c 0.360108,0.953933 1,1.511049 2,1.5 0.999939,-0.01105 1.639892,-0.546067 2,-1.5 z M 8.01867,2.829295 C 6.178607,2.7261036 4.412108,3.9849518 3.69703,5.4559208 3.216056,6.4834518 3.193818,6.6451455 3.157249,9.4391499 l -0.03226,2.4430411 9.75,0 0.125007,-2.882353 C 13.099581,6.7037372 12.839633,6.9288453 12.596615,6.1486575 12.342606,5.3331635 12.054572,4.8443251 11.435586,4.1804943 10.477508,3.0992252 9.059751,2.8320788 8.01867,2.829295 z"
-     id="path2991"
-     sodipodi:nodetypes="ccccccscccccccsscc" />
-  <path
-     style="fill:#dedede;fill-opacity:1"
+     style="fill:#ececec;fill-opacity:1"
      inkscape:connector-curvature="0"
      d="m 2,11.999838 12,0 -1,-2 -10,0 z m 4,1 c 0.360108,0.953934 0.99976,1.497182 2,1.500001 1,0.0028 1.639892,-0.546067 2,-1.500001 z M 8.01867,2.0057656 C 6,1.9999956 4.412108,3.1614224 3.69703,4.6323913 3.216056,5.6599223 3,5.999838 3,7.999838 l 0,2 10,0 0,-2 c 0,-2 -0.363492,-2.6288971 -0.715885,-3.2997099 C 11.470006,3.1970469 10,1.9999993 8.01867,2.0057656 z"
      id="path2993"
