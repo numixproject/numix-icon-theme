@@ -12,7 +12,7 @@
    viewBox="0 0 24 24"
    id="svg3017"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
+   inkscape:version="0.91 r"
    sodipodi:docname="application-running.svg">
   <metadata
      id="metadata3027">
@@ -36,7 +36,7 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="640"
+     inkscape:window-width="718"
      inkscape:window-height="480"
      id="namedview3023"
      showgrid="false"
@@ -44,11 +44,12 @@
      inkscape:cx="12"
      inkscape:cy="12"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="30"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg3017" />
   <path
      style="fill:#353535;fill-opacity:1"
-     d="M 0.0507812 5.453125 L 5.453125 11.164062 L 0 16.363281 Z "
-     id="path3021" />
+     d="M 1.0465616,7 6,12.23451 1,17 Z"
+     id="path3021"
+     inkscape:connector-curvature="0" />
 </svg>
