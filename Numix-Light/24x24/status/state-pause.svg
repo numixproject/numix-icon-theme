@@ -12,8 +12,8 @@
    id="svg9065"
    version="1.1"
    inkscape:version="0.91 r"
-   width="22"
-   height="22"
+   width="24"
+   height="24"
    sodipodi:docname="state-pause.svg">
   <metadata
      id="metadata9071">
@@ -23,7 +23,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -43,14 +43,14 @@
      id="namedview9067"
      showgrid="false"
      inkscape:zoom="10.429825"
-     inkscape:cx="8.6528745"
+     inkscape:cx="-7.5506572"
      inkscape:cy="-1.4021404"
      inkscape:window-x="0"
      inkscape:window-y="21"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg9065" />
   <g
-     transform="matrix(0.06584938,0,0,0.06869972,-11.839726,2.0965445)"
+     transform="matrix(0.06584938,0,0,0.06869972,-10.839726,3.0965445)"
      id="g3003"
      style="fill:#353535;fill-opacity:1;stroke:none">
     <path
@@ -63,11 +63,11 @@
   </g>
   <g
      id="g3179"
-     transform="matrix(0.6630485,0,0,0.6630485,23.619112,3.5330453)"
+     transform="matrix(0.6630485,0,0,0.6630485,23.619112,5.5330453)"
      style="fill:#353535;fill-opacity:1" />
   <g
      id="g3796"
-     transform="translate(-0.250103,1)"
+     transform="translate(0.74989721,2)"
      style="fill:#353535;fill-opacity:1">
     <path
        inkscape:connector-curvature="0"
