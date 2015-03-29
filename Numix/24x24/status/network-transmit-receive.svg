@@ -12,7 +12,7 @@
    viewBox="0 0 24 24"
    id="svg3041"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
+   inkscape:version="0.91 r"
    sodipodi:docname="network-transmit-receive.svg">
   <metadata
      id="metadata3053">
@@ -36,15 +36,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1280"
-     inkscape:window-height="998"
+     inkscape:window-width="1366"
+     inkscape:window-height="747"
      id="namedview3049"
      showgrid="true"
-     inkscape:zoom="19.666667"
-     inkscape:cx="8.0393719"
-     inkscape:cy="16.820244"
+     inkscape:zoom="9.8333335"
+     inkscape:cx="-3.1926991"
+     inkscape:cy="12.284105"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="21"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg3041">
     <inkscape:grid
@@ -55,12 +55,12 @@
      sodipodi:nodetypes="cccccccc"
      inkscape:connector-curvature="0"
      id="path3035"
-     d="M 13,9 7.5,3.5000001 2,9 l 3,0 0,8 5,0 0,-8 z"
-     style="fill:#ececec;fill-rule:evenodd;fill-opacity:1" />
+     d="M 13,8.3888888 8,3.5 3,8.3888888 l 2.7272727,0 0,7.1111112 4.5454543,0 0,-7.1111112 z"
+     style="fill:#ececec;fill-opacity:1;fill-rule:evenodd" />
   <path
      sodipodi:nodetypes="cccccccc"
      inkscape:connector-curvature="0"
      id="path3035-6"
-     d="m 11,14 5.5,5.5 5.5,-5.5 -3,0 0,-8.0000001 -5,0 L 14,14 z"
-     style="fill:#ececec;fill-rule:evenodd;fill-opacity:1" />
+     d="M 11,15.611111 16,20.5 l 5,-4.888889 -2.727273,0 0,-7.111111 -4.545454,0 0,7.111111 z"
+     style="fill:#ececec;fill-opacity:1;fill-rule:evenodd" />
 </svg>
