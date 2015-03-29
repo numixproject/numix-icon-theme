@@ -12,7 +12,7 @@
    viewBox="0 0 24 24"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
+   inkscape:version="0.91 r"
    sodipodi:docname="network-error.svg">
   <metadata
      id="metadata18">
@@ -36,20 +36,20 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1280"
-     inkscape:window-height="998"
+     inkscape:window-width="1366"
+     inkscape:window-height="747"
      id="namedview14"
      showgrid="false"
      inkscape:zoom="39.333333"
-     inkscape:cx="18.057313"
+     inkscape:cx="13.760703"
      inkscape:cy="13.090364"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="21"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2" />
   <path
      inkscape:connector-curvature="0"
-     style="line-height:normal;color:#000000;fill:#ef555c;fill-opacity:1"
-     d="m 12,2.9999998 c -4.4444445,0 -7.1095879,1.2803412 -10,3.4926471 L 12,20.882353 22,6.4926469 C 19.109587,4.280341 16.444444,2.9999998 12,2.9999998 z m 0,1.1176471 c 3.871528,0 5.788511,0.6744755 8.472222,2.7242647 L 12,18.996324 3.527778,6.8419116 C 6.2114888,4.7921224 8.1284721,4.1176469 12,4.1176469 z"
+     style="color:#000000;line-height:normal;fill:#ef555c;fill-opacity:1"
+     d="M 12,4 C 8,4 5.6013709,5.1455684 3,7.125 L 12,20 21,7.125 C 18.398628,5.1455684 16,4 12,4 Z m 0,1 c 3.484375,0 5.20966,0.6034781 7.625,2.4375 L 12,18.3125 4.3750002,7.4375 C 6.7903399,5.6034781 8.5156249,5 12,5 Z"
      id="path18-7" />
 </svg>
