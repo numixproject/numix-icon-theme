@@ -7,24 +7,27 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="22"
-   viewBox="0 0 22 22"
-   height="22"
-   id="svg2"
+   viewBox="0 0 24 24"
+   id="svg3149"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
+   inkscape:version="0.91 r"
+   width="100%"
+   height="100%"
    sodipodi:docname="transmission-tray-icon.svg">
   <metadata
-     id="metadata12">
+     id="metadata3161">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
+  <defs
+     id="defs3159" />
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -34,27 +37,20 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1280"
-     inkscape:window-height="998"
-     id="namedview10"
-     showgrid="true"
-     inkscape:zoom="32.539065"
-     inkscape:cx="6.1156135"
-     inkscape:cy="11"
+     inkscape:window-width="1366"
+     inkscape:window-height="747"
+     id="namedview3157"
+     showgrid="false"
+     inkscape:zoom="9.8333333"
+     inkscape:cx="-5.1864407"
+     inkscape:cy="12"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="21"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg2">
-    <inkscape:grid
-       type="xygrid"
-       id="grid2990" />
-  </sodipodi:namedview>
-  <defs
-     id="defs4" />
+     inkscape:current-layer="svg3149" />
   <path
-     sodipodi:nodetypes="cccccccccccccccccc"
      inkscape:connector-curvature="0"
-     id="path2996"
-     d="m 6,3 0,2 4,0 0,8 2,0 0,-8 4,0 0,-2 z M 5,9 2,19 20,19 17,9 14,9 14,14 8,14 8,9 z"
-     style="opacity:1;fill:#ececec;fill-opacity:1;stroke:none" />
+     id="path3155"
+     d="m 8.0315,4.5 c -0.554,0 -1,0.446 -1,1 0,0.554 0.446,1 1,1 l 3.0312,0 -0.0625,4 -4.1562,0 -1.875,8 0,1 14.062,0 0,-0.9375 -1.75,-8.0625 -4.25,0 0,3 2,0 -2.9688,3.0625 -3.0315,-3.062 1.9688,0 0.0625,-3 1.9688,0 0,-4 3,0 c 0.554,0 1,-0.446 1,-1 0,-0.554 -0.446,-1 -1,-1 l -8,0 z"
+     style="color:#000000;fill:#ececec;fill-rule:evenodd" />
 </svg>
