@@ -13,7 +13,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="application-json2.svg">
+   sodipodi:docname="text-x-octave.svg">
   <metadata
      id="metadata20">
     <rdf:RDF>
@@ -22,7 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -55,8 +55,8 @@
      inkscape:window-height="713"
      id="namedview16"
      showgrid="false"
-     inkscape:zoom="1"
-     inkscape:cx="9.424365"
+     inkscape:zoom="5.6568542"
+     inkscape:cx="6.3307728"
      inkscape:cy="9.109097"
      inkscape:window-x="0"
      inkscape:window-y="28"
@@ -71,7 +71,7 @@
        snapvisiblegridlinesonly="true" />
   </sodipodi:namedview>
   <path
-     style="fill:#795a8b;fill-opacity:1"
+     style="fill:#ef6f29;fill-opacity:1"
      d="M 4,0 C 3.527343,0 3,0.527344 3,1 l 0,20 c 0,0.445312 0.554687,1 1,1 l 14,0 c 0.445313,0 0.992367,-0.554753 1,-1 L 19,6 13,0 z"
      id="path4"
      inkscape:connector-curvature="0"
