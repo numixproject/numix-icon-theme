@@ -13,7 +13,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="test5b.svg">
+   sodipodi:docname="text-x-r0.svg">
   <metadata
      id="metadata34">
     <rdf:RDF>
@@ -22,7 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -40,10 +40,10 @@
      inkscape:window-width="1366"
      inkscape:window-height="713"
      id="namedview30"
-     showgrid="false"
+     showgrid="true"
      inkscape:zoom="16"
      inkscape:cx="11.308259"
-     inkscape:cy="11.273652"
+     inkscape:cy="13.773652"
      inkscape:window-x="0"
      inkscape:window-y="28"
      inkscape:window-maximized="1"
@@ -86,10 +86,19 @@
        style="stroke-width:2"
        id="g22" />
   </g>
-  <path
-     inkscape:connector-curvature="0"
-     style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-     d="m 8,8 0,11 2.0016,0 0,-4 1.0984,0 2.6,4 2.3,0 c -0.859833,-1.366106 -1.702574,-2.742577 -2.5784,-4.099093 1.5,-0.55499 2.5752,-1.766643 2.5752,-3.400907 0,-2.1201671 -1.7904,-3.5 -4,-3.5 m -1.9984,2 1.9984,0 C 13,10 13.8,10.476154 13.8,11.5 13.8,12.523846 13,13 11.9968,13 l -1.9984,0"
-     id="path65"
-     sodipodi:nodetypes="ccccccccsccszsc" />
+  <g
+     transform="matrix(0.5,0,0,0.5,0.5,0)"
+     id="g3342">
+    <path
+       sodipodi:nodetypes="ssccsssccss"
+       inkscape:connector-curvature="0"
+       id="path59"
+       d="m 23,19.003906 c -6.629,0 -12,3.582 -12,8 0,3.481616 3.341839,6.435794 8,7.535156 l 0,-2.65039 c -2.417463,-1.088051 -4,-2.868356 -4,-4.884766 0,-3.313 4.254,-6 9.5,-6 5.246,0 9.5,2.688 9.5,6 0,2.592172 -2.609832,4.7943 -6.255859,5.632813 0.293451,0.482501 0.586467,0.965217 0.876953,1.433593 C 32.414875,32.726307 35,30.067455 35,27.003906 c 0,-4.418 -5.371,-8 -12,-8 z"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+    <path
+       id="path63"
+       d="M 20,23.004 20,38 l 3,0 0,-5 1,0 3,5 3,0 -3,-5 -0.219,-0.344 c 1.875,-0.719 3.215,-2.523 3.215,-4.656 0,-2.758 -2.238,-4.996 -5,-4.996 m -1.996,3 1.996,0 c 1.105,0 2,0.895 2,1.996 0,1.109 -0.898,2 -2,2 L 23,30 23,26 m 0,0.004"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       inkscape:connector-curvature="0" />
+  </g>
 </svg>
