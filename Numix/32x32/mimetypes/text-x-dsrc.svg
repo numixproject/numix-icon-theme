@@ -13,7 +13,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="text-x-dsrc.svg">
+   sodipodi:docname="text-x-dsrc1.svg">
   <metadata
      id="metadata30">
     <rdf:RDF>
@@ -22,7 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -40,10 +40,10 @@
      inkscape:window-width="1366"
      inkscape:window-height="713"
      id="namedview26"
-     showgrid="false"
+     showgrid="true"
      inkscape:zoom="22.627417"
      inkscape:cx="10.98649"
-     inkscape:cy="14.157928"
+     inkscape:cy="14.890161"
      inkscape:window-x="0"
      inkscape:window-y="28"
      inkscape:window-maximized="1"
@@ -71,9 +71,9 @@
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="ccssc" />
   <path
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64px;line-height:125%;font-family:'Gill Sans MT';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#dcdcdc;fill-opacity:1;stroke:none"
-     d="M 11.000237,12 C 10.509496,12 10,12.501099 10.000548,13 L 10,23 c 0,0.535819 0.446597,1 1.000237,1 1.000239,0 2.462706,0 4.601095,0 1.959975,0 4.425544,-1.275765 5.496935,-2.957625 1.276342,-1.913892 1.184654,-4.596764 -0.19184,-6.434871 C 19.854756,13.105175 17.601807,12 15.601332,12 c -2.182159,0.0019 -2.685245,0.0089 -4.601095,0 z m 1.49576,2.403261 c 1.2381,0.01968 2.484452,-0.06841 3.714888,0.09661 1.010986,0.221176 2.016463,0.693598 2.618631,1.564669 0.704215,0.988548 0.714596,2.378472 0.198192,3.451036 -0.627308,1.206132 -1.93528,1.935521 -3.269477,2.029301 -1.082312,0.08659 -2.169112,0.04355 -3.253708,0.05676 z"
-     id="path2242"
+     d="M 22,18.5 C 22,23.831456 18.602251,26 15.999998,26 L 10,26 10,11 15.999999,11 C 18.602251,11 22,13.168544 22,18.5 Z m -3,0 c 0,-3 -1.500001,-4.499999 -4.000001,-4.499999 L 13,14.000001 13,23 14.999999,23 C 17.499999,23 19,21.5 19,18.5 Z"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.30313683px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';letter-spacing:0px;word-spacing:0px;fill:#dcdcdc;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     id="path4161"
      inkscape:connector-curvature="0"
-     sodipodi:nodetypes="cccccccccccccccc" />
+     sodipodi:nodetypes="zcccczzsccsz" />
 </svg>

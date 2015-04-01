@@ -13,7 +13,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="text-x-dsrc.svg">
+   sodipodi:docname="text-x-dsrc2.svg">
   <metadata
      id="metadata30">
     <rdf:RDF>
@@ -22,7 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -42,8 +42,8 @@
      id="namedview26"
      showgrid="false"
      inkscape:zoom="1"
-     inkscape:cx="6.03575"
-     inkscape:cy="7.0725187"
+     inkscape:cx="5.649051"
+     inkscape:cy="7.7197274"
      inkscape:window-x="0"
      inkscape:window-y="28"
      inkscape:window-maximized="1"
@@ -93,15 +93,13 @@
        id="tspan3351"
        sodipodi:role="line" /></text>
   <g
-     transform="scale(1.019747,0.98063539)"
+     transform="matrix(0.76481025,0,0,0.73547654,2,2.2500001)"
      style="font-style:normal;font-weight:normal;font-size:62.13867188px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#dcdcdc;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     id="text3353">
-    <path
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.65100098px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold';fill:#dcdcdc;fill-opacity:1"
-       d="M 4.5,5 C 4.223,5 4,5.223 4,5.5 l 0,7 C 4,12.777 4.223,13 4.5,13 l 2.9921875,0 C 10.499802,13 12,11.567759 12,9 12,6.4322414 10.328798,5.0000003 7.5800781,5 Z M 6,7 7.5332031,7 C 9.0002082,7 10,7.5520859 10,9.0117188 10,10.471352 8.9991841,11 7.625,11 L 6,11 Z"
-       transform="scale(0.98063539,1.019747)"
-       id="path4158"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cssccscccssscc" />
-  </g>
+     id="text3353" />
+  <path
+     d="M 11,9.25 C 11,11.915728 9.3011255,13 7.9999993,13 L 5,13 5,5.5 7.9999993,5.5 C 9.3011255,5.5 11,6.5842721 11,9.25 Z m -1.5,0 C 9.5,7.75 8.7499993,7.0000008 7.4999997,7.0000008 l -0.9999997,0 0,4.4999992 0.9999997,0 C 8.7499993,11.5 9.5,10.75 9.5,9.25 Z"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.30313683px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';letter-spacing:0px;word-spacing:0px;fill:#dcdcdc;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     id="path4161-1"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="zcccczzsccsz" />
 </svg>
