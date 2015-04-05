@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 16 16"
+   width="16"
+   height="16"
+   enable-background="new"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="window-manager.svg">
+  <metadata
+     id="metadata46">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1280"
+     inkscape:window-height="998"
+     id="namedview44"
+     showgrid="true"
+     inkscape:zoom="7.375"
+     inkscape:cx="-16.079532"
+     inkscape:cy="10.864808"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3030" />
+  </sodipodi:namedview>
+  <defs
+     id="defs4">
+    <filter
+       id="0"
+       height="1"
+       width="1"
+       y="0"
+       x="0"
+       color-interpolation-filters="sRGB">
+      <feColorMatrix
+         result="result14"
+         type="luminanceToAlpha"
+         in="SourceGraphic"
+         id="feColorMatrix7" />
+      <feComposite
+         in2="result14"
+         in="SourceGraphic"
+         result="fbSourceGraphic"
+         operator="out"
+         id="feComposite9" />
+      <feBlend
+         in2="fbSourceGraphic"
+         mode="normal"
+         result="result15"
+         id="feBlend11" />
+    </filter>
+    <filter
+       id="1"
+       height="1"
+       width="1"
+       y="0"
+       x="0"
+       color-interpolation-filters="sRGB">
+      <feColorMatrix
+         result="result14"
+         type="luminanceToAlpha"
+         in="SourceGraphic"
+         id="feColorMatrix14" />
+      <feComposite
+         in2="result14"
+         in="SourceGraphic"
+         result="fbSourceGraphic"
+         operator="out"
+         id="feComposite16" />
+      <feBlend
+         in2="fbSourceGraphic"
+         mode="normal"
+         result="result15"
+         id="feBlend18" />
+    </filter>
+    <filter
+       id="2"
+       height="1"
+       width="1"
+       y="0"
+       x="0"
+       color-interpolation-filters="sRGB">
+      <feColorMatrix
+         result="result14"
+         type="luminanceToAlpha"
+         in="SourceGraphic"
+         id="feColorMatrix21" />
+      <feComposite
+         in2="result14"
+         in="SourceGraphic"
+         result="fbSourceGraphic"
+         operator="out"
+         id="feComposite23" />
+      <feBlend
+         in2="fbSourceGraphic"
+         mode="normal"
+         result="result15"
+         id="feBlend25" />
+    </filter>
+    <filter
+       id="3"
+       height="1"
+       width="1"
+       y="0"
+       x="0"
+       color-interpolation-filters="sRGB">
+      <feColorMatrix
+         result="result14"
+         type="luminanceToAlpha"
+         in="SourceGraphic"
+         id="feColorMatrix28" />
+      <feComposite
+         in2="result14"
+         in="SourceGraphic"
+         result="fbSourceGraphic"
+         operator="out"
+         id="feComposite30" />
+      <feBlend
+         in2="fbSourceGraphic"
+         mode="normal"
+         result="result15"
+         id="feBlend32" />
+    </filter>
+  </defs>
+  <path
+     inkscape:connector-curvature="0"
+     style="fill:#85b9ab"
+     d="M 2.4028404,3 C 2.1831139,3.0209075 1.998544,3.2174519 2.0000086,3.4279344 l 0,9.1441316 C 2.0000086,12.796487 2.2138755,13 2.4497154,13 L 13.550292,13 C 13.786133,13 14,12.796487 14,12.572066 L 14,3.4279344 C 14,3.2035125 13.786133,3 13.550292,3 L 2.4497154,3 C 2.4350674,3 2.4189534,3 2.4028404,3 z M 12.875,3.7095064 c 0.165527,0 0.375,0.199331 0.375,0.3568441 0,0.1575132 -0.209473,0.3568442 -0.375,0.3568442 -0.165526,0 -0.374999,-0.199331 -0.374999,-0.3568442 0,-0.1575131 0.209473,-0.3568441 0.374999,-0.3568441 z M 3,5 13,5 13,12 3,12 z"
+     id="path4"
+     sodipodi:nodetypes="ccssssssscsssssccccc" />
+</svg>
