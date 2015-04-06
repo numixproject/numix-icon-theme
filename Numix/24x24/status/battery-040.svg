@@ -10,23 +10,24 @@
    width="24"
    viewBox="0 0 24 24"
    height="24"
-   id="svg3005"
+   id="svg2"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
+   inkscape:version="0.91 r"
    sodipodi:docname="battery-040.svg">
   <metadata
-     id="metadata3017">
+     id="metadata14">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <defs
-     id="defs3015" />
+     id="defs12" />
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -36,33 +37,25 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1280"
-     inkscape:window-height="998"
-     id="namedview3013"
-     showgrid="true"
-     inkscape:zoom="10.727273"
-     inkscape:cx="-0.47136057"
-     inkscape:cy="14.459829"
+     inkscape:window-width="1366"
+     inkscape:window-height="747"
+     id="namedview10"
+     showgrid="false"
+     inkscape:zoom="7.5853273"
+     inkscape:cx="4.9137078"
+     inkscape:cy="6.5354256"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="21"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg3005">
-    <inkscape:grid
-       type="xygrid"
-       id="grid3121"
-       empspacing="5"
-       visible="true"
-       enabled="true"
-       snapvisiblegridlinesonly="true" />
-  </sodipodi:namedview>
+     inkscape:current-layer="svg2" />
   <path
-     d="M 9,4 9,6 6,6 6,20 18,20 18,6 15,6 15,4 z"
-     id="path3009"
-     inkscape:connector-curvature="0"
-     style="opacity:0.40000000000000002;fill:#ececec;fill-opacity:1" />
+     d="M 9,4 9,6 6,6 6,20 18,20 18,6 15,6 15,4 Z"
+     id="path6"
+     style="opacity:0.4;fill:#ececec;fill-opacity:1"
+     inkscape:connector-curvature="0" />
   <path
-     d="m 6,13 0,7 12,0 0,-7 z"
-     id="path3011"
-     inkscape:connector-curvature="0"
-     style="fill:#ececec;fill-opacity:1" />
+     d="m 6,13.6 0,6.4 12,0 0,-6.4 z"
+     id="path8"
+     style="fill:#ececec;fill-opacity:1"
+     inkscape:connector-curvature="0" />
 </svg>

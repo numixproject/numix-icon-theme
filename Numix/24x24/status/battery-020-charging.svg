@@ -12,7 +12,7 @@
    height="24"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
+   inkscape:version="0.91 r"
    sodipodi:docname="battery-020-charging.svg">
   <metadata
      id="metadata14">
@@ -22,6 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -36,34 +37,26 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1280"
-     inkscape:window-height="998"
+     inkscape:window-width="1366"
+     inkscape:window-height="747"
      id="namedview10"
-     showgrid="true"
+     showgrid="false"
      inkscape:zoom="17.096617"
-     inkscape:cx="-5.1285888"
-     inkscape:cy="16.497306"
+     inkscape:cx="7.7268141"
+     inkscape:cy="10.746633"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="21"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg2">
-    <inkscape:grid
-       type="xygrid"
-       id="grid3123"
-       empspacing="5"
-       visible="true"
-       enabled="true"
-       snapvisiblegridlinesonly="true" />
-  </sodipodi:namedview>
+     inkscape:current-layer="svg2" />
   <path
-     d="M 9,4 9,6 6,6 6,20 18,20 18,6 15,6 15,4 9,4 z m 5,3 -1,5 3,0 -6,7 1,-5 -3,0 6,-7 z"
+     d="M 9,4 9,6 6,6 6,20 18,20 18,6 15,6 15,4 9,4 Z m 5,3 -1,5 3,0 -6,7 1,-5 -3,0 6,-7 z"
      id="path6"
-     inkscape:connector-curvature="0"
-     style="opacity:0.4;fill:#ececec;fill-opacity:1" />
-  <path
-     d="m 6,16 0,4 12,0 0,-4 -5.4375,0 L 10,19 10.59375,16 6,16 z"
-     id="path8"
-     style="fill:#ff8000;fill-opacity:1"
-     class="warning"
+     style="opacity:0.6;fill:#ececec;fill-opacity:1"
      inkscape:connector-curvature="0" />
+  <path
+     style="opacity:1;fill:#ff8000;fill-opacity:1"
+     d="M 6,16.800781 6,20 l 12,0 0,-3.199219 -6.115234,0 L 10,19 10.439453,16.800781 Z"
+     id="path6-4"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cccccccc" />
 </svg>

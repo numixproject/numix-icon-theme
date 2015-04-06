@@ -12,7 +12,7 @@
    height="24"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
+   inkscape:version="0.91 r"
    sodipodi:docname="battery-000-charging.svg">
   <metadata
      id="metadata12">
@@ -22,6 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -36,27 +37,19 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1280"
-     inkscape:window-height="998"
+     inkscape:window-width="1366"
+     inkscape:window-height="747"
      id="namedview8"
-     showgrid="true"
-     inkscape:zoom="24.178267"
-     inkscape:cx="11.165438"
-     inkscape:cy="10.917281"
+     showgrid="false"
+     inkscape:zoom="12.089134"
+     inkscape:cx="3.501783"
+     inkscape:cy="5.2101283"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="21"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg2">
-    <inkscape:grid
-       type="xygrid"
-       id="grid2983"
-       empspacing="5"
-       visible="true"
-       enabled="true"
-       snapvisiblegridlinesonly="true" />
-  </sodipodi:namedview>
+     inkscape:current-layer="svg2" />
   <path
-     d="M 9,4 9,6 6,6 6,20 18,20 18,6 15,6 15,4 9,4 z m 5,3 -1,5 3,0 -6,7 1,-5 -3,0 6,-7 z"
+     d="M 9,4 9,6 6,6 6,20 18,20 18,6 15,6 15,4 9,4 Z m 5,3 -1,5 3,0 -6,7 1,-5 -3,0 6,-7 z"
      id="path6"
      class="error"
      inkscape:connector-curvature="0"
