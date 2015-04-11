@@ -73,9 +73,9 @@
      inkscape:window-height="747"
      id="namedview6"
      showgrid="true"
-     inkscape:zoom="29.5"
-     inkscape:cx="11.764054"
-     inkscape:cy="19.509256"
+     inkscape:zoom="10.429825"
+     inkscape:cx="1.4905919"
+     inkscape:cy="16.693747"
      inkscape:window-x="0"
      inkscape:window-y="21"
      inkscape:window-maximized="1"
@@ -90,7 +90,7 @@
      d="m 14.5,4.0000001 c -0.831,0 -1.499999,0.6690001 -1.499999,1.5000004 l 0,0.75 -1.5,0 c -0.831,0 -1.5,0.669 -1.5,1.5 l 0,18.7500005 c 0,0.831 0.669,1.5 1.5,1.5 l 8.999999,0 c 0.831,0 1.5,-0.669 1.5,-1.5 L 22,7.7500005 c 0,-0.831 -0.669,-1.5 -1.5,-1.5 l -1.5,0 0,-0.75 C 19,4.6690002 18.331,4.0000001 17.5,4.0000001 l -3,0 z"
      id="rect2995" />
   <path
-     style="opacity:0.4;fill:#6fa7ce;fill-opacity:1;stroke:none"
+     style="opacity:0.2;fill:#6fa7ce;fill-opacity:1;stroke:none"
      d="m 11.5,6.2502368 9,0 c 0.831,0 1.5,0.6348927 1.5,1.4235263 L 22,26.576474 C 22,27.365107 21.331,28 20.5,28 l -9,0 C 10.669,28 10,27.365107 10,26.576474 L 10,7.6737631 c 0,-0.7886336 0.669,-1.4235263 1.5,-1.4235263 z"
      id="rect3770"
      inkscape:connector-curvature="0"
@@ -99,12 +99,12 @@
      style="opacity:0.2;fill:#ffffff;fill-opacity:1;stroke:none"
      id="rect3774"
      width="2"
-     height="2.0000005"
+     height="2.25"
      x="16"
-     y="3.9999995" />
+     y="4" />
   <path
      style="fill:#6fa7ce;fill-opacity:1;stroke:none"
-     d="m 11.5,20.666667 9,0 c 0.831,0 1.5,0.223592 1.5,0.501327 l 0,6.330679 C 22,27.776408 21.331,28 20.5,28 l -9,0 C 10.669,28 10,27.776408 10,27.498673 l 0,-6.330679 c 0,-0.277735 0.669,-0.501327 1.5,-0.501327 z"
+     d="m 11.5,17.125 9,0 c 0.831,0 1.5,0.331577 1.5,0.743445 l 0,9.38811 C 22,27.668423 21.331,28 20.5,28 l -9,0 C 10.669,28 10,27.668423 10,27.256555 l 0,-9.38811 C 10,17.456577 10.669,17.125 11.5,17.125 Z"
      id="rect3770-7"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="sssssssss" />
@@ -112,9 +112,9 @@
      style="opacity:0.2;fill:#ffffff;fill-opacity:1;stroke:none"
      id="rect3772"
      width="2"
-     height="22"
+     height="21.75"
      x="18"
-     y="6"
+     y="6.25"
      ry="0" />
   <path
      style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd"

@@ -14,7 +14,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r"
-   sodipodi:docname="battery-good.svg">
+   sodipodi:docname="battery-caution-charging.svg">
   <metadata
      id="metadata10">
     <rdf:RDF>
@@ -23,6 +23,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -72,9 +73,9 @@
      inkscape:window-height="747"
      id="namedview6"
      showgrid="true"
-     inkscape:zoom="14.75"
-     inkscape:cx="1.003993"
-     inkscape:cy="16.279779"
+     inkscape:zoom="20.85965"
+     inkscape:cx="-3.1581696"
+     inkscape:cy="18.077382"
      inkscape:window-x="0"
      inkscape:window-y="21"
      inkscape:window-maximized="1"
@@ -103,7 +104,7 @@
      y="4" />
   <path
      style="fill:#6fa7ce;fill-opacity:1;stroke:none"
-     d="m 11.5,11.6875 9,0 c 0.831,0 1.5,0.497365 1.5,1.115169 l 0,14.082163 C 22,27.502635 21.331,28 20.5,28 l -9,0 C 10.669,28 10,27.502635 10,26.884832 L 10,12.802669 C 10,12.184865 10.669,11.6875 11.5,11.6875 Z"
+     d="m 11.5,22.5625 9,0 c 0.831,0 1.5,0.165788 1.5,0.371722 l 0,4.694055 C 22,27.834212 21.331,28 20.5,28 l -9,0 C 10.669,28 10,27.834212 10,27.628277 l 0,-4.694055 C 10,22.728288 10.669,22.5625 11.5,22.5625 Z"
      id="rect3770-7"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="sssssssss" />
@@ -115,4 +116,9 @@
      x="18"
      y="6.25"
      ry="0" />
+  <path
+     style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd"
+     d="m 19,9.029 -8,9 5,0 -3,7 8,-10 -3.75,0 1.75,-6 z"
+     id="path8"
+     inkscape:connector-curvature="0" />
 </svg>
