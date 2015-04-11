@@ -14,7 +14,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r"
-   sodipodi:docname="battery-good-charging.svg">
+   sodipodi:docname="ac-adapter.svg">
   <metadata
      id="metadata10">
     <rdf:RDF>
@@ -49,16 +49,6 @@
          offset="1"
          id="stop3788" />
     </linearGradient>
-    <linearGradient
-       gradientTransform="matrix(0.75,0,0,0.75,-1.9999989,-2.0000001)"
-       y2="23"
-       x2="22.454058"
-       y1="-7"
-       x1="22.454058"
-       gradientUnits="userSpaceOnUse"
-       id="linearGradient3011"
-       xlink:href="#linearGradient3784"
-       inkscape:collect="always" />
   </defs>
   <sodipodi:namedview
      pagecolor="#ffffff"
@@ -73,9 +63,9 @@
      inkscape:window-height="747"
      id="namedview6"
      showgrid="true"
-     inkscape:zoom="2.6074563"
-     inkscape:cx="35.954832"
-     inkscape:cy="-13.982054"
+     inkscape:zoom="10.429825"
+     inkscape:cx="22.186653"
+     inkscape:cy="22.418104"
      inkscape:window-x="0"
      inkscape:window-y="21"
      inkscape:window-maximized="1"
@@ -85,40 +75,15 @@
        id="grid3010" />
   </sodipodi:namedview>
   <path
+     id="path4164"
+     style="fill:#909ea9;fill-opacity:1"
+     d="m 29.911227,36.736848 0,6.950232 c 0,0.575452 -0.455466,1.03392 -1.027146,1.03392 l -1.654848,0 c -0.571681,0 -1.027146,-0.458468 -1.027146,-1.03392 l 0,-6.950232 -4.408171,0 0,6.950232 c 0,0.575452 -0.455466,1.03392 -1.027148,1.03392 l -1.654846,0 c -0.571682,0 -1.027148,-0.458468 -1.027148,-1.03392 l 0,-6.950232 z"
      inkscape:connector-curvature="0"
-     style="fill:url(#linearGradient3011);fill-opacity:1;stroke:none"
-     d="m 22,7.9999995 c -1.108,0 -1.999999,0.892 -1.999999,2 l 0,1.0000005 -2,0 c -1.108,0 -2,0.892001 -2,2 l 0,25 c 0,1.108 0.892,2 2,2 L 30,40 c 1.108,0 2,-0.892 2,-2 l 0,-25 c 0,-1.108 -0.892,-2 -2,-2 l -2,0 0,-1.0000005 c 0,-1.108 -0.892,-2 -2,-2 l -4,0 z"
-     id="rect2995" />
+     sodipodi:nodetypes="cssssccsssscc" />
   <path
-     style="opacity:0.2;fill:#6fa7ce;fill-opacity:1;stroke:none"
-     d="m 18,11.000316 12,0 c 1.108,0 2,0.846522 2,1.898034 l 0,25.203614 C 32,39.153475 31.108,40 30,40 l -12,0 c -1.108,0 -2,-0.846525 -2,-1.898036 L 16,12.89835 c 0,-1.05151 0.892,-1.898034 2,-1.898034 z"
-     id="rect3770"
+     id="path4164-3"
+     style="fill:#20262b;fill-opacity:1"
+     d="m 3.1398716,3.537499 c 0.332313,0.012 0.6432465,0.109875 0.8987565,0.244119 0.340668,0.178998 0.5825646,0.432348 0.6847641,0.761081 0.451953,1.453729 1.3557045,2.796535 2.5393326,3.719235 1.7184153,1.433578 4.2755612,1.945597 6.9332392,2.642239 1.339248,0.324668 2.73527,0.699845 4.13712,1.263678 1.407732,0.559829 2.786118,1.362294 3.980196,2.498639 1.327949,1.286752 2.288979,2.939557 2.739056,4.738798 0.147255,0.592383 0.234243,1.188978 0.271053,1.794999 l 4.422435,0 c 2.663893,0 4.80762,2.157858 4.80762,4.839312 l 0,10.468436 -21.2277,0 0,-10.468436 c 0,-2.681454 2.143727,-4.839312 4.807618,-4.839312 l 3.809003,0 c -0.03038,-0.328464 -0.06314,-0.659115 -0.142665,-0.97648 -0.291405,-1.174238 -0.92969,-2.278385 -1.79751,-3.116118 -0.770774,-0.764723 -1.805201,-1.341893 -2.924514,-1.80936 -1.125265,-0.46349 -2.372052,-0.780311 -3.680609,-1.105718 C 10.759481,13.589187 7.7903689,12.855895 5.2084247,10.918533 3.4652426,9.546985 2.1799436,7.657969 1.5278141,5.547897 c -0.147465,-0.47715 -0.06996,-0.972891 0.171192,-1.335479 0.241155,-0.362587 0.63831,-0.584523 1.098477,-0.6462 0.11505,-0.01542 0.231609,-0.03271 0.3423885,-0.02872 z"
      inkscape:connector-curvature="0"
-     sodipodi:nodetypes="sssssssss" />
-  <rect
-     style="opacity:0.2;fill:#ffffff;fill-opacity:1;stroke:none"
-     id="rect3774"
-     width="2.6666667"
-     height="3"
-     x="24"
-     y="7.9999995" />
-  <path
-     style="fill:#6fa7ce;fill-opacity:1;stroke:none"
-     d="m 18,18.250665 12,0 c 1.108,0 2,0.663134 2,1.486847 l 0,18.775642 C 32,39.336866 31.108,40 30,40 l -12,0 c -1.108,0 -2,-0.663134 -2,-1.486846 l 0,-18.775642 c 0,-0.823713 0.892,-1.486847 2,-1.486847 z"
-     id="rect3770-7"
-     inkscape:connector-curvature="0"
-     sodipodi:nodetypes="sssssssss" />
-  <rect
-     style="opacity:0.2;fill:#ffffff;fill-opacity:1;stroke:none"
-     id="rect3772"
-     width="2.6666667"
-     height="29"
-     x="26.666666"
-     y="10.999999"
-     ry="0" />
-  <path
-     style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd"
-     d="m 28,14.705333 -10.666667,11.999999 6.666667,0 -4,9.333333 10.666667,-13.333333 -5,0 L 28,14.705333 Z"
-     id="path8"
-     inkscape:connector-curvature="0" />
+     sodipodi:nodetypes="cssccccccssccssccccccsscc" />
 </svg>

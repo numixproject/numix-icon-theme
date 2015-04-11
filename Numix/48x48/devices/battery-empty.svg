@@ -14,7 +14,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r"
-   sodipodi:docname="battery-good-charging.svg">
+   sodipodi:docname="battery-empty.svg">
   <metadata
      id="metadata10">
     <rdf:RDF>
@@ -73,9 +73,9 @@
      inkscape:window-height="747"
      id="namedview6"
      showgrid="true"
-     inkscape:zoom="2.6074563"
-     inkscape:cx="35.954832"
-     inkscape:cy="-13.982054"
+     inkscape:zoom="3.6875"
+     inkscape:cx="18.432231"
+     inkscape:cy="-10.864998"
      inkscape:window-x="0"
      inkscape:window-y="21"
      inkscape:window-maximized="1"
@@ -95,19 +95,11 @@
      id="rect3770"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="sssssssss" />
-  <rect
-     style="opacity:0.2;fill:#ffffff;fill-opacity:1;stroke:none"
-     id="rect3774"
-     width="2.6666667"
-     height="3"
-     x="24"
-     y="7.9999995" />
   <path
-     style="fill:#6fa7ce;fill-opacity:1;stroke:none"
-     d="m 18,18.250665 12,0 c 1.108,0 2,0.663134 2,1.486847 l 0,18.775642 C 32,39.336866 31.108,40 30,40 l -12,0 c -1.108,0 -2,-0.663134 -2,-1.486846 l 0,-18.775642 c 0,-0.823713 0.892,-1.486847 2,-1.486847 z"
-     id="rect3770-7"
-     inkscape:connector-curvature="0"
-     sodipodi:nodetypes="sssssssss" />
+     style="opacity:0.2;fill:#ffffff;fill-opacity:1;stroke:none"
+     d="m 24,7.9999995 2.666667,0 0,3.0000005 L 24,11 Z"
+     id="rect3774"
+     inkscape:connector-curvature="0" />
   <rect
      style="opacity:0.2;fill:#ffffff;fill-opacity:1;stroke:none"
      id="rect3772"
@@ -116,9 +108,4 @@
      x="26.666666"
      y="10.999999"
      ry="0" />
-  <path
-     style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd"
-     d="m 28,14.705333 -10.666667,11.999999 6.666667,0 -4,9.333333 10.666667,-13.333333 -5,0 L 28,14.705333 Z"
-     id="path8"
-     inkscape:connector-curvature="0" />
 </svg>

@@ -14,7 +14,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r"
-   sodipodi:docname="battery-good-charging.svg">
+   sodipodi:docname="battery-full-charging.svg">
   <metadata
      id="metadata10">
     <rdf:RDF>
@@ -73,9 +73,9 @@
      inkscape:window-height="747"
      id="namedview6"
      showgrid="true"
-     inkscape:zoom="2.6074563"
-     inkscape:cx="35.954832"
-     inkscape:cy="-13.982054"
+     inkscape:zoom="5.2149125"
+     inkscape:cx="-29.188434"
+     inkscape:cy="8.8076835"
      inkscape:window-x="0"
      inkscape:window-y="21"
      inkscape:window-maximized="1"
@@ -90,22 +90,9 @@
      d="m 22,7.9999995 c -1.108,0 -1.999999,0.892 -1.999999,2 l 0,1.0000005 -2,0 c -1.108,0 -2,0.892001 -2,2 l 0,25 c 0,1.108 0.892,2 2,2 L 30,40 c 1.108,0 2,-0.892 2,-2 l 0,-25 c 0,-1.108 -0.892,-2 -2,-2 l -2,0 0,-1.0000005 c 0,-1.108 -0.892,-2 -2,-2 l -4,0 z"
      id="rect2995" />
   <path
-     style="opacity:0.2;fill:#6fa7ce;fill-opacity:1;stroke:none"
-     d="m 18,11.000316 12,0 c 1.108,0 2,0.846522 2,1.898034 l 0,25.203614 C 32,39.153475 31.108,40 30,40 l -12,0 c -1.108,0 -2,-0.846525 -2,-1.898036 L 16,12.89835 c 0,-1.05151 0.892,-1.898034 2,-1.898034 z"
-     id="rect3770"
-     inkscape:connector-curvature="0"
-     sodipodi:nodetypes="sssssssss" />
-  <rect
-     style="opacity:0.2;fill:#ffffff;fill-opacity:1;stroke:none"
-     id="rect3774"
-     width="2.6666667"
-     height="3"
-     x="24"
-     y="7.9999995" />
-  <path
      style="fill:#6fa7ce;fill-opacity:1;stroke:none"
-     d="m 18,18.250665 12,0 c 1.108,0 2,0.663134 2,1.486847 l 0,18.775642 C 32,39.336866 31.108,40 30,40 l -12,0 c -1.108,0 -2,-0.663134 -2,-1.486846 l 0,-18.775642 c 0,-0.823713 0.892,-1.486847 2,-1.486847 z"
-     id="rect3770-7"
+     d="m 18,11 12,0 c 1.108,0 2,0.884204 2,1.982521 l 0,25.034956 C 32,39.115796 31.108,40 30,40 l -12,0 c -1.108,0 -2,-0.884204 -2,-1.982523 L 16,12.982521 C 16,11.884204 16.892,11 18,11 Z"
+     id="rect3770"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="sssssssss" />
   <rect
@@ -116,9 +103,16 @@
      x="26.666666"
      y="10.999999"
      ry="0" />
+  <rect
+     style="opacity:0.2;fill:#ffffff;fill-opacity:1;stroke:none"
+     id="rect3774"
+     width="2.6666667"
+     height="3"
+     x="24"
+     y="7.9999995" />
   <path
      style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd"
-     d="m 28,14.705333 -10.666667,11.999999 6.666667,0 -4,9.333333 10.666667,-13.333333 -5,0 L 28,14.705333 Z"
+     d="m 28,14.705494 -10.666667,12 6.666667,0 -4,9.333334 10.666667,-13.333334 -5,0 2.333333,-8 z"
      id="path8"
      inkscape:connector-curvature="0" />
 </svg>

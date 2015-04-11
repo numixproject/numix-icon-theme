@@ -14,7 +14,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r"
-   sodipodi:docname="battery-good-charging.svg">
+   sodipodi:docname="battery-good.svg">
   <metadata
      id="metadata10">
     <rdf:RDF>
@@ -73,9 +73,9 @@
      inkscape:window-height="747"
      id="namedview6"
      showgrid="true"
-     inkscape:zoom="2.6074563"
-     inkscape:cx="35.954832"
-     inkscape:cy="-13.982054"
+     inkscape:zoom="1.84375"
+     inkscape:cx="40.756223"
+     inkscape:cy="-12.89223"
      inkscape:window-x="0"
      inkscape:window-y="21"
      inkscape:window-maximized="1"
@@ -104,7 +104,7 @@
      y="7.9999995" />
   <path
      style="fill:#6fa7ce;fill-opacity:1;stroke:none"
-     d="m 18,18.250665 12,0 c 1.108,0 2,0.663134 2,1.486847 l 0,18.775642 C 32,39.336866 31.108,40 30,40 l -12,0 c -1.108,0 -2,-0.663134 -2,-1.486846 l 0,-18.775642 c 0,-0.823713 0.892,-1.486847 2,-1.486847 z"
+     d="m 18,18.25 12,0 c 1.108,0 2,0.663153 2,1.486892 l 0,18.776217 C 32,39.336846 31.108,40 30,40 l -12,0 c -1.108,0 -2,-0.663154 -2,-1.486891 L 16,19.736892 C 16,18.913153 16.892,18.25 18,18.25 Z"
      id="rect3770-7"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="sssssssss" />
@@ -116,9 +116,4 @@
      x="26.666666"
      y="10.999999"
      ry="0" />
-  <path
-     style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd"
-     d="m 28,14.705333 -10.666667,11.999999 6.666667,0 -4,9.333333 10.666667,-13.333333 -5,0 L 28,14.705333 Z"
-     id="path8"
-     inkscape:connector-curvature="0" />
 </svg>
