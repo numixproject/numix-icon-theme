@@ -14,7 +14,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r"
-   sodipodi:docname="battery-good-charging.svg">
+   sodipodi:docname="battery-missing.svg">
   <metadata
      id="metadata10">
     <rdf:RDF>
@@ -23,6 +23,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -72,9 +73,9 @@
      inkscape:window-height="747"
      id="namedview6"
      showgrid="true"
-     inkscape:zoom="29.5"
-     inkscape:cx="11.764054"
-     inkscape:cy="18.153323"
+     inkscape:zoom="10.429825"
+     inkscape:cx="10.530156"
+     inkscape:cy="28.941514"
      inkscape:window-x="0"
      inkscape:window-y="21"
      inkscape:window-maximized="1"
@@ -101,12 +102,6 @@
      height="2.0000005"
      x="16"
      y="3.9999995" />
-  <path
-     style="fill:#6fa7ce;fill-opacity:1;stroke:none"
-     d="m 11.5,13.333333 9,0 c 0.831,0 1.5,0.447184 1.5,1.002655 l 0,12.661358 C 22,27.552816 21.331,28 20.5,28 l -9,0 C 10.669,28 10,27.552816 10,26.997346 l 0,-12.661358 c 0,-0.555471 0.669,-1.002655 1.5,-1.002655 z"
-     id="rect3770-7"
-     inkscape:connector-curvature="0"
-     sodipodi:nodetypes="sssssssss" />
   <rect
      style="opacity:0.2;fill:#ffffff;fill-opacity:1;stroke:none"
      id="rect3772"
@@ -115,9 +110,18 @@
      x="18"
      y="6"
      ry="0" />
-  <path
-     style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd"
-     d="m 19,9.029 -8,9 5,0 -3,7 8,-10 -3.75,0 1.75,-6 z"
-     id="path8"
-     inkscape:connector-curvature="0" />
+  <g
+     id="g4269"
+     transform="translate(0,2.396116)">
+    <path
+       inkscape:connector-curvature="0"
+       style="line-height:125%;letter-spacing:0;word-spacing:0;fill:#ffffff;fill-opacity:0.9"
+       d="m 14.757049,16.853662 0,-0.441059 c -1e-6,-0.381452 0.08893,-0.713239 0.266812,-0.995362 0.177872,-0.282114 0.503251,-0.582113 0.976138,-0.899998 0.455528,-0.298008 0.754877,-0.540391 0.898048,-0.727151 0.147502,-0.186749 0.221254,-0.395358 0.221259,-0.625827 -5e-6,-0.258271 -0.104122,-0.454959 -0.312365,-0.590064 -0.208247,-0.135093 -0.498919,-0.202642 -0.872018,-0.202649 -0.650761,7e-6 -1.392626,0.194708 -2.225596,0.584105 L 13,11.65036 c 0.967461,-0.496678 1.99349,-0.745022 3.078091,-0.745031 0.893704,9e-6 1.603032,0.196697 2.127982,0.590066 0.529277,0.393384 0.793921,0.917886 0.793927,1.573506 -6e-6,0.437091 -0.108463,0.814574 -0.32538,1.132448 -0.216925,0.317886 -0.629073,0.6755 -1.236443,1.072845 -0.41649,0.282123 -0.681132,0.496693 -0.793926,0.643708 -0.108464,0.147024 -0.162693,0.339738 -0.162689,0.578144 l 0,0.357616 -1.724513,0"
+       id="path4220-7" />
+    <path
+       inkscape:connector-curvature="0"
+       style="line-height:125%;letter-spacing:0;word-spacing:0;fill:#ffffff;fill-opacity:0.9"
+       d="m 14.650382,18.603884 c -2e-6,-0.329411 0.08571,-0.578429 0.257143,-0.747059 0.171426,-0.168626 0.42095,-0.252939 0.748571,-0.252941 0.316187,2e-6 0.559997,0.08627 0.731428,0.258824 0.175236,0.17255 0.262854,0.419609 0.262858,0.741176 -4e-6,0.309804 -0.08763,0.554903 -0.262858,0.735294 -0.175241,0.17647 -0.41905,0.264706 -0.731428,0.264706 -0.320002,0 -0.567621,-0.08628 -0.742857,-0.258824 -0.17524,-0.17647 -0.262859,-0.423528 -0.262857,-0.741176"
+       id="path4224-7" />
+  </g>
 </svg>
