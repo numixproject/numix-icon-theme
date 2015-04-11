@@ -14,7 +14,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r"
-   sodipodi:docname="indicator-workspaces-1.svg"
+   sodipodi:docname="indicator-workspaces-24.svg"
    inkscape:export-filename="/media/Data/Main/Visuals/Icons/Numix/Desktop/repos/numix-wiki/Gjorgi/Numix-folders/48/New/folder-144.png"
    inkscape:export-xdpi="270"
    inkscape:export-ydpi="270">
@@ -27,9 +27,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="23.257679"
-     inkscape:cx="12.213754"
-     inkscape:cy="15.989273"
+     inkscape:zoom="16.445663"
+     inkscape:cx="-3.2856592"
+     inkscape:cy="17.32275"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -56,7 +56,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -76,18 +76,19 @@
        style="fill:#ececec;fill-opacity:1;stroke:none"
        d="m 5,1033.8622 c -1.108,0 -2,0.892 -2,2 l 0,9 c 0,1.108 0.892,2 2,2 l 12,0 c 1.108,0 2,-0.892 2,-2 l 0,-9 c 0,-1.108 -0.892,-2 -2,-2 l -12,0 z m 0,2 12,0 0,9 -12,0 0,-9 z"
        id="rect3831" />
-    <text
-       text-anchor="middle"
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.0629921px;line-height:125%;font-family:opensans;-inkscape-font-specification:'opensans Bold';letter-spacing:0px;word-spacing:0px;fill:#ececec;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="11"
-       y="1043.5516"
-       id="text4141"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan4143"
-         x="11"
-         y="1043.5516"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.75px;font-family:opensans;-inkscape-font-specification:'opensans Bold'">24</tspan></text>
+    <g
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.0629921px;line-height:125%;font-family:opensans;-inkscape-font-specification:'opensans Bold';letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ececec;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="text4141">
+      <path
+         d="m 7.6643677,1042.3425 2.8070073,0 0,1.2091 -4.6356206,0 0,-1.2091 2.3284912,-2.055 q 0.3118897,-0.282 0.4614258,-0.5512 0.1495361,-0.2691 0.1495361,-0.5597 0,-0.4486 -0.3033447,-0.722 -0.2990723,-0.2734 -0.7989502,-0.2734 -0.3845215,0 -0.8416748,0.1666 -0.4571533,0.1623 -0.9783936,0.487 l 0,-1.4013 q 0.55542,-0.1837 1.0980225,-0.2777 0.5426025,-0.098 1.0638428,-0.098 1.1450195,0 1.7773437,0.5041 0.6365968,0.5042 0.6365968,1.4057 0,0.5212 -0.269165,0.9741 -0.2691652,0.4486 -1.1322023,1.2048 l -1.362915,1.1963 z"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.75px;font-family:opensans;-inkscape-font-specification:'opensans Bold';letter-spacing:-0.75"
+         id="path4139"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 13.699036,1038.5272 -1.802979,2.6703 1.802979,0 0,-2.6703 z m -0.273438,-1.3543 1.828613,0 0,4.0246 0.910035,0 0,1.192 -0.910035,0 0,1.1621 -1.555175,0 0,-1.1621 -2.828369,0 0,-1.4099 2.554931,-3.8067 z"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.75px;font-family:opensans;-inkscape-font-specification:'opensans Bold';letter-spacing:-0.75"
+         id="path4141"
+         inkscape:connector-curvature="0" />
+    </g>
   </g>
 </svg>

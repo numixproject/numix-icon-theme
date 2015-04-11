@@ -14,7 +14,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r"
-   sodipodi:docname="indicator-workspaces-1.svg"
+   sodipodi:docname="indicator-workspaces-28.svg"
    inkscape:export-filename="/media/Data/Main/Visuals/Icons/Numix/Desktop/repos/numix-wiki/Gjorgi/Numix-folders/48/New/folder-144.png"
    inkscape:export-xdpi="270"
    inkscape:export-ydpi="270">
@@ -28,7 +28,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="23.257679"
-     inkscape:cx="12.213754"
+     inkscape:cx="2.1095643"
      inkscape:cy="15.989273"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -56,7 +56,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -76,18 +76,17 @@
        style="fill:#ececec;fill-opacity:1;stroke:none"
        d="m 5,1033.8622 c -1.108,0 -2,0.892 -2,2 l 0,9 c 0,1.108 0.892,2 2,2 l 12,0 c 1.108,0 2,-0.892 2,-2 l 0,-9 c 0,-1.108 -0.892,-2 -2,-2 l -12,0 z m 0,2 12,0 0,9 -12,0 0,-9 z"
        id="rect3831" />
-    <text
-       text-anchor="middle"
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.0629921px;line-height:125%;font-family:opensans;-inkscape-font-specification:'opensans Bold';letter-spacing:0px;word-spacing:0px;fill:#ececec;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="11"
-       y="1043.5516"
-       id="text4141"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan4143"
-         x="11"
-         y="1043.5516"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.75px;font-family:opensans;-inkscape-font-specification:'opensans Bold'">28</tspan></text>
+    <g
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.0629921px;line-height:125%;font-family:opensans;-inkscape-font-specification:'opensans Bold';letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ececec;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="text4141">
+      <path
+         d="m 7.7348633,1042.3425 2.8070067,0 0,1.2091 -4.63562,0 0,-1.2091 2.3284912,-2.055 q 0.3118897,-0.282 0.4614258,-0.5512 0.1495361,-0.2691 0.1495361,-0.5597 0,-0.4486 -0.3033447,-0.722 -0.2990723,-0.2734 -0.7989502,-0.2734 -0.3845215,0 -0.8416748,0.1666 -0.4571533,0.1623 -0.9783936,0.487 l 0,-1.4013 q 0.55542,-0.1837 1.0980225,-0.2777 0.5426025,-0.098 1.0638428,-0.098 1.1450195,0 1.7773437,0.5041 0.6365972,0.5042 0.6365972,1.4057 0,0.5212 -0.269166,0.9741 -0.2691646,0.4486 -1.1322017,1.2048 l -1.362915,1.1963 z"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.75px;font-family:opensans;-inkscape-font-specification:'opensans Bold';letter-spacing:-0.75"
+         id="path4139" />
+      <path
+         d="m 13.59436,1040.6976 q -0.461425,0 -0.709228,0.2521 -0.247803,0.2521 -0.247803,0.7221 0,0.4699 0.247803,0.722 0.247803,0.2478 0.709228,0.2478 0.457154,0 0.700684,-0.2478 0.24353,-0.2521 0.24353,-0.722 0,-0.4743 -0.24353,-0.7221 -0.24353,-0.2521 -0.700684,-0.2521 z m -1.200561,-0.5426 q -0.581055,-0.1751 -0.875855,-0.5383 -0.294799,-0.3632 -0.294799,-0.9058 0,-0.8075 0.602417,-1.2304 0.602417,-0.423 1.768798,-0.423 1.157837,0 1.760254,0.423 0.602417,0.4187 0.602417,1.2304 0,0.5426 -0.299072,0.9058 -0.2948,0.3632 -0.875855,0.5383 0.649415,0.1795 0.978394,0.5854 0.333252,0.4016 0.333252,1.0168 0,0.9485 -0.632324,1.4355 -0.628052,0.4828 -1.867066,0.4828 -1.243286,0 -1.879882,-0.4828 -0.632325,-0.487 -0.632325,-1.4355 0,-0.6152 0.32898,-1.0168 0.333252,-0.4059 0.982666,-0.5854 z m 0.384521,-1.2774 q 0,0.3802 0.209351,0.5853 0.213623,0.2051 0.606689,0.2051 0.384522,0 0.593872,-0.2051 0.209351,-0.2051 0.209351,-0.5853 0,-0.3803 -0.209351,-0.5811 -0.20935,-0.2051 -0.593872,-0.2051 -0.393066,0 -0.606689,0.2051 -0.209351,0.2051 -0.209351,0.5811 z"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.75px;font-family:opensans;-inkscape-font-specification:'opensans Bold';letter-spacing:-0.75"
+         id="path4141" />
+    </g>
   </g>
 </svg>

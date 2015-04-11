@@ -14,7 +14,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r"
-   sodipodi:docname="indicator-workspaces-1.svg"
+   sodipodi:docname="indicator-workspaces-29.svg"
    inkscape:export-filename="/media/Data/Main/Visuals/Icons/Numix/Desktop/repos/numix-wiki/Gjorgi/Numix-folders/48/New/folder-144.png"
    inkscape:export-xdpi="270"
    inkscape:export-ydpi="270">
@@ -56,7 +56,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -76,18 +76,20 @@
        style="fill:#ececec;fill-opacity:1;stroke:none"
        d="m 5,1033.8622 c -1.108,0 -2,0.892 -2,2 l 0,9 c 0,1.108 0.892,2 2,2 l 12,0 c 1.108,0 2,-0.892 2,-2 l 0,-9 c 0,-1.108 -0.892,-2 -2,-2 l -12,0 z m 0,2 12,0 0,9 -12,0 0,-9 z"
        id="rect3831" />
-    <text
-       text-anchor="middle"
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.0629921px;line-height:125%;font-family:opensans;-inkscape-font-specification:'opensans Bold';letter-spacing:0px;word-spacing:0px;fill:#ececec;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="11"
-       y="1043.5516"
+    <g
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.0629921px;line-height:125%;font-family:opensans;-inkscape-font-specification:'opensans Bold';letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ececec;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="text4141"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan4143"
-         x="11"
-         y="1043.5516"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.75px;font-family:opensans;-inkscape-font-specification:'opensans Bold'">29</tspan></text>
+       transform="translate(-0.06835915,0)">
+      <path
+         d="m 7.8117676,1042.3425 2.8070064,0 0,1.2091 -4.6356197,0 0,-1.2091 2.3284912,-2.055 q 0.3118897,-0.282 0.4614258,-0.5512 0.1495361,-0.2691 0.1495361,-0.5597 0,-0.4486 -0.3033447,-0.722 -0.2990723,-0.2734 -0.7989502,-0.2734 -0.3845215,0 -0.8416748,0.1666 -0.4571533,0.1623 -0.9783936,0.487 l 0,-1.4013 q 0.55542,-0.1837 1.0980225,-0.2777 0.5426025,-0.098 1.0638428,-0.098 1.1450195,0 1.7773437,0.5041 0.6365969,0.5042 0.6365969,1.4057 0,0.5212 -0.269165,0.9741 -0.269165,0.4486 -1.1322024,1.2048 l -1.362915,1.1963 z"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.75px;font-family:opensans;-inkscape-font-specification:'opensans Bold';letter-spacing:-0.75"
+         id="path4139"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 11.500854,1043.4106 0,-1.1792 q 0.393067,0.1838 0.751954,0.2778 0.358886,0.09 0.709228,0.09 0.734863,0 1.14502,-0.4059 0.410156,-0.4102 0.482788,-1.2134 -0.290528,0.2136 -0.619507,0.3204 -0.32898,0.1069 -0.713501,0.1069 -0.978394,0 -1.580811,-0.5683 -0.598144,-0.5725 -0.598144,-1.5039 0,-1.0296 0.666504,-1.6492 0.670776,-0.6195 1.794433,-0.6195 1.247559,0 1.931153,0.8417 0.683593,0.8417 0.683593,2.3798 0,1.5808 -0.79895,2.4865 -0.79895,0.9015 -2.191772,0.9015 -0.448609,0 -0.858765,-0.068 -0.410156,-0.064 -0.803223,-0.1966 z m 2.029419,-3.0719 q 0.431519,0 0.649415,-0.2777 0.217895,-0.2819 0.217895,-0.8416 0,-0.5555 -0.217895,-0.8374 -0.217896,-0.282 -0.649415,-0.282 -0.431518,0 -0.649414,0.282 -0.217895,0.2819 -0.217895,0.8374 0,0.5597 0.217895,0.8416 0.217896,0.2777 0.649414,0.2777 z"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.75px;font-family:opensans;-inkscape-font-specification:'opensans Bold';letter-spacing:-0.75"
+         id="path4141"
+         inkscape:connector-curvature="0" />
+    </g>
   </g>
 </svg>
