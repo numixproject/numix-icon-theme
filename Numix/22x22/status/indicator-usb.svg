@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r"
-   sodipodi:docname="Zeichnung.svg">
+   sodipodi:docname="indicator-usb.svg">
   <defs
      id="defs4">
     <clipPath
@@ -40,8 +40,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="15.839192"
-     inkscape:cx="6.0944288"
-     inkscape:cy="4.9877582"
+     inkscape:cx="-4.5753074"
+     inkscape:cy="12.563902"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -86,24 +86,13 @@
              style="fill:#ececec;fill-opacity:1"
              id="g51">
             <path
-               sodipodi:nodetypes="ccccccccccccccccccccccccc"
-               id="path53"
-               d="m 28.969099,15.215704 0,2.983517 -4.126498,2.590438 c -0.223,0.113374 -0.416404,0.335609 -0.418,0.507198 l 0,1.375401 -1.095708,0 0,3.043843 3.444,0 0,-3.043843 -1.096292,0 0,-1.054673 3.292498,-2.001084 0,7.230902 -1.992503,0 2.996098,3.729395 2.995732,-3.729395 -1.99183,0 0,-9.300901 3.200101,2.069999 0,1.400206 1.2,4.47e-4 0,-1.704334 c 0.004,-0.183487 -0.059,-0.369956 -0.258,-0.486314 l -4.145101,-2.64265 0,-0.970389"
-               inkscape:connector-curvature="0"
-               style="fill:#ececec;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+               style="fill:#ececec;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               d="M 11 1.25 L 8.015625 4.96875 L 10 4.96875 L 10 14.240234 L 6.8105469 12.175781 L 6.8105469 11.498047 A 1.8229721 1.8231036 0 0 0 8.0351562 9.7773438 A 1.8229721 1.8231036 0 0 0 6.2128906 7.9550781 A 1.8229721 1.8231036 0 0 0 4.390625 9.7773438 A 1.8229721 1.8231036 0 0 0 5.6152344 11.498047 L 5.6152344 12.478516 C 5.6112487 12.661437 5.6747598 12.848844 5.8730469 12.964844 L 10.001953 15.597656 L 10.001953 16.554688 A 2.1875693 2.187536 0 0 0 8.8125 18.5 A 2.1875693 2.187536 0 0 0 11 20.6875 A 2.1875693 2.187536 0 0 0 13.1875 18.5 A 2.1875693 2.187536 0 0 0 12 16.556641 L 12 13.589844 L 16.111328 11.007812 C 16.333529 10.894788 16.525753 10.673013 16.527344 10.501953 L 16.527344 9.1308594 L 17.619141 9.1308594 L 17.619141 6.0957031 L 14.1875 6.0957031 L 14.1875 9.1308594 L 15.28125 9.1308594 L 15.28125 10.181641 L 12 12.175781 L 12 4.96875 L 13.986328 4.96875 L 11 1.25 z "
+               transform="matrix(-1.0035953,0,0,-1.0030905,41.012242,31.830673)"
+               id="path53" />
           </g>
         </g>
-        <path
-           style="opacity:1;fill:#ececec;fill-opacity:1;stroke:#ececec;stroke-width:0.10405564;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-           d="m 8.0357712,1040.1396 a 1.8229719,1.8231034 0 0 1 -1.8229719,1.8231 1.8229719,1.8231034 0 0 1 -1.822972,-1.8231 1.8229719,1.8231034 0 0 1 1.822972,-1.8231 1.8229719,1.8231034 0 0 1 1.8229719,1.8231 z"
-           id="path4319"
-           inkscape:connector-curvature="0" />
       </g>
-      <path
-         inkscape:connector-curvature="0"
-         id="path4319-8"
-         d="m 13.187568,1048.8622 a 2.187569,2.1875357 0 0 1 -2.187569,2.1876 2.187569,2.1875357 0 0 1 -2.1875691,-2.1876 2.187569,2.1875357 0 0 1 2.1875691,-2.1875 2.187569,2.1875357 0 0 1 2.187569,2.1875 z"
-         style="opacity:1;fill:#ececec;fill-opacity:1;stroke:#ececec;stroke-width:0.1248615;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
   </g>
 </svg>
