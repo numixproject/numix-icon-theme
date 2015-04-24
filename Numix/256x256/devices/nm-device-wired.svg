@@ -14,7 +14,7 @@
    width="256"
    version="1.1"
    inkscape:version="0.91 r"
-   sodipodi:docname="nm-device-wired_256x256.svg"
+   sodipodi:docname="nm-device-wired_256x256_2.svg"
    inkscape:export-filename="/home/andreas/wired.png"
    inkscape:export-xdpi="500"
    inkscape:export-ydpi="500">
@@ -65,26 +65,53 @@
      inkscape:label="Layer 1"
      transform="translate(0,208)">
     <rect
-       style="fill:#eff55b;fill-opacity:1"
+       style="fill:#f9f9f9;fill-opacity:1"
        id="rect4281"
        width="184"
        height="168"
-       x="36"
-       y="-164" />
+       x="35.999996"
+       y="-163.99998" />
   </g>
   <rect
-     x="76"
-     y="-104"
-     width="104"
-     height="60"
+     x="72"
+     y="-100"
+     width="16"
+     height="40"
      ry="0"
-     style="color:#bebebe;opacity:1;fill:#4af693;fill-opacity:1"
+     style="color:#bebebe;opacity:1;fill:#909ea9;fill-opacity:1"
      id="rect6106-8-61"
      transform="scale(1,-1)" />
   <path
-     style="color:#bebebe;fill:#a3adad;fill-opacity:1"
-     d="M 44,232 C 20,232 16,228 16,208 L 16,48 C 16,28 20,24 44,24 l 168,0 c 24,0 28,4 28,24 l 0,160 c 0,20 -4,24 -28,24 z m 40,-52 16,0 0,24 56,0 0,-24 16,0 0,-16 36,0 0,-96 c 0,-12 0,-16 -8,-16 L 56,52 c -8,0 -8,4 -8,16 l 0,96 36,0 z"
+     style="color:#bebebe;fill:#909ea9;fill-opacity:1"
+     d="M 44,232 C 20,232 16,228 16,208 L 16,48.000003 c 0,-20 4,-24 28,-24 l 168,0 c 24,0 28,3.8 28,24 L 240,208 c 0,20 -4,24 -28,24 z m 40,-52 16,0 0,24 56,0 0,-24 16,0 0,-16 36,0 0,-95.999997 c 0,-12 0,-16 -8.00001,-16 l -143.99999,0 c -8,0 -8,4 -8,16 L 48,164 l 36,0 z"
      id="path6104"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="sccccccssccccccccccccccc" />
+  <rect
+     x="168"
+     y="-100"
+     width="16"
+     height="40"
+     ry="0"
+     style="color:#bebebe;opacity:1;fill:#909ea9;fill-opacity:1"
+     id="rect6106-8-61-2"
+     transform="scale(1,-1)" />
+  <rect
+     x="136"
+     y="-100"
+     width="16"
+     height="40"
+     ry="0"
+     style="color:#bebebe;opacity:1;fill:#909ea9;fill-opacity:1"
+     id="rect6106-8-61-4"
+     transform="scale(1,-1)" />
+  <rect
+     x="104"
+     y="-100"
+     width="16"
+     height="40"
+     ry="0"
+     style="color:#bebebe;opacity:1;fill:#909ea9;fill-opacity:1"
+     id="rect6106-8-61-3"
+     transform="scale(1,-1)" />
 </svg>

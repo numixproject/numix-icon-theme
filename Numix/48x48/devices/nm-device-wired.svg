@@ -14,7 +14,7 @@
    width="48"
    version="1.1"
    inkscape:version="0.91 r"
-   sodipodi:docname="nm-device-wired_48x48.svg"
+   sodipodi:docname="nm-device-wired_48x48_2.svg"
    inkscape:export-filename="/home/andreas/wired.png"
    inkscape:export-xdpi="500"
    inkscape:export-ydpi="500">
@@ -64,7 +64,7 @@
      id="layer2"
      inkscape:label="Layer 1">
     <rect
-       style="fill:#eff55b;fill-opacity:1"
+       style="fill:#f9f9f9;fill-opacity:1"
        id="rect4281"
        width="36"
        height="32"
@@ -72,18 +72,45 @@
        y="8" />
   </g>
   <rect
-     x="14"
-     y="-19.999973"
-     width="20"
-     height="12"
+     x="12"
+     y="-19"
+     width="3"
+     height="8"
      ry="0"
-     style="color:#bebebe;opacity:1;fill:#4af693;fill-opacity:1"
+     style="color:#bebebe;opacity:1;fill:#909ea9;fill-opacity:1"
      id="rect6106-8-61"
      transform="scale(1,-1)" />
   <path
-     style="color:#bebebe;fill:#a3adad;fill-opacity:1"
+     style="color:#bebebe;fill:#909ea9;fill-opacity:1"
      d="M 8,43 C 4,43 3,42 3,39 L 3,9 C 3,6 4,5 8,5 l 32,0 c 4,0 5,1 5,4 l 0,30 c 0,3 -1,4 -5,4 z m 8,-9 3,0 0,4 10,0 0,-4 3,0 0,-3 7,0 0,-18 c 0,-2 0,-3 -1.5,-3 l -27,0 C 9,10 9,11 9,13 l 0,18 7,0 z"
      id="path6104"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="sccccccssccccccccccccccc" />
+  <rect
+     x="19"
+     y="-19"
+     width="3"
+     height="8"
+     ry="0"
+     style="color:#bebebe;opacity:1;fill:#909ea9;fill-opacity:1"
+     id="rect6106-8-61-2"
+     transform="scale(1,-1)" />
+  <rect
+     x="26"
+     y="-19"
+     width="3"
+     height="8"
+     ry="0"
+     style="color:#bebebe;opacity:1;fill:#909ea9;fill-opacity:1"
+     id="rect6106-8-61-6"
+     transform="scale(1,-1)" />
+  <rect
+     x="33"
+     y="-19"
+     width="3"
+     height="8"
+     ry="0"
+     style="color:#bebebe;opacity:1;fill:#909ea9;fill-opacity:1"
+     id="rect6106-8-61-0"
+     transform="scale(1,-1)" />
 </svg>

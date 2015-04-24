@@ -14,7 +14,7 @@
    width="32"
    version="1.1"
    inkscape:version="0.91 r"
-   sodipodi:docname="network-wired-disconnected_32x32.svg"
+   sodipodi:docname="network-wired-disconnected_32x32_2.svg"
    inkscape:export-filename="/home/andreas/wired.png"
    inkscape:export-xdpi="500"
    inkscape:export-ydpi="500">
@@ -39,7 +39,7 @@
      inkscape:window-x="65"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg7384"
+     inkscape:current-layer="layer2"
      showguides="true">
     <inkscape:grid
        type="xygrid"
@@ -65,7 +65,7 @@
      inkscape:label="Layer 1"
      transform="translate(0,-16)">
     <rect
-       style="fill:#f1f9f9;fill-opacity:1"
+       style="fill:#f9f9f9;fill-opacity:1"
        id="rect4281"
        width="24"
        height="22"
@@ -75,16 +75,49 @@
   <rect
      x="9"
      y="-13"
-     width="14"
-     height="8"
+     width="2"
+     height="6"
      ry="0"
-     style="color:#bebebe;opacity:1;fill:#607070;fill-opacity:1"
+     style="color:#bebebe;opacity:1;fill:#909ea9;fill-opacity:1"
      id="rect6106-8-61"
      transform="scale(1,-1)" />
   <path
-     style="color:#bebebe;fill:#a3adad;fill-opacity:1"
+     style="color:#bebebe;fill:#909ea9;fill-opacity:1"
      d="M 6,29 C 3,29 2,28 2,26 L 2,6 C 2,4 3,3 6,3 l 20,0 c 3,0 4,1 4,3 l 0,20 c 0,2 -1,3 -4,3 z m 4,-6 3,0 0,3 6,0 0,-3 3,0 0,-2 4,0 0,-12 C 26,7 26,6 24.5,6 L 7.5,6 C 6,6 6,7 6,9 l 0,12 4,0 z"
      id="path6104"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="sccccccssccccccccccccccc" />
+  <rect
+     x="13"
+     y="-13"
+     width="2"
+     height="6"
+     ry="0"
+     style="color:#bebebe;opacity:1;fill:#909ea9;fill-opacity:1"
+     id="rect6106-8-61-4"
+     transform="scale(1,-1)" />
+  <rect
+     x="17"
+     y="-13"
+     width="2"
+     height="6"
+     ry="0"
+     style="color:#bebebe;opacity:1;fill:#909ea9;fill-opacity:1"
+     id="rect6106-8-61-9"
+     transform="scale(1,-1)" />
+  <rect
+     x="21"
+     y="-13"
+     width="2"
+     height="6"
+     ry="0"
+     style="color:#bebebe;opacity:1;fill:#909ea9;fill-opacity:1"
+     id="rect6106-8-61-0"
+     transform="scale(1,-1)" />
+  <path
+     id="path4151"
+     d="m 16,20 c 1.199999,6e-6 1.30319,-0.0077 1.936464,-0.652316 0.453052,-0.454006 2.093805,-2.117021 2.54686,-2.571028 0.906105,0.908013 1.673293,1.663017 2.579398,2.571028 C 23.711014,19.992321 23.800015,20.000006 25,20 25.000017,18.800006 24.9926,18.708062 24.344288,18.063425 23.438182,17.155414 22.670995,16.40041 21.764889,15.492399 22.480763,14.754954 23.438182,13.8344 24.344288,12.926388 24.99258,12.286767 25.000017,12.200001 25,11 c -1.199985,0 -1.288986,0.0025 -1.937278,0.642129 -0.906105,0.908012 -1.992431,1.97781 -2.579398,2.56601 -0.906108,-0.908011 -1.640755,-1.657998 -2.54686,-2.56601 C 17.30319,11.002508 17.199999,11 16,11 c -5e-6,1.200001 0.02163,1.286767 0.654898,1.926388 0.453054,0.454007 2.093807,2.112005 2.54686,2.566011 -0.906106,0.908011 -1.640753,1.663015 -2.54686,2.571026 C 16.021625,18.708062 15.999995,18.800006 16,20 Z"
+     style="fill:#ef555c;fill-opacity:1;fill-rule:evenodd"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ccccccccccccccccc" />
 </svg>
