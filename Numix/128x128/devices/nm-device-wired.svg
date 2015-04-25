@@ -14,7 +14,7 @@
    width="128"
    version="1.1"
    inkscape:version="0.91 r"
-   sodipodi:docname="nm-device-wired_128x128_2.svg"
+   sodipodi:docname="nm-device-wired_128x128.svg"
    inkscape:export-filename="/home/andreas/wired.png"
    inkscape:export-xdpi="500"
    inkscape:export-ydpi="500">
@@ -40,7 +40,7 @@
      inkscape:window-y="24"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg7384"
-     showguides="true">
+     showguides="false">
     <inkscape:grid
        type="xygrid"
        id="grid4141" />
@@ -65,7 +65,7 @@
      inkscape:label="Layer 1"
      transform="translate(0,80)">
     <rect
-       style="fill:#f9f9f9;fill-opacity:1"
+       style="fill:#292929;fill-opacity:1"
        id="rect4281"
        width="92"
        height="84"
@@ -78,7 +78,7 @@
      width="8"
      height="20"
      ry="0"
-     style="color:#bebebe;opacity:1;fill:#909ea9;fill-opacity:1"
+     style="color:#bebebe;opacity:1;fill:#ffcb3b;fill-opacity:1"
      id="rect6106-8-61"
      transform="scale(1,-1)" />
   <path
@@ -93,7 +93,7 @@
      width="8"
      height="20"
      ry="0"
-     style="color:#bebebe;opacity:1;fill:#909ea9;fill-opacity:1"
+     style="color:#bebebe;opacity:1;fill:#ffcb3b;fill-opacity:1"
      id="rect6106-8-61-2"
      transform="scale(1,-1)" />
   <rect
@@ -102,7 +102,7 @@
      width="8"
      height="20"
      ry="0"
-     style="color:#bebebe;opacity:1;fill:#909ea9;fill-opacity:1"
+     style="color:#bebebe;opacity:1;fill:#ffcb3b;fill-opacity:1"
      id="rect6106-8-61-4"
      transform="scale(1,-1)" />
   <rect
@@ -111,7 +111,7 @@
      width="8"
      height="20"
      ry="0"
-     style="color:#bebebe;opacity:1;fill:#909ea9;fill-opacity:1"
+     style="color:#bebebe;opacity:1;fill:#ffcb3b;fill-opacity:1"
      id="rect6106-8-61-3"
      transform="scale(1,-1)" />
 </svg>

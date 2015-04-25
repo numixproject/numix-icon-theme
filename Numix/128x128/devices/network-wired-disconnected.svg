@@ -14,7 +14,7 @@
    width="128"
    version="1.1"
    inkscape:version="0.91 r"
-   sodipodi:docname="network-wired-disconnected_128x128_2.svg"
+   sodipodi:docname="network-wired-disconnected_128x128.svg"
    inkscape:export-filename="/home/andreas/wired.png"
    inkscape:export-xdpi="500"
    inkscape:export-ydpi="500">
@@ -39,8 +39,8 @@
      inkscape:window-x="65"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg7384"
-     showguides="true">
+     inkscape:current-layer="layer2"
+     showguides="false">
     <inkscape:grid
        type="xygrid"
        id="grid4141" />
@@ -65,7 +65,7 @@
      inkscape:label="Layer 1"
      transform="translate(0,80)">
     <rect
-       style="fill:#f9f9f9;fill-opacity:1"
+       style="fill:#292929;fill-opacity:1"
        id="rect4281"
        width="92"
        height="84"
@@ -114,10 +114,4 @@
      style="color:#bebebe;opacity:1;fill:#909ea9;fill-opacity:1"
      id="rect6106-8-61-3"
      transform="scale(1,-1)" />
-  <path
-     id="path4151"
-     d="m 64,80.000003 c 5.066662,3e-5 5.50236,-0.0325 8.17618,-2.75422 1.912888,-1.91692 8.840514,-8.93854 10.753412,-10.855452 3.825776,3.833832 7.065014,7.021622 10.890792,10.855452 2.737232,2.7218 3.11301,2.75425 8.179616,2.75422 8e-5,-5.06664 -0.0314,-5.45485 -2.76856,-8.17665 -3.82578,-3.833826 -7.065018,-7.02162 -10.890798,-10.855444 3.02258,-3.113658 7.065018,-7.000442 10.890798,-10.834266 2.73723,-2.700626 2.76864,-3.06697 2.76856,-8.13364 -5.066606,0 -5.442384,0.0106 -8.179616,2.711214 -3.825778,3.833828 -8.41249,8.350752 -10.890792,10.83426 C 79.103802,51.711655 76.001958,48.545045 72.17618,44.711217 69.50236,42.010595 69.066662,42.000003 64,42.000003 c -1.8e-5,5.06667 0.0913,5.433014 2.765124,8.13364 1.912896,1.916914 8.840518,8.917354 10.753412,10.834266 -3.825784,3.833824 -6.927626,7.021618 -10.753412,10.855444 -2.673818,2.7218 -2.765142,3.11001 -2.765124,8.17665 z"
-     style="fill:#ef555c;fill-opacity:1;fill-rule:evenodd"
-     inkscape:connector-curvature="0"
-     sodipodi:nodetypes="ccccccccccccccccc" />
 </svg>

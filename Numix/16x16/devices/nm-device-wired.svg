@@ -14,7 +14,7 @@
    width="16"
    version="1.1"
    inkscape:version="0.91 r"
-   sodipodi:docname="nm-device-wired_16x16_3.svg"
+   sodipodi:docname="nm-device-wired_16x16.svg"
    inkscape:export-filename="/home/andreas/wired.png"
    inkscape:export-xdpi="500"
    inkscape:export-ydpi="500">
@@ -39,7 +39,7 @@
      inkscape:window-x="65"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg7384"
+     inkscape:current-layer="layer2"
      showguides="false">
     <inkscape:grid
        type="xygrid"
@@ -65,7 +65,7 @@
      inkscape:label="Layer 1"
      transform="translate(0,-32)">
     <rect
-       style="fill:#f9f9f9;fill-opacity:1"
+       style="fill:#292929;fill-opacity:1"
        id="rect4281"
        width="12"
        height="11"
@@ -77,7 +77,7 @@
        width="1"
        height="3"
        ry="0"
-       style="color:#bebebe;opacity:1;fill:#909ea9;fill-opacity:1"
+       style="color:#bebebe;opacity:1;fill:#ffcb3b;fill-opacity:1"
        id="rect6106-8-61-1"
        transform="scale(1,-1)" />
     <rect
@@ -86,7 +86,7 @@
        width="1"
        height="3"
        ry="0"
-       style="color:#bebebe;opacity:1;fill:#909ea9;fill-opacity:1"
+       style="color:#bebebe;opacity:1;fill:#ffcb3b;fill-opacity:1"
        id="rect6106-8-61-2"
        transform="scale(1,-1)" />
   </g>

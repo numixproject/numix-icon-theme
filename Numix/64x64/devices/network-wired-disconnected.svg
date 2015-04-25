@@ -14,7 +14,7 @@
    width="64"
    version="1.1"
    inkscape:version="0.91 r"
-   sodipodi:docname="network-wired-disconnected_64x64_2.svg"
+   sodipodi:docname="network-wired-disconnected_64x64.svg"
    inkscape:export-filename="/home/andreas/wired.png"
    inkscape:export-xdpi="500"
    inkscape:export-ydpi="500">
@@ -65,7 +65,7 @@
      inkscape:label="Layer 1"
      transform="translate(0,16)">
     <rect
-       style="fill:#f9f9f9;fill-opacity:1"
+       style="fill:#292929;fill-opacity:1"
        id="rect4281"
        width="46"
        height="42"
@@ -114,10 +114,4 @@
      style="color:#bebebe;opacity:1;fill:#909ea9;fill-opacity:1"
      id="rect6106-8-61-3"
      transform="scale(1,-1)" />
-  <path
-     id="path4151"
-     d="m 32,40 c 2.533331,1.4e-5 2.75118,-0.01626 4.08809,-1.377112 0.956444,-0.958456 4.420257,-4.469267 5.376706,-5.427724 1.912888,1.916915 3.532507,3.510811 5.445396,5.427724 C 48.278808,39.983789 48.466697,40.000014 51,40 c 3.7e-5,-2.533322 -0.01569,-2.727424 -1.38428,-4.088325 -1.91289,-1.916913 -3.532509,-3.51081 -5.445399,-5.427722 1.51129,-1.556829 3.532509,-3.500221 5.445399,-5.417133 C 50.984336,23.716507 51.000037,23.533335 51,21 c -2.533303,0 -2.721192,0.0053 -4.089808,1.355607 -1.912889,1.916914 -4.206245,4.175376 -5.445396,5.41713 C 39.551901,25.855826 38.000979,24.272521 36.08809,22.355607 34.75118,21.005296 34.533331,21 32,21 c -9e-6,2.533335 0.04565,2.716507 1.382562,4.06682 0.956448,0.958457 4.420259,4.458677 5.376706,5.417133 -1.912892,1.916912 -3.463813,3.510809 -5.376706,5.427722 C 32.045653,37.272576 31.999991,37.466678 32,40 Z"
-     style="fill:#ef555c;fill-opacity:1;fill-rule:evenodd"
-     inkscape:connector-curvature="0"
-     sodipodi:nodetypes="ccccccccccccccccc" />
 </svg>
