@@ -22,12 +22,73 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <defs
-     id="defs10" />
+     id="defs10">
+    <clipPath
+       id="clipPath6">
+      <rect
+         height="6.375"
+         width="3.825"
+         y="220.75"
+         x="26.85"
+         id="rect8"
+         style="color:#bebebe;fill:#bebebe" />
+    </clipPath>
+    <clipPath
+       id="clipPath10">
+      <rect
+         height="5.2160001"
+         width="2.898"
+         y="221.33"
+         x="26.966"
+         id="rect12"
+         style="color:#bebebe;fill:#bebebe" />
+    </clipPath>
+    <clipPath
+       id="clipPath14">
+      <rect
+         height="4.8740001"
+         width="1.876"
+         y="221.5"
+         x="26.999001"
+         id="rect16"
+         style="color:#bebebe;fill:#bebebe" />
+    </clipPath>
+    <clipPath
+       id="clipPath3077">
+      <rect
+         id="rect3079"
+         x="26.999001"
+         y="221.5"
+         width="1.876"
+         height="4.8740001"
+         style="color:#bebebe;fill:#bebebe" />
+    </clipPath>
+    <clipPath
+       id="clipPath3073">
+      <rect
+         id="rect3075"
+         x="26.966"
+         y="221.33"
+         width="2.898"
+         height="5.2160001"
+         style="color:#bebebe;fill:#bebebe" />
+    </clipPath>
+    <clipPath
+       id="clipPath3069">
+      <rect
+         id="rect3071"
+         x="26.85"
+         y="220.75"
+         width="3.825"
+         height="6.375"
+         style="color:#bebebe;fill:#bebebe" />
+    </clipPath>
+  </defs>
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -42,17 +103,54 @@
      id="namedview8"
      showgrid="false"
      inkscape:zoom="7.5853273"
-     inkscape:cx="-0.7197332"
-     inkscape:cy="9.9960587"
+     inkscape:cx="9.245864"
+     inkscape:cy="10.436878"
      inkscape:window-x="0"
      inkscape:window-y="21"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2" />
+  <rect
+     x="12"
+     y="-19"
+     width="3"
+     height="8"
+     ry="0"
+     style="color:#bebebe;opacity:0.5;fill:#ececec;fill-opacity:1"
+     id="rect6106-8-61"
+     transform="scale(1,-1)" />
   <path
-     d="m 2,4.75 0,27.49975 8.25,5e-4 0,5.49975 5.5,0 0,5.5 16.5,0 0,-5.5 5.5,0 0,-5.50025 8.25,0 L 46,4.75 Z m 8.25,5.5 27.5,0 0,8.25 -27.5,0 z"
-     id="path6"
+     style="color:#bebebe;fill:#ececec;fill-opacity:1;opacity:0.5"
+     d="M 8,43 C 4,43 3,42 3,39 L 3,9 C 3,6 4,5 8,5 l 32,0 c 4,0 5,1 5,4 l 0,30 c 0,3 -1,4 -5,4 z m 8,-9 3,0 0,4 10,0 0,-4 3,0 0,-3 7,0 0,-18 c 0,-2 0,-3 -1.5,-3 l -27,0 C 9,10 9,11 9,13 l 0,18 7,0 z"
+     id="path6104"
      inkscape:connector-curvature="0"
-     style="opacity:0.5;fill:#ececec" />
+     sodipodi:nodetypes="sccccccssccccccccccccccc" />
+  <rect
+     x="19"
+     y="-19"
+     width="3"
+     height="8"
+     ry="0"
+     style="color:#bebebe;opacity:0.5;fill:#ececec;fill-opacity:1"
+     id="rect6106-8-61-2"
+     transform="scale(1,-1)" />
+  <rect
+     x="26"
+     y="-19"
+     width="3"
+     height="8"
+     ry="0"
+     style="color:#bebebe;opacity:0.5;fill:#ececec;fill-opacity:1"
+     id="rect6106-8-61-6"
+     transform="scale(1,-1)" />
+  <rect
+     x="33"
+     y="-19"
+     width="3"
+     height="8"
+     ry="0"
+     style="color:#bebebe;opacity:0.5;fill:#ececec;fill-opacity:1"
+     id="rect6106-8-61-0"
+     transform="scale(1,-1)" />
   <path
      id="path4151"
      d="m 24.012033,45.991359 c 3.084125,-0.09817 3.157703,0.0061 4.708962,-1.570811 1.109794,-1.110613 5.128966,-5.178769 6.238761,-6.289382 2.219588,2.221225 4.098881,4.068156 6.318469,6.289382 1.588049,1.576946 1.542063,1.610695 4.708962,1.570811 -0.02759,-3.101739 0.0184,-3.135487 -1.569654,-4.712434 -2.219588,-2.221226 -4.098881,-4.068156 -6.31847,-6.289381 1.753598,-1.80398 4.098882,-4.055884 6.31847,-6.27711 1.588049,-1.564676 1.621771,-1.497179 1.569654,-4.712434 -3.08719,0.07363 -3.120913,0.0061 -4.708962,1.570811 -2.219588,2.221226 -4.880642,4.838223 -6.318469,6.27711 -2.219589,-2.221226 -4.019173,-4.055884 -6.238761,-6.27711 C 27.169736,24.006136 27.12988,24.098176 24.012033,24 c -0.02146,3.239799 0.0184,3.147758 1.569654,4.712434 1.109794,1.110613 5.128966,5.166497 6.238761,6.27711 -2.219589,2.221225 -4.019172,4.068155 -6.238761,6.289381 -1.551259,1.576947 -1.624837,1.472635 -1.569654,4.712434 z"
