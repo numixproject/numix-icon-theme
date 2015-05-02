@@ -8,13 +8,13 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="32"
-   height="32"
-   viewBox="0 0 32 32"
+   width="48"
+   height="48"
+   viewBox="0 0 48 48"
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r"
-   sodipodi:docname="battery-good-charging.svg">
+   sodipodi:docname="battery-empty-charging.svg">
   <metadata
      id="metadata10">
     <rdf:RDF>
@@ -23,6 +23,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -49,7 +50,7 @@
          id="stop3788" />
     </linearGradient>
     <linearGradient
-       gradientTransform="matrix(0.75,0,0,0.75,-1.9999989,-1.9999999)"
+       gradientTransform="matrix(0.75,0,0,0.75,-1.9999989,-2.0000001)"
        y2="23"
        x2="22.454058"
        y1="-7"
@@ -72,9 +73,9 @@
      inkscape:window-height="747"
      id="namedview6"
      showgrid="true"
-     inkscape:zoom="20.85965"
-     inkscape:cx="2.4303362"
-     inkscape:cy="22.796152"
+     inkscape:zoom="5.2149125"
+     inkscape:cx="34.530051"
+     inkscape:cy="21.348073"
      inkscape:window-x="0"
      inkscape:window-y="21"
      inkscape:window-maximized="1"
@@ -86,38 +87,32 @@
   <path
      inkscape:connector-curvature="0"
      style="fill:url(#linearGradient3011);fill-opacity:1;stroke:none"
-     d="m 14.5,4.0000001 c -0.831,0 -1.499999,0.6690001 -1.499999,1.5000004 l 0,0.75 -1.5,0 c -0.831,0 -1.5,0.669 -1.5,1.5 l 0,18.7500005 c 0,0.831 0.669,1.5 1.5,1.5 l 8.999999,0 c 0.831,0 1.5,-0.669 1.5,-1.5 L 22,7.7500005 c 0,-0.831 -0.669,-1.5 -1.5,-1.5 l -1.5,0 0,-0.75 C 19,4.6690002 18.331,4.0000001 17.5,4.0000001 l -3,0 z"
+     d="m 22,7.9999995 c -1.108,0 -1.999999,0.892 -1.999999,2 l 0,1.0000005 -2,0 c -1.108,0 -2,0.892001 -2,2 l 0,25 c 0,1.108 0.892,2 2,2 L 30,40 c 1.108,0 2,-0.892 2,-2 l 0,-25 c 0,-1.108 -0.892,-2 -2,-2 l -2,0 0,-1.0000005 c 0,-1.108 -0.892,-2 -2,-2 l -4,0 z"
      id="rect2995" />
   <path
      style="opacity:0.2;fill:#6fa7ce;fill-opacity:1;stroke:none"
-     d="m 11.5,6.2502368 9,0 c 0.831,0 1.5,0.6348927 1.5,1.4235263 L 22,26.576474 C 22,27.365107 21.331,28 20.5,28 l -9,0 C 10.669,28 10,27.365107 10,26.576474 L 10,7.6737631 c 0,-0.7886336 0.669,-1.4235263 1.5,-1.4235263 z"
+     d="m 18,11.000316 12,0 c 1.108,0 2,0.846522 2,1.898034 l 0,25.203614 C 32,39.153475 31.108,40 30,40 l -12,0 c -1.108,0 -2,-0.846525 -2,-1.898036 L 16,12.89835 c 0,-1.05151 0.892,-1.898034 2,-1.898034 z"
      id="rect3770"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="sssssssss" />
   <rect
      style="opacity:0.2;fill:#ffffff;fill-opacity:1;stroke:none"
      id="rect3774"
-     width="2"
-     height="2.25"
-     x="16"
-     y="4" />
-  <path
-     style="fill:#6fa7ce;fill-opacity:1;stroke:none"
-     d="m 11.5,11.688 9,0 c 0.831,0 1.5,0.49735 1.5,1.115135 l 0,14.081731 C 22,27.50265 21.331,28 20.5,28 l -9,0 C 10.669,28 10,27.50265 10,26.884866 L 10,12.803135 C 10,12.18535 10.669,11.688 11.5,11.688 Z"
-     id="rect3770-7"
-     inkscape:connector-curvature="0"
-     sodipodi:nodetypes="sssssssss" />
+     width="2.6666667"
+     height="3"
+     x="24"
+     y="7.9999995" />
   <rect
      style="opacity:0.2;fill:#ffffff;fill-opacity:1;stroke:none"
      id="rect3772"
-     width="2"
-     height="21.75"
-     x="18"
-     y="6.25"
+     width="2.6666667"
+     height="29"
+     x="26.666666"
+     y="10.999999"
      ry="0" />
   <path
      style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd"
-     d="m 19,9.029 -8,9 5,0 -3,7 8,-10 -3.75,0 1.75,-6 z"
+     d="m 28,14.705333 -10.666667,11.999999 6.666667,0 -4,9.333333 10.666667,-13.333333 -5,0 L 28,14.705333 Z"
      id="path8"
      inkscape:connector-curvature="0" />
 </svg>
