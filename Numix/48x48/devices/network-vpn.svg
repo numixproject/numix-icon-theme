@@ -10,8 +10,8 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg7384"
-   height="24"
-   width="24"
+   height="48"
+   width="48"
    version="1.1"
    inkscape:version="0.91 r"
    sodipodi:docname="network-vpn.svg">
@@ -30,9 +30,9 @@
      inkscape:window-height="747"
      id="namedview10"
      showgrid="true"
-     inkscape:zoom="14.75"
-     inkscape:cx="0.52221922"
-     inkscape:cy="9.1218976"
+     inkscape:zoom="29.5"
+     inkscape:cx="19.775738"
+     inkscape:cy="37.541484"
      inkscape:window-x="0"
      inkscape:window-y="21"
      inkscape:window-maximized="1"
@@ -57,24 +57,24 @@
      id="title9167">Gnome Symbolic Icon Theme</title>
   <path
      style="color:#bebebe;text-indent:0;text-transform:none;block-progression:tb;fill:#919fa9;fill-opacity:1"
-     d="m 10.5,14.5 0,4.5 -7.5,0 0,3 18,0 0,-3 -7.5,0 0,-4.5 -3,0 z"
+     d="m 21,28 0,9 -15,0 0,6 36,0 0,-6 -15,0 0,-9 -6,0 z"
      id="path12679-6"
      inkscape:connector-curvature="0" />
   <path
      inkscape:connector-curvature="0"
-     d="m 12,2.5 c -1.472666,0 -3,0.931455 -3,2.99997 l 0,3 0,1.5 0.75,0 5.25,0 0,0 0,-1.5 0,-3 C 15,3.4614171 13.472666,2.5 12,2.5 Z m 0,1.49997 c 0.846195,0 1.5,0.65382 1.5,1.5 l 0,1.5 -3,0 0,-1.5 c 0,-0.84618 0.653805,-1.5 1.5,-1.5 z"
+     d="m 24,4 c -2.945332,0 -6,1.86291 -6,5.99994 l 0,6 0,3 1.5,0 10.5,0 0,0 0,-3 0,-6 C 30,5.922834 26.945332,4 24,4 Z m 0,2.99994 c 1.69239,0 3,1.30764 3,3 l 0,3 -6,0 0,-3 c 0,-1.69236 1.30761,-3 3,-3 z"
      style="color:#bebebe;text-indent:0;text-transform:none;block-progression:tb;fill:#bebebe"
      id="path13314"
      sodipodi:nodetypes="zsccccccszssccss" />
   <path
      style="color:#bebebe;fill:#ecd14c;fill-opacity:1"
-     d="M 6.169491,7.1694915 C 6.405194,6.933789 7,7 7,7 L 17,7 C 17,7 17.594797,6.933797 17.8305,7.1695 18.066202,7.4052025 18,8 18,8 L 18,16 6,16 6,8 C 6,8 5.93379,7.405194 6.169491,7.1694915 Z"
+     d="M 12.338982,13.338982 C 12.810388,12.867578 14,13 14,13 l 20,0 c 0,0 1.189594,-0.1324 1.661,0.339 C 36.132404,13.810406 36,15 36,15 l 0,16 -24,0 0,-16 c 0,0 -0.13242,-1.189612 0.338982,-1.661018 z"
      id="rect13312"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="zccsccccz" />
   <g
      id="g4185"
-     transform="translate(-49.474513,-24.353237)">
+     transform="translate(-49.474513,-0.353237)">
     <g
        id="g4161"
        style="fill:none;stroke:#ffffff">
@@ -94,8 +94,8 @@
   <rect
      style="opacity:1;fill:#e9d988;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
      id="rect4147"
-     width="2.5"
-     height="9"
-     x="14"
-     y="7" />
+     width="5"
+     height="18"
+     x="28"
+     y="13" />
 </svg>
