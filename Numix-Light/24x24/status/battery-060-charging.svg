@@ -10,23 +10,24 @@
    width="24"
    viewBox="0 0 24 24"
    height="24"
-   id="svg3047"
+   id="svg3019"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
+   inkscape:version="0.91 r"
    sodipodi:docname="battery-060-charging.svg">
   <metadata
-     id="metadata3059">
+     id="metadata3031">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <defs
-     id="defs3057" />
+     id="defs3029" />
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -36,33 +37,25 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1280"
-     inkscape:window-height="998"
-     id="namedview3055"
-     showgrid="true"
-     inkscape:zoom="21.454545"
-     inkscape:cx="6.0913915"
-     inkscape:cy="11.732897"
+     inkscape:window-width="1366"
+     inkscape:window-height="747"
+     id="namedview3027"
+     showgrid="false"
+     inkscape:zoom="7.5853273"
+     inkscape:cx="-9.3622541"
+     inkscape:cy="6.7139431"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="21"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg3047">
-    <inkscape:grid
-       type="xygrid"
-       id="grid3115"
-       empspacing="5"
-       visible="true"
-       enabled="true"
-       snapvisiblegridlinesonly="true" />
-  </sodipodi:namedview>
+     inkscape:current-layer="svg3019" />
   <path
-     d="M 9,4 9,6 6,6 6,20 18,20 18,6 15,6 15,4 9,4 z m 5,3 -1,5 3,0 -6,7 1,-5 -3,0 6,-7 z"
-     id="path3051"
-     inkscape:connector-curvature="0"
-     style="opacity:0.40000000000000002;fill:#353535;fill-opacity:1" />
+     d="M 9,4 9,6 6,6 6,20 18,20 18,6 15,6 15,4 9,4 Z m 5,3 -1,5 3,0 -6,7 1,-5 -3,0 6,-7 z"
+     id="path3023"
+     style="opacity:0.4;fill:#353535;fill-opacity:1"
+     inkscape:connector-curvature="0" />
   <path
-     d="M 6,10 6,20 18,20 18,10 13.40625,10 13,12 l 3,0 -6,7 1,-5 -3,0 3.4375,-4 L 6,10 z"
-     id="path3053"
-     inkscape:connector-curvature="0"
-     style="fill:#353535;fill-opacity:1" />
+     style="opacity:1;fill:#353535;fill-opacity:1"
+     d="M 6,10.400391 6,20 l 12,0 0,-9.599609 -4.679687,0 L 13,12 l 3,0 -6,7 1,-5 -3,0 3.085938,-3.599609 -5.085938,0 z"
+     id="path3023-5"
+     inkscape:connector-curvature="0" />
 </svg>

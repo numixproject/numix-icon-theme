@@ -12,7 +12,7 @@
    height="16"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
+   inkscape:version="0.91 r"
    sodipodi:docname="battery-020-charging.svg">
   <metadata
      id="metadata14">
@@ -36,15 +36,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1280"
-     inkscape:window-height="998"
+     inkscape:window-width="1366"
+     inkscape:window-height="747"
      id="namedview10"
      showgrid="true"
      inkscape:zoom="22.627417"
-     inkscape:cx="-1.47957"
-     inkscape:cy="1.7057632"
+     inkscape:cx="6.7614541"
+     inkscape:cy="7.801919"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="21"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2">
     <inkscape:grid
@@ -59,13 +59,11 @@
      d="m 6,2 0,2 -2,0 0,10 8,0 0,-10 -2,0 0,-2 z m 3.3333333,2.294118 -0.6666666,3.823529 2.0000003,0 -4.0000003,5.352941 0.6666666,-3.823529 -2,0 z"
      id="path6"
      inkscape:connector-curvature="0"
-     style="opacity:0.40000000000000002;fill:#353535;fill-opacity:1"
+     style="opacity:0.4;fill:#353535;fill-opacity:1"
      sodipodi:nodetypes="cccccccccccccccc" />
   <path
-     d="m 4,11 0,3 8,0 0,-3 L 8.5078125,11 6.6666667,13.4375 7.0898437,11 z"
-     id="path8"
-     style="fill:#ff8000;fill-opacity:1"
-     class="warning"
-     inkscape:connector-curvature="0"
-     sodipodi:nodetypes="cccccccc" />
+     style="opacity:1;fill:#ff8000;fill-opacity:1"
+     d="M 4,11.599609 4,14 l 8,0 0,-2.400391 -3.9355469,0 -1.3984375,1.871094 0.3261719,-1.871094 -2.9921875,0 z"
+     id="path6-4"
+     inkscape:connector-curvature="0" />
 </svg>
