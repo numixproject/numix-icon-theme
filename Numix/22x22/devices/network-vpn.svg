@@ -30,16 +30,16 @@
      inkscape:window-height="747"
      id="namedview10"
      showgrid="true"
-     inkscape:zoom="20.85965"
-     inkscape:cx="3.7690623"
-     inkscape:cy="9.2344375"
+     inkscape:zoom="14.75"
+     inkscape:cx="0.52221922"
+     inkscape:cy="9.1218976"
      inkscape:window-x="0"
      inkscape:window-y="21"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg7384">
     <inkscape:grid
        type="xygrid"
-       id="grid4142" />
+       id="grid3342" />
   </sodipodi:namedview>
   <metadata
      id="metadata90">
@@ -57,18 +57,18 @@
      id="title9167">Gnome Symbolic Icon Theme</title>
   <path
      style="color:#bebebe;text-indent:0;text-transform:none;block-progression:tb;fill:#919fa9;fill-opacity:1"
-     d="m 9.625014,13.406225 0,4.124959 -6.8749313,0 0,2.749973 16.4998343,0 0,-2.749973 -6.874931,0 0,-4.124959 -2.749972,0 z"
+     d="m 9.5,13.5 0,4.5 -7.5,0 0,3 18,0 0,-3 -7.5,0 0,-4.5 -3,0 z"
      id="path12679-6"
      inkscape:connector-curvature="0" />
   <path
      inkscape:connector-curvature="0"
-     d="m 11,1.7188432 c -2.1220234,0 -3.4374654,1.1755851 -3.4374654,3.4374381 l 0,2.7499715 0,1.374986 1.3749863,0 4.8124521,0 0.687493,0 0,-1.374986 0,-2.7499715 C 14.437466,2.8944283 13.122024,1.7188432 11,1.7188432 Z m 0,2.0624519 c 0.775671,0 1.374987,0.5993281 1.374987,1.3749862 l 0,1.3749864 -2.749973,0 0,-1.3749864 C 9.625014,4.3806232 10.22433,3.7812951 11,3.7812951 Z"
+     d="M 11,1.5 C 9.527334,1.5 8,2.431455 8,4.49997 l 0,3 0,1.5 0.75,0 5.25,0 0,0 0,-1.5 0,-3 C 14,2.4614171 12.472666,1.5 11,1.5 Z m 0,1.49997 c 0.846195,0 1.5,0.65382 1.5,1.5 l 0,1.5 -3,0 0,-1.5 c 0,-0.84618 0.653805,-1.5 1.5,-1.5 z"
      style="color:#bebebe;text-indent:0;text-transform:none;block-progression:tb;fill:#bebebe"
      id="path13314"
      sodipodi:nodetypes="zsccccccszssccss" />
   <path
      style="color:#bebebe;fill:#ecd14c;fill-opacity:1"
-     d="M 5.6554206,6.6866606 C 5.8714798,6.4706013 6.4167127,6.5312952 6.4167127,6.5312952 l 9.1665743,0 c 0,0 0.545226,-0.060693 0.761284,0.1553722 0.21606,0.2160593 0.155374,0.7612844 0.155374,0.7612844 l 0,7.3332602 -10.9998898,0 0,-7.3332602 c 0,0 -0.060693,-0.5452334 0.1553654,-0.7612912 z"
+     d="M 5.169491,6.1694915 C 5.405194,5.933789 6,6 6,6 L 16,6 C 16,6 16.594797,5.933797 16.8305,6.1695 17.066202,6.4052025 17,7 17,7 L 17,15 5,15 5,7 C 5,7 4.93379,6.405194 5.169491,6.1694915 Z"
      id="rect13312"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="zccsccccz" />
@@ -94,8 +94,8 @@
   <rect
      style="opacity:1;fill:#e9d988;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
      id="rect4147"
-     width="2.2916439"
-     height="8.249917"
-     x="12.833316"
-     y="6.5312948" />
+     width="2.5"
+     height="9"
+     x="13"
+     y="6" />
 </svg>
