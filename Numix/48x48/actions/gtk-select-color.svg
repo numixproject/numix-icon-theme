@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48"
+   height="48"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r"
+   sodipodi:docname="gtk-select-color.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="5.6568543"
+     inkscape:cx="68.701493"
+     inkscape:cy="1.3847122"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:window-width="1366"
+     inkscape:window-height="747"
+     inkscape:window-x="0"
+     inkscape:window-y="21"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2851"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true"
+       spacingx="0.5px"
+       spacingy="0.5px" />
+  </sodipodi:namedview>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-94,-763.86218)">
+    <path
+       style="opacity:1;fill:#dc322f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:12;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 24 4 C 20.49085 4.006 17.03624 4.9671725 14 6.7265625 L 20.498047 17.949219 A 7 7 0 0 1 24 17 A 7 7 0 0 1 27.503906 17.947266 L 34 6.7265625 C 30.96531 4.9659125 27.50843 4.00861 24 4 z "
+       transform="translate(94,763.86218)"
+       id="path4338-7" />
+    <path
+       style="opacity:1;fill:#ff6936;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:12;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 34 6.7265625 L 27.503906 17.947266 A 7 7 0 0 1 31 24 L 44 24 C 44.007 20.49156 43.020197 17.0427 41.273438 14 C 39.513348 10.96417 37.0418 8.4763325 34 6.7265625 z "
+       transform="translate(94,763.86218)"
+       id="path4338-7-2" />
+    <path
+       style="opacity:1;fill:#2a5982;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:12;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 14 6.7265625 C 10.95789 8.4743525 8.4882325 10.96592 6.7265625 14 C 4.9775035 17.0422 3.994446 20.49084 4 24 L 17 24 A 7 7 0 0 1 20.498047 17.949219 L 14 6.7265625 z "
+       transform="translate(94,763.86218)"
+       id="path4338-7-7" />
+    <path
+       style="opacity:1;fill:#16b841;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:12;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 27.501953 30.050781 A 7 7 0 0 1 24 31 A 7 7 0 0 1 20.496094 30.052734 L 14 41.273438 C 17.03469 43.034088 20.49157 43.99139 24 44 C 27.50915 43.994 30.96375 43.032827 34 41.273438 L 27.501953 30.050781 z "
+       transform="translate(94,763.86218)"
+       id="path4338-7-26" />
+    <path
+       style="opacity:1;fill:#39a6d9;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:12;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 4 24 C 3.9927 27.50844 4.9798005 30.9573 6.7265625 34 C 8.4866525 37.03583 10.9582 39.523667 14 41.273438 L 20.496094 30.052734 A 7 7 0 0 1 17 24 L 4 24 z "
+       transform="translate(94,763.86218)"
+       id="path4338-7-2-1" />
+    <path
+       style="opacity:1;fill:#fcd12e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:12;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 31 24 A 7 7 0 0 1 27.501953 30.050781 L 34 41.273438 C 37.04211 39.525647 39.511768 37.03409 41.273438 34 C 43.022498 30.9578 44.00555 27.50916 44 24 L 31 24 z "
+       transform="translate(94,763.86218)"
+       id="path4338-7-7-1" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#888888;fill-opacity:1"
+       d="M 131.85641,795.86218 117,789.59423 l 2,-3.4641 z"
+       id="path4420"
+       inkscape:transform-center-x="-6.428205"
+       inkscape:transform-center-y="3.133975" />
+  </g>
+  <metadata
+     id="metadata26">
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <cc:license
+           rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
+        <dc:publisher>
+          <cc:Agent
+             rdf:about="http://openclipart.org/">
+            <dc:title>Open Clip Art Library</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:title>Goethe's Color Wheel (fresh)</dc:title>
+        <dc:date>2010-05-16T15:50:04</dc:date>
+        <dc:description>Goethe's Farbenkreis zur Symbolisierung des menschlichen Geistes- und Seelenlebens vector version with fresh colors (probably close to the original when it was new: http://commons.wikimedia.org/wiki/File:Goethe,_Farbenkreis_zur_Symbolisierung_des_menschlichen_Geistes-_und_Seelenlebens,_1809.jpg ).</dc:description>
+        <dc:source>http://openclipart.org/detail/60475/goethes-color-wheel-(fresh)-by-qubodup</dc:source>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>qubodup</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>abstract</rdf:li>
+            <rdf:li>clip art</rdf:li>
+            <rdf:li>clipart</rdf:li>
+            <rdf:li>color</rdf:li>
+            <rdf:li>colour</rdf:li>
+            <rdf:li>farbkreis</rdf:li>
+            <rdf:li>fresh</rdf:li>
+            <rdf:li>goethe</rdf:li>
+            <rdf:li>light</rdf:li>
+            <rdf:li>new</rdf:li>
+            <rdf:li>ring</rdf:li>
+            <rdf:li>science of color</rdf:li>
+            <rdf:li>wheel</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>
