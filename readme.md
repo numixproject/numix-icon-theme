@@ -18,8 +18,6 @@ sudo dnf copr enable satya164/numix
 sudo dnf install numix-icon-theme
 ```
 
-Alternatively for Fedora, Red Hat, and OpenSUSE we have setup repos on [OpenSUSE build service](https://build.opensuse.org/project/show/home:paolorotolo:numix).
-
 For Arch users there's a [community maintained package](https://aur.archlinux.org/packages/numix-icon-theme-git/) in the AUR which builds from this GitHub.
 
 ### Icon Requests
