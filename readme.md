@@ -11,11 +11,14 @@ sudo apt-get update
 sudo apt-get install numix-icon-theme
 ```
 
-For Fedora, Red Hat and OpenSUSE, we have setup repos on [OpenSUSE build service](https://build.opensuse.org/project/show/home:paolorotolo:numix).
+If you use Fedora you can either use [Fedy](http://satya164.github.io/fedy/) or using a terminal run:
 
-Alternatively, if you are on Fedora, install [Fedy](http://satya164.github.io/fedy/) and run the following command in a terminal:
+```bash
+sudo dnf copr enable satya164/numix
+sudo dnf install numix-icon-theme
+```
 
-```sudo fedy -e numix_themes``` 
+Alternatively for Fedora, Red Hat, and OpenSUSE we have setup repos on [OpenSUSE build service](https://build.opensuse.org/project/show/home:paolorotolo:numix).
 
 For Arch users there's a [community maintained package](https://aur.archlinux.org/packages/numix-icon-theme-git/) in the AUR which builds from this GitHub.
 
