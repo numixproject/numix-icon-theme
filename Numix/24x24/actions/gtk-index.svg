@@ -22,7 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -41,9 +41,9 @@
      inkscape:window-height="747"
      id="namedview14"
      showgrid="true"
-     inkscape:zoom="19.666667"
-     inkscape:cx="7.8708416"
-     inkscape:cy="8.879146"
+     inkscape:zoom="13.906433"
+     inkscape:cx="-0.048870124"
+     inkscape:cy="9.6357546"
      inkscape:window-x="0"
      inkscape:window-y="21"
      inkscape:window-maximized="1"
@@ -52,6 +52,30 @@
        type="xygrid"
        id="grid4146" />
   </sodipodi:namedview>
+  <path
+     sodipodi:type="star"
+     style="opacity:1;fill:#268bd2;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     id="path4144"
+     sodipodi:sides="3"
+     sodipodi:cx="4"
+     sodipodi:cy="4.0847459"
+     sodipodi:r1="3"
+     sodipodi:r2="1.5"
+     sodipodi:arg1="0"
+     sodipodi:arg2="1.0471976"
+     inkscape:flatsided="true"
+     inkscape:rounded="0"
+     inkscape:randomized="0"
+     d="M 7,4.0847459 2.5,6.6828221 2.5,1.4866697 Z"
+     inkscape:transform-center-x="-0.4166666"
+     transform="matrix(0.55555555,0,0,0.76980035,1.6111111,1.3555613)" />
+  <rect
+     style="opacity:1;fill:#dc322f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     id="rect4146"
+     width="13"
+     height="1"
+     x="8"
+     y="4" />
   <path
      sodipodi:type="star"
      style="opacity:1;fill:#268bd2;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -67,15 +91,15 @@
      inkscape:rounded="0"
      inkscape:randomized="0"
      d="M 7,4.0847459 2.5,6.6828221 2.5,1.4866697 Z"
-     inkscape:transform-center-x="-0.49999994"
-     transform="matrix(0.66666667,0,0,0.76980036,2.3333333,2.8555612)" />
+     inkscape:transform-center-x="-0.4166666"
+     transform="matrix(0.55555555,0,0,0.76980035,1.6111111,6.3555613)" />
   <rect
      style="opacity:1;fill:#dc322f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
      id="rect4146-5"
-     width="11"
-     height="2"
-     x="9"
-     y="5" />
+     width="7"
+     height="1"
+     x="8"
+     y="9" />
   <path
      sodipodi:type="star"
      style="opacity:1;fill:#268bd2;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -91,15 +115,15 @@
      inkscape:rounded="0"
      inkscape:randomized="0"
      d="M 7,4.0847459 2.5,6.6828221 2.5,1.4866697 Z"
-     inkscape:transform-center-x="-0.49999992"
-     transform="matrix(0.66666667,0,0,0.76980036,2.3333333,8.8555612)" />
+     inkscape:transform-center-x="-0.4166666"
+     transform="matrix(0.55555555,0,0,0.76980035,1.6111111,11.355561)" />
   <rect
      style="opacity:1;fill:#dc322f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
      id="rect4146-5-6"
-     width="11"
-     height="2"
-     x="9"
-     y="11" />
+     width="13"
+     height="1"
+     x="8"
+     y="14" />
   <path
      sodipodi:type="star"
      style="opacity:1;fill:#268bd2;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -115,13 +139,13 @@
      inkscape:rounded="0"
      inkscape:randomized="0"
      d="M 7,4.0847459 2.5,6.6828221 2.5,1.4866697 Z"
-     inkscape:transform-center-x="-0.49999993"
-     transform="matrix(0.66666667,0,0,0.76980036,2.3333333,14.855561)" />
+     inkscape:transform-center-x="-0.4166666"
+     transform="matrix(0.55555555,0,0,0.76980035,1.6111111,16.355561)" />
   <rect
      style="opacity:1;fill:#dc322f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
      id="rect4146-5-6-8"
-     width="11"
-     height="2"
-     x="9"
-     y="17" />
+     width="10"
+     height="1"
+     x="8"
+     y="19" />
 </svg>
