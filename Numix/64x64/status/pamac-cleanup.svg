@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="64"
+   height="64"
+   viewBox="0 0 64 64"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r"
+   sodipodi:docname="pamac-cleanup.svg">
+  <metadata
+     id="metadata10">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="747"
+     id="namedview6"
+     showgrid="true"
+     inkscape:zoom="2"
+     inkscape:cx="-85.064631"
+     inkscape:cy="-65.382569"
+     inkscape:window-x="0"
+     inkscape:window-y="21"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4138" />
+  </sodipodi:namedview>
+  <path
+     style="fill:#c28e5c"
+     d="m 20,10 -10,12 20,0 0,-12 -10,0 z m 14,0 0,12 20,0 L 44,10 34,10 Z M 10,26 10,54 38.101562,54 40.585938,51.515624 36.34375,47.269532 46.242188,37.375 50.484376,41.617188 51.898438,40.203124 54,38.097656 54,26 10,26 Z"
+     id="path4"
+     inkscape:connector-curvature="0" />
+  <path
+     sodipodi:nodetypes="ccccccccccccc"
+     inkscape:connector-curvature="0"
+     id="path4-4-4"
+     d="m 54.728452,43.029702 -4.24264,4.24264 -4.24264,-4.24264 L 42,47.271812 46.242642,51.514452 42.000266,55.75736 46.242908,60 l 4.242374,-4.242906 4.24264,4.24264 4.243172,-4.24211 -4.242642,-4.24264 4.242642,-4.242642 z"
+     style="fill:#ee545b;fill-opacity:1" />
+</svg>
