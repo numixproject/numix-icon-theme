@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="22"
+   height="22"
+   viewBox="0 0 22 22"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r"
+   sodipodi:docname="pamac-cleanup.svg">
+  <metadata
+     id="metadata10">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="747"
+     id="namedview6"
+     showgrid="true"
+     inkscape:zoom="11.313709"
+     inkscape:cx="4.2622754"
+     inkscape:cy="-0.14750376"
+     inkscape:window-x="0"
+     inkscape:window-y="21"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4138" />
+  </sodipodi:namedview>
+  <path
+     style="fill:#c28e5c"
+     d="M 7 3 L 3 7 L 10 7 L 10 3 L 7 3 z M 12 3 L 12 7 L 19 7 L 15 3 L 12 3 z M 3 9 L 3 19 L 12.757812 19 L 13.757812 18 L 12.341797 16.585938 L 16.585938 12.34375 L 18 13.757812 L 19 12.757812 L 19 9 L 3 9 z "
+     id="path4-6-7" />
+  <path
+     sodipodi:nodetypes="ccccccccccccc"
+     inkscape:connector-curvature="0"
+     id="path4-6"
+     d="m 19.414207,15.171585 -1.414213,1.414214 -1.414116,-1.414116 -1.414574,1.414185 1.414261,1.414262 -1.41395,1.414144 1.414165,1.414165 1.413951,-1.414144 1.414238,1.414239 1.414524,-1.414236 -1.414237,-1.414238 1.414261,-1.414165 z"
+     style="fill:#ee545b;fill-opacity:1" />
+</svg>
