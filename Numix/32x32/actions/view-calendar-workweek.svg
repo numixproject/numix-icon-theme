@@ -14,7 +14,7 @@
    id="svg13094"
    version="1.1"
    inkscape:version="0.91 r"
-   sodipodi:docname="view-calendar-upcoming-days.svg">
+   sodipodi:docname="view-calendar-workweek.svg">
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -23,7 +23,7 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="27.091029"
-     inkscape:cx="11.50586"
+     inkscape:cx="1.4102671"
      inkscape:cy="15.194868"
      inkscape:document-units="px"
      inkscape:current-layer="svg13094"
@@ -177,7 +177,7 @@
      ry="0.50001448" />
   <path
      style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#c28e5c;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.60000002;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-     d="m 11.400636,13.00049 c -0.221198,-2.5e-4 -0.400562,0.17918 -0.400368,0.4004 l 0,3.19931 c -2e-4,0.22122 0.17917,0.40059 0.400368,0.40041 l 9.199179,0 c 0.221198,2.5e-4 0.400563,-0.17921 0.40037,-0.40041 l 0,-3.19931 c 2.5e-4,-0.22122 -0.179172,-0.4006 -0.40037,-0.4004 z"
+     d="m 5.400184,13.00049 c -0.221198,-2.5e-4 -0.400562,0.17918 -0.400368,0.4004 l 0,3.19931 c -2e-4,0.22122 0.17917,0.40059 0.400368,0.40041 l 15.199631,0 c 0.221198,2.5e-4 0.400563,-0.17921 0.40037,-0.40041 l 0,-3.19931 c 2.5e-4,-0.22122 -0.179172,-0.4006 -0.40037,-0.4004 z"
      id="rect4169"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="ccccccccc" />

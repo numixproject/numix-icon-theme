@@ -14,7 +14,7 @@
    id="svg13094"
    version="1.1"
    inkscape:version="0.91 r"
-   sodipodi:docname="view-calendar-upcoming-days.svg">
+   sodipodi:docname="view-calendar-workweek.svg">
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -22,9 +22,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="5.656854"
-     inkscape:cx="-24.880242"
-     inkscape:cy="-22.391405"
+     inkscape:zoom="15.999999"
+     inkscape:cx="20.759423"
+     inkscape:cy="17.260049"
      inkscape:document-units="px"
      inkscape:current-layer="svg13094"
      showgrid="true"
@@ -83,7 +83,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -101,7 +101,7 @@
      sodipodi:nodetypes="ccccc" />
   <path
      style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#c28e5c;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.60000002;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-     d="M 8.550219,10.249814 C 8.384311,10.249618 8.249781,10.38421 8.249927,10.550123 l 0,2.399614 c -1.5e-4,0.165928 0.134384,0.30046 0.300292,0.300325 l 6.899562,0 c 0.165906,1.8e-4 0.300438,-0.134411 0.300292,-0.300325 l 0,-2.399614 c 1.87e-4,-0.165914 -0.134386,-0.300459 -0.300292,-0.300309 z"
+     d="M 4.050146,10.249814 C 3.884238,10.249618 3.749708,10.38421 3.749854,10.550123 l 0,2.399614 c -1.5e-4,0.165928 0.134384,0.30046 0.300292,0.300325 l 11.399635,0 c 0.165906,1.8e-4 0.300438,-0.134411 0.300292,-0.300325 l 0,-2.399614 c 1.87e-4,-0.165914 -0.134386,-0.300459 -0.300292,-0.300309 z"
      id="rect4169"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="ccccccccc" />
