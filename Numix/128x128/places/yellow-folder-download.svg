@@ -186,7 +186,7 @@
     <g
        transform="matrix(2,0,0,2,0,-1052.3622)"
        id="g3892"
-       style="opacity:0.4">
+       style="opacity:1.0">
       <rect
          ry="1.9052078"
          rx="1.9999999"
@@ -195,10 +195,10 @@
          height="4.0000172"
          width="28"
          id="rect2989"
-         style="fill:#745100;fill-opacity:1;stroke:none" />
+         style="fill:#c79a18;fill-opacity:1;stroke:none" />
       <rect
          transform="matrix(0,1,-1,0,0,0)"
-         style="fill:#745100;fill-opacity:1;stroke:none"
+         style="fill:#c79a18;fill-opacity:1;stroke:none"
          id="rect2991-6"
          width="12.000017"
          height="3.999999"
@@ -214,14 +214,14 @@
          height="4"
          width="12.000017"
          id="rect2993"
-         style="fill:#745100;fill-opacity:1;stroke:none"
+         style="fill:#c79a18;fill-opacity:1;stroke:none"
          transform="matrix(0,1,-1,0,0,0)" />
       <path
          sodipodi:nodetypes="ccccccc"
          inkscape:connector-curvature="0"
          id="path2997-6"
          d="m 34,1031.3622 c -2,2 -2,2 -4,0 l -4,-4 c -2,-2 -2,-2 0,-2 l 11.999999,0 c 2,0 2,0 0,2 z"
-         style="fill:#745100;fill-opacity:1;stroke:none" />
+         style="fill:#c79a18;fill-opacity:1;stroke:none" />
       <rect
          ry="2"
          rx="2"
@@ -230,7 +230,7 @@
          height="16"
          width="4"
          id="rect2995"
-         style="fill:#745100;fill-opacity:1;stroke:none" />
+         style="fill:#c79a18;fill-opacity:1;stroke:none" />
     </g>
   </g>
 </svg>

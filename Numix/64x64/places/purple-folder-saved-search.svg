@@ -141,7 +141,7 @@
        transform="translate(0,988.3622)" />
     <g
        id="g3874"
-       style="opacity:0.4">
+       style="opacity:1.0">
       <rect
          transform="matrix(0.70710678,0.70710678,-0.70710678,0.70710678,0,0)"
          ry="1.9999999"
@@ -151,12 +151,12 @@
          height="16"
          width="4"
          id="rect3055"
-         style="opacity:1;fill:#150b3d;fill-opacity:1;stroke:none" />
+         style="opacity:1;fill:#54398d;fill-opacity:1;stroke:none" />
       <path
          id="path3869"
          transform="translate(0,988.3622)"
          d="M 36 24 C 30.477153 24 26 28.477152 26 34 C 26 39.522848 30.477153 44 36 44 C 41.522847 44 46 39.522848 46 34 C 46 28.477152 41.522847 24 36 24 z M 36 27 C 39.865993 27 43 30.134007 43 34 C 43 37.865993 39.865993 41 36 41 C 32.134007 41 29 37.865993 29 34 C 29 30.134007 32.134007 27 36 27 z "
-         style="opacity:1;fill:#150b3d;fill-opacity:1;stroke:none" />
+         style="opacity:1;fill:#54398d;fill-opacity:1;stroke:none" />
     </g>
   </g>
 </svg>

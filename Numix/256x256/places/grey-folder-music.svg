@@ -448,7 +448,7 @@
        sodipodi:nodetypes="ccccccccscc" />
     <g
        id="g4064"
-       style="opacity:0.4"
+       style="opacity:1.0"
        transform="matrix(4,0,0,4,4,-3157.0866)">
       <path
          transform="matrix(2.1943902,0,0,2.2968937,37.971951,1015.3933)"
@@ -458,11 +458,11 @@
          sodipodi:cy="8.2585173"
          sodipodi:cx="-6.8228297"
          id="path3001"
-         style="fill:#212121;fill-opacity:1;stroke:none"
+         style="fill:#7f7f7f;fill-opacity:1;stroke:none"
          sodipodi:type="arc" />
       <path
          sodipodi:type="arc"
-         style="fill:#212121;fill-opacity:1;stroke:none"
+         style="fill:#7f7f7f;fill-opacity:1;stroke:none"
          id="path3003"
          sodipodi:cx="-6.8228297"
          sodipodi:cy="8.2585173"
@@ -478,9 +478,9 @@
          height="19.000017"
          width="4"
          id="rect3005"
-         style="fill:#212121;fill-opacity:1;stroke:none" />
+         style="fill:#7f7f7f;fill-opacity:1;stroke:none" />
       <rect
-         style="fill:#212121;fill-opacity:1;stroke:none"
+         style="fill:#7f7f7f;fill-opacity:1;stroke:none"
          id="rect3007"
          width="4"
          height="20.000017"
@@ -496,7 +496,7 @@
          height="8.0000172"
          width="20"
          id="rect3009"
-         style="fill:#212121;fill-opacity:1;stroke:none" />
+         style="fill:#7f7f7f;fill-opacity:1;stroke:none" />
     </g>
   </g>
 </svg>

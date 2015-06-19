@@ -155,7 +155,7 @@
        sodipodi:nodetypes="ccccccscssc" />
     <g
        id="g3838"
-       style="opacity:0.4"
+       style="opacity:1.0"
        transform="translate(18.607183,12.874895)">
       <rect
          ry="0.48639882"
@@ -165,10 +165,10 @@
          height="1.0000004"
          width="10"
          id="rect2989"
-         style="fill:#3c2f1b;fill-opacity:1;stroke:none" />
+         style="fill:#b17621;fill-opacity:1;stroke:none" />
       <rect
          transform="matrix(0,1,-1,0,0,0)"
-         style="fill:#3c2f1b;fill-opacity:1;stroke:none"
+         style="fill:#b17621;fill-opacity:1;stroke:none"
          id="rect2991-6"
          width="6.0000005"
          height="0.99999952"
@@ -184,14 +184,14 @@
          height="1"
          width="6.0000005"
          id="rect2993"
-         style="fill:#3c2f1b;fill-opacity:1;stroke:none"
+         style="fill:#b17621;fill-opacity:1;stroke:none"
          transform="matrix(0,1,-1,0,0,0)" />
       <path
          sodipodi:nodetypes="ccccccc"
          inkscape:connector-curvature="0"
          id="path2997-6"
          d="m -6.975604,1033.0136 c -0.6315789,0.6316 -0.6315789,0.6316 -1.2631578,0 l -1.8947372,-1.8947 c -0.631579,-0.6316 -0.631579,-0.6316 0,-0.6316 l 5.0526319,0 c 0.6315789,0 0.6315789,0 0,0.6316 z"
-         style="fill:#3c2f1b;fill-opacity:1;stroke:none" />
+         style="fill:#b17621;fill-opacity:1;stroke:none" />
       <rect
          ry="1"
          rx="1.0000002"
@@ -200,7 +200,7 @@
          height="6.9999995"
          width="2.0000005"
          id="rect2995"
-         style="fill:#3c2f1b;fill-opacity:1;stroke:none" />
+         style="fill:#b17621;fill-opacity:1;stroke:none" />
     </g>
   </g>
 </svg>

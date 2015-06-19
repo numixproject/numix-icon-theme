@@ -633,7 +633,7 @@
     <g
        transform="matrix(4,0,0,4,0,-3157.0866)"
        id="g3874"
-       style="opacity:0.4">
+       style="opacity:1.0">
       <rect
          transform="matrix(0.70710678,0.70710678,-0.70710678,0.70710678,0,0)"
          ry="1.9999999"
@@ -643,13 +643,13 @@
          height="16"
          width="4"
          id="rect3055"
-         style="fill:#3c2f1b;fill-opacity:1;stroke:none" />
+         style="fill:#b17621;fill-opacity:1;stroke:none" />
       <path
          inkscape:connector-curvature="0"
          id="path3869"
          transform="translate(0,988.3622)"
          d="m 36,24 c -5.522847,0 -10,4.477152 -10,10 0,5.522848 4.477153,10 10,10 5.522847,0 10,-4.477152 10,-10 0,-5.522848 -4.477153,-10 -10,-10 z m 0,3 c 3.865993,0 7,3.134007 7,7 0,3.865993 -3.134007,7 -7,7 -3.865993,0 -7,-3.134007 -7,-7 0,-3.865993 3.134007,-7 7,-7 z"
-         style="fill:#3c2f1b;fill-opacity:1;stroke:none" />
+         style="fill:#b17621;fill-opacity:1;stroke:none" />
     </g>
   </g>
 </svg>
