@@ -12,7 +12,7 @@
    height="16"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
+   inkscape:version="0.91 r"
    sodipodi:docname="user-available.svg">
   <metadata
      id="metadata18">
@@ -22,7 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -51,22 +51,7 @@
        id="grid2995" />
   </sodipodi:namedview>
   <defs
-     id="defs4">
-    <clipPath
-       id="clipPath6">
-      <rect
-         width="16"
-         height="16"
-         id="rect8" />
-    </clipPath>
-    <clipPath
-       id="clipPath3782">
-      <rect
-         id="rect3784"
-         height="16"
-         width="16" />
-    </clipPath>
-  </defs>
+     id="defs4" />
   <path
      style="fill:#4cd278;fill-opacity:1;stroke:none"
      d="M 8,0 C 3.581722,0 0,3.1340067 0,7 c 0,3.865993 3.581722,7 8,7 4.418278,0 8,-3.134007 8,-7 C 16,3.1340067 12.418278,0 8,0 z m 2.875,3 c 0.401883,-0.010736 0.809104,0.2064933 1,0.53125 0.190893,0.324756 0.168587,0.7279647 -0.0625,1.03125 L 8.1875,9.59375 C 8.0091644,9.837988 7.7192845,9.97749 7.40625,10 7.0932155,10.022511 6.7573095,9.928096 6.53125,9.71875 l -2.1875,-2 C 3.9016782,7.3591024 3.893034,6.6650529 4.3125,6.28125 4.7319661,5.8974471 5.4856752,5.9018574 5.875,6.3125 L 7.125,7.4375 10,3.46875 C 10.190895,3.1976727 10.523352,3.010735 10.875,3 z"

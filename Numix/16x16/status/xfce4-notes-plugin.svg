@@ -5,7 +5,6 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="16"
@@ -23,7 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -52,45 +51,7 @@
        id="grid2990" />
   </sodipodi:namedview>
   <defs
-     id="defs4">
-    <linearGradient
-       x2="0"
-       gradientUnits="userSpaceOnUse"
-       y2="268.32999"
-       y1="279.09601"
-       id="linearGradient3015"
-       xlink:href="#linearGradient4460"
-       gradientTransform="matrix(1.10525,0,0,1.10525,-134.27874,-295.76183)" />
-    <linearGradient
-       id="linearGradient4460">
-      <stop
-         id="stop7"
-         style="stop-color:#ffce7b;stop-opacity:1;"
-         offset="0" />
-      <stop
-         id="stop9"
-         style="stop-color:#ffce7b;stop-opacity:1;"
-         offset="1" />
-    </linearGradient>
-    <linearGradient
-       x2="0"
-       gradientUnits="userSpaceOnUse"
-       y2="3"
-       y1="16"
-       id="linearGradient3789"
-       xlink:href="#linearGradient3776" />
-    <linearGradient
-       id="linearGradient3776">
-      <stop
-         id="stop3826"
-         style="stop-color:#e2a209"
-         offset="0" />
-      <stop
-         id="stop3828"
-         style="stop-color:#f0b70b"
-         offset="1" />
-    </linearGradient>
-  </defs>
+     id="defs4" />
   <path
      style="fill:#ececec;fill-opacity:1;fill-rule:evenodd"
      id="path3845"

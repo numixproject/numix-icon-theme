@@ -21,7 +21,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -64,36 +64,6 @@
          style="font-weight:500;font-size:12px;font-family:Ubuntu;text-anchor:middle;fill:#000000"
          id="text9">My</text>
     </mask>
-    <clipPath
-       id="clipPath14">
-      <rect
-         id="rect16"
-         x="26.999001"
-         y="221.5"
-         width="1.876"
-         height="4.8740001"
-         style="color:#bebebe;fill:#bebebe" />
-    </clipPath>
-    <clipPath
-       id="clipPath10">
-      <rect
-         id="rect12"
-         x="26.966"
-         y="221.33"
-         width="2.898"
-         height="5.2160001"
-         style="color:#bebebe;fill:#bebebe" />
-    </clipPath>
-    <clipPath
-       id="clipPath6">
-      <rect
-         id="rect8"
-         x="26.85"
-         y="220.75"
-         width="3.825"
-         height="6.375"
-         style="color:#bebebe;fill:#bebebe" />
-    </clipPath>
   </defs>
   <rect
      id="rect3857"

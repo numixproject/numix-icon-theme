@@ -12,7 +12,7 @@
    height="24"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
+   inkscape:version="0.91 r"
    sodipodi:docname="user-invisible.svg">
   <metadata
      id="metadata18">
@@ -51,17 +51,7 @@
        id="grid3029" />
   </sodipodi:namedview>
   <defs
-     id="defs4">
-    <clipPath
-       id="clipPath6">
-      <rect
-         width="16"
-         x="0"
-         y="0"
-         height="16"
-         id="rect8" />
-    </clipPath>
-  </defs>
+     id="defs4" />
   <path
      style="fill:#353535;fill-opacity:1;stroke:none"
      d="m 12,4 c -4.418278,0 -8,3.1340067 -8,7 0,3.865993 3.581722,7 8,7 4.418278,0 8,-3.134007 8,-7 0,-3.8659933 -3.581722,-7 -8,-7 z"

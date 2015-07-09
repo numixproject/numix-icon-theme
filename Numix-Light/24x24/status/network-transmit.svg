@@ -52,55 +52,7 @@
        id="grid3055" />
   </sodipodi:namedview>
   <defs
-     id="defs3011">
-    <clipPath
-       id="clip1">
-      <rect
-         width="24"
-         height="24"
-         id="rect3014" />
-    </clipPath>
-    <filter
-       width="100%"
-       x="0"
-       y="0"
-       height="100%"
-       filterUnits="objectBoundingBox"
-       id="alpha">
-      <feColorMatrix
-         values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"
-         in="SourceGraphic"
-         type="matrix"
-         id="feColorMatrix3017" />
-    </filter>
-    <g
-       style="clip-path:url(#clip1)"
-       id="surface6"
-       clip-path="url(#clip1)">
-      <path
-         style="fill:#000;fill-rule:evenodd;fill-opacity:.302"
-         d="M 21.816406 17.453125 L 16.363281 22.910156 L 10.910156 17.453125 L 14.183594 17.453125 L 14.183594 9.816406 L 18.546875 9.816406 L 18.546875 17.453125 Z "
-         id="path3020" />
-      <path
-         style="fill:#dcdcdc;fill-rule:evenodd"
-         d="M 21.816406 16.363281 L 16.363281 21.816406 L 10.910156 16.363281 L 14.183594 16.363281 L 14.183594 8.726562 L 18.546875 8.726562 L 18.546875 16.363281 Z "
-         id="path3022" />
-    </g>
-    <mask
-       id="mask0">
-      <g
-         style="filter:url(#alpha)"
-         id="g3025">
-        <rect
-           width="24"
-           x="0"
-           y="0"
-           height="24"
-           style="fill:#000;fill-opacity:.4"
-           id="rect3027" />
-      </g>
-    </mask>
-  </defs>
+     id="defs3011" />
   <path
      sodipodi:nodetypes="cccccccc"
      inkscape:connector-curvature="0"

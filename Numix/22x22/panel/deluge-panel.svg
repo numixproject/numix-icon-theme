@@ -12,8 +12,8 @@
    height="22"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
-   sodipodi:docname="deluge.svg">
+   inkscape:version="0.91 r"
+   sodipodi:docname="deluge-panel.svg">
   <metadata
      id="metadata12">
     <rdf:RDF>
@@ -49,7 +49,7 @@
      inkscape:current-layer="svg2" />
   <path
      d="M 3.0767997,0.84666666 C 2.572661,1.5524022 0.85980785,3.5426194 1.5893829,4.6929199 c 0.5645431,0.890107 2.4834608,0.8946966 3.0414958,0 C 5.3567127,3.529187 3.5059422,1.5524022 3.0767997,0.84666666 z"
-     fill="#dcdcdc"
+     fill="#ececec"
      id="path6"
      style="fill:#ececec;fill-opacity:1" />
 </svg>

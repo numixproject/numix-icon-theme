@@ -12,8 +12,8 @@
    viewBox="0 0 16 16"
    id="svg3003"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
-   sodipodi:docname="indicator-messages-new.svg">
+   inkscape:version="0.91 r"
+   sodipodi:docname="new-messages.svg">
   <metadata
      id="metadata3027">
     <rdf:RDF>
@@ -50,51 +50,7 @@
        id="grid3029" />
   </sodipodi:namedview>
   <defs
-     id="defs3005">
-    <clipPath
-       id="clip1">
-      <rect
-         width="16"
-         height="16"
-         id="rect3008" />
-    </clipPath>
-    <filter
-       width="100%"
-       x="0"
-       y="0"
-       height="100%"
-       filterUnits="objectBoundingBox"
-       id="alpha">
-      <feColorMatrix
-         values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"
-         in="SourceGraphic"
-         type="matrix"
-         id="feColorMatrix3011" />
-    </filter>
-    <g
-       style="clip-path:url(#clip1)"
-       id="surface6"
-       clip-path="url(#clip1)">
-      <path
-         style="fill:#000"
-         d="M 2.476562 4.226562 C 2.582031 4.257812 2.675781 4.3125 2.757812 4.378906 L 8 8.113281 L 13.242188 4.378906 C 13.339844 4.304688 13.453125 4.253906 13.574219 4.226562 Z M 14.546875 5.148438 C 14.515625 5.371094 14.398438 5.574219 14.214844 5.710938 L 8.484375 9.800781 C 8.195312 10.015625 7.804688 10.015625 7.515625 9.800781 L 1.785156 5.710938 C 1.628906 5.605469 1.511719 5.453125 1.453125 5.273438 L 1.453125 12.410156 C 1.453125 12.835938 1.84375 13.226562 2.273438 13.226562 L 13.726562 13.226562 C 14.15625 13.226562 14.546875 12.835938 14.546875 12.410156 Z "
-         id="path3014" />
-    </g>
-    <mask
-       id="mask0">
-      <g
-         style="filter:url(#alpha)"
-         id="g3017">
-        <rect
-           width="16"
-           x="0"
-           y="0"
-           height="16"
-           style="fill:#000;fill-opacity:.302"
-           id="rect3019" />
-      </g>
-    </mask>
-  </defs>
+     id="defs3005" />
   <path
      style="fill:#54cdee;fill-opacity:1"
      inkscape:connector-curvature="0"

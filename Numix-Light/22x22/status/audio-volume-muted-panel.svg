@@ -12,8 +12,8 @@
    height="22"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
-   sodipodi:docname="audio-volume-muted-panel.svg">
+   inkscape:version="0.91 r"
+   sodipodi:docname="xfce4-mixer-volume-muted.svg">
   <metadata
      id="metadata46">
     <rdf:RDF>
@@ -51,74 +51,7 @@
        id="grid3023" />
   </sodipodi:namedview>
   <defs
-     id="defs4">
-    <clipPath
-       id="clipPath6">
-      <rect
-         height="6.375"
-         width="3.825"
-         y="220.75"
-         x="26.85"
-         fill="#bebebe"
-         color="#bebebe"
-         id="rect8" />
-    </clipPath>
-    <clipPath
-       id="clipPath10">
-      <rect
-         height="5.216"
-         width="2.898"
-         y="221.33"
-         x="26.966"
-         fill="#bebebe"
-         color="#bebebe"
-         id="rect12" />
-    </clipPath>
-    <clipPath
-       id="clipPath14">
-      <rect
-         height="4.874"
-         width="1.876"
-         y="221.5"
-         x="26.999"
-         fill="#bebebe"
-         color="#bebebe"
-         id="rect16" />
-    </clipPath>
-    <clipPath
-       id="clipPath3077">
-      <rect
-         id="rect3079"
-         color="#bebebe"
-         fill="#bebebe"
-         x="26.999"
-         y="221.5"
-         width="1.876"
-         height="4.874" />
-    </clipPath>
-    <clipPath
-       id="clipPath3073">
-      <rect
-         id="rect3075"
-         color="#bebebe"
-         fill="#bebebe"
-         x="26.966"
-         y="221.33"
-         width="2.898"
-         height="5.216" />
-    </clipPath>
-    <clipPath
-       id="clipPath3069">
-      <rect
-         id="rect3071"
-         color="#bebebe"
-         fill="#bebebe"
-         x="26.85"
-         y="220.75"
-         width="3.825"
-         height="6.375" />
-    </clipPath>
-  </defs>
+     id="defs4" />
   <g
      id="g38"
      style="fill:#353535;fill-opacity:1">

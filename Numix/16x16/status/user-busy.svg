@@ -12,7 +12,7 @@
    height="16"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
+   inkscape:version="0.91 r"
    sodipodi:docname="user-busy.svg">
   <metadata
      id="metadata18">
@@ -50,15 +50,7 @@
        id="grid2995" />
   </sodipodi:namedview>
   <defs
-     id="defs4">
-    <clipPath
-       id="clipPath6">
-      <rect
-         width="16"
-         height="16"
-         id="rect8" />
-    </clipPath>
-  </defs>
+     id="defs4" />
   <path
      style="fill:#fa5451;fill-opacity:1;stroke:none"
      d="M 8 0 C 3.581722 5.9211895e-16 0 3.1340067 0 7 C 2.3684758e-15 10.865993 3.581722 14 8 14 C 12.418278 14 16 10.865993 16 7 C 16 3.1340067 12.418278 -1.7763568e-15 8 0 z M 4 6 L 12 6 C 12.554 6 13 6.446 13 7 C 13 7.554 12.554 8 12 8 L 4 8 C 3.446 8 3 7.554 3 7 C 3 6.446 3.446 6 4 6 z "

@@ -12,7 +12,7 @@
    viewBox="0 0 16 16"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
+   inkscape:version="0.91 r"
    sodipodi:docname="gsm-3g-medium.svg">
   <metadata
      id="metadata57">
@@ -46,89 +46,7 @@
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2" />
   <defs
-     id="defs4">
-    <clipPath
-       id="clip1">
-      <rect
-         width="16"
-         height="16"
-         id="rect7" />
-    </clipPath>
-    <clipPath
-       id="clip2">
-      <rect
-         width="16"
-         height="16"
-         id="rect10" />
-    </clipPath>
-    <filter
-       width="100%"
-       x="0"
-       y="0"
-       height="100%"
-       filterUnits="objectBoundingBox"
-       id="alpha">
-      <feColorMatrix
-         values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"
-         in="SourceGraphic"
-         type="matrix"
-         id="feColorMatrix13" />
-    </filter>
-    <g
-       style="clip-path:url(#clip1)"
-       id="surface6"
-       clip-path="url(#clip1)">
-      <path
-         style="fill:#000;fill-opacity:.302"
-         d="M 13.820312 2.910156 C 13.414062 2.910156 13.089844 3.234375 13.089844 3.636719 L 13.089844 13.816406 C 13.089844 14.222656 13.414062 14.546875 13.820312 14.546875 C 14.222656 14.546875 14.546875 14.222656 14.546875 13.816406 L 14.546875 3.636719 C 14.546875 3.234375 14.222656 2.910156 13.820312 2.910156 Z "
-         id="path16" />
-      <path
-         style="fill:#dcdcdc"
-         d="M 13.820312 2.183594 C 14.21875 2.183594 14.546875 2.507812 14.546875 2.910156 L 14.546875 13.089844 C 14.546875 13.492188 14.21875 13.816406 13.820312 13.816406 C 13.417969 13.816406 13.089844 13.492188 13.089844 13.089844 L 13.089844 2.910156 C 13.089844 2.507812 13.417969 2.183594 13.820312 2.183594 Z "
-         id="path18" />
-    </g>
-    <g
-       style="clip-path:url(#clip2)"
-       id="surface9"
-       clip-path="url(#clip2)">
-      <path
-         style="fill:#000;fill-opacity:.302"
-         d="M 10.910156 6.546875 C 10.507812 6.546875 10.183594 6.871094 10.183594 7.273438 L 10.183594 13.816406 C 10.183594 14.222656 10.507812 14.546875 10.910156 14.546875 C 11.3125 14.546875 11.636719 14.222656 11.636719 13.816406 L 11.636719 7.273438 C 11.636719 6.871094 11.3125 6.546875 10.910156 6.546875 Z "
-         id="path21" />
-      <path
-         style="fill:#dcdcdc"
-         d="M 10.910156 5.816406 C 11.3125 5.816406 11.636719 6.144531 11.636719 6.546875 L 11.636719 13.089844 C 11.636719 13.492188 11.3125 13.816406 10.910156 13.816406 C 10.507812 13.816406 10.183594 13.492188 10.183594 13.089844 L 10.183594 6.546875 C 10.183594 6.144531 10.507812 5.816406 10.910156 5.816406 Z "
-         id="path23" />
-    </g>
-    <mask
-       id="mask0">
-      <g
-         style="filter:url(#alpha)"
-         id="g26">
-        <rect
-           width="16"
-           x="0"
-           y="0"
-           height="16"
-           style="fill:#000;fill-opacity:.4"
-           id="rect28" />
-      </g>
-    </mask>
-    <mask
-       id="mask1">
-      <g
-         style="filter:url(#alpha)"
-         id="g31">
-        <rect
-           width="16"
-           x="0"
-           y="0"
-           height="16"
-           style="fill:#000;fill-opacity:.4"
-           id="rect33" />
-      </g>
-    </mask>
-  </defs>
+     id="defs4" />
   <path
      inkscape:connector-curvature="0"
      style="fill:#353535;fill-opacity:1"

@@ -5,7 +5,6 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="24"
@@ -23,7 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -48,61 +47,7 @@
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2" />
   <defs
-     id="defs4">
-    <linearGradient
-       id="linearGradient3942-9">
-      <stop
-         style="stop-color:#ff6f00;stop-opacity:1;"
-         offset="0"
-         id="stop3944-9" />
-      <stop
-         style="stop-color:#ff6f0b;stop-opacity:1;"
-         offset="1"
-         id="stop3946-1" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3942-9"
-       id="linearGradient3179"
-       gradientUnits="userSpaceOnUse"
-       x1="3.2746246"
-       y1="289.64856"
-       x2="10.261669"
-       y2="289.64856" />
-    <linearGradient
-       id="linearGradient3196">
-      <stop
-         style="stop-color:#ff6f00;stop-opacity:1;"
-         offset="0"
-         id="stop3198" />
-      <stop
-         style="stop-color:#ff6f0b;stop-opacity:1;"
-         offset="1"
-         id="stop3200" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient3203">
-      <stop
-         style="stop-color:#ff6f00;stop-opacity:1;"
-         offset="0"
-         id="stop3205" />
-      <stop
-         style="stop-color:#ff6f0b;stop-opacity:1;"
-         offset="1"
-         id="stop3207" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient3210">
-      <stop
-         style="stop-color:#ff6f00;stop-opacity:1;"
-         offset="0"
-         id="stop3212" />
-      <stop
-         style="stop-color:#ff6f0b;stop-opacity:1;"
-         offset="1"
-         id="stop3214" />
-    </linearGradient>
-  </defs>
+     id="defs4" />
   <g
      id="g3921"
      style="fill:#353535;fill-opacity:1"

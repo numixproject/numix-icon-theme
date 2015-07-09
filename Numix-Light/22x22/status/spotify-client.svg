@@ -5,7 +5,6 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="22"
@@ -13,8 +12,8 @@
    height="22"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
-   sodipodi:docname="spotify-client.svg">
+   inkscape:version="0.91 r"
+   sodipodi:docname="spotify-indicator.svg">
   <metadata
      id="metadata53">
     <rdf:RDF>
@@ -47,51 +46,7 @@
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2" />
   <defs
-     id="defs4">
-    <clipPath
-       id="clipPath198"
-       clipPathUnits="userSpaceOnUse">
-      <path
-         d="m 3213.98,3344.37 c -15.44,0 -31.06,4.19 -45.1,12.98 -226.76,141.73 -488.58,216.65 -757.12,216.65 -149.2,0 -296.38,-22.94 -437.44,-68.2 -44.84,-14.35 -92.86,10.31 -107.25,55.16 -14.38,44.83 10.32,92.85 55.16,107.24 157.92,50.65 322.63,76.35 489.53,76.35 300.53,0 593.59,-83.89 847.49,-242.58 39.95,-24.97 52.07,-77.57 27.12,-117.51 -16.17,-25.86 -43.97,-40.09 -72.39,-40.09 z"
-         id="path7"
-         inkscape:connector-curvature="0" />
-    </clipPath>
-    <clipPath
-       id="clipPath182"
-       clipPathUnits="userSpaceOnUse">
-      <path
-         d="m 3369.85,3687.72 c -16.29,0 -32.8,4.21 -47.88,13.08 -274.98,161.5 -589.72,246.88 -910.21,246.88 -173.15,0 -344.61,-24.65 -509.62,-73.28 -50.25,-14.79 -102.87,13.93 -117.67,64.11 -14.77,50.2 13.93,102.88 64.12,117.66 182.42,53.74 371.89,80.99 563.17,80.99 354.19,0 702.15,-94.39 1006.18,-272.98 45.13,-26.5 60.22,-84.55 33.72,-129.68 -17.66,-30.05 -49.31,-46.78 -81.81,-46.78 z"
-         id="path10"
-         inkscape:connector-curvature="0" />
-    </clipPath>
-    <clipPath
-       id="clipPath214"
-       clipPathUnits="userSpaceOnUse">
-      <path
-         d="m 3058.65,3002.27 c -14.89,0 -29.94,4.4 -43.13,13.52 -178.01,123.45 -386.8,188.7 -603.76,188.7 -125.5,0 -248.31,-21.67 -365,-64.43 -39.31,-14.41 -82.83,5.8 -97.24,45.1 -14.4,39.32 5.78,82.85 45.1,97.25 133.45,48.9 273.8,73.67 417.14,73.67 247.98,0 486.64,-74.6 690.13,-215.72 34.42,-23.85 42.95,-71.06 19.12,-105.45 -14.73,-21.23 -38.35,-32.64 -62.36,-32.64 z"
-         id="path13"
-         inkscape:connector-curvature="0" />
-    </clipPath>
-    <linearGradient
-       id="linearGradient4460">
-      <stop
-         offset="0"
-         style="stop-color:#82b206"
-         id="stop16" />
-      <stop
-         offset="1"
-         style="stop-color:#b3d500"
-         id="stop18" />
-    </linearGradient>
-    <linearGradient
-       gradientTransform="matrix(1.09524,0,0,1.09524,-133.00183,-9.56867)"
-       xlink:href="#linearGradient4460"
-       id="linearGradient4500"
-       y1="279.09601"
-       y2="268.32999"
-       gradientUnits="userSpaceOnUse"
-       x2="0" />
-  </defs>
+     id="defs4" />
   <path
      inkscape:connector-curvature="0"
      style="fill:#353535;fill-opacity:1;fill-rule:evenodd"

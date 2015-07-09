@@ -12,7 +12,7 @@
    viewBox="0 0 16 16"
    id="svg3009"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
+   inkscape:version="0.91 r"
    sodipodi:docname="network-transmit.svg">
   <metadata
      id="metadata3039">
@@ -50,55 +50,7 @@
        id="grid3053" />
   </sodipodi:namedview>
   <defs
-     id="defs3011">
-    <clipPath
-       id="clip1">
-      <rect
-         width="16"
-         height="16"
-         id="rect3014" />
-    </clipPath>
-    <filter
-       width="100%"
-       x="0"
-       y="0"
-       height="100%"
-       filterUnits="objectBoundingBox"
-       id="alpha">
-      <feColorMatrix
-         values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"
-         in="SourceGraphic"
-         type="matrix"
-         id="feColorMatrix3017" />
-    </filter>
-    <g
-       style="clip-path:url(#clip1)"
-       id="surface6"
-       clip-path="url(#clip1)">
-      <path
-         style="fill:#000;fill-rule:evenodd;fill-opacity:.302"
-         d="M 14.546875 11.636719 L 10.910156 15.273438 L 7.273438 11.636719 L 9.453125 11.636719 L 9.453125 6.546875 L 12.363281 6.546875 L 12.363281 11.636719 Z "
-         id="path3020" />
-      <path
-         style="fill:#dcdcdc;fill-rule:evenodd"
-         d="M 14.546875 10.910156 L 10.910156 14.546875 L 7.273438 10.910156 L 9.453125 10.910156 L 9.453125 5.816406 L 12.363281 5.816406 L 12.363281 10.910156 Z "
-         id="path3022" />
-    </g>
-    <mask
-       id="mask0">
-      <g
-         style="filter:url(#alpha)"
-         id="g3025">
-        <rect
-           width="16"
-           x="0"
-           y="0"
-           height="16"
-           style="fill:#000;fill-opacity:.4"
-           id="rect3027" />
-      </g>
-    </mask>
-  </defs>
+     id="defs3011" />
   <path
      sodipodi:nodetypes="cccccccc"
      inkscape:connector-curvature="0"

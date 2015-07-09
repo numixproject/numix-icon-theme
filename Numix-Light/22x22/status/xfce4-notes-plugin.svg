@@ -5,7 +5,6 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="22"
@@ -13,7 +12,7 @@
    height="22"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
+   inkscape:version="0.91 r"
    sodipodi:docname="xfce4-notes-plugin.svg">
   <metadata
      id="metadata12">
@@ -52,45 +51,7 @@
        id="grid2990" />
   </sodipodi:namedview>
   <defs
-     id="defs4">
-    <linearGradient
-       x2="0"
-       gradientUnits="userSpaceOnUse"
-       y2="268.33"
-       y1="279.096"
-       id="linearGradient3015"
-       xlink:href="#linearGradient4460"
-       gradientTransform="matrix(1.10525,0,0,1.10525,-134.27874,-295.76183)" />
-    <linearGradient
-       id="linearGradient4460">
-      <stop
-         id="stop7"
-         style="stop-color:#ffce7b;stop-opacity:1;"
-         offset="0" />
-      <stop
-         id="stop9"
-         style="stop-color:#ffce7b;stop-opacity:1;"
-         offset="1" />
-    </linearGradient>
-    <linearGradient
-       x2="0"
-       gradientUnits="userSpaceOnUse"
-       y2="3"
-       y1="16"
-       id="linearGradient3789"
-       xlink:href="#linearGradient3776" />
-    <linearGradient
-       id="linearGradient3776">
-      <stop
-         id="stop3826"
-         style="stop-color:#e2a209"
-         offset="0" />
-      <stop
-         id="stop3828"
-         style="stop-color:#f0b70b"
-         offset="1" />
-    </linearGradient>
-  </defs>
+     id="defs4" />
   <g
      style="opacity:1;fill:#353535;fill-rule:evenodd;fill-opacity:1"
      transform="matrix(3.1213876,0,0,2.8346479,-7.5176213,-21.409538)"

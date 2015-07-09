@@ -12,7 +12,7 @@
    viewBox="0 0 16 16"
    id="svg3003"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
+   inkscape:version="0.91 r"
    sodipodi:docname="gsm-3g-high.svg">
   <metadata
      id="metadata3047">
@@ -46,55 +46,7 @@
      inkscape:window-maximized="1"
      inkscape:current-layer="svg3003" />
   <defs
-     id="defs3005">
-    <clipPath
-       id="clip1">
-      <rect
-         width="16"
-         height="16"
-         id="rect3008" />
-    </clipPath>
-    <filter
-       width="100%"
-       x="0"
-       y="0"
-       height="100%"
-       filterUnits="objectBoundingBox"
-       id="alpha">
-      <feColorMatrix
-         values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"
-         in="SourceGraphic"
-         type="matrix"
-         id="feColorMatrix3011" />
-    </filter>
-    <g
-       style="clip-path:url(#clip1)"
-       id="surface6"
-       clip-path="url(#clip1)">
-      <path
-         style="fill:#000;fill-opacity:.302"
-         d="M 13.820312 2.910156 C 13.414062 2.910156 13.089844 3.234375 13.089844 3.636719 L 13.089844 13.816406 C 13.089844 14.222656 13.414062 14.546875 13.820312 14.546875 C 14.222656 14.546875 14.546875 14.222656 14.546875 13.816406 L 14.546875 3.636719 C 14.546875 3.234375 14.222656 2.910156 13.820312 2.910156 Z "
-         id="path3014" />
-      <path
-         style="fill:#dcdcdc"
-         d="M 13.820312 2.183594 C 14.21875 2.183594 14.546875 2.507812 14.546875 2.910156 L 14.546875 13.089844 C 14.546875 13.492188 14.21875 13.816406 13.820312 13.816406 C 13.417969 13.816406 13.089844 13.492188 13.089844 13.089844 L 13.089844 2.910156 C 13.089844 2.507812 13.417969 2.183594 13.820312 2.183594 Z "
-         id="path3016" />
-    </g>
-    <mask
-       id="mask0">
-      <g
-         style="filter:url(#alpha)"
-         id="g3019">
-        <rect
-           width="16"
-           x="0"
-           y="0"
-           height="16"
-           style="fill:#000;fill-opacity:.4"
-           id="rect3021" />
-      </g>
-    </mask>
-  </defs>
+     id="defs3005" />
   <path
      inkscape:connector-curvature="0"
      style="fill:#353535;fill-opacity:1"
