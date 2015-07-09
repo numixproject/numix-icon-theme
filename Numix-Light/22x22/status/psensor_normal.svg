@@ -5,7 +5,6 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="22"
@@ -13,8 +12,8 @@
    height="22"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
-   sodipodi:docname="psensor.svg">
+   inkscape:version="0.91 r"
+   sodipodi:docname="renamed-psensor.svg">
   <metadata
      id="metadata12">
     <rdf:RDF>
@@ -52,33 +51,7 @@
        id="grid3783" />
   </sodipodi:namedview>
   <defs
-     id="defs4">
-    <linearGradient
-       y2="268.33"
-       y1="279.096"
-       gradientTransform="matrix(1.09524,0,0,1.09524,-133.00183,-293.02198)"
-       x2="0"
-       gradientUnits="userSpaceOnUse"
-       id="linearGradient3846">
-      <stop
-         id="stop9"
-         offset="0"
-         stop-color="#353535" />
-      <stop
-         id="stop11"
-         offset="1"
-         stop-color="#f8f8f8" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3846"
-       id="linearGradient3012"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.09524,0,0,1.09524,-122.93044,-296.61781)"
-       y1="279.096"
-       x2="0"
-       y2="268.33" />
-  </defs>
+     id="defs4" />
   <path
      inkscape:connector-curvature="0"
      style="fill:#353535;fill-opacity:1;stroke:none"
