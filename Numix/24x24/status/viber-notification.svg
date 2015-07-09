@@ -14,7 +14,7 @@
    width="24"
    version="1.0"
    inkscape:version="0.91 r"
-   sodipodi:docname="viber-normal.svg">
+   sodipodi:docname="viber-notification.svg">
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -47,7 +47,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>

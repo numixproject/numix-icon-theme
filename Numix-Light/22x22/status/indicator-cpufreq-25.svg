@@ -12,7 +12,7 @@
    height="22"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
+   inkscape:version="0.91 r"
    sodipodi:docname="indicator-cpufreq-25.svg">
   <metadata
      id="metadata14">
@@ -26,21 +26,7 @@
     </rdf:RDF>
   </metadata>
   <defs
-     id="defs12">
-    <clipPath
-       id="clipPath-272651492">
-      <g
-         transform="translate(0,-1004.3622)"
-         id="g17">
-        <path
-           style="fill:#1890d0"
-           inkscape:connector-curvature="0"
-           d="m -24,13 c 0,1.105 -0.672,2 -1.5,2 -0.828,0 -1.5,-0.895 -1.5,-2 0,-1.105 0.672,-2 1.5,-2 0.828,0 1.5,0.895 1.5,2 z"
-           transform="matrix(15.333333,0,0,11.5,414.99999,878.8622)"
-           id="path19" />
-      </g>
-    </clipPath>
-  </defs>
+     id="defs12" />
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"

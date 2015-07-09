@@ -12,8 +12,8 @@
    height="22"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
-   sodipodi:docname="audio-volume-high-panel.svg">
+   inkscape:version="0.91 r"
+   sodipodi:docname="stock_volume.svg">
   <metadata
      id="metadata46">
     <rdf:RDF>
@@ -50,41 +50,7 @@
        id="grid3023" />
   </sodipodi:namedview>
   <defs
-     id="defs4">
-    <clipPath
-       id="clipPath6">
-      <rect
-         height="6.375"
-         width="3.825"
-         y="220.75"
-         x="26.85"
-         fill="#bebebe"
-         color="#bebebe"
-         id="rect8" />
-    </clipPath>
-    <clipPath
-       id="clipPath10">
-      <rect
-         height="5.216"
-         width="2.898"
-         y="221.33"
-         x="26.966"
-         fill="#bebebe"
-         color="#bebebe"
-         id="rect12" />
-    </clipPath>
-    <clipPath
-       id="clipPath14">
-      <rect
-         height="4.874"
-         width="1.876"
-         y="221.5"
-         x="26.999"
-         fill="#bebebe"
-         color="#bebebe"
-         id="rect16" />
-    </clipPath>
-  </defs>
+     id="defs4" />
   <path
      style="color:#000000;fill:#353535;fill-opacity:1"
      inkscape:connector-curvature="0"

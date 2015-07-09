@@ -11,7 +11,7 @@
    version="1.1"
    height="24"
    id="svg2"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.91 r"
    sodipodi:docname="indicator-keyboard-Bs-5.svg">
   <metadata
      id="metadata15">
@@ -57,46 +57,22 @@
          height="22"
          width="22"
          id="rect7" />
-      <text y="15.5" x="13" style="text-anchor:middle;font-size:12;font-family:Ubuntu;font-weight:500;fill:black" id="text9">
-         <tspan>
+      <text
+         y="15.5"
+         x="13"
+         style="text-anchor:middle;font-size:12;font-family:Ubuntu;font-weight:500;fill:black"
+         id="text9">
+        <tspan
+           id="tspan3599">
             Bs
-            <tspan style="text-anchor:middle;font-size:8" dy="3" dx="-3.2">5</tspan>
-         </tspan>
+            <tspan
+   style="text-anchor:middle;font-size:8"
+   dy="3"
+   dx="-3.2"
+   id="tspan3601">5</tspan>
+</tspan>
       </text>
     </mask>
-    <clipPath
-       id="clipPath14">
-      <rect
-         id="rect16"
-         color="#bebebe"
-         fill="#bebebe"
-         x="26.999"
-         y="221.5"
-         width="1.876"
-         height="4.874" />
-    </clipPath>
-    <clipPath
-       id="clipPath10">
-      <rect
-         id="rect12"
-         color="#bebebe"
-         fill="#bebebe"
-         x="26.966"
-         y="221.33"
-         width="2.898"
-         height="5.216" />
-    </clipPath>
-    <clipPath
-       id="clipPath6">
-      <rect
-         id="rect8"
-         color="#bebebe"
-         fill="#bebebe"
-         x="26.85"
-         y="220.75"
-         width="3.825"
-         height="6.375" />
-    </clipPath>
   </defs>
   <rect
      id="rect3857"

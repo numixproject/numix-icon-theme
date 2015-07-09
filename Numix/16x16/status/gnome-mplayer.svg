@@ -5,7 +5,6 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="16"
@@ -23,7 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -48,49 +47,7 @@
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2" />
   <defs
-     id="defs4">
-    <linearGradient
-       id="linearGradient4460">
-      <stop
-         offset="0"
-         style="stop-color:#f0f0f0"
-         id="stop7" />
-      <stop
-         offset="1"
-         style="stop-color:#f4f4f4"
-         id="stop9" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient3824">
-      <stop
-         offset="0"
-         style="stop-color:#2a94c8"
-         id="stop12" />
-      <stop
-         offset=".519"
-         style="stop-color:#e35472"
-         id="stop14" />
-      <stop
-         offset="1"
-         style="stop-color:#e68031"
-         id="stop16" />
-    </linearGradient>
-    <linearGradient
-       gradientTransform="matrix(1.09524,0,0,1.09524,-133.00183,-293.02198)"
-       xlink:href="#linearGradient4460"
-       id="linearGradient3835"
-       y1="279.09601"
-       y2="268.32999"
-       gradientUnits="userSpaceOnUse"
-       x2="0" />
-    <linearGradient
-       xlink:href="#linearGradient3824"
-       id="linearGradient3830"
-       x1="0.847"
-       x2="12.7"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.38095236,0,0,0.38095236,0.524127,0.52413018)" />
-  </defs>
+     id="defs4" />
   <g
      id="g4143"
      transform="matrix(0.72727,0,0,0.72727,8.3020474e-6,4.8911511e-6)">

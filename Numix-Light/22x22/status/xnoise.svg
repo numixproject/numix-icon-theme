@@ -5,7 +5,6 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="22"
@@ -13,7 +12,7 @@
    height="22"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
+   inkscape:version="0.91 r"
    sodipodi:docname="xnoise.svg">
   <metadata
      id="metadata26">
@@ -47,27 +46,7 @@
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2" />
   <defs
-     id="defs4">
-    <linearGradient
-       id="linearGradient4460">
-      <stop
-         offset="0"
-         style="stop-color:#ca77d4"
-         id="stop7" />
-      <stop
-         offset="1"
-         style="stop-color:#ec3252"
-         id="stop9" />
-    </linearGradient>
-    <linearGradient
-       gradientTransform="matrix(1.10525,0,0,1.10525,-134.27874,-309.3085)"
-       xlink:href="#linearGradient4460"
-       id="linearGradient3061"
-       y1="279.09601"
-       y2="268.32999"
-       gradientUnits="userSpaceOnUse"
-       x2="0" />
-  </defs>
+     id="defs4" />
   <path
      inkscape:connector-curvature="0"
      id="path22"

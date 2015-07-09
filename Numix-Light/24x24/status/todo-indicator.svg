@@ -7,7 +7,6 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.0"
@@ -24,7 +23,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -49,48 +48,7 @@
      inkscape:window-maximized="1"
      inkscape:current-layer="svg3212" />
   <defs
-     id="defs3214">
-    <linearGradient
-       id="linearGradient3587-6-5">
-      <stop
-         id="stop3589-9-2"
-         style="stop-color:#000000;stop-opacity:1"
-         offset="0" />
-      <stop
-         id="stop3591-7-4"
-         style="stop-color:#363636;stop-opacity:1"
-         offset="1" />
-    </linearGradient>
-    <linearGradient
-       x1="32.361256"
-       y1="4.561305"
-       x2="32.361256"
-       y2="18.561304"
-       id="linearGradient2401"
-       xlink:href="#linearGradient3587-6-5"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(-21.361257,-0.561305)" />
-    <linearGradient
-       id="linearGradient3678">
-      <stop
-         style="stop-color:#ffffff;stop-opacity:1;"
-         offset="0"
-         id="stop3680" />
-      <stop
-         style="stop-color:#e6e6e6;stop-opacity:1;"
-         offset="1"
-         id="stop3682" />
-    </linearGradient>
-    <linearGradient
-       gradientTransform="matrix(-0.4100229,0,0,0.5447147,78.029995,-3.8459034)"
-       gradientUnits="userSpaceOnUse"
-       xlink:href="#linearGradient3678"
-       id="linearGradient2388"
-       y2="38.279892"
-       x2="159.68553"
-       y1="14.403693"
-       x1="159.68553" />
-  </defs>
+     id="defs3214" />
   <path
      style="display:inline;overflow:visible;visibility:visible;opacity:1;fill:#353535;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
      id="rect2386"

@@ -12,8 +12,8 @@
    viewBox="0 0 16 16"
    id="svg3036"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
-   sodipodi:docname="audio-volume-low-panel.svg">
+   inkscape:version="0.91 r"
+   sodipodi:docname="stock_volume-min.svg">
   <metadata
      id="metadata3088">
     <rdf:RDF>
@@ -46,57 +46,7 @@
      inkscape:window-maximized="1"
      inkscape:current-layer="svg3036" />
   <defs
-     id="defs3038">
-    <clipPath
-       id="clip1">
-      <rect
-         width="16"
-         height="16"
-         id="rect3041" />
-    </clipPath>
-    <filter
-       width="100%"
-       x="0"
-       y="0"
-       height="100%"
-       filterUnits="objectBoundingBox"
-       id="alpha">
-      <feColorMatrix
-         values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"
-         in="SourceGraphic"
-         type="matrix"
-         id="feColorMatrix3044" />
-    </filter>
-    <g
-       style="clip-path:url(#clip1)"
-       id="surface6"
-       clip-path="url(#clip1)">
-      <path
-         style="fill:#000;stroke:#000;stroke-width:.674"
-         d="M 3.862073 1022.748881 L 6.25673 1022.748881 C 6.859581 1022.748881 7.361957 1023.235186 7.361957 1023.858265 L 7.361957 1032.870117 C 7.361957 1033.477999 6.859581 1033.979501 6.25673 1033.979501 L 3.862073 1033.979501 C 3.242476 1033.979501 2.756847 1033.477999 2.756847 1032.870117 L 2.756847 1023.858265 C 2.756847 1023.235186 3.242476 1022.748881 3.862073 1022.748881 Z "
-         transform="matrix(.23327 0 0 .25704 1.72801 -255.68425)"
-         id="path3047" />
-      <path
-         style="fill:#000;stroke:#000;stroke-linejoin:round;stroke-linecap:round;stroke-width:.491"
-         d="M 6.893073 1023.26558 L 20.507454 1011.487866 L 20.507454 1026.426567 L 22.165294 1028.842898 L 20.507454 1030.666544 L 20.507454 1045.240516 L 6.842835 1033.857925 Z "
-         transform="matrix(.23327 0 0 .25704 1.72801 -255.68425)"
-         id="path3049" />
-    </g>
-    <mask
-       id="mask0">
-      <g
-         style="filter:url(#alpha)"
-         id="g3052">
-        <rect
-           width="16"
-           x="0"
-           y="0"
-           height="16"
-           style="fill:#000;fill-opacity:.302"
-           id="rect3054" />
-      </g>
-    </mask>
-  </defs>
+     id="defs3038" />
   <path
      style="fill:#ececec;fill-opacity:1"
      inkscape:connector-curvature="0"

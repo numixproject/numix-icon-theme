@@ -12,8 +12,8 @@
    viewBox="0 0 24 24"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
-   sodipodi:docname="audio-volume-high-panel.svg">
+   inkscape:version="0.91 r"
+   sodipodi:docname="stock_volume.svg">
   <metadata
      id="metadata59">
     <rdf:RDF>
@@ -46,98 +46,7 @@
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2" />
   <defs
-     id="defs4">
-    <clipPath
-       id="clip1">
-      <rect
-         width="24"
-         height="24"
-         id="rect7" />
-    </clipPath>
-    <clipPath
-       id="clip2">
-      <rect
-         width="24"
-         height="24"
-         id="rect10" />
-    </clipPath>
-    <filter
-       width="100%"
-       x="0"
-       y="0"
-       height="100%"
-       filterUnits="objectBoundingBox"
-       id="alpha">
-      <feColorMatrix
-         values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"
-         in="SourceGraphic"
-         type="matrix"
-         id="feColorMatrix13" />
-    </filter>
-    <g
-       style="clip-path:url(#clip1)"
-       id="surface6"
-       clip-path="url(#clip1)">
-      <path
-         style="fill:#000;stroke:#000;stroke-width:.674"
-         d="M 3.856491 1022.748881 L 6.245567 1022.748881 C 6.859581 1022.748881 7.350793 1023.245318 7.350793 1023.8532 L 7.350793 1032.870117 C 7.350793 1033.477999 6.859581 1033.974436 6.245567 1033.974436 L 3.856491 1033.974436 C 3.242476 1033.974436 2.751265 1033.477999 2.751265 1032.870117 L 2.751265 1023.8532 C 2.751265 1023.245318 3.242476 1022.748881 3.856491 1022.748881 Z "
-         transform="matrix(.3499 0 0 .38556 2.59202 -383.52637)"
-         id="path16" />
-      <path
-         style="fill:#000;stroke:#000;stroke-linejoin:round;stroke-linecap:round;stroke-width:.491"
-         d="M 6.893073 1023.26558 L 20.513036 1011.4828 L 20.513036 1026.426567 L 22.176458 1028.847964 L 20.513036 1030.661479 L 20.513036 1045.240516 L 6.837254 1033.862991 Z "
-         transform="matrix(.3499 0 0 .38556 2.59202 -383.52637)"
-         id="path18" />
-    </g>
-    <g
-       style="clip-path:url(#clip2)"
-       id="surface9"
-       clip-path="url(#clip2)">
-      <path
-         style="fill:none;stroke:#000;stroke-linejoin:round;stroke-width:17.598"
-         d="M 138.774829 -113.834211 C 157.284496 -95.143487 157.284496 -64.847661 138.774829 -46.156936 "
-         transform="matrix(.09349 0 0 .10199 -.68109 21.25047)"
-         id="path21" />
-      <path
-         style="fill:none;stroke:#000;stroke-linejoin:round;stroke-width:17.598"
-         d="M 163.217617 -137.465722 C 194.63809 -105.71447 194.63809 -54.276677 163.217617 -22.563727 "
-         transform="matrix(.09349 0 0 .10199 -.68109 21.25047)"
-         id="path23" />
-      <path
-         style="fill:none;stroke:#000;stroke-linejoin:round;stroke-width:17.598"
-         d="M 188.621403 -162.437755 C 233.704768 -116.898265 233.704768 -43.092883 188.621403 2.446607 "
-         transform="matrix(.09349 0 0 .10199 -.68109 21.25047)"
-         id="path25" />
-    </g>
-    <mask
-       id="mask0">
-      <g
-         style="filter:url(#alpha)"
-         id="g28">
-        <rect
-           width="24"
-           x="0"
-           y="0"
-           height="24"
-           style="fill:#000;fill-opacity:.302"
-           id="rect30" />
-      </g>
-    </mask>
-    <mask
-       id="mask1">
-      <g
-         style="filter:url(#alpha)"
-         id="g33">
-        <rect
-           width="24"
-           x="0"
-           y="0"
-           height="24"
-           style="fill:#000;fill-opacity:.302"
-           id="rect35" />
-      </g>
-    </mask>
-  </defs>
+     id="defs4" />
   <path
      style="color:#000000;fill:#353535;fill-opacity:1"
      inkscape:connector-curvature="0"

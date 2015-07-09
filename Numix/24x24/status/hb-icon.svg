@@ -5,7 +5,6 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="24"
@@ -23,7 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -48,27 +47,7 @@
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2" />
   <defs
-     id="defs4">
-    <linearGradient
-       id="linearGradient3757">
-      <stop
-         offset="0"
-         style="stop-color:#4b4b4b"
-         id="stop7" />
-      <stop
-         offset="1"
-         style="stop-color:#2d2d2d"
-         id="stop9" />
-    </linearGradient>
-    <linearGradient
-       gradientTransform="matrix(1.00003,0,0,1.00003,-3.6e-4,-3.6e-4)"
-       xlink:href="#linearGradient3757"
-       id="linearGradient3004"
-       y1="6.7729998"
-       y2="12.7"
-       gradientUnits="userSpaceOnUse"
-       x2="0" />
-  </defs>
+     id="defs4" />
   <g
      id="g4138"
      transform="translate(0.28222219,0.28222238)">

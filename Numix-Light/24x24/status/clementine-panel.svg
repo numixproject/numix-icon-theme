@@ -5,7 +5,6 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.2"
@@ -50,27 +49,6 @@
      id="title4">Clementine Music Player Logo</title>
   <defs
      id="defs6">
-    <linearGradient
-       id="a">
-      <stop
-         offset="0"
-         stop-color="#fff"
-         id="stop9" />
-      <stop
-         offset="1"
-         stop-color="#fff"
-         stop-opacity="0"
-         id="stop11" />
-    </linearGradient>
-    <clipPath
-       id="c" />
-    <filter
-       id="d"
-       style="color-interpolation-filters:sRGB">
-      <feGaussianBlur
-         stdDeviation=".348"
-         id="feGaussianBlur17" />
-    </filter>
     <clipPath
        id="b">
       <path
@@ -79,15 +57,6 @@
          inkscape:connector-curvature="0"
          style="fill:#fda864" />
     </clipPath>
-    <radialGradient
-       cx="520.73401"
-       cy="551.07397"
-       r="15.405"
-       fx="520.73401"
-       fy="551.07397"
-       id="e"
-       xlink:href="#a"
-       gradientUnits="userSpaceOnUse" />
   </defs>
   <g
      transform="matrix(0.36763389,0,0,0.36737055,-179.13352,-191.80773)"

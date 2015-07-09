@@ -12,8 +12,8 @@
    viewBox="0 0 24 24"
    id="svg3192"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
-   sodipodi:docname="audio-volume-muted-blocking-panel.svg">
+   inkscape:version="0.91 r"
+   sodipodi:docname="audio-volume-muted-blocking.svg">
   <metadata
      id="metadata3237">
     <rdf:RDF>
@@ -46,87 +46,7 @@
      inkscape:window-maximized="1"
      inkscape:current-layer="svg3192" />
   <defs
-     id="defs3194">
-    <clipPath
-       id="clip1">
-      <rect
-         width="24"
-         height="24"
-         id="rect3197" />
-    </clipPath>
-    <clipPath
-       id="clip2">
-      <rect
-         width="24"
-         height="24"
-         id="rect3200" />
-    </clipPath>
-    <filter
-       width="100%"
-       x="0"
-       y="0"
-       height="100%"
-       filterUnits="objectBoundingBox"
-       id="alpha">
-      <feColorMatrix
-         values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"
-         in="SourceGraphic"
-         type="matrix"
-         id="feColorMatrix3203" />
-    </filter>
-    <g
-       style="clip-path:url(#clip1)"
-       id="surface6"
-       clip-path="url(#clip1)">
-      <path
-         style="fill:#000;stroke:#000;stroke-width:.674"
-         d="M 3.856491 1022.748881 L 6.245567 1022.748881 C 6.859581 1022.748881 7.350793 1023.245318 7.350793 1023.8532 L 7.350793 1032.870117 C 7.350793 1033.477999 6.859581 1033.974436 6.245567 1033.974436 L 3.856491 1033.974436 C 3.242476 1033.974436 2.751265 1033.477999 2.751265 1032.870117 L 2.751265 1023.8532 C 2.751265 1023.245318 3.242476 1022.748881 3.856491 1022.748881 Z "
-         transform="matrix(.3499 0 0 .38556 2.59202 -383.52637)"
-         id="path3206" />
-      <path
-         style="fill:#000;stroke:#000;stroke-linejoin:round;stroke-linecap:round;stroke-width:.491"
-         d="M 6.893073 1023.26558 L 20.513036 1011.4828 L 20.513036 1026.426567 L 22.176458 1028.847964 L 20.513036 1030.661479 L 20.513036 1045.240516 L 6.837254 1033.862991 Z "
-         transform="matrix(.3499 0 0 .38556 2.59202 -383.52637)"
-         id="path3208" />
-    </g>
-    <g
-       style="clip-path:url(#clip2)"
-       id="surface9"
-       clip-path="url(#clip2)">
-      <path
-         style="fill:#000"
-         d="M 12.117188 9.859375 L 12.867188 9.859375 C 12.875 9.859375 12.882812 9.859375 12.890625 9.859375 C 13.082031 9.871094 13.273438 9.964844 13.40625 10.117188 L 15.117188 11.980469 L 16.851562 10.117188 C 17.050781 9.929688 17.1875 9.871094 17.367188 9.863281 L 18.117188 9.863281 L 18.117188 10.679688 C 18.117188 10.914062 18.089844 11.132812 17.929688 11.292969 L 16.21875 13.160156 L 17.90625 15 C 18.046875 15.15625 18.117188 15.367188 18.117188 15.589844 L 18.117188 16.40625 L 17.367188 16.40625 C 17.167969 16.40625 16.96875 16.332031 16.828125 16.175781 L 15.117188 14.3125 L 13.40625 16.175781 C 13.265625 16.332031 13.066406 16.40625 12.867188 16.40625 L 12.117188 16.40625 L 12.117188 15.585938 C 12.117188 15.371094 12.1875 15.152344 12.328125 15 L 14.039062 13.160156 L 12.328125 11.296875 C 12.171875 11.140625 12.101562 10.910156 12.121094 10.683594 L 12.121094 9.863281 Z "
-         id="path3211" />
-    </g>
-    <mask
-       id="mask0">
-      <g
-         style="filter:url(#alpha)"
-         id="g3214">
-        <rect
-           width="24"
-           x="0"
-           y="0"
-           height="24"
-           style="fill:#000;fill-opacity:.302"
-           id="rect3216" />
-      </g>
-    </mask>
-    <mask
-       id="mask1">
-      <g
-         style="filter:url(#alpha)"
-         id="g3219">
-        <rect
-           width="24"
-           x="0"
-           y="0"
-           height="24"
-           style="fill:#000;fill-opacity:.302"
-           id="rect3221" />
-      </g>
-    </mask>
-  </defs>
+     id="defs3194" />
   <path
      d="m 9,6 -3.0026695,3 0,6 L 9,18 9,14 11,12 9,10 z"
      id="path40"

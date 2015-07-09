@@ -12,7 +12,7 @@
    viewBox="0 0 16 16"
    id="svg3002"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
+   inkscape:version="0.91 r"
    sodipodi:docname="avatar-default.svg">
   <metadata
      id="metadata3026">
@@ -46,51 +46,7 @@
      inkscape:window-maximized="1"
      inkscape:current-layer="svg3002" />
   <defs
-     id="defs3004">
-    <clipPath
-       id="clip1">
-      <rect
-         width="16"
-         height="16"
-         id="rect3007" />
-    </clipPath>
-    <filter
-       width="100%"
-       x="0"
-       y="0"
-       height="100%"
-       filterUnits="objectBoundingBox"
-       id="alpha">
-      <feColorMatrix
-         values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"
-         in="SourceGraphic"
-         type="matrix"
-         id="feColorMatrix3010" />
-    </filter>
-    <g
-       style="clip-path:url(#clip1)"
-       id="surface7"
-       clip-path="url(#clip1)">
-      <path
-         style="fill:#000"
-         d="M 7.269531 3.636719 L 8.730469 3.636719 C 10.925781 3.636719 10.878906 5.863281 10.878906 5.863281 L 10.878906 7.773438 C 10.878906 8.5 9.601562 10 9.601562 10 L 9.601562 10.953125 L 12.480469 12.546875 L 12.480469 13.816406 L 3.519531 13.816406 L 3.519531 12.546875 L 6.398438 10.953125 L 6.398438 10 C 6.398438 10 5.113281 8.5 5.121094 7.773438 L 5.121094 5.863281 C 5.121094 5.863281 5.074219 3.636719 7.269531 3.636719 Z "
-         id="path3013" />
-    </g>
-    <mask
-       id="mask0">
-      <g
-         style="filter:url(#alpha)"
-         id="g3016">
-        <rect
-           width="16"
-           x="0"
-           y="0"
-           height="16"
-           style="fill:#000;fill-opacity:.302"
-           id="rect3018" />
-      </g>
-    </mask>
-  </defs>
+     id="defs3004" />
   <path
      style="fill:#353535;fill-opacity:1"
      d="M 7.269531 2.910156 L 8.730469 2.910156 C 10.925781 2.910156 10.878906 5.136719 10.878906 5.136719 L 10.878906 7.046875 C 10.878906 7.773438 9.601562 9.273438 9.601562 9.273438 L 9.601562 10.226562 L 12.480469 11.816406 L 12.480469 13.089844 L 3.519531 13.089844 L 3.519531 11.816406 L 6.398438 10.226562 L 6.398438 9.273438 C 6.398438 9.273438 5.113281 7.773438 5.121094 7.046875 L 5.121094 5.136719 C 5.121094 5.136719 5.074219 2.910156 7.269531 2.910156 Z "

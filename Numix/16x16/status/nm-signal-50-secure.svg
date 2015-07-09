@@ -12,8 +12,8 @@
    viewBox="0 0 16 16"
    id="svg3218"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
-   sodipodi:docname="nm-signal-50-secure.svg">
+   inkscape:version="0.91 r"
+   sodipodi:docname="transmitting-low-signal-lock.svg">
   <metadata
      id="metadata3273">
     <rdf:RDF>
@@ -46,93 +46,7 @@
      inkscape:window-maximized="1"
      inkscape:current-layer="svg3218" />
   <defs
-     id="defs3220">
-    <clipPath
-       id="clip1">
-      <rect
-         width="16"
-         height="16"
-         id="rect3223" />
-    </clipPath>
-    <clipPath
-       id="clip2">
-      <rect
-         width="16"
-         height="16"
-         id="rect3226" />
-    </clipPath>
-    <filter
-       width="100%"
-       x="0"
-       y="0"
-       height="100%"
-       filterUnits="objectBoundingBox"
-       id="alpha">
-      <feColorMatrix
-         values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"
-         in="SourceGraphic"
-         type="matrix"
-         id="feColorMatrix3229" />
-    </filter>
-    <g
-       style="clip-path:url(#clip1)"
-       id="surface6"
-       clip-path="url(#clip1)">
-      <path
-         style="stroke-opacity:.302;fill:none;stroke:#000;stroke-linecap:round;stroke-width:1.7"
-         d="M 2.847656 11.145996 C 2.847656 11.145996 5.748047 7.848145 11.983887 7.848145 C 18.1875 7.848145 21.152344 11.151367 21.152344 11.151367 "
-         transform="matrix(.72727 0 0 .72727 -.72727 -.72727)"
-         id="path3232" />
-      <path
-         style="fill:none;stroke:#dcdcdc;stroke-linecap:round;stroke-width:1.7"
-         d="M 2.847656 10.146973 C 2.847656 10.146973 5.748047 6.849121 11.983887 6.849121 C 18.1875 6.849121 21.152344 10.152344 21.152344 10.152344 "
-         transform="matrix(.72727 0 0 .72727 -.72727 -.72727)"
-         id="path3234" />
-    </g>
-    <g
-       style="clip-path:url(#clip2)"
-       id="surface9"
-       clip-path="url(#clip2)">
-      <path
-         style="stroke-opacity:.302;fill:none;stroke:#000;stroke-linecap:round;stroke-width:1.7"
-         d="M 5.350586 13.750977 C 5.350586 13.750977 7.499023 11.538086 12 11.613281 C 16.538574 11.693848 18.649414 13.788574 18.649414 13.788574 "
-         transform="matrix(.72727 0 0 .72727 -.72727 -.72727)"
-         id="path3237" />
-      <path
-         style="fill:none;stroke:#dcdcdc;stroke-linecap:round;stroke-width:1.7"
-         d="M 5.350586 12.751953 C 5.350586 12.751953 7.499023 10.539062 12 10.614258 C 16.538574 10.694824 18.649414 12.789551 18.649414 12.789551 "
-         transform="matrix(.72727 0 0 .72727 -.72727 -.72727)"
-         id="path3239" />
-    </g>
-    <mask
-       id="mask0">
-      <g
-         style="filter:url(#alpha)"
-         id="g3242">
-        <rect
-           width="16"
-           x="0"
-           y="0"
-           height="16"
-           style="fill:#000;fill-opacity:.4"
-           id="rect3244" />
-      </g>
-    </mask>
-    <mask
-       id="mask1">
-      <g
-         style="filter:url(#alpha)"
-         id="g3247">
-        <rect
-           width="16"
-           x="0"
-           y="0"
-           height="16"
-           style="fill:#000;fill-opacity:.4"
-           id="rect3249" />
-      </g>
-    </mask>
-  </defs>
+     id="defs3220" />
   <path
      style="fill:#ececec;fill-opacity:1"
      d="M 13.816406 9.453125 C 13.011719 9.453125 12.363281 10.117188 12.363281 10.933594 L 12.363281 11.636719 C 11.960938 11.636719 11.636719 11.960938 11.636719 12.363281 L 11.636719 14.546875 C 11.636719 14.949219 11.960938 15.273438 12.363281 15.273438 L 15.273438 15.273438 C 15.675781 15.273438 16 14.949219 16 14.546875 L 16 12.363281 C 16 11.960938 15.675781 11.636719 15.273438 11.636719 L 15.273438 10.933594 C 15.273438 10.117188 14.625 9.453125 13.816406 9.453125 Z M 13.816406 10.183594 C 14.222656 10.183594 14.546875 10.503906 14.546875 10.910156 L 14.546875 11.636719 L 13.089844 11.636719 L 13.089844 10.910156 C 13.089844 10.503906 13.414062 10.183594 13.816406 10.183594 Z "

@@ -22,7 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -47,50 +47,7 @@
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2" />
   <defs
-     id="defs4">
-    <linearGradient
-       gradientTransform="matrix(0,-1,1,0,-3.7288151,96.847456)"
-       gradientUnits="userSpaceOnUse"
-       x2="47"
-       x1="1"
-       id="linearGradient3764">
-      <stop
-         id="stop4157"
-         stop-opacity="1"
-         stop-color="#cb3131" />
-      <stop
-         id="stop4159"
-         stop-opacity="1"
-         stop-color="#d14040"
-         offset="1" />
-    </linearGradient>
-    <clipPath
-       id="clipPath-533888948">
-      <g
-         id="g4162"
-         transform="translate(0,-1004.3622)">
-        <path
-           id="path4164"
-           transform="matrix(15.333333,0,0,11.5,414.99999,878.8622)"
-           d="m -24,13 c 0,1.105 -0.672,2 -1.5,2 -0.828,0 -1.5,-0.895 -1.5,-2 0,-1.105 0.672,-2 1.5,-2 0.828,0 1.5,0.895 1.5,2 z"
-           inkscape:connector-curvature="0"
-           style="fill:#1890d0" />
-      </g>
-    </clipPath>
-    <clipPath
-       id="clipPath-543229327">
-      <g
-         id="g4167"
-         transform="translate(0,-1004.3622)">
-        <path
-           id="path4169"
-           transform="matrix(15.333333,0,0,11.5,414.99999,878.8622)"
-           d="m -24,13 c 0,1.105 -0.672,2 -1.5,2 -0.828,0 -1.5,-0.895 -1.5,-2 0,-1.105 0.672,-2 1.5,-2 0.828,0 1.5,0.895 1.5,2 z"
-           inkscape:connector-curvature="0"
-           style="fill:#1890d0" />
-      </g>
-    </clipPath>
-  </defs>
+     id="defs4" />
   <g
      id="g4183"
      transform="translate(-7.8125594,-66.01695)" />

@@ -12,8 +12,8 @@
    height="16"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
-   sodipodi:docname="user-available-invisible.svg">
+   inkscape:version="0.91 r"
+   sodipodi:docname="user-invisible.svg">
   <metadata
      id="metadata18">
     <rdf:RDF>
@@ -22,7 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -51,22 +51,7 @@
        id="grid2995" />
   </sodipodi:namedview>
   <defs
-     id="defs4">
-    <clipPath
-       id="clipPath6">
-      <rect
-         width="16"
-         height="16"
-         id="rect8" />
-    </clipPath>
-    <clipPath
-       id="clipPath3782">
-      <rect
-         id="rect3784"
-         height="16"
-         width="16" />
-    </clipPath>
-  </defs>
+     id="defs4" />
   <path
      style="fill:#dedede;fill-opacity:1;stroke:none"
      d="M 8,0 C 3.581722,0 0,3.1340067 0,7 c 0,3.865993 3.581722,7 8,7 4.418278,0 8,-3.134007 8,-7 C 16,3.1340067 12.418278,0 8,0 z"

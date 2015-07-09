@@ -21,7 +21,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -58,43 +58,22 @@
          height="22"
          width="22"
          id="rect7" />
-      <text y="15.5" x="13" style="text-anchor:middle;font-size:12;font-family:Ubuntu;font-weight:500;fill:black" id="text9">
-         <tspan>
+      <text
+         y="15.5"
+         x="13"
+         style="text-anchor:middle;font-size:12;font-family:Ubuntu;font-weight:500;fill:black"
+         id="text9">
+        <tspan
+           id="tspan6120">
             Hr
-            <tspan style="text-anchor:middle;font-size:8" dy="3" dx="-3.2">1</tspan>
-         </tspan>
+            <tspan
+   style="text-anchor:middle;font-size:8"
+   dy="3"
+   dx="-3.2"
+   id="tspan6122">1</tspan>
+</tspan>
       </text>
     </mask>
-    <clipPath
-       id="clipPath14">
-      <rect
-         id="rect16"
-         x="26.999001"
-         y="221.5"
-         width="1.876"
-         height="4.8740001"
-         style="color:#bebebe;fill:#bebebe" />
-    </clipPath>
-    <clipPath
-       id="clipPath10">
-      <rect
-         id="rect12"
-         x="26.966"
-         y="221.33"
-         width="2.898"
-         height="5.2160001"
-         style="color:#bebebe;fill:#bebebe" />
-    </clipPath>
-    <clipPath
-       id="clipPath6">
-      <rect
-         id="rect8"
-         x="26.85"
-         y="220.75"
-         width="3.825"
-         height="6.375"
-         style="color:#bebebe;fill:#bebebe" />
-    </clipPath>
   </defs>
   <rect
      id="rect3857"

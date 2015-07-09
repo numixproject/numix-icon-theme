@@ -5,7 +5,6 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="16"
@@ -23,7 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -48,27 +47,7 @@
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2" />
   <defs
-     id="defs4">
-    <linearGradient
-       id="linearGradient3757">
-      <stop
-         offset="0"
-         style="stop-color:#4b4b4b"
-         id="stop7" />
-      <stop
-         offset="1"
-         style="stop-color:#2d2d2d"
-         id="stop9" />
-    </linearGradient>
-    <linearGradient
-       gradientTransform="matrix(1.00003,0,0,1.00003,-3.6e-4,-3.6e-4)"
-       xlink:href="#linearGradient3757"
-       id="linearGradient3004"
-       y1="6.7729998"
-       y2="12.7"
-       gradientUnits="userSpaceOnUse"
-       x2="0" />
-  </defs>
+     id="defs4" />
   <path
      style="fill:#ececec;fill-opacity:1"
      d="M 2.1118709,0.63354352 C 1.8023482,0.65951212 1.4989244,0.71202972 1.3172373,0.77899382 0.95386384,0.91292142 0.89513224,0.92138842 0.92361604,1.0533947 1.0497451,1.250719 1.114266,1.4738423 1.229719,1.677128 1.263917,1.703214 1.303799,1.717255 1.3625055,1.69158 1.8451028,1.4937441 2.3440183,1.3969861 3.0408697,1.5658928 3.23417,1.4352564 3.3115619,1.098722 3.3661253,0.88581392 3.3966783,0.76529032 3.3559203,0.72735422 2.9433088,0.64789902 2.7370028,0.60817042 2.4213944,0.60757482 2.1118709,0.63354342 Z M 1.3847241,1.0578925 c 0.037878,-0.00308 0.071065,0.025972 0.07407,0.064854 0.003,0.038882 -0.025302,0.072948 -0.063179,0.076033 -0.037878,0.00308 -0.071065,-0.025971 -0.07407,-0.064853 -0.003,-0.038882 0.025302,-0.072948 0.063179,-0.076033 z M 2.8994522,0.93756292 c 0.037878,-0.00308 0.0709,0.025985 0.073906,0.064867 0.003,0.038882 -0.025137,0.072934 -0.063014,0.07602 -0.037878,0.00308 -0.071064,-0.025972 -0.07407,-0.064854 -0.003,-0.038882 0.025302,-0.072948 0.063179,-0.076033 z"

@@ -12,7 +12,7 @@
    viewBox="0 0 16 16"
    id="svg3084"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
+   inkscape:version="0.91 r"
    sodipodi:docname="caffeine-cup-empty.svg">
   <metadata
      id="metadata3118">
@@ -46,47 +46,7 @@
      inkscape:window-maximized="1"
      inkscape:current-layer="svg3084" />
   <defs
-     id="defs3086">
-    <filter
-       id="0"
-       filterUnits="objectBoundingBox"
-       x="0"
-       y="0"
-       width="16"
-       height="16">
-      <feColorMatrix
-         type="matrix"
-         in="SourceGraphic"
-         values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"
-         id="feColorMatrix3089" />
-    </filter>
-    <mask
-       id="1">
-      <g
-         filter="url(#0)"
-         id="g3092">
-        <rect
-           width="16"
-           height="16"
-           fill-opacity="0.302"
-           id="rect3094" />
-      </g>
-    </mask>
-    <clipPath
-       id="2">
-      <rect
-         width="16"
-         height="16"
-         id="rect3097" />
-    </clipPath>
-    <g
-       id="3"
-       clip-path="url(#2)">
-      <path
-         d="M 11.035156 8.582031 C 11.503906 8.582031 11.878906 8.742188 12.152344 9.0625 C 12.421875 9.378906 12.558594 9.816406 12.558594 10.371094 C 12.558594 10.941406 12.425781 11.378906 12.164062 11.691406 C 11.902344 12 11.527344 12.15625 11.039062 12.15625 C 10.742188 12.15625 10.402344 12.101562 10.019531 11.992188 L 10.019531 12.4375 C 10.316406 12.550781 10.679688 12.605469 11.117188 12.605469 C 11.746094 12.605469 12.234375 12.410156 12.578125 12.023438 C 12.921875 11.632812 13.089844 11.082031 13.089844 10.363281 C 13.089844 9.914062 13.007812 9.523438 12.84375 9.183594 C 12.679688 8.847656 12.441406 8.585938 12.128906 8.40625 C 11.816406 8.222656 11.449219 8.128906 11.027344 8.128906 C 10.578125 8.128906 10.1875 8.214844 9.851562 8.378906 L 10.0625 8.816406 C 10.386719 8.660156 10.710938 8.582031 11.035156 8.582031 "
-         id="path3100" />
-    </g>
-  </defs>
+     id="defs3086" />
   <path
      style="fill:#353535;fill-opacity:1"
      inkscape:connector-curvature="0"
