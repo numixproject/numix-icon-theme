@@ -12,7 +12,7 @@
    viewBox="0 0 256 256"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="package-purge.svg">
   <metadata
      id="metadata18">
@@ -36,16 +36,16 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="640"
-     inkscape:window-height="480"
+     inkscape:window-width="1366"
+     inkscape:window-height="704"
      id="namedview14"
      showgrid="true"
-     inkscape:zoom="0.921875"
+     inkscape:zoom="3.6875"
      inkscape:cx="191.89347"
-     inkscape:cy="174.94053"
+     inkscape:cy="43.229228"
      inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
      inkscape:current-layer="svg2">
     <inkscape:grid
        type="xygrid"
@@ -69,11 +69,11 @@
   <g
      style="fill-rule:evenodd"
      id="g4"
-     transform="matrix(0.49549099,0,0,0.49549099,128.25567,127.97086)">
+     transform="matrix(0.5,0,0,0.5,128,128)">
     <path
        inkscape:connector-curvature="0"
        style="fill:#dc322f"
-       d="M 256,128.01562 C 255.99219,198.70312 198.6875,256 128,256 57.3125,256 0.0078125,198.70312 0,128.01562 -0.0078125,57.316406 57.300781,0 128,0 198.69922,0 256.00781,57.316406 256,128.01562 z"
+       d="M 256,128.01562 C 255.99219,198.70312 198.6875,256 128,256 57.3125,256 0.0078125,198.70312 0,128.01562 -0.0078125,57.316406 57.300781,0 128,0 198.69922,0 256.00781,57.316406 256,128.01562 Z"
        id="path6-7" />
     <path
        inkscape:connector-curvature="0"

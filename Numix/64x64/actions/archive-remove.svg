@@ -22,7 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -41,13 +41,17 @@
      inkscape:window-height="704"
      id="namedview12"
      showgrid="false"
-     inkscape:zoom="3.6875"
-     inkscape:cx="1.4915254"
+     inkscape:zoom="1"
+     inkscape:cx="-3.2542373"
      inkscape:cy="32"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg2" />
+     inkscape:current-layer="svg2">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4143" />
+  </sodipodi:namedview>
   <path
      style="fill:#c19553"
      d="M 7.207031 4 C 5.605469 4 4 5.605469 4 7.207031 L 4 56.882812 C 4 58.394531 5.605469 60 7.117188 60 L 56.882812 60 C 58.394531 60 60 58.394531 60 56.882812 L 60 7.117188 C 60 5.605469 58.394531 4 56.882812 4 Z "
@@ -62,12 +66,7 @@
      id="path8" />
   <path
      inkscape:connector-curvature="0"
-     id="path6-2"
-     d="M 63.999999,48.001953 C 63.998099,56.83789 56.835937,64 48,64 39.164062,64 32.001953,56.83789 32,48.001953 c -0.0019,-8.83789 7.16211,-16.001952 16,-16.001952 8.83789,0 16.001953,7.164062 15.999999,16.001952 z"
-     style="fill:#dc322f;fill-rule:evenodd" />
-  <path
-     inkscape:connector-curvature="0"
-     id="path8-1"
-     d="m 40.007812,40 0,2.667969 c -0.05859,0.746094 0.19336,1.509765 0.753908,2.027344 l 3.417968,3.363281 -3.417968,3.361328 c -0.5,0.501953 -0.753908,1.207032 -0.753908,1.914062 l 0,2.666016 2.666015,0 c 0.70508,0 1.412111,-0.251953 1.912111,-0.753906 l 3.417968,-3.419921 3.417968,3.419921 C 51.923827,55.748047 52.628907,56 53.333985,56 L 56,56 56,53.333984 c 0,-0.70703 -0.251953,-1.412109 -0.753906,-1.914062 l -3.359375,-3.361328 3.417968,-3.363281 C 55.878906,44.166016 56,43.429688 56,42.667969 L 56,40 53.333985,40 c -0.640626,0.01953 -1.146484,0.255859 -1.853515,0.871094 l -3.476564,3.361328 -3.417968,-3.361328 C 44.113281,40.38086 43.466797,40.03125 42.789063,40 c -0.02735,0 -0.08788,0 -0.115236,0 z"
-     style="fill:#ffffff;fill-opacity:0.9020004;fill-rule:evenodd" />
+     style="fill:#dc312f"
+     d="m 32,44 32,0 0,12 -32,0 z"
+     id="path12" />
 </svg>

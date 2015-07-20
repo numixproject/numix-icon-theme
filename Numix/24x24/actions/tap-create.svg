@@ -12,7 +12,7 @@
    viewBox="0 0 24 24"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="tap-create.svg">
   <metadata
      id="metadata20">
@@ -36,15 +36,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1280"
-     inkscape:window-height="998"
+     inkscape:window-width="1366"
+     inkscape:window-height="704"
      id="namedview16"
      showgrid="true"
-     inkscape:zoom="13.906433"
-     inkscape:cx="9.0490938"
+     inkscape:zoom="16"
+     inkscape:cx="14.690118"
      inkscape:cy="10.738415"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2">
     <inkscape:grid
@@ -52,23 +52,23 @@
        id="grid2997" />
   </sodipodi:namedview>
   <g
-     transform="matrix(1.0909101,0,0,1.0909101,-0.50002141,-0.50002141)"
+     transform="matrix(1.03896,0,0,1.03896,0.57143042,0.57145)"
      id="g4">
     <path
+       inkscape:connector-curvature="0"
        style="fill:#c19553"
-       d="M 2.476562,1.375 C 1.925781,1.375 1.375,1.925781 1.375,2.476562 l 0,17.078126 c 0,0.519531 0.550781,1.070312 1.070312,1.070312 l 17.109376,0 c 0.519531,0 1.070312,-0.550781 1.070312,-1.070312 l 0,-17.109376 C 20.625,1.925781 20.074219,1.375 19.554688,1.375 z"
-       id="path6"
-       inkscape:connector-curvature="0" />
+       d="M 2.476562,1.375 C 1.925781,1.375 1.375,1.925781 1.375,2.476562 l 0,17.078126 c 0,0.519531 0.550781,1.070312 1.070312,1.070312 l 17.109376,0 c 0.519531,0 1.070312,-0.550781 1.070312,-1.070312 l 0,-17.109376 C 20.625,1.925781 20.074219,1.375 19.554688,1.375 Z"
+       id="path6" />
     <path
+       inkscape:connector-curvature="0"
        style="fill:#ffffff;fill-opacity:0.19599998"
-       d="M 2.476562,1.375 C 1.925781,1.375 1.375,1.925781 1.375,2.476562 l -4e-7,6.5984379 c 2.136719,0 17.1132814,0 19.2500004,0 l 0,-6.6296879 C 20.625,1.925781 20.074219,1.375 19.554688,1.375 z"
-       id="path8"
-       inkscape:connector-curvature="0" />
+       d="M 2.476562,1.375 C 1.925781,1.375 1.375,1.925781 1.375,2.476562 l -4e-7,6.5984379 c 2.136719,0 17.1132814,0 19.2500004,0 l 0,-6.6296879 C 20.625,1.925781 20.074219,1.375 19.554688,1.375 Z"
+       id="path8" />
     <path
+       inkscape:connector-curvature="0"
        style="fill:#ffffff"
        d="m 11,3.2999997 -1.9250001,0 0,-1.9250001 1.9250001,0 0,3.8500002 -1.9250001,0 0,1.9250001 1.9250001,0 0,3.8656251 L 9.0749999,11 l 0,3.85 3.8500001,0 0,-3.85 -1.925,0.01563 0,-1.9406251 1.925,0 0,-1.925 -1.925,0 0,-1.9250001 1.925,0 0,-1.9250001 -1.925,0 z"
-       id="path10"
-       inkscape:connector-curvature="0" />
+       id="path10" />
   </g>
   <g
      transform="translate(1,1)"
