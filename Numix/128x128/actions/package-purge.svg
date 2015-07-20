@@ -12,7 +12,7 @@
    viewBox="0 0 128 128"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="package-purge.svg">
   <metadata
      id="metadata18">
@@ -36,17 +36,21 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="640"
-     inkscape:window-height="480"
+     inkscape:window-width="1366"
+     inkscape:window-height="704"
      id="namedview14"
      showgrid="false"
-     inkscape:zoom="0.921875"
-     inkscape:cx="70.359222"
-     inkscape:cy="89.716573"
+     inkscape:zoom="1"
+     inkscape:cx="78.515099"
+     inkscape:cy="46.326742"
      inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="svg2" />
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4138" />
+  </sodipodi:namedview>
   <path
      style="fill:#c19553"
      inkscape:connector-curvature="0"
@@ -65,7 +69,7 @@
   <g
      style="fill-rule:evenodd"
      id="g4"
-     transform="matrix(0.50014613,0,0,0.50014613,63.710109,63.710108)">
+     transform="matrix(0.5,0,0,0.5,64,64)">
     <path
        inkscape:connector-curvature="0"
        style="fill:#dc322f"

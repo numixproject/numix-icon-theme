@@ -13,7 +13,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="tap-extract-to.svg">
+   sodipodi:docname="archive-remove.svg">
   <metadata
      id="metadata16">
     <rdf:RDF>
@@ -22,6 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -39,14 +40,18 @@
      inkscape:window-width="1366"
      inkscape:window-height="704"
      id="namedview12"
-     showgrid="false"
-     inkscape:zoom="4.9166667"
-     inkscape:cx="-15.864407"
-     inkscape:cy="24"
+     showgrid="true"
+     inkscape:zoom="11.313708"
+     inkscape:cx="22.310743"
+     inkscape:cy="26.63667"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg2" />
+     inkscape:current-layer="svg2">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4145" />
+  </sodipodi:namedview>
   <path
      style="fill:#c19553"
      d="M 6.289062,4 C 5.144531,4 4,5.144531 4,6.289062 L 4,41.777344 C 4,42.855469 5.144531,44 6.222656,44 l 35.554688,0 C 42.855469,44 44,42.855469 44,41.777344 L 44,6.222656 C 44,5.144531 42.855469,4 41.777344,4 Z"
@@ -63,7 +68,8 @@
      id="path8"
      inkscape:connector-curvature="0" />
   <path
-     style="fill:#268bd2;fill-rule:evenodd"
-     d="M 29.183594 16.707031 L 42.933594 27.707031 C 45.691406 30.464844 45.683594 30.457031 42.933594 33.207031 L 29.183594 44.207031 C 27.269531 45.742188 27.269531 45.171875 27.269531 41.378906 C 27.230469 40.003906 27.183594 38.457031 27.269531 36.457031 C 27.238281 36.457031 27.300781 36.457031 27.269531 36.457031 C 13.605469 36.457031 7.183594 27.707031 7.269531 16.621094 C 12.683594 22.207031 19.019531 24.628906 27.269531 24.457031 C 27.269531 22.488281 27.230469 21.785156 27.269531 20.457031 C 27.269531 18.457031 27.269531 15.347656 29.183594 16.707031 Z "
-     id="path10" />
+     inkscape:connector-curvature="0"
+     style="fill:#dc312f"
+     d="m 22,32 24,0 0,8 -24,0 z"
+     id="path12" />
 </svg>
