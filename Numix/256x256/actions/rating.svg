@@ -7,13 +7,13 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="32"
-   height="32"
-   viewBox="0 0 32 32"
+   width="256"
+   height="256"
+   viewBox="0 0 256 256"
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="edit-flag.svg">
+   sodipodi:docname="starred.svg">
   <metadata
      id="metadata18">
     <rdf:RDF>
@@ -22,7 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -41,9 +41,9 @@
      inkscape:window-height="704"
      id="namedview14"
      showgrid="true"
-     inkscape:zoom="11.313708"
-     inkscape:cx="11.141097"
-     inkscape:cy="16.365474"
+     inkscape:zoom="2"
+     inkscape:cx="26.217641"
+     inkscape:cy="107.94933"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -54,14 +54,8 @@
   </sodipodi:namedview>
   <path
      inkscape:connector-curvature="0"
-     style="fill:#dc322f;fill-rule:evenodd"
-     d="M 24,3 8,3.0625 8,29 l 8,-8 8,8 z"
-     id="path6-6"
-     sodipodi:nodetypes="cccccc" />
-  <path
-     style="fill-opacity:0.1;fill-rule:evenodd"
-     d="m 8,3 0,26 2,-2 0,-24 z m 14,0 0,24 2,2 0,-26 z"
-     id="path8-2"
-     inkscape:connector-curvature="0"
-     sodipodi:nodetypes="cccccccccc" />
+     id="path6"
+     d="m 128.27111,12.000052 c -16.77815,-0.0666 -26.2128,58.911143 -39.827388,68.641604 -13.609227,9.72664 -72.838172,-0.208 -78.082644,15.600361 -5.2464784,15.814363 48.333679,42.905923 53.452545,58.761383 5.116856,15.84914 -22.439168,68.68754 -8.908752,78.52184 13.53578,9.83815 56.064049,-32.30952 72.842189,-32.24078 16.77161,0.0664 58.71144,43.01093 72.31816,33.28078 13.61208,-9.73394 -13.63539,-63.2288 -8.38472,-79.04184 5.2485,-15.8067 59.09764,-42.39354 53.97658,-58.241363 C 240.53404,81.427916 181.10755,91.003276 167.57445,81.161656 154.04656,71.323875 145.04272,12.064452 128.27111,12.000052 z"
+     style="color:#000000;fill:#dfdd41;fill-opacity:1"
+     sodipodi:nodetypes="csssscssssc" />
 </svg>
