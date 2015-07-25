@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 64 64"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="stock_task-assigned.svg"
+   width="64"
+   height="64">
+  <metadata
+     id="metadata98">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="750"
+     inkscape:window-height="982"
+     id="namedview96"
+     showgrid="true"
+     inkscape:zoom="9.833334"
+     inkscape:cx="35.392831"
+     inkscape:cy="27.584565"
+     inkscape:window-x="520"
+     inkscape:window-y="32"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2"
+     inkscape:object-nodes="true"
+     inkscape:snap-smooth-nodes="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4360" />
+  </sodipodi:namedview>
+  <defs
+     id="defs4">
+    <path
+       id="SVGCleanerId_0"
+       d="m 14,12 20,0 c 1.105,0 2,0.895 2,2 l 0,20 c 0,1.105 -0.895,2 -2,2 l -20,0 c -1.105,0 -2,-0.895 -2,-2 l 0,-20 c 0,-1.105 0.895,-2 2,-2 m 0,0"
+       inkscape:connector-curvature="0" />
+    <clipPath
+       id="clipPath-543229327">
+      <g
+         transform="translate(0,-1004.3622)"
+         id="g3857">
+        <path
+           inkscape:connector-curvature="0"
+           d="m -24,13 c 0,1.105 -0.672,2 -1.5,2 -0.828,0 -1.5,-0.895 -1.5,-2 0,-1.105 0.672,-2 1.5,-2 0.828,0 1.5,0.895 1.5,2 z"
+           transform="matrix(15.333333,0,0,11.5,414.99999,878.8622)"
+           style="fill:#1890d0"
+           id="path3859" />
+      </g>
+    </clipPath>
+  </defs>
+  <path
+     sodipodi:nodetypes="cssssssc"
+     id="path3893"
+     style="fill:#e6b07f;fill-opacity:1;fill-rule:evenodd;stroke:none"
+     d="m 52,12 c 4,0 4,0 4,4 l 0,40 c 0,4 0,4 -4,4 l -40.000004,0 c -4,0 -4,0 -4,-4 l 0,-40 c 0,-4 0,-4 4,-4"
+     inkscape:connector-curvature="0" />
+  <path
+     sodipodi:nodetypes="cccc"
+     id="path3895"
+     style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+     d="m 48,12 -32.000003,0 0,40.000001 32.000003,0"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:#aaaaaa;fill-opacity:1;fill-rule:nonzero;stroke:none"
+     d="m 19.999996,4 0,12 L 44,16 44,4 Z"
+     id="path3897"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ccccc" />
+  <path
+     style="fill:#868686;fill-opacity:1;fill-rule:nonzero;stroke:none"
+     d="M 44,37.390624 41.234374,40 44,40 44,37.390624 Z"
+     id="path3899"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:#868686;fill-opacity:1;fill-rule:nonzero;stroke:none"
+     d="m 36.984374,43.999999 -4.242188,4.000002 11.257814,0 0,-4.000002 -7.015626,0 z"
+     id="path3901"
+     inkscape:connector-curvature="0" />
+  <g
+     id="g34"
+     transform="matrix(4.0000004,0,0,4.0000001,-5.2e-6,-128)" />
+  <path
+     style="fill:#868686;fill-opacity:1;fill-rule:nonzero;stroke:none"
+     d="m 36.984374,20 4.25,4.000001 2.765626,0 L 44,20 36.984374,20 Z"
+     id="path3899-5"
+     inkscape:connector-curvature="0" />
+  <path
+     inkscape:connector-curvature="0"
+     style="fill:#859900;fill-opacity:1"
+     d="m 44,32 -20,-19.999996 0,12.000001 -20,0 L 4,40 l 20,0 0,12.000001 z"
+     id="path4" />
+</svg>
