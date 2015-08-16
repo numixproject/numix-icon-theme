@@ -1,3 +1,60 @@
-<svg width="64" xmlns="http://www.w3.org/2000/svg" height="64" viewBox="0 0 64 64" xmlns:xlink="http://www.w3.org/1999/xlink">
-<path style="fill:#cfac29" d="M 55.105469 42.765625 C 49.941406 53.027344 38.386719 58.390625 27.199219 55.730469 C 16.007812 53.066406 8.132812 43.074219 8.164062 31.59375 C 8.195312 20.109375 16.140625 10.167969 27.34375 7.570312 C 38.546875 4.972656 50.070312 10.402344 55.167969 20.695312 L 32.957031 31.667969 Z "/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="64"
+   height="64"
+   viewBox="0 0 64 64"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r"
+   sodipodi:docname="applications-arcade.svg">
+  <metadata
+     id="metadata10">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1056"
+     id="namedview6"
+     showgrid="true"
+     inkscape:zoom="7.375"
+     inkscape:cx="16"
+     inkscape:cy="4.8745085"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4138" />
+  </sodipodi:namedview>
+  <path
+     style="fill:#cfac29"
+     d="M 54.433742,43.217044 C 49.222988,53.583288 37.538268,59.007206 26.240406,56.314984 14.926755,53.630658 6.9685133,43.524954 7.0000937,31.92708 7.0316741,20.321312 15.060971,10.278768 26.38252,7.649704 37.704066,5.0285382 49.34931,10.51562 54.5048,20.913442 L 32.051186,31.998136 Z"
+     id="path4"
+     inkscape:connector-curvature="0" />
 </svg>
