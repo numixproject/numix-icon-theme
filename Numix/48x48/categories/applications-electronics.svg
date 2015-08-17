@@ -34,13 +34,13 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1056"
+     inkscape:window-width="1680"
+     inkscape:window-height="1026"
      id="namedview8"
      showgrid="true"
-     inkscape:zoom="19.666667"
-     inkscape:cx="24.216674"
-     inkscape:cy="20.830061"
+     inkscape:zoom="9.8333335"
+     inkscape:cx="5.8911739"
+     inkscape:cy="25.843888"
      inkscape:window-x="0"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
@@ -50,12 +50,13 @@
        id="grid4140" />
   </sodipodi:namedview>
   <g
-     transform="translate(0 -1004.3622)"
+     transform="matrix(1.21875,0,0,1.2580646,-5.75,-1269.8751)"
      id="g4">
     <path
        style="color:#000000;line-height:normal;fill:#92a991"
-       d="M 10 9 L 10 18 L 8 18 L 8 21 L 10 21 L 10 24 L 8 24 L 8 27 L 10 27 L 10 38 L 8 38 L 8 40 L 12 40 L 12 34 L 40 34 L 40 14 L 12 14 L 12 9 L 10 9 z M 12 16 L 38 16 L 38 32 L 12 32 L 12 16 z M 14 18 L 14 21 L 24 21 L 24 18 L 14 18 z M 26 18 L 26 21 L 36 21 L 36 18 L 26 18 z M 14 23 L 14 25 L 36 25 L 36 23 L 14 23 z M 14 26 L 14 28 L 36 28 L 36 26 L 14 26 z M 14 29 L 14 30 L 17 30 L 17 29 L 14 29 z M 18 29 L 18 30 L 20 30 L 20 29 L 18 29 z M 21 29 L 21 30 L 23 30 L 23 29 L 21 29 z M 24 29 L 24 30 L 26 30 L 26 29 L 24 29 z M 29 29 L 29 30 L 32 30 L 32 29 L 29 29 z M 33 29 L 33 30 L 36 30 L 36 29 L 33 29 z "
-       transform="translate(0,1004.3622)"
-       id="path6" />
+       d="m 10.461538,1012.5673 0,9.5384 -2.461538,0 0,3.1795 2.461538,0 0,3.1795 -2.461538,0 0,3.1795 2.461538,0 0,10.718 -2.461538,0 0,2 4.923077,0 0,-5.5642 27.897436,0 0,-20.6667 -27.897436,0 0,-5.564 z m 2.461539,7.9487 25.435898,0 0,15.8974 -25.435898,0 z m 1.641026,1.5897 0,3.1795 9.846154,0 0,-3.1795 z m 12.307692,0 0,3.1795 9.846154,0 0,-3.1795 z m -12.307692,4.7692 0,2.3846 22.153846,0 0,-2.3846 z m 0,3.9744 0,1.5897 22.153846,0 0,-1.5897 z m 0,3.1795 0,0.7948 3.282051,0 0,-0.7948 z m 4.102564,0 0,0.7948 2.461538,0 0,-0.7948 z m 3.282051,0 0,0.7948 1.641026,0 0,-0.7948 z m 2.461539,0 0,0.7948 1.641025,0 0,-0.7948 z m 4.923077,0 0,0.7948 3.282051,0 0,-0.7948 z m 4.102564,0 0,0.7948 3.282051,0 0,-0.7948 z"
+       id="path6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
   </g>
 </svg>
