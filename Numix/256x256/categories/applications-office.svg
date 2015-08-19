@@ -13,7 +13,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r"
-   sodipodi:docname="applications-office.svg">
+   sodipodi:docname="redhat-office.svg">
   <metadata
      id="metadata10">
     <rdf:RDF>
@@ -22,7 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -37,13 +37,13 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1680"
-     inkscape:window-height="1026"
+     inkscape:window-width="1920"
+     inkscape:window-height="1056"
      id="namedview6"
      showgrid="true"
      inkscape:zoom="2.6074563"
-     inkscape:cx="-66.076297"
-     inkscape:cy="-29.227281"
+     inkscape:cx="-19.392527"
+     inkscape:cy="130.28294"
      inkscape:window-x="0"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
@@ -53,8 +53,8 @@
        id="grid4138" />
   </sodipodi:namedview>
   <path
-     style="fill:#d19217;fill-opacity:0.8"
-     d="M 82.770376,48 C 82.770376,48 72,48 72,58.65624 l 0,138.68752 C 72,208 82.17368,208 82.17368,208 l 91.65264,0 C 184,208 184,197.34376 184,197.34376 l 0,-128 L 163.65264,48 82.17368,48 Z M 88,64 l 64,0 0,16 16,0 0,112 -80,0 z"
+     style="fill:#d19217;fill-opacity:1"
+     d="M 82.770376,48 C 82.770376,48 72,48 72,58.65624 l 0,138.68752 C 72,208 82.17368,208 82.17368,208 l 91.65264,0 C 184,208 184,197.34376 184,197.34376 l 0,-128 L 163.65264,48 82.17368,48 Z M 88,64 l 54,0 0,26 26,0 0,102 -80,0 z"
      id="path4"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="csscscccccccccccc" />
