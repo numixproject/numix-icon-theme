@@ -1,8 +1,75 @@
-<svg width="128" xmlns="http://www.w3.org/2000/svg" height="128" viewBox="0 0 128 128" xmlns:xlink="http://www.w3.org/1999/xlink">
-<path style="fill:none;stroke:#2f8b96;stroke-width:1.733" d="M 43.398601 31.250394 C 43.401019 37.964105 37.958972 43.407361 31.245261 43.407361 C 24.53155 43.407361 19.089504 37.964105 19.091921 31.250394 C 19.089504 24.536683 24.53155 19.093428 31.245261 19.093428 C 37.958972 19.093428 43.401019 24.536683 43.398601 31.250394 Z " transform="matrix(3.23149 0 0 3.23149 -36.96885 -36.98544)"/>
-<g style="fill:#2f8b96">
-<path d="M 49.964844 64.003906 C 49.964844 67.6875 46.976562 70.675781 43.292969 70.675781 C 39.605469 70.675781 36.621094 67.6875 36.621094 64.003906 C 36.621094 60.316406 39.605469 57.328125 43.292969 57.328125 C 46.976562 57.328125 49.964844 60.316406 49.964844 64.003906 Z "/>
-<path d="M 70.671875 64.003906 C 70.671875 67.6875 67.683594 70.675781 64 70.675781 C 60.316406 70.675781 57.328125 67.6875 57.328125 64.003906 C 57.328125 60.316406 60.316406 57.328125 64 57.328125 C 67.683594 57.328125 70.671875 60.316406 70.671875 64.003906 Z "/>
-<path d="M 91.378906 64.003906 C 91.378906 67.6875 88.394531 70.675781 84.707031 70.675781 C 81.023438 70.675781 78.035156 67.6875 78.035156 64.003906 C 78.035156 60.316406 81.023438 57.328125 84.707031 57.328125 C 88.394531 57.328125 91.378906 60.316406 91.378906 64.003906 Z "/>
-</g>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="128"
+   height="128"
+   viewBox="0 0 128 128"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r"
+   sodipodi:docname="applications-utilities.svg">
+  <metadata
+     id="metadata18">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs16" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1056"
+     id="namedview14"
+     showgrid="true"
+     inkscape:zoom="2.6074563"
+     inkscape:cx="125.30865"
+     inkscape:cy="-9.6205323"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4146" />
+  </sodipodi:namedview>
+  <path
+     style="fill:none;stroke:#2f8b96;stroke-width:5.99999905;stroke-miterlimit:4;stroke-dasharray:none"
+     d="M 103,64 C 103.008,85.539979 85.544265,103 64.000002,103 42.455742,103 24.992248,85.539979 25.000004,64 24.992204,42.460021 42.455742,25.000002 64.000002,25.000002 85.544265,25.000002 103.00776,42.460021 103,64 Z"
+     id="path4"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:#2f8b96"
+     inkscape:connector-curvature="0"
+     id="path8"
+     d="m 49.000002,64 c 0,3.59251 -2.9134,6.499999 -6.503804,6.499999 -3.582796,0 -6.496196,-2.907489 -6.496196,-6.499999 0,-3.58489 2.9134,-6.5 6.496196,-6.5 3.590404,0 6.503804,2.91511 6.503804,6.5 z" />
+  <path
+     style="fill:#2f8b96"
+     inkscape:connector-curvature="0"
+     id="path10"
+     d="m 70.500001,64 c 0,3.59251 -2.907494,6.499999 -6.499999,6.499999 -3.592505,0 -6.5,-2.907489 -6.5,-6.499999 0,-3.58489 2.907495,-6.5 6.5,-6.5 3.592505,0 6.499999,2.91511 6.499999,6.5 z" />
+  <path
+     style="fill:#2f8b96"
+     inkscape:connector-curvature="0"
+     id="path12"
+     d="m 92.000005,64 c 0,3.59251 -2.91511,6.499999 -6.5,6.499999 -3.5925,0 -6.5,-2.907489 -6.5,-6.499999 0,-3.5849 2.9075,-6.5 6.5,-6.5 3.58489,0 6.5,2.9151 6.5,6.5 z" />
 </svg>
