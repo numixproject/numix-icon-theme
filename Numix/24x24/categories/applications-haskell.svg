@@ -22,7 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -53,31 +53,10 @@
   <defs
      id="defs4">
     <clipPath
-       id="clip2">
-      <path
-         d="m 11,8.523438 20,0 0,20.953124 -20,0 z"
-         id="path7"
-         inkscape:connector-curvature="0" />
-    </clipPath>
-    <clipPath
        id="clip1">
       <path
          d="m 4.15625,8.523438 12.84375,0 0,20.953124 -12.84375,0 z"
          id="path10"
-         inkscape:connector-curvature="0" />
-    </clipPath>
-    <clipPath
-       id="clip4">
-      <path
-         d="m 22,14 11.84375,0 0,5 L 22,19 Z"
-         id="path13"
-         inkscape:connector-curvature="0" />
-    </clipPath>
-    <clipPath
-       id="clip3">
-      <path
-         d="m 25,19 8.84375,0 0,5 L 25,24 Z"
-         id="path16"
          inkscape:connector-curvature="0" />
     </clipPath>
   </defs>
