@@ -1,30 +1,90 @@
-<svg width="22" xmlns="http://www.w3.org/2000/svg" height="22" viewBox="0 0 22 22" xmlns:xlink="http://www.w3.org/1999/xlink">
-<defs>
-<clipPath id="clip4">
-<path d="M 12.605469 8.019531 L 19.390625 8.019531 L 19.390625 10.886719 L 12.605469 10.886719 Z "/>
-</clipPath>
-<clipPath id="clip3">
-<path d="M 14.324219 11 L 19.390625 11 L 19.390625 13.75 L 14.324219 13.75 Z "/>
-</clipPath>
-<clipPath id="clip1">
-<path d="M 2.382812 4.882812 L 9.738281 4.882812 L 9.738281 16.886719 L 2.382812 16.886719 Z "/>
-</clipPath>
-<clipPath id="clip2">
-<path d="M 6.300781 4.882812 L 17.761719 4.882812 L 17.761719 16.886719 L 6.300781 16.886719 Z "/>
-</clipPath>
-</defs>
-<g style="clip-rule:nonzero">
-<g style="clip-path:url(#clip1)">
-<path style="fill:#4eb09d" d="M 2.382812 16.886719 L 6.382812 10.886719 L 2.382812 4.882812 L 5.382812 4.882812 L 9.382812 10.886719 L 5.382812 16.886719 Z "/>
-</g>
-<g style="clip-path:url(#clip2)">
-<path style="fill:#4eb09d" d="M 6.382812 16.886719 L 10.382812 10.886719 L 6.382812 4.882812 L 9.382812 4.882812 L 17.390625 16.886719 L 14.386719 16.886719 L 11.886719 13.136719 L 9.382812 16.886719 Z "/>
-</g>
-<g style="clip-path:url(#clip3)">
-<path style="fill:#4eb09d" d="M 16.054688 13.386719 L 14.722656 11.386719 L 19.390625 11.382812 L 19.390625 13.386719 Z "/>
-</g>
-<g style="clip-path:url(#clip4)">
-<path style="fill:#4eb09d" d="M 14.054688 10.382812 L 12.71875 8.382812 L 19.390625 8.382812 L 19.390625 10.382812 Z "/>
-</g>
-</g>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="22"
+   height="22"
+   viewBox="0 0 17.6 17.6"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r"
+   sodipodi:docname="applications-haskell.svg">
+  <metadata
+     id="metadata36">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1056"
+     id="namedview34"
+     showgrid="true"
+     inkscape:zoom="11.7665"
+     inkscape:cx="2.5945987"
+     inkscape:cy="26.057437"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4164" />
+  </sodipodi:namedview>
+  <defs
+     id="defs4">
+    <clipPath
+       id="clip1">
+      <path
+         d="m 4.15625,8.523438 12.84375,0 0,20.953124 -12.84375,0 z"
+         id="path10"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+  </defs>
+  <g
+     id="g18"
+     clip-path="url(#clip1)"
+     transform="matrix(0.49634603,0,0,0.49634603,-0.63093819,-0.63057453)">
+    <path
+       style="fill:#4fb09e"
+       d="M 4.15625,29.476562 11.140625,19 4.15625,8.523438 l 5.238281,0 L 16.378906,19 9.394531,29.476562 Z"
+       id="path20"
+       inkscape:connector-curvature="0" />
+  </g>
+  <path
+     inkscape:connector-curvature="0"
+     id="path24"
+     d="m 4.8986669,14 3.466666,-5.2000001 -3.466666,-5.2 2.6,0 L 14.433939,14 l -2.6,0 L 9.666303,10.750485 7.4986669,14 Z"
+     style="fill:#4fb09e" />
+  <path
+     sodipodi:nodetypes="ccccc"
+     inkscape:connector-curvature="0"
+     id="path28"
+     d="m 13.435236,11.199996 -1.3336,-1.9999961 3.898,0 0,2.0000001 z"
+     style="fill:#4fb09e" />
+  <path
+     sodipodi:nodetypes="ccccc"
+     inkscape:connector-curvature="0"
+     id="path32"
+     d="m 11.568036,8.3999999 -1.3332,-2 5.7648,0 0,2 z"
+     style="fill:#4fb09e" />
 </svg>
