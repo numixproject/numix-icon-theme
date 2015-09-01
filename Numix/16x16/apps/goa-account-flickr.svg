@@ -7,15 +7,15 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="32"
-   height="32"
-   viewBox="0 0 32 32"
+   height="16"
+   width="16"
+   viewBox="0 0 4.5155556 4.5155556"
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r"
-   sodipodi:docname="window-manager.svg">
+   sodipodi:docname="goa-account-flickr.svg">
   <metadata
-     id="metadata20">
+     id="metadata12">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -27,7 +27,7 @@
     </rdf:RDF>
   </metadata>
   <defs
-     id="defs18" />
+     id="defs10" />
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -39,23 +39,23 @@
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
      inkscape:window-height="1056"
-     id="namedview16"
-     showgrid="true"
-     inkscape:zoom="14.75"
-     inkscape:cx="-0.013089881"
-     inkscape:cy="15.581388"
+     id="namedview8"
+     showgrid="false"
+     inkscape:zoom="4.9166667"
+     inkscape:cx="24"
+     inkscape:cy="24"
      inkscape:window-x="0"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg2">
-    <inkscape:grid
-       type="xygrid"
-       id="grid2997" />
-  </sodipodi:namedview>
+     inkscape:current-layer="svg2" />
   <path
-     sodipodi:nodetypes="ccsssssscsssssccccc"
-     inkscape:connector-curvature="0"
-     id="path4-4"
-     d="M 1.0742305,1.9999999 C 0.48829255,2.0585439 -0.00389445,2.6079149 1.1545047e-5,3.1972659 l 0,25.6054691 C 1.1545047e-5,29.431115 0.57032355,30 1.1992305,30 l 29.6015625,0 c 0.628907,0 1.199219,-0.568885 1.199219,-1.197265 l 0,-25.6054691 c 0,-0.628381 -0.570312,-1.197266 -1.199219,-1.197266 z m 27.9257815,2 c 0.552285,0 1,0.447715 1,1 0,0.552285 -0.447715,1 -1,1 -0.552285,0 -1,-0.447715 -1,-1 0,-0.552285 0.447715,-1 1,-1 z m -27.0000005,3 28.0000005,0 0,20.9648441 -28.0000005,0 z"
-     style="fill:#85b9ab" />
+     d="m 2.1637233,2.2579608 a 0.56432566,0.56432566 0 0 1 -1.1286513,0 0.56432566,0.56432566 0 1 1 1.1286513,0 z"
+     style="fill:#6592c3"
+     id="path4"
+     inkscape:connector-curvature="0" />
+  <path
+     d="m 3.4804833,2.2579609 a 0.56432571,0.56432571 0 0 1 -1.1286513,0 0.56432571,0.56432571 0 1 1 1.1286513,0 z"
+     style="fill:#f142a7"
+     id="path6"
+     inkscape:connector-curvature="0" />
 </svg>

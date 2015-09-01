@@ -7,13 +7,13 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="32"
-   height="32"
-   viewBox="0 0 32 32"
+   viewBox="0 0 24 24"
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r"
-   sodipodi:docname="window-manager.svg">
+   sodipodi:docname="im-nov.svg"
+   width="24"
+   height="24">
   <metadata
      id="metadata20">
     <rdf:RDF>
@@ -22,7 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -41,21 +41,21 @@
      inkscape:window-height="1056"
      id="namedview16"
      showgrid="true"
-     inkscape:zoom="14.75"
-     inkscape:cx="-0.013089881"
-     inkscape:cy="15.581388"
+     inkscape:zoom="9.8333333"
+     inkscape:cx="-1.54626"
+     inkscape:cy="24.869897"
      inkscape:window-x="0"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2">
     <inkscape:grid
        type="xygrid"
-       id="grid2997" />
+       id="grid4148" />
   </sodipodi:namedview>
   <path
-     sodipodi:nodetypes="ccsssssscsssssccccc"
+     style="fill:#dc3636;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="M 5,19 5,5 17,14.5 17,5 19,5 19,19 7,9.5 7,19 Z"
+     id="path4139"
      inkscape:connector-curvature="0"
-     id="path4-4"
-     d="M 1.0742305,1.9999999 C 0.48829255,2.0585439 -0.00389445,2.6079149 1.1545047e-5,3.1972659 l 0,25.6054691 C 1.1545047e-5,29.431115 0.57032355,30 1.1992305,30 l 29.6015625,0 c 0.628907,0 1.199219,-0.568885 1.199219,-1.197265 l 0,-25.6054691 c 0,-0.628381 -0.570312,-1.197266 -1.199219,-1.197266 z m 27.9257815,2 c 0.552285,0 1,0.447715 1,1 0,0.552285 -0.447715,1 -1,1 -0.552285,0 -1,-0.447715 -1,-1 0,-0.552285 0.447715,-1 1,-1 z m -27.0000005,3 28.0000005,0 0,20.9648441 -28.0000005,0 z"
-     style="fill:#85b9ab" />
+     sodipodi:nodetypes="ccccccccc" />
 </svg>
