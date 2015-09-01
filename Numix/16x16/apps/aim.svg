@@ -7,15 +7,15 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="32"
-   height="32"
-   viewBox="0 0 32 32"
+   viewBox="0 0 16 16"
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r"
-   sodipodi:docname="window-manager.svg">
+   sodipodi:docname="aim.svg"
+   width="16"
+   height="16">
   <metadata
-     id="metadata20">
+     id="metadata14">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -27,7 +27,7 @@
     </rdf:RDF>
   </metadata>
   <defs
-     id="defs18" />
+     id="defs12" />
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -39,23 +39,30 @@
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
      inkscape:window-height="1056"
-     id="namedview16"
+     id="namedview10"
      showgrid="true"
-     inkscape:zoom="14.75"
-     inkscape:cx="-0.013089881"
-     inkscape:cy="15.581388"
+     inkscape:zoom="6.9532167"
+     inkscape:cx="12.860129"
+     inkscape:cy="26.323289"
      inkscape:window-x="0"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2">
     <inkscape:grid
        type="xygrid"
-       id="grid2997" />
+       id="grid4142" />
   </sodipodi:namedview>
-  <path
-     sodipodi:nodetypes="ccsssssscsssssccccc"
-     inkscape:connector-curvature="0"
-     id="path4-4"
-     d="M 1.0742305,1.9999999 C 0.48829255,2.0585439 -0.00389445,2.6079149 1.1545047e-5,3.1972659 l 0,25.6054691 C 1.1545047e-5,29.431115 0.57032355,30 1.1992305,30 l 29.6015625,0 c 0.628907,0 1.199219,-0.568885 1.199219,-1.197265 l 0,-25.6054691 c 0,-0.628381 -0.570312,-1.197266 -1.199219,-1.197266 z m 27.9257815,2 c 0.552285,0 1,0.447715 1,1 0,0.552285 -0.447715,1 -1,1 -0.552285,0 -1,-0.447715 -1,-1 0,-0.552285 0.447715,-1 1,-1 z m -27.0000005,3 28.0000005,0 0,20.9648441 -28.0000005,0 z"
-     style="fill:#85b9ab" />
+  <g
+     style="fill:#ffcc00"
+     id="g4"
+     transform="matrix(0.33332732,0,0,0.33332732,3.1098366e-4,6.4431098e-4)">
+    <path
+       d="m 19.98,17.906 c 0.723,0.34 4.363,-0.371 4.738,-0.051 0.375,0.324 -0.918,1.551 -0.191,2.09 1.727,1.285 6.289,1.664 10.387,0.152 l 1.551,4.266 c -2.25,1.242 -5.621,1.961 -9.934,1.551 L 37.859,37.32 33.664,41.097 24.949,31.945 C 21.422,38.121 16.812,40.539 13.187,42.75 L 10.14,37.945 c 14.383,-9.08 6.41,-13.148 9.898,-18.336 0.277,-0.414 -0.531,-1.305 -0.059,-1.703 z"
+       id="path6"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 29.652,12.11 c 0,3.789 -3.07,6.863 -6.859,6.863 -3.793,0 -6.863,-3.074 -6.863,-6.863 0,-3.789 3.07,-6.863 6.863,-6.863 3.789,0 6.859,3.074 6.859,6.863 z"
+       id="path8"
+       inkscape:connector-curvature="0" />
+  </g>
 </svg>
