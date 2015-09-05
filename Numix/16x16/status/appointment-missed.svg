@@ -13,20 +13,21 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="appointment-new.svg">
+   sodipodi:docname="appointment-missed.svg">
   <metadata
-     id="metadata18">
+     id="metadata16">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <defs
-     id="defs16" />
+     id="defs14" />
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -38,34 +39,44 @@
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
      inkscape:window-height="704"
-     id="namedview14"
-     showgrid="false"
-     inkscape:zoom="14.75"
-     inkscape:cx="8"
-     inkscape:cy="8"
+     id="namedview12"
+     showgrid="true"
+     inkscape:zoom="22.627417"
+     inkscape:cx="-0.50481484"
+     inkscape:cy="4.2055826"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg2" />
+     inkscape:current-layer="svg2">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4202" />
+  </sodipodi:namedview>
   <g
-     transform="matrix(.8 0 0 .8 -1.59996 -1.59999)"
+     transform="matrix(.8 0 0 .8 -1.6 -1.59999)"
      id="g4">
     <path
-       style="fill:#ffffff;fill-rule:evenodd"
-       d="m 21.37495,12.000374 a 9.375,9.3750406 0 0 1 -18.75,0 9.375,9.3750406 0 1 1 18.75,0 z"
+       style="opacity:1;fill:#ebebeb;fill-opacity:1;fill-rule:evenodd"
+       d="m 21.375,12.000374 a 9.375,9.3750406 0 0 1 -18.75,0 9.375,9.3750406 0 1 1 18.75,0 z"
        id="path6"
        inkscape:connector-curvature="0" />
     <path
-       style="fill:#268bd2"
+       style="fill:#aaaaaa;opacity:1;fill-opacity:1"
        d="M 11.984375,5.484375 C 11.433594,5.492188 10.992188,5.949219 11,6.5 l 0,5.5 c 0,0.234375 0.08203,0.460938 0.234375,0.640625 l 2.5,3 c 0.222656,0.300781 0.589844,0.449219 0.957031,0.394531 0.367188,-0.05859 0.671875,-0.3125 0.792969,-0.664062 0.121094,-0.351563 0.03516,-0.742188 -0.21875,-1.011719 L 13,11.640625 13,6.5 C 13.003906,6.230469 12.898438,5.96875 12.707031,5.777344 12.515625,5.585938 12.253906,5.480469 11.984375,5.484375 z"
        id="path8" />
     <path
-       style="fill:#aaa"
+       style="fill:#aaa;opacity:1"
        d="M 12,2 C 6.488281,2 2,6.488281 2,12 2,17.511719 6.488281,22 12,22 17.511719,22 22,17.511719 22,12 22,6.488281 17.511719,2 12,2 z m 0,2 c 4.429688,0 8,3.570312 8,8 0,4.429688 -3.570312,8 -8,8 C 7.570312,20 4,16.429688 4,12 4,7.570312 7.570312,4 12,4 z"
        id="path10" />
   </g>
   <path
-     style="fill:#859900"
-     d="m 16,10 -3,0 0,-2.9999999 -3,0 L 10,10 l -3.0000003,0 0,3 L 10,13 l 0,3 3,0 0,-3 3,0 z"
-     id="path12" />
+     inkscape:connector-curvature="0"
+     id="path6-0"
+     d="m 7.9999999,12.000894 a 4,4 0 0 1 -7.999999800000001,0 4,4 0 1 1 7.999999800000001,0 z"
+     style="fill:#dc322f;fill-rule:evenodd" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path8-9"
+     d="m 2.0020599,9.9997874 0,0.6666396 c -0.014571,0.186831 0.04814,0.377706 0.188308,0.507227 l 0.854633,0.840547 -0.854633,0.840547 c -0.125175,0.125221 -0.18831,0.3017 -0.188308,0.478241 l 0,0.666642 0.666323,0 c 0.176459,0 0.352857,-0.06317 0.478014,-0.188399 l 0.854633,-0.855039 0.854632,0.855039 c 0.125158,0.125209 0.301548,0.188392 0.478014,0.188399 l 0.666324,0 0,-0.666642 c -5e-6,-0.176548 -0.06314,-0.35302 -0.188309,-0.478241 l -0.840147,-0.840547 0.854632,-0.840547 c 0.143446,-0.132662 0.173824,-0.316589 0.173824,-0.507227 l 0,-0.6666396 -0.666324,0 c -0.160187,0.0046 -0.286847,0.06399 -0.463529,0.2173816 l -0.869117,0.840548 -0.854633,-0.840548 c -0.118151,-0.122392 -0.279461,-0.209929 -0.449043,-0.2173816 -0.0069,-3.07e-4 -0.02207,-8e-5 -0.02897,0 l -0.666323,0 z"
+     style="fill:#ffffff;fill-opacity:0.9;fill-rule:evenodd" />
 </svg>

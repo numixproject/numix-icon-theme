@@ -13,7 +13,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="appointment.svg">
+   sodipodi:docname="appointment-soon.svg">
   <metadata
      id="metadata14">
     <rdf:RDF>
@@ -22,6 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -40,8 +41,8 @@
      inkscape:window-height="704"
      id="namedview10"
      showgrid="true"
-     inkscape:zoom="19.666667"
-     inkscape:cx="8.0846284"
+     inkscape:zoom="19.666666"
+     inkscape:cx="10.21882"
      inkscape:cy="12"
      inkscape:window-x="0"
      inkscape:window-y="27"
@@ -64,4 +65,21 @@
      style="fill:#aaa"
      d="M 12,2 C 6.488281,2 2,6.488281 2,12 2,17.511719 6.488281,22 12,22 17.511719,22 22,17.511719 22,12 22,6.488281 17.511719,2 12,2 z m 0,2 c 4.429688,0 8,3.570312 8,8 0,4.429688 -3.570312,8 -8,8 C 7.570312,20 4,16.429688 4,12 4,7.570312 7.570312,4 12,4 z"
      id="path8" />
+  <path
+     inkscape:connector-curvature="0"
+     style="fill:#dc322f;fill-opacity:1;fill-rule:evenodd"
+     d="M 11,18 A 5,5 0 0 1 1,18 5,5 0 1 1 11,18 Z"
+     id="path4191" />
+  <path
+     inkscape:connector-curvature="0"
+     style="line-height:125%;letter-spacing:0;word-spacing:0;fill:#ffffff;fill-opacity:0.9"
+     d="m 5,14.500009 2,0 0,3.499996 -2,0 0,-3.499996"
+     id="path4195"
+     sodipodi:nodetypes="ccccc" />
+  <path
+     inkscape:connector-curvature="0"
+     style="fill:#ffffff;fill-opacity:0.9;fill-rule:evenodd"
+     d="m 4.9999995,20 c 0,-0.552282 0.4477156,-0.999995 0.9999999,-0.999995 C 6.552284,19.000005 7,19.447718 7,20 7,20.552282 6.552284,20.999995 5.9999994,20.999995 5.4477151,20.999995 4.9999995,20.552282 4.9999995,20 Z"
+     id="path4199"
+     sodipodi:nodetypes="sssss" />
 </svg>
