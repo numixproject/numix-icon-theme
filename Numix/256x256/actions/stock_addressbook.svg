@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="256"
+   height="256"
+   viewBox="0 0 256 256"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="stock_addressbook.svg">
+  <metadata
+     id="metadata14">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs12" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="807"
+     inkscape:window-height="480"
+     id="namedview10"
+     showgrid="false"
+     inkscape:zoom="0.921875"
+     inkscape:cx="128"
+     inkscape:cy="128"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" />
+  <path
+     style="fill:#6c71c4;fill-rule:evenodd"
+     d="M 44 0 L 212 0 C 240 0 240 0 240 28.445312 L 240 227.554688 C 240 256 240 256 212 256 L 44 256 C 16 256 16 256 16 227.554688 L 16 28.445312 C 16 0 16 0 44 0 Z "
+     id="path4" />
+  <path
+     style="fill:#2d2d2d;fill-opacity:.533"
+     d="M 89.148438 64.980469 C 82.949219 87.109375 82.804688 117.746094 93.871094 132.859375 C 98.523438 140.027344 104.867188 149.453125 99.894531 158.03125 C 90.699219 171.417969 75.371094 178.636719 61.414062 185.929688 C 56.671875 186.417969 58.386719 190.835938 58.070312 194.09375 C 58.0625 196.6875 57.292969 200.070312 61.082031 198.855469 L 194.917969 198.855469 C 198.707031 200.070312 197.9375 196.6875 197.929688 194.09375 C 197.613281 190.835938 199.328125 186.417969 194.585938 185.929688 C 180.628906 178.636719 165.300781 171.417969 156.105469 158.03125 C 151.132812 149.453125 157.476562 140.027344 162.128906 132.859375 C 173.816406 116.40625 175.339844 80.613281 166.8125 64.476562 C 159.109375 50.488281 151.332031 43.203125 128 42.667969 C 104.628906 43.613281 96.890625 50.488281 89.148438 64.980469 Z "
+     id="path6" />
+</svg>
