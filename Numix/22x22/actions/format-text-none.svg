@@ -13,7 +13,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="format-text-underline.svg">
+   sodipodi:docname="format-text-none.svg">
   <metadata
      id="metadata14">
     <rdf:RDF>
@@ -40,9 +40,9 @@
      inkscape:window-height="704"
      id="namedview10"
      showgrid="true"
-     inkscape:zoom="21.454545"
-     inkscape:cx="8.15948"
-     inkscape:cy="11"
+     inkscape:zoom="16"
+     inkscape:cx="0.45440993"
+     inkscape:cy="0.99999998"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -53,15 +53,16 @@
   </sodipodi:namedview>
   <g
      style="color:#000000;line-height:normal;fill:#268bd2"
-     transform="translate(-0.9999997,-1)"
+     transform="translate(-1.0001994,0.999997)"
      id="g4">
     <path
        d="m 5.9999995,3.0000035 0,3 9.0000005,0 c 0.68505,0 2.067,0.4639692 2,0.9999999 l 0,1 -8.0000005,0 c -4,0 -5.0000001,1.9999996 -4.9998001,4.7999996 -2e-4,2.2 0.9998001,4.2 4.7999335,4.2 l 9.5998831,0 1.599984,0 0,-1.4 0,-8.3999996 C 20,4.9119266 17.888333,3.0000035 15.20005,3.0000035 Z m 3,7.9999995 8.0000005,0 0,3 -8.0000005,0 c -1,0 -2,0 -2,-1.439692 0,-1.560308 1,-1.560308 2,-1.560308 z"
        id="path6"
        inkscape:connector-curvature="0" />
-    <path
-       d="m 1.9999997,19 0,3 L 22,22 22,19 1.9999997,19 Z"
-       id="path8"
-       inkscape:connector-curvature="0" />
   </g>
+  <path
+     style="fill:#dc322f;fill-opacity:1"
+     d="M 22,19.4215 19.4215,16.843 22,14.2645 19.4215,11.686 16.843,14.2645 14.2645,11.686 11.686,14.2645 14.2645,16.843 11.686,19.4215 14.2645,22 16.843,19.4215 19.4215,22 Z"
+     id="path6-3"
+     inkscape:connector-curvature="0" />
 </svg>
