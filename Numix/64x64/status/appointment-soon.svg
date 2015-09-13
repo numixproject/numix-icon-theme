@@ -13,7 +13,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="appointment.svg">
+   sodipodi:docname="appointment-soon.svg">
   <metadata
      id="metadata14">
     <rdf:RDF>
@@ -22,6 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -39,14 +40,18 @@
      inkscape:window-width="1366"
      inkscape:window-height="704"
      id="namedview10"
-     showgrid="true"
-     inkscape:zoom="10.429825"
-     inkscape:cx="32"
-     inkscape:cy="39.670311"
+     showgrid="false"
+     inkscape:zoom="5.6568542"
+     inkscape:cx="6.5544102"
+     inkscape:cy="17"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg2" />
+     inkscape:current-layer="svg2">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4158" />
+  </sodipodi:namedview>
   <path
      style="fill:#ffffff;fill-rule:evenodd"
      d="M 62,32 C 62,48.567383 48.567383,62 32,62 15.432617,62 2,48.567383 2,32 2,15.432617 15.432617,2 32,2 48.567383,2 62,15.432617 62,32 Z"
@@ -60,4 +65,34 @@
      style="fill:#aaa"
      d="M 32 0 C 14.363281 0 0 14.363281 0 32 C 0 49.636719 14.363281 64 32 64 C 49.636719 64 64 49.636719 64 32 C 64 14.363281 49.636719 0 32 0 Z M 32 6.398438 C 46.175781 6.398438 57.601562 17.824219 57.601562 32 C 57.601562 46.175781 46.175781 57.601562 32 57.601562 C 17.824219 57.601562 6.398438 46.175781 6.398438 32 C 6.398438 17.824219 17.824219 6.398438 32 6.398438 Z "
      id="path8" />
+  <path
+     inkscape:connector-curvature="0"
+     style="fill:#dc322f;fill-opacity:1;fill-rule:evenodd"
+     d="M 30,49 A 15,15 0 0 1 0,49 15,15 0 1 1 30,49 Z"
+     id="path4191" />
+  <g
+     id="g4331"
+     transform="matrix(-2.0689655,0,0,-2.0689655,66.724138,64.517251)">
+    <g
+       id="g4193"
+       transform="matrix(0.5,0,0,1,19,-6)"
+       style="line-height:125%;letter-spacing:0;word-spacing:0">
+      <path
+         id="path4195"
+         d="m 13.933334,18.333338 -3.866667,0 0,-6.283333 3.866667,0 0,6.283333"
+         style="fill:#ffffff;fill-opacity:0.9"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc" />
+    </g>
+    <g
+       id="g4197"
+       transform="matrix(0.49999884,0,0,0.49999884,18.999996,2.4968895e-5)"
+       style="fill-rule:evenodd">
+      <path
+         id="path4199"
+         d="m 13.933374,7.266634 c 0,1.067748 -0.865585,1.9333291 -1.933337,1.9333291 -1.067754,0 -1.933338,-0.8655811 -1.933338,-1.9333291 0,-1.0677481 0.865584,-1.9333289 1.933338,-1.9333289 1.067752,0 1.933337,0.8655808 1.933337,1.9333289 z"
+         style="fill:#ffffff;fill-opacity:0.9"
+         inkscape:connector-curvature="0" />
+    </g>
+  </g>
 </svg>

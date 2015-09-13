@@ -13,7 +13,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="appointment.svg">
+   sodipodi:docname="appointment-soon.svg">
   <metadata
      id="metadata14">
     <rdf:RDF>
@@ -22,6 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -40,9 +41,9 @@
      inkscape:window-height="704"
      id="namedview10"
      showgrid="false"
-     inkscape:zoom="1.84375"
-     inkscape:cx="-42.305085"
-     inkscape:cy="64"
+     inkscape:zoom="3.6875"
+     inkscape:cx="-6.9198026"
+     inkscape:cy="20.610169"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -60,4 +61,23 @@
      style="fill:#aaa"
      d="M 64 0 C 28.726562 0 0 28.726562 0 64 C 0 99.273438 28.726562 128 64 128 C 99.273438 128 128 99.273438 128 64 C 128 28.726562 99.273438 0 64 0 Z M 64 12.800781 C 92.351562 12.800781 115.199219 35.648438 115.199219 64 C 115.199219 92.351562 92.351562 115.199219 64 115.199219 C 35.648438 115.199219 12.800781 92.351562 12.800781 64 C 12.800781 35.648438 35.648438 12.800781 64 12.800781 Z "
      id="path8" />
+  <path
+     inkscape:connector-curvature="0"
+     style="fill:#dc322f;fill-opacity:1;fill-rule:evenodd"
+     d="m 64,96.003837 a 32,32 0 0 1 -63.99999977,0 32,32 0 1 1 63.99999977,0 z"
+     id="path4191" />
+  <g
+     transform="translate(-64,0.00383627)"
+     id="g4193">
+    <path
+       inkscape:connector-curvature="0"
+       style="line-height:125%;letter-spacing:0;word-spacing:0;fill:#ffffff;fill-opacity:0.9"
+       d="m 91,74.999999 10,0 L 101,103 91,103 91,74.999999"
+       id="path4195" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#ffffff;fill-opacity:0.9;fill-rule:evenodd"
+       d="m 91.000002,112.00002 c 0,-2.76141 2.238578,-4.99998 4.999999,-4.99998 2.761425,0 4.999999,2.23857 4.999999,4.99998 0,2.76141 -2.238574,4.99998 -4.999999,4.99998 -2.761421,0 -4.999999,-2.23857 -4.999999,-4.99998 z"
+       id="path4199" />
+  </g>
 </svg>
