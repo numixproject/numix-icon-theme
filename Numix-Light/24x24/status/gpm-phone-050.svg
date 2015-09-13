@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r"
+   sodipodi:docname="gpm-phone-050.svg"
+   inkscape:export-filename="/home/andreas/phone.png"
+   inkscape:export-xdpi="270"
+   inkscape:export-ydpi="270">
+  <metadata
+     id="metadata10">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs8">
+    <filter
+       height="16"
+       width="16"
+       y="0"
+       x="0"
+       filterUnits="objectBoundingBox"
+       id="0">
+      <feColorMatrix
+         id="feColorMatrix7"
+         values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"
+         in="SourceGraphic"
+         type="matrix" />
+    </filter>
+    <mask
+       id="1">
+      <g
+         style="filter:url(#0)"
+         id="g10">
+        <rect
+           style="fill-opacity:0.30199998"
+           y="0"
+           x="0"
+           id="rect12"
+           height="16"
+           width="16" />
+      </g>
+    </mask>
+    <clipPath
+       id="2">
+      <rect
+         y="0"
+         x="0"
+         id="rect15"
+         height="16"
+         width="16" />
+    </clipPath>
+    <g
+       clip-path="url(#2)"
+       id="3">
+      <path
+         style="fill:none;stroke:#de372c;stroke-width:2;stroke-linecap:round"
+         inkscape:connector-curvature="0"
+         id="path18"
+         transform="matrix(0.727273,0,0,0.727273,-1.090909,-0.727273)"
+         d="m 12.5,5.334473 0,3.330078" />
+      <path
+         style="fill:none;stroke:#de372c;stroke-width:0.5;stroke-linecap:round"
+         inkscape:connector-curvature="0"
+         id="path20"
+         transform="matrix(0,-0.727273,0.727273,0,-1.090909,-0.727273)"
+         d="m -16.452637,8.251465 8.905274,0 c 1.267578,0 2.298828,1.477051 2.298828,3.297851 l 0,1.901368 c 0,1.8208 -1.03125,3.297851 -2.298828,3.297851 l -8.905274,0 c -1.267578,0 -2.298828,-1.477051 -2.298828,-3.297851 l 0,-1.901368 c 0,-1.8208 1.03125,-3.297851 2.298828,-3.297851 z" />
+    </g>
+    <filter
+       id="0-8"
+       filterUnits="objectBoundingBox"
+       x="0"
+       y="0"
+       width="16"
+       height="16">
+      <feColorMatrix
+         type="matrix"
+         in="SourceGraphic"
+         values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"
+         id="feColorMatrix7-9" />
+    </filter>
+    <mask
+       id="1-7">
+      <g
+         id="g10-2"
+         style="filter:url(#0-8)">
+        <rect
+           width="16"
+           height="16"
+           id="rect12-0"
+           x="0"
+           y="0"
+           style="fill-opacity:0.30199998" />
+      </g>
+    </mask>
+    <clipPath
+       id="2-2">
+      <rect
+         width="16"
+         height="16"
+         id="rect15-7"
+         x="0"
+         y="0" />
+    </clipPath>
+    <g
+       id="3-4"
+       clip-path="url(#2-2)">
+      <path
+         d="m 12.5,5.334473 0,3.330078"
+         transform="matrix(0.727273,0,0,0.727273,-1.090909,-0.727273)"
+         id="path18-7"
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#de372c;stroke-width:2;stroke-linecap:round" />
+      <path
+         d="m -16.452637,8.251465 8.905274,0 c 1.267578,0 2.298828,1.477051 2.298828,3.297851 l 0,1.901368 c 0,1.8208 -1.03125,3.297851 -2.298828,3.297851 l -8.905274,0 c -1.267578,0 -2.298828,-1.477051 -2.298828,-3.297851 l 0,-1.901368 c 0,-1.8208 1.03125,-3.297851 2.298828,-3.297851 z"
+         transform="matrix(0,-0.727273,0.727273,0,-1.090909,-0.727273)"
+         id="path20-9"
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#de372c;stroke-width:0.5;stroke-linecap:round" />
+    </g>
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1056"
+     id="namedview6"
+     showgrid="true"
+     inkscape:zoom="20.85965"
+     inkscape:cx="-11.963351"
+     inkscape:cy="6.0457641"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4138" />
+  </sodipodi:namedview>
+  <rect
+     style="opacity:0.4;fill:#353535;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     id="rect4135"
+     width="6"
+     height="13"
+     x="9"
+     y="5" />
+  <path
+     style="fill:#353535;fill-opacity:1"
+     d="M 7.75,1 C 6.792969,1 6,1.7734378 6,2.7304688 L 6,21.25 C 6,22.203125 6.792969,23 7.75,23 l 8.5,0 C 17.207031,23 18,22.203125 18,21.25 L 18,2.7304688 C 18,1.7734378 17.207031,1 16.25,1 l -8.5,0 z m 3.25,0.6679688 2,0 c 0.183594,0 0.332031,0.1484372 0.332031,0.3320312 0,0.183594 -0.148437,0.3320312 -0.332031,0.3320312 l -2,0 C 10.816406,2.3320312 10.667969,2.183594 10.667969,2 10.667969,1.816406 10.816406,1.6679688 11,1.6679688 Z M 7,3 17,3 17,20 7,20 7,3 Z m 5,17.775391 a 0.75,0.75 0 0 1 0.75,0.75 0.75,0.75 0 0 1 -0.75,0.75 0.75,0.75 0 0 1 -0.75,-0.75 0.75,0.75 0 0 1 0.75,-0.75 z"
+     id="path4"
+     inkscape:connector-curvature="0" />
+  <rect
+     style="opacity:1;fill:#353535;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     id="rect4216"
+     width="6"
+     height="6.5"
+     x="9"
+     y="11.5" />
+</svg>
