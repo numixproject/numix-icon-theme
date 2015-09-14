@@ -26,15 +26,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1366"
-     inkscape:window-height="747"
+     inkscape:window-width="1920"
+     inkscape:window-height="1056"
      id="namedview19087"
      showgrid="false"
-     inkscape:zoom="13.906434"
-     inkscape:cx="13.569456"
-     inkscape:cy="4.5994498"
+     inkscape:zoom="19.666667"
+     inkscape:cx="-5.0951135"
+     inkscape:cy="11.579461"
      inkscape:window-x="0"
-     inkscape:window-y="21"
+     inkscape:window-y="24"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg3208" />
   <metadata
@@ -45,33 +45,48 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <!-- imported from '../../status/22/nm-vpn-lock.svg' -->
   <path
-     style="color:#000000;line-height:normal;opacity:0.75;fill:#353535"
-     d="M 11.999998,3.9999997 C 8.689901,3.9999997 5.601371,5.1418467 3,7.1212781 l 0.175185,0.288525 1.686127,2.386881 c 2.095695,-1.505891 4.651988,-2.388036 7.160591,-2.386881 2.508604,0.0011 5.044547,0.88411 7.138687,2.386881 L 20.824826,7.4098031 21,7.1212781 C 18.398628,5.1418467 15.310099,3.9999997 11.999998,3.9999997 Z"
-     id="path8424"
-     inkscape:connector-curvature="0" />
-  <path
-     style="color:#000000;line-height:normal;opacity:0.4;fill:#353535"
-     d="m 12.021825,8.5115242 c -2.396565,0 -4.638927,0.779688 -6.569348,2.1245728 l 1.598546,2.281956 c 1.481637,-0.945356 3.182445,-1.495067 4.970802,-1.495067 1.788344,0 3.471558,0.549711 4.948898,1.495067 l 1.598546,-2.281956 C 16.645317,9.2912122 14.418379,8.5115242 12.021825,8.5115242 Z"
-     id="path8426"
-     inkscape:connector-curvature="0" />
-  <path
-     style="color:#000000;line-height:normal;opacity:0.4;fill:#353535"
-     d="m 12.021825,12.524615 c -1.5723,0 -3.06594,0.464341 -4.379569,1.259012 l 1.642342,2.334424 c 0.84105,-0.41345 1.754765,-0.655746 2.715323,-0.655746 0.96696,0 1.893588,0.23705 2.737225,0.655746 l 1.620439,-2.334424 c -1.305348,-0.788111 -2.770414,-1.259012 -4.33576,-1.259012 z"
-     id="path8428"
-     inkscape:connector-curvature="0" />
-  <path
-     style="color:#000000;line-height:normal;opacity:0.75;fill:#353535"
-     d="m 11.999998,16.590175 c -0.732914,0 -1.426476,0.172342 -2.080281,0.445895 L 11.999998,20 14.080294,17.009841 c -0.64836,-0.26985 -1.352577,-0.419666 -2.080296,-0.419666 z"
-     id="path8430"
-     inkscape:connector-curvature="0" />
-  <path
      inkscape:connector-curvature="0"
      d="m 20,14 c -1.108,0 -2,0.911 -2,2.031 L 18,17 c -0.554,0 -1,0.446 -1,1 l 0,3 c 0,0.554 0.446,1 1,1 l 4,0 c 0.554,0 1,-0.446 1,-1 l 0,-3 c 0,-0.554 -0.446,-1 -1,-1 l 0,-0.969 C 22,14.911 21.108,14 20,14 Z m 0,1 c 0.554,0 1,0.442 1,1 l 0,1 -2,0 0,-1 c 0,-0.558 0.446,-1 1,-1 z"
      style="fill:#353535;fill-opacity:1"
      id="rect2822" />
+  <g
+     id="g4153"
+     transform="translate(1,1)">
+    <g
+       transform="translate(-81.000208,-527.36047)"
+       inkscape:label="panel"
+       id="layer1">
+      <path
+         id="path4143"
+         transform="translate(81.000208,527.36047)"
+         d="M 11,7 C 8.517428,7 6.201029,7.8552637 4.25,9.3398438 l 4.5,6.4394532 C 9.400343,15.284437 10.172476,15 11,15 c 0.827524,0 1.599656,0.284437 2.25,0.779297 l 4.5,-6.4394532 C 15.79897,7.8552637 13.482572,7 11,7 Z"
+         mask="none"
+         style="color:#000000;line-height:normal;opacity:0.4;fill:#353535;fill-opacity:1"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path18"
+         transform="translate(81.000208,527.36047)"
+         d="M 11,3 C 7.689903,3 4.601371,4.1416638 2,6.1210938 l 2.25,3.21875 C 6.201029,7.8552637 8.517428,7 11,7 c 2.482572,0 4.79897,0.8552637 6.75,2.3398438 L 20,6.1210938 C 17.398625,4.1416638 14.310101,3 11,3 Z"
+         mask="none"
+         style="color:#000000;line-height:normal;opacity:0.75;fill:#353535;fill-opacity:1"
+         inkscape:connector-curvature="0" />
+      <path
+         mask="none"
+         style="color:#000000;line-height:normal;opacity:0.75;fill:#353535;fill-opacity:1"
+         d="m 94.250208,543.14074 c -0.650344,-0.49486 -1.422476,-0.78027 -2.25,-0.78027 -0.827524,0 -1.599657,0.28541 -2.25,0.78027 l 2.25,3.21973 z"
+         id="path18-5"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="csccc" />
+    </g>
+    <g
+       transform="translate(-81.000208,-74.998314)"
+       inkscape:label="animations"
+       id="layer2" />
+  </g>
 </svg>
