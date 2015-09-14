@@ -527,7 +527,7 @@
      bordercolor="#666666"
      borderopacity="1.0"
      inkscape:current-layer="layer1"
-     inkscape:cx="1.448373"
+     inkscape:cx="9.3812272"
      inkscape:cy="12.699628"
      inkscape:document-units="px"
      id="base"
@@ -573,37 +573,18 @@
      id="layer1"
      inkscape:label="panel"
      transform="translate(-81.000208,-527.36047)">
-    <rect
-       clip-path="none"
-       height="22"
-       id="rect10136"
-       style="color:#bebebe;fill:none;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible"
-       transform="matrix(0,-1,1,0,0,0)"
-       width="22"
-       x="-549.36047"
-       y="81.000198" />
-    <g
-       style="color:#000000;line-height:normal;fill:#ececec;fill-opacity:1"
-       id="g16"
-       transform="translate(81.000208,527.36047)">
-      <path
-         style="opacity:0.4;fill:#ececec;fill-opacity:1"
-         d="M 20,6.1210938 C 17.398628,4.1416622 14.310101,3 11,3 7.6899028,3 4.6013708,4.1416621 2,6.1210938 L 11,19 Z"
-         id="path18"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="csccc" />
-    </g>
-    <g
-       transform="matrix(0.5,0,0,0.5,86.500208,536.86047)"
-       style="color:#000000;line-height:normal;fill:#ececec;fill-opacity:1"
-       id="g16-2">
-      <path
-         style="opacity:0.4;fill:#ececec;fill-opacity:1"
-         d="M 20,6.1210938 C 17.398628,4.1416622 14.310101,3 11,3 7.6899028,3 4.6013708,4.1416621 2,6.1210938 L 11,19 Z"
-         id="path18-3"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="csccc" />
-    </g>
+    <path
+       sodipodi:nodetypes="csccc"
+       inkscape:connector-curvature="0"
+       id="path18"
+       d="m 101.00021,533.48156 c -2.601374,-1.97943 -5.689901,-3.12109 -9.000002,-3.12109 -3.310097,0 -6.398629,1.14166 -9,3.12109 l 9,12.87891 z"
+       style="color:#000000;line-height:normal;opacity:0.4;fill:#ececec;fill-opacity:1" />
+    <path
+       sodipodi:nodetypes="csccc"
+       inkscape:connector-curvature="0"
+       id="path18-5"
+       d="m 96.500208,539.92101 c -1.300686,-0.98972 -2.84495,-1.56054 -4.5,-1.56054 -1.655048,0 -3.199314,0.57082 -4.5,1.56054 l 4.5,6.43946 z"
+       style="color:#000000;line-height:normal;opacity:1;fill:#ececec;fill-opacity:1" />
   </g>
   <g
      inkscape:groupmode="layer"

@@ -10,23 +10,24 @@
    width="16"
    height="16"
    viewBox="0 0 16 16"
-   id="svg3275"
+   id="svg3351"
    version="1.1"
    inkscape:version="0.91 r"
-   sodipodi:docname="transmitting-good-signal.svg">
+   sodipodi:docname="nm-signal-75.svg">
   <metadata
-     id="metadata3303">
+     id="metadata3377">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <defs
-     id="defs3301" />
+     id="defs3375" />
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -36,39 +37,31 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1280"
-     inkscape:window-height="998"
-     id="namedview3299"
+     inkscape:window-width="1920"
+     inkscape:window-height="1056"
+     id="namedview3373"
      showgrid="true"
      inkscape:zoom="29.5"
-     inkscape:cx="2.2836903"
-     inkscape:cy="6.6669135"
+     inkscape:cx="0.37667229"
+     inkscape:cy="5.3503583"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="24"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg3275">
+     inkscape:current-layer="svg3351">
     <inkscape:grid
        type="xygrid"
-       id="grid3500" />
+       id="grid3411" />
   </sodipodi:namedview>
   <path
+     id="path18-7"
+     d="m 8.0000001,1.8823525 c -3.111111,0 -4.976712,0.876023 -7,2.3897059 l 7,9.8455886 L 15,4.2720584 C 12.976711,2.7583755 11.111111,1.8823525 8.0000001,1.8823525 Z"
+     style="color:#000000;line-height:normal;fill:#ececec;fill-opacity:1;opacity:0.4"
      inkscape:connector-curvature="0"
-     id="path3289"
-     d="M 8,2 C 5.4248125,2 3.0225567,2.8757259 1,4.3969224 L 1.1353393,4.6196278 2.447369,6.4541231 C 4.0789474,5.2990703 6.0676698,4.6196278 8.0187968,4.6196278 c 1.9473687,0 3.9210522,0.6794425 5.5488722,1.8344953 L 14.864661,4.6196278 15,4.3969224 C 12.977443,2.8757259 10.575188,2 8,2 z"
-     style="fill:#ececec;fill-opacity:1;opacity:0.4" />
+     sodipodi:nodetypes="scccs" />
   <path
-     style="fill:#ececec;fill-opacity:1"
+     id="path18-7-9"
+     d="m 8,4.941397 c -2.333277,0 -3.7324441,0.6570014 -5.2498734,1.7922362 L 8,14.117647 13.249873,6.7336332 C 11.732443,5.5983984 10.333277,4.941397 8,4.941397 Z"
+     style="color:#000000;line-height:normal;fill:#ececec;fill-opacity:1"
      inkscape:connector-curvature="0"
-     id="path3291"
-     d="m 8.0187968,5.4689307 c -1.8646616,0 -3.6090224,0.5964 -5.1090215,1.630662 l 1.2406009,1.7552272 c 1.1541355,-0.728514 2.4774437,-1.1512783 3.8684206,-1.1512783 1.3872186,0 2.6992482,0.4227643 3.8458642,1.1512783 L 13.109022,7.0995927 C 11.612781,6.0653307 9.8796991,5.4689307 8.0187968,5.4689307 z" />
-  <path
-     style="fill:#ececec;fill-opacity:1"
-     inkscape:connector-curvature="0"
-     id="path3293"
-     d="m 8.0187968,8.5528455 c -1.2255634,0 -2.3872182,0.3548195 -3.4060144,0.9663182 L 5.8872187,11.315912 C 6.5413535,10.995063 7.2518795,10.810104 8,10.810104 c 0.7518797,0 1.4736841,0.181185 2.12782,0.505808 L 11.387218,9.5191637 C 10.372181,8.9152148 9.2330826,8.5528455 8.0187968,8.5528455 z" />
-  <path
-     style="fill:#ececec;fill-opacity:1"
-     d="m 8,11.678281 c -0.5714285,0 -1.1090227,0.132113 -1.6165417,0.343495 L 8,14.297909 9.6165417,11.999129 C 9.1127819,11.791521 8.5676694,11.678281 8,11.678281 z"
-     id="path3297"
-     inkscape:connector-curvature="0" />
+     sodipodi:nodetypes="scccs" />
 </svg>
