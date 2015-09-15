@@ -23,22 +23,12 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <defs
      id="defs8">
-    <linearGradient
-       gradientTransform="scale(0.5,0.5)"
-       y2="23"
-       x2="22.454058"
-       y1="-7"
-       x1="22.454058"
-       gradientUnits="userSpaceOnUse"
-       id="linearGradient3071"
-       xlink:href="#linearGradient3784"
-       inkscape:collect="always" />
     <linearGradient
        id="linearGradient3784">
       <stop

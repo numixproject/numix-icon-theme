@@ -23,21 +23,12 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <defs
      id="defs8">
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3784"
-       id="linearGradient3790"
-       x1="22.454058"
-       y1="-7"
-       x2="22.454058"
-       y2="23"
-       gradientUnits="userSpaceOnUse" />
     <linearGradient
        id="linearGradient3784">
       <stop
@@ -59,16 +50,6 @@
        id="linearGradient3011"
        xlink:href="#linearGradient3784"
        inkscape:collect="always" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3784"
-       id="linearGradient4157"
-       gradientUnits="userSpaceOnUse"
-       x1="22.454058"
-       y1="-7"
-       x2="22.454058"
-       y2="23"
-       gradientTransform="matrix(0.75,0,0,0.75,-1.9999989,-1.9999999)" />
   </defs>
   <sodipodi:namedview
      pagecolor="#ffffff"
