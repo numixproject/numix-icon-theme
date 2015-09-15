@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="128"
+   height="128"
+   viewBox="0 0 128 128"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r"
+   sodipodi:docname="preferences-system-windows.svg">
+  <metadata
+     id="metadata20">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs18" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1056"
+     id="namedview16"
+     showgrid="true"
+     inkscape:zoom="3.6875"
+     inkscape:cx="56.071252"
+     inkscape:cy="10.533651"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2997" />
+  </sodipodi:namedview>
+  <path
+     sodipodi:nodetypes="ccsssssscsssssccccc"
+     inkscape:connector-curvature="0"
+     id="path4-4"
+     d="m 12.297072,14 c -2.3437432,0.234159 -4.3124841,2.431651 -4.2968601,4.789046 l -1.6e-6,90.421924 c 0,2.51352 2.2812397,4.78903 4.7968587,4.78903 l 102.405951,0 c 2.51562,0 4.79686,-2.27551 4.79686,-4.78903 l 0,-90.421924 C 119.99988,16.275531 117.71864,14 115.20302,14 Z m 95.702848,7.999969 c 2.20913,0 3.99999,1.790855 3.99999,3.999986 0,2.209132 -1.79086,3.999985 -3.99999,3.999985 -2.20913,0 -3.99998,-1.790853 -3.99998,-3.999985 0,-2.209131 1.79085,-3.999986 3.99998,-3.999986 z m -91.999738,11.999957 95.999728,0 0,71.859494 -95.999729,0 z"
+     style="fill:#85b9ab" />
+</svg>
