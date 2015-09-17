@@ -1,3 +1,78 @@
-<svg width="24" xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 0 24 24" xmlns:xlink="http://www.w3.org/1999/xlink">
-<path style="fill:#8f9da9" d="M 10.933594 3.957031 L 10.933594 10.890625 L 6.925781 10.890625 L 6.925781 8.554688 C 6.925781 6.175781 8.5 4.257812 10.933594 3.957031 Z M 12.859375 3.957031 C 15.253906 4.292969 16.824219 6.199219 16.824219 8.554688 L 16.824219 10.890625 L 12.859375 10.890625 Z M 6.925781 11.878906 L 16.824219 11.878906 L 16.824219 15.132812 C 16.824219 17.726562 14.628906 19.792969 11.875 19.792969 C 9.121094 19.792969 6.925781 17.726562 6.925781 15.132812 Z "/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="-768 0 0 48"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r"
+   width="24"
+   height="24"
+   sodipodi:docname="mouse.svg">
+  <metadata
+     id="metadata12">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs10" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1056"
+     id="namedview8"
+     showgrid="true"
+     inkscape:zoom="19.666667"
+     inkscape:cx="-3.641171"
+     inkscape:cy="17.801367"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2989" />
+  </sodipodi:namedview>
+  <rect
+     style="fill:#586e75;fill-opacity:1;stroke:none"
+     id="rect3759"
+     width="9.1355934"
+     height="15.18644"
+     x="7.5084743"
+     y="4.5593224"
+     ry="4.7457628" />
+  <g
+     transform="matrix(0.5,0,0,0.5,0,-502.1811)"
+     id="g4"
+     style="fill:#839496;fill-opacity:1">
+    <path
+       style="color:#000000;line-height:normal;fill:#839496;fill-opacity:1"
+       d="m 23,1012.3622 0,15 -8.999999,0 0,-5.7084 c 0,-4.8125 4.078625,-8.685 8.999999,-9.2916 z m 2,0 c 4.836622,0.6754 9,4.5351 9,9.2916 l 0,5.7084 -9.000001,0 z m -11,17 19.999999,0 10e-7,5.5833 c 10e-7,5.2399 -4.435508,9.4167 -9.999999,9.4167 C 18.435509,1044.3622 14,1040.1854 14,1034.9455 Z"
+       id="path6"
+       inkscape:connector-curvature="0" />
+  </g>
+  <path
+     style="opacity:0.24567476;fill:#fdf6e3;fill-opacity:1;stroke:none"
+     d="m 15,5 0,6.5 1,0 0,-5.5625 C 15.714826,5.587656 15.374521,5.269629 15,5 Z m 0,7.5 0,6.5625 c 0.379949,-0.267302 0.715648,-0.580085 1,-0.9375 l 0,-5.625 -1,0 z"
+     id="rect3761"
+     inkscape:connector-curvature="0" />
 </svg>
