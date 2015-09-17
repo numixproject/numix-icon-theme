@@ -7,15 +7,15 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   viewBox="-1056 0 0 48"
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r"
-   width="24"
-   height="24"
    sodipodi:docname="phone.svg">
   <metadata
-     id="metadata12">
+     id="metadata10">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -27,7 +27,7 @@
     </rdf:RDF>
   </metadata>
   <defs
-     id="defs10" />
+     id="defs8" />
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -39,47 +39,43 @@
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
      inkscape:window-height="1056"
-     id="namedview8"
-     showgrid="true"
-     inkscape:zoom="27.812866"
-     inkscape:cx="7.7112433"
-     inkscape:cy="15.708326"
+     id="namedview6"
+     showgrid="false"
+     inkscape:zoom="21.454545"
+     inkscape:cx="-0.67683296"
+     inkscape:cy="5.8191921"
      inkscape:window-x="0"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg2">
-    <inkscape:grid
-       type="xygrid"
-       id="grid2989" />
-  </sodipodi:namedview>
+     inkscape:current-layer="svg2" />
   <rect
      style="fill:#5aa9e1;fill-opacity:1;stroke:none"
      id="rect2991"
      width="8.75"
      height="18.754206"
      x="7.625"
-     y="2.6207907"
+     y="2.62079"
      ry="1.2933935" />
   <path
      style="fill:#fdf6e3;fill-opacity:0.18875505;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     d="m 9.5,20.124997 5,-16.2500008 1.875,0 0,16.2500008 z"
+     d="m 9.5,20.124996 5,-16.2500003 1.875,0 0,16.2500003 z"
      id="path3761"
      inkscape:connector-curvature="0" />
   <rect
      style="fill:#002b36;fill-opacity:1;stroke:none"
      id="rect3763"
      width="2.5"
-     height="1.25"
+     height="1.5"
      x="10.75"
-     y="20.124996"
-     ry="0.625" />
+     y="20"
+     ry="0.75" />
   <rect
      style="fill:#002b36;fill-opacity:1;stroke:none"
      id="rect3765"
      width="5"
      height="1.875"
      x="9.5"
-     y="2.6249964"
+     y="2.6249957"
      ry="0.625" />
   <g
      transform="matrix(0.625,0,0,0.625,-3,-630.72637)"
@@ -99,5 +95,5 @@
      width="1.5"
      height="20"
      x="14.5"
-     y="1.9999963" />
+     y="1.9999956" />
 </svg>
