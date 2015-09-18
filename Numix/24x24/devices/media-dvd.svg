@@ -7,27 +7,27 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   viewBox="-1056 0 0 48"
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r"
-   width="24"
-   height="24"
-   sodipodi:docname="media-dvd.svg">
+   sodipodi:docname="media-optical-dvd.svg">
   <metadata
-     id="metadata26">
+     id="metadata10">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <defs
-     id="defs24" />
+     id="defs8" />
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -39,19 +39,15 @@
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
      inkscape:window-height="1056"
-     id="namedview22"
-     showgrid="true"
-     inkscape:zoom="27.812866"
-     inkscape:cx="8.3811465"
-     inkscape:cy="11.187008"
+     id="namedview6"
+     showgrid="false"
+     inkscape:zoom="21.454545"
+     inkscape:cx="21.046421"
+     inkscape:cy="6.2279663"
      inkscape:window-x="0"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg2">
-    <inkscape:grid
-       type="xygrid"
-       id="grid3003" />
-  </sodipodi:namedview>
+     inkscape:current-layer="svg2" />
   <g
      id="g4152"
      transform="translate(1,1.0000003)">
@@ -95,7 +91,7 @@
        style="opacity:0.42560556;fill:#fffefb;fill-opacity:1"
        inkscape:connector-curvature="0" />
     <path
-       id="path3008"
+       id="path3008-4"
        d="m 11,8.0000047 c -1.6568544,0 -3.0000004,1.343146 -3.0000004,3.0000003 0,1.656854 1.343146,3 3.0000004,3 1.656854,0 3,-1.343146 3,-3 0,-1.6568543 -1.343146,-3.0000003 -3,-3.0000003 z m 0,1 c 1.104569,0 2,0.895431 2,2.0000003 0,1.104569 -0.895431,2 -2,2 -1.1045694,0 -2.0000004,-0.895431 -2.0000004,-2 0,-1.1045693 0.895431,-2.0000003 2.0000004,-2.0000003 z"
        style="fill:#839496;fill-opacity:1;stroke:none"
        inkscape:connector-curvature="0" />
