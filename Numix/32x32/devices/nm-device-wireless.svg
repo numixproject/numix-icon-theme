@@ -12,7 +12,7 @@
    height="32"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.91 r"
    sodipodi:docname="nm-device-wireless.svg"
    style="enable-background:new">
   <metadata
@@ -28,22 +28,7 @@
     </rdf:RDF>
   </metadata>
   <defs
-     id="defs10">
-    <inkscape:perspective
-       id="perspective3049"
-       inkscape:persp3d-origin="473.45792 : 140.50761 : 1"
-       inkscape:vp_z="960.23278 : 239.38121 : 1"
-       inkscape:vp_y="0 : 988.73603 : 0"
-       inkscape:vp_x="-13.316934 : 239.38121 : 1"
-       sodipodi:type="inkscape:persp3d" />
-    <inkscape:perspective
-       id="perspective3049-7"
-       inkscape:persp3d-origin="473.45792 : 140.50761 : 1"
-       inkscape:vp_z="960.23278 : 239.38121 : 1"
-       inkscape:vp_y="0 : 988.73603 : 0"
-       inkscape:vp_x="-13.316934 : 239.38121 : 1"
-       sodipodi:type="inkscape:persp3d" />
-  </defs>
+     id="defs10" />
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"

@@ -5,13 +5,12 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    viewBox="0 0 48 48"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.91 r"
    width="100%"
    height="100%"
    sodipodi:docname="media-flash-cf.svg">
@@ -51,131 +50,7 @@
        id="grid3054" />
   </sodipodi:namedview>
   <defs
-     id="defs4">
-    <linearGradient
-       id="linearGradient5048">
-      <stop
-         offset="0"
-         style="stop-opacity:0"
-         id="stop7" />
-      <stop
-         offset=".5"
-         id="stop9" />
-      <stop
-         offset="1"
-         style="stop-opacity:0"
-         id="stop11" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient5060">
-      <stop
-         offset="0"
-         id="stop14" />
-      <stop
-         offset="1"
-         style="stop-opacity:0"
-         id="stop16" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient4992">
-      <stop
-         offset="0"
-         style="stop-color:#787878"
-         id="stop19" />
-      <stop
-         offset="1"
-         style="stop-color:#3c3c3c"
-         id="stop21" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient4071">
-      <stop
-         offset="0"
-         style="stop-color:#edd563"
-         id="stop24" />
-      <stop
-         offset="1"
-         style="stop-color:#e08223"
-         id="stop26" />
-    </linearGradient>
-    <linearGradient
-       gradientTransform="matrix(2.77439 0 0 1.96971 -1892.179 -872.8854)"
-       id="linearGradient6450"
-       xlink:href="#linearGradient5048"
-       y1="366.648"
-       y2="609.505"
-       x2="0"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       id="linearGradient3627">
-      <stop
-         offset="0"
-         style="stop-color:#e6e6e6"
-         id="stop30" />
-      <stop
-         offset="1"
-         style="stop-color:#aaa"
-         id="stop32" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient5036">
-      <stop
-         offset="0"
-         style="stop-color:#fff"
-         id="stop35" />
-      <stop
-         offset="1"
-         style="stop-color:#fff;stop-opacity:0"
-         id="stop37" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient3633"
-       xlink:href="#linearGradient3627"
-       y1="11"
-       y2="42"
-       x2="0"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       gradientTransform="translate(0 2)"
-       id="linearGradient4069"
-       xlink:href="#linearGradient4071"
-       y1="3.656"
-       y2="21"
-       x2="0"
-       gradientUnits="userSpaceOnUse" />
-    <radialGradient
-       cx="605.714"
-       cy="486.648"
-       gradientTransform="matrix(-2.77439 0 0 1.96971 112.7623 -872.8854)"
-       r="117.143"
-       id="radialGradient6454"
-       xlink:href="#linearGradient5060"
-       gradientUnits="userSpaceOnUse" />
-    <radialGradient
-       cx="9"
-       cy="19.149"
-       gradientTransform="matrix(1.90909 0 0 1.40909 -8.18182 -4.98219)"
-       r="22"
-       id="radialGradient3677"
-       xlink:href="#linearGradient4992"
-       gradientUnits="userSpaceOnUse" />
-    <radialGradient
-       cx="605.714"
-       cy="486.648"
-       gradientTransform="matrix(2.77439 0 0 1.96971 -1891.633 -872.8854)"
-       r="117.143"
-       id="radialGradient6452"
-       xlink:href="#linearGradient5060"
-       gradientUnits="userSpaceOnUse" />
-    <radialGradient
-       cx="5"
-       cy="7.1"
-       gradientTransform="matrix(2.28528 .06529 -.04762 1.66667 -6.08829 -.1598)"
-       r="21"
-       id="radialGradient3675"
-       xlink:href="#linearGradient5036"
-       gradientUnits="userSpaceOnUse" />
-  </defs>
+     id="defs4" />
   <rect
      style="fill:#002b36;fill-opacity:1;stroke:none"
      id="rect3056"
