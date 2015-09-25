@@ -13,7 +13,7 @@
    inkscape:version="0.91 r"
    width="100%"
    height="100%"
-   sodipodi:docname="media-memory.svg">
+   sodipodi:docname="gnome-dev-memory.svg">
   <metadata
      id="metadata94">
     <rdf:RDF>
@@ -34,15 +34,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1366"
-     inkscape:window-height="704"
+     inkscape:window-width="1920"
+     inkscape:window-height="1056"
      id="namedview92"
      showgrid="true"
      inkscape:zoom="13.906433"
-     inkscape:cx="27.870373"
+     inkscape:cx="8.2032161"
      inkscape:cy="18.247267"
      inkscape:window-x="0"
-     inkscape:window-y="27"
+     inkscape:window-y="24"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2">
     <inkscape:grid
@@ -53,101 +53,106 @@
      id="defs4" />
   <path
      style="fill:#a6b44a;fill-opacity:1;stroke:none"
-     d="M 2 15 C 1.446 15 1 15.446 1 16 L 1 35 C 1 35.554 1.446 36 2 36 L 5 36 L 5 38 C 5 38.554 5.446 39 6 39 L 31 39 C 31.554 39 32 38.554 32 38 L 32 36 L 46 36 C 46.554 36 47 35.554 47 35 L 47 16 C 47 15.446 46.554 15 46 15 L 2 15 z "
-     id="rect3073" />
+     d="m 2,13 c -0.554,0 -1,0.446 -1,1 l 0,19 c 0,0.554 0.446,1 1,1 l 3,0 0,2 c 0,0.554 0.446,1 1,1 l 25,0 c 0.554,0 1,-0.446 1,-1 l 0,-2 14,0 c 0.554,0 1,-0.446 1,-1 l 0,-19 c 0,-0.554 -0.446,-1 -1,-1 L 2,13 Z"
+     id="rect3073"
+     inkscape:connector-curvature="0" />
   <rect
      style="fill:#073642;fill-opacity:1;stroke:none"
      id="rect3078"
      width="7"
      height="11"
      x="4"
-     y="20"
-     ry="1" />
+     y="18"
+     ry="1"
+     rx="1" />
   <rect
      style="fill:#073642;fill-opacity:1;stroke:none"
      id="rect3080"
      width="7"
      height="11"
      x="15"
-     y="20"
-     ry="1" />
+     y="18"
+     ry="1"
+     rx="1" />
   <rect
      style="fill:#073642;fill-opacity:1;stroke:none"
      id="rect3082"
      width="7"
      height="11"
      x="26"
-     y="20"
-     ry="1" />
+     y="18"
+     ry="1"
+     rx="1" />
   <rect
      style="fill:#073642;fill-opacity:1;stroke:none"
      id="rect3084"
      width="7"
      height="11"
      x="37"
-     y="20"
-     ry="1" />
+     y="18"
+     ry="1"
+     rx="1" />
   <rect
      style="fill:#e0e22d;fill-opacity:1;stroke:none"
      id="rect3086"
      width="2"
      height="3"
      x="7"
-     y="35" />
+     y="33" />
   <rect
      style="fill:#e0e22d;fill-opacity:1;stroke:none"
      id="rect3088"
      width="2"
      height="3"
      x="10"
-     y="35" />
+     y="33" />
   <rect
      style="fill:#e0e22d;fill-opacity:1;stroke:none"
      id="rect3090"
      width="2"
      height="3"
      x="13"
-     y="35" />
+     y="33" />
   <rect
      style="fill:#e0e22d;fill-opacity:1;stroke:none"
      id="rect3092"
      width="2"
      height="3"
      x="16"
-     y="35" />
+     y="33" />
   <rect
      style="fill:#e0e22d;fill-opacity:1;stroke:none"
      id="rect3094"
      width="2"
      height="3"
      x="19"
-     y="35" />
+     y="33" />
   <rect
      style="fill:#e0e22d;fill-opacity:1;stroke:none"
      id="rect3096"
      width="2"
      height="3"
      x="22"
-     y="35" />
+     y="33" />
   <rect
      style="fill:#e0e22d;fill-opacity:1;stroke:none"
      id="rect3098"
      width="2"
      height="3"
      x="25"
-     y="35" />
+     y="33" />
   <rect
      style="fill:#e0e22d;fill-opacity:1;stroke:none"
      id="rect3100"
      width="2"
      height="3"
      x="28"
-     y="35" />
+     y="33" />
   <rect
      style="fill:#fdf6e3;fill-opacity:0.30923695;stroke:none"
      id="rect3870"
      width="5"
      height="21"
      x="40"
-     y="15" />
+     y="13" />
 </svg>
