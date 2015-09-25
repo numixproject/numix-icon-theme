@@ -7,26 +7,27 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="22"
-   height="22"
    viewBox="0 0 22 22"
-   id="svg2842"
+   id="svg2"
    version="1.1"
    inkscape:version="0.91 r"
-   sodipodi:docname="media-tape.svg">
+   sodipodi:docname="media-tape.svg"
+   width="22"
+   height="22">
   <metadata
-     id="metadata2850">
+     id="metadata12">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <defs
-     id="defs2848" />
+     id="defs10" />
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -36,11 +37,74 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="640"
-     inkscape:window-height="480"
-     id="namedview2846" />
+     inkscape:window-width="1920"
+     inkscape:window-height="1056"
+     id="namedview8"
+     showgrid="true"
+     inkscape:zoom="27.812866"
+     inkscape:cx="10.836118"
+     inkscape:cy="8.8693927"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4151" />
+  </sodipodi:namedview>
+  <circle
+     style="opacity:1;fill:#262626;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     id="path4176"
+     cx="8"
+     cy="11"
+     r="3.5" />
+  <circle
+     r="3"
+     cy="11"
+     cx="14"
+     id="circle4187"
+     style="opacity:1;fill:#262626;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+  <circle
+     style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     id="path4189"
+     cx="8"
+     cy="11"
+     r="1.5" />
+  <circle
+     r="1.5"
+     cy="11"
+     cx="14"
+     id="circle4191"
+     style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
   <path
-     style="fill:#909ea9"
-     d="M 4.769531 6.417969 C 4.164062 6.417969 3.667969 6.914062 3.667969 7.519531 L 3.667969 14.464844 C 3.667969 15.074219 4.164062 15.582031 4.769531 15.582031 L 5.5 15.582031 L 5.5 16.042969 L 16.5 16.042969 L 16.5 15.582031 L 17.230469 15.582031 C 17.835938 15.582031 18.332031 15.074219 18.332031 14.464844 L 18.332031 7.519531 C 18.332031 6.914062 17.835938 6.417969 17.230469 6.417969 Z M 4.769531 7.332031 L 17.230469 7.332031 C 17.34375 7.332031 17.417969 7.40625 17.417969 7.519531 L 17.417969 14.464844 C 17.417969 14.582031 17.34375 14.667969 17.230469 14.667969 L 16.226562 14.667969 L 16.042969 10.585938 L 16.042969 10.542969 C 16.042969 10.472656 16.035156 10.410156 16.027344 10.339844 C 15.921875 9.171875 14.945312 8.25 13.75 8.25 C 12.484375 8.25 11.457031 9.277344 11.457031 10.542969 C 11.457031 11.808594 12.484375 12.832031 13.75 12.832031 C 14.535156 12.832031 15.226562 12.429688 15.640625 11.832031 L 15.769531 14.667969 L 15.582031 14.667969 L 15.582031 15.125 L 6.417969 15.125 L 6.417969 14.667969 L 6.402344 14.667969 L 7.132812 11.34375 C 7.382812 11.691406 7.789062 11.917969 8.25 11.917969 C 9.007812 11.917969 9.625 11.300781 9.625 10.542969 C 9.625 9.78125 9.007812 9.167969 8.25 9.167969 C 7.574219 9.167969 7.019531 9.65625 6.902344 10.296875 L 6.890625 10.296875 L 5.914062 14.667969 L 4.769531 14.667969 C 4.65625 14.667969 4.582031 14.582031 4.582031 14.464844 L 4.582031 7.519531 C 4.582031 7.40625 4.65625 7.332031 4.769531 7.332031 Z M 5.269531 7.792969 C 5.144531 7.792969 5.042969 7.894531 5.042969 8.019531 C 5.042969 8.148438 5.144531 8.25 5.269531 8.25 C 5.398438 8.25 5.5 8.148438 5.5 8.019531 C 5.5 7.894531 5.398438 7.792969 5.269531 7.792969 Z M 16.730469 7.792969 C 16.601562 7.792969 16.5 7.894531 16.5 8.019531 C 16.5 8.148438 16.601562 8.25 16.730469 8.25 C 16.855469 8.25 16.957031 8.148438 16.957031 8.019531 C 16.957031 7.894531 16.855469 7.792969 16.730469 7.792969 Z M 8.25 9.625 C 8.757812 9.625 9.167969 10.035156 9.167969 10.542969 C 9.167969 11.046875 8.757812 11.457031 8.25 11.457031 C 7.742188 11.457031 7.332031 11.046875 7.332031 10.542969 C 7.332031 10.035156 7.742188 9.625 8.25 9.625 Z M 13.75 9.625 C 14.257812 9.625 14.667969 10.035156 14.667969 10.542969 C 14.667969 11.046875 14.257812 11.457031 13.75 11.457031 C 13.242188 11.457031 12.832031 11.046875 12.832031 10.542969 C 12.832031 10.035156 13.242188 9.625 13.75 9.625 Z M 5.269531 13.75 C 5.144531 13.75 5.042969 13.851562 5.042969 13.980469 C 5.042969 14.105469 5.144531 14.207031 5.269531 14.207031 C 5.398438 14.207031 5.5 14.105469 5.5 13.980469 C 5.5 13.851562 5.398438 13.75 5.269531 13.75 Z M 8.191406 13.75 C 7.96875 13.75 7.792969 13.929688 7.792969 14.152344 L 7.792969 14.265625 C 7.792969 14.488281 7.96875 14.667969 8.191406 14.667969 L 13.808594 14.667969 C 14.03125 14.667969 14.207031 14.488281 14.207031 14.265625 L 14.207031 14.152344 C 14.207031 13.929688 14.03125 13.75 13.808594 13.75 Z M 16.730469 13.75 C 16.601562 13.75 16.5 13.851562 16.5 13.980469 C 16.5 14.105469 16.601562 14.207031 16.730469 14.207031 C 16.855469 14.207031 16.957031 14.105469 16.957031 13.980469 C 16.957031 13.851562 16.855469 13.75 16.730469 13.75 Z "
-     id="path2844" />
+     style="opacity:1;fill:#838488;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     d="M 1.5878906 5 C 1.2620083 5 1 5.2727721 1 5.6113281 L 1 16.388672 C 1 16.727227 1.2620083 17 1.5878906 17 L 20.412109 17 C 20.737992 17 21 16.727227 21 16.388672 L 21 5.6113281 C 21 5.2727721 20.737992 5 20.412109 5 L 1.5878906 5 z M 3.046875 8 L 7 8 L 7 14 L 3.046875 14 L 2.8574219 13.666016 C 2.0150028 12.015877 2.0150028 9.9841244 2.8574219 8.3339844 C 2.9172519 8.2202384 2.9797371 8.1084 3.046875 8 z M 15 8 L 18.953125 8 L 19.142578 8.3339844 C 19.984997 9.9841237 19.984997 12.015876 19.142578 13.666016 C 19.082748 13.779762 19.020263 13.8916 18.953125 14 L 15 14 L 15 8 z "
+     id="rect4155" />
+  <path
+     style="fill:#383838;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 1,8 0.9830508,0 0,-2 L 20,6 20,8 21,8 21,5 1,5 Z"
+     id="path4153"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ccccccccc" />
+  <path
+     style="opacity:1;fill:#fffcd3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     d="m 14,8.5 0,5 c 0,0.277 -0.223,0.5 -0.5,0.5 l -5,0 C 8.223,14 8,13.777 8,13.5 l 0,-5 z"
+     id="rect4195"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="csssscc" />
+  <rect
+     style="opacity:1;fill:#f57979;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     id="rect4193"
+     width="6"
+     height="1"
+     x="8"
+     y="8"
+     rx="0.5"
+     ry="0.5" />
+  <path
+     style="opacity:0.51399997;fill:#bcbcbc;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     d="m 17,5 0,3.055664 2,0 L 19,5 Z m 0,9 0,3 2,0 0,-3 z"
+     id="rect4171"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cccccccccc" />
 </svg>
