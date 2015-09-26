@@ -7,15 +7,15 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="16"
-   height="16"
-   viewBox="0 0 16 16"
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r"
-   sodipodi:docname="view-media-playlist.svg">
+   sodipodi:docname="view-media-lyrics.svg">
   <metadata
-     id="metadata20">
+     id="metadata18">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -27,7 +27,7 @@
     </rdf:RDF>
   </metadata>
   <defs
-     id="defs18" />
+     id="defs16" />
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -39,11 +39,11 @@
      inkscape:pageshadow="2"
      inkscape:window-width="1547"
      inkscape:window-height="876"
-     id="namedview16"
+     id="namedview14"
      showgrid="false"
-     inkscape:zoom="17.31"
-     inkscape:cx="-11.965103"
-     inkscape:cy="8"
+     inkscape:zoom="10.66"
+     inkscape:cx="-20.081046"
+     inkscape:cy="11.928904"
      inkscape:window-x="53"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
@@ -52,25 +52,35 @@
      style="fill:#888888"
      inkscape:connector-curvature="0"
      id="path6"
-     d="M 15,1 15,3 6,3 6,1 Z" />
+     d="M 17,2 17,4 2,4 2,2 Z" />
   <path
      style="fill:#888888"
      inkscape:connector-curvature="0"
      id="path8"
-     d="M 15,9 15,11 1,11 1,9 Z" />
-  <path
-     style="fill:#888888"
-     inkscape:connector-curvature="0"
-     id="path10"
-     d="M 15,5 15,7 6,7 6,5 Z" />
+     d="m 11,14 0,2 -9,0 0,-2 z" />
   <path
      style="fill:#888888"
      inkscape:connector-curvature="0"
      id="path12"
-     d="m 15,13 0,2 -14,0 0,-2 z" />
+     d="m 11,20 0,2 -9,0 0,-2 z" />
+  <circle
+     cy="17.5"
+     cx="17.5"
+     style="fill:#ff9800;fill-opacity:1;stroke:none"
+     id="path3001"
+     r="4.5" />
+  <rect
+     style="fill:#ff9800;fill-opacity:1;stroke:none"
+     id="rect3005"
+     width="3"
+     height="17"
+     x="19"
+     y="2"
+     rx="1.5"
+     ry="1.5" />
   <path
-     style="fill:#dc322f"
-     d="M 5,4 1,1 1,7 Z"
-     id="path14"
-     inkscape:connector-curvature="0" />
+     d="M 17,8 17,10 2,10 2,8 Z"
+     id="path4159"
+     inkscape:connector-curvature="0"
+     style="fill:#888888" />
 </svg>
