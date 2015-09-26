@@ -7,9 +7,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="16"
-   height="16"
-   viewBox="0 0 16 16"
+   width="64"
+   height="64"
+   viewBox="0 0 64 64"
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r"
@@ -22,7 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -41,8 +41,8 @@
      inkscape:window-height="876"
      id="namedview16"
      showgrid="false"
-     inkscape:zoom="17.31"
-     inkscape:cx="-11.965103"
+     inkscape:zoom="3.78"
+     inkscape:cx="-51.683951"
      inkscape:cy="8"
      inkscape:window-x="53"
      inkscape:window-y="24"
@@ -52,25 +52,25 @@
      style="fill:#888888"
      inkscape:connector-curvature="0"
      id="path6"
-     d="M 15,1 15,3 6,3 6,1 Z" />
+     d="m 60,4 0,8 -36,0 0,-8 z" />
   <path
      style="fill:#888888"
      inkscape:connector-curvature="0"
      id="path8"
-     d="M 15,9 15,11 1,11 1,9 Z" />
+     d="m 60,36 0,8 -56,0 0,-8 z" />
   <path
      style="fill:#888888"
      inkscape:connector-curvature="0"
      id="path10"
-     d="M 15,5 15,7 6,7 6,5 Z" />
+     d="m 60,20 0,8 -36,0 0,-8 z" />
   <path
      style="fill:#888888"
      inkscape:connector-curvature="0"
      id="path12"
-     d="m 15,13 0,2 -14,0 0,-2 z" />
+     d="m 60,52 0,8 -56,0 0,-8 z" />
   <path
      style="fill:#dc322f"
-     d="M 5,4 1,1 1,7 Z"
+     d="M 20,16 4,4 4,28 Z"
      id="path14"
      inkscape:connector-curvature="0" />
 </svg>

@@ -7,27 +7,27 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="16"
-   height="16"
-   viewBox="0 0 16 16"
+   width="22"
+   viewBox="0 0 22 22"
+   height="22"
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r"
-   sodipodi:docname="view-media-playlist.svg">
+   sodipodi:docname="x-clementine-artist.svg">
   <metadata
-     id="metadata20">
+     id="metadata12">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <defs
-     id="defs18" />
+     id="defs10" />
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -39,38 +39,18 @@
      inkscape:pageshadow="2"
      inkscape:window-width="1547"
      inkscape:window-height="876"
-     id="namedview16"
+     id="namedview8"
      showgrid="false"
-     inkscape:zoom="17.31"
-     inkscape:cx="-11.965103"
-     inkscape:cy="8"
+     inkscape:zoom="10.727273"
+     inkscape:cx="11"
+     inkscape:cy="11"
      inkscape:window-x="53"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2" />
   <path
-     style="fill:#888888"
-     inkscape:connector-curvature="0"
-     id="path6"
-     d="M 15,1 15,3 6,3 6,1 Z" />
-  <path
-     style="fill:#888888"
-     inkscape:connector-curvature="0"
-     id="path8"
-     d="M 15,9 15,11 1,11 1,9 Z" />
-  <path
-     style="fill:#888888"
-     inkscape:connector-curvature="0"
-     id="path10"
-     d="M 15,5 15,7 6,7 6,5 Z" />
-  <path
-     style="fill:#888888"
-     inkscape:connector-curvature="0"
-     id="path12"
-     d="m 15,13 0,2 -14,0 0,-2 z" />
-  <path
-     style="fill:#dc322f"
-     d="M 5,4 1,1 1,7 Z"
-     id="path14"
+     style="color:#bebebe;fill:#6c71c4"
+     d="m 6.0049171,3.8524977 c -0.7972242,2.8289748 -0.8156037,6.7456763 0.6070581,8.6776543 0.5979555,0.916422 1.4138734,2.121616 0.7743575,3.218368 -1.1821857,1.711057 -3.1529084,2.63409 -4.9472838,3.566299 -0.6095743,0.06235 -0.3893813,0.627193 -0.4301987,1.043792 -9.774e-4,0.331314 -0.099723,0.764018 0.3871788,0.608882 l 7.915652,0 1.376636,0 7.915654,0 c 0.486902,0.155136 0.388155,-0.277568 0.387179,-0.608882 -0.04083,-0.416599 0.179377,-0.981443 -0.430198,-1.043792 -1.794376,-0.932209 -3.765097,-1.855242 -4.947284,-3.566299 -0.639515,-1.096752 0.176403,-2.301946 0.774357,-3.218368 1.502858,-2.103108 1.698284,-6.6789452 0.602278,-8.741783 C 15,1.9999991 14,1.0687176 11,0.99999897 7.9952206,1.1208411 7.0000004,1.9999991 6.0049171,3.8524977 Z"
+     id="path4"
      inkscape:connector-curvature="0" />
 </svg>
