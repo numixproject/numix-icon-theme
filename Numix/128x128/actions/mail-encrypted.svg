@@ -13,7 +13,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="package-installed-locked.svg">
+   sodipodi:docname="mail-encrypted.svg">
   <metadata
      id="metadata18">
     <rdf:RDF>
@@ -22,6 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -39,40 +40,41 @@
      inkscape:window-width="1366"
      inkscape:window-height="704"
      id="namedview14"
-     showgrid="true"
-     inkscape:zoom="10.877982"
-     inkscape:cx="104.36686"
-     inkscape:cy="5.1420593"
+     showgrid="false"
+     inkscape:zoom="1"
+     inkscape:cx="60.469498"
+     inkscape:cy="30.274725"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2">
     <inkscape:grid
        type="xygrid"
-       id="grid4138" />
+       id="grid4156" />
   </sodipodi:namedview>
   <path
-     style="fill:#c19553"
-     inkscape:connector-curvature="0"
-     id="path6"
-     d="M 8,0 C 4.515625,0 0,4.515625 0,8 l 0,104 c 0,3.29688 4.703125,8 8,8 l 104,0 c 3.29688,0 8,-4.70312 8,-8 L 120,8 c 0,-3.296875 -4.70312,-8 -8,-8 z" />
-  <path
-     style="fill:#ffffff;fill-opacity:0.19599998"
-     inkscape:connector-curvature="0"
-     id="path8"
-     d="M 8,0 C 4.515625,0 0,4.515625 0,8 l 0,32 c 13.546875,0 106.45313,0 120,0 l 0,-32 c 0,-3.296875 -4.70312,-8 -8,-8 z" />
-  <path
-     style="fill:#ffffff;fill-opacity:0.39200003"
-     inkscape:connector-curvature="0"
-     id="path10"
-     d="m 48,16 0,48 24,0 0,-48 z" />
+     style="fill:#268bd2"
+     d="M 8 32 C 0 32 0 32 0 40 L 0 120 C 0 128 0 128 8 128 L 120 128 C 128 128 128 128 128 120 C 128 94.25 128 54.875 128 40 C 128 32 128 32 120 32 Z "
+     id="path4" />
+  <g
+     style="fill-opacity:.102"
+     id="g6">
+    <path
+       style="fill:#fff"
+       d="M 3.5 32.054688 C 0.125 32.429688 0 34.054688 0 40.046875 L 64 80 L 128 40.046875 C 128 32.054688 128 32.054688 120 32.054688 L 8 32.054688 C 6 32.054688 4.625 31.929688 3.5 32.054688 Z "
+       id="path8" />
+    <path
+       style="fill:#000"
+       d="M 128 40 L 64 80 L 128 120 Z "
+       id="path10" />
+  </g>
   <g
      id="g4150"
-     transform="matrix(0.5,0,0,0.5,68,64)">
+     transform="matrix(0.5,0,0,0.5,60,64)">
     <path
        id="path4140"
        d="m 64,0 c 0,0 39.95703,0 40,28.375 l 0,24.4375 c 0,0 16,0 16,6.421875 l 0,58.582035 C 120,123.20313 114.28125,128 108,128 l -88,0 C 13.71875,128 8,123.20313 8,117.81641 L 8,59.234375 C 8,52.8125 24,52.765625 24,52.765625 L 24,28.375 C 24.328125,0.0390625 64,0 64,0 Z m 0,14.207031 c 0,0 -24,0 -24,21.253907 L 40,52 88,52 88,35.460938 C 88,14.207031 64,14.207031 64,14.207031 Z"
-       style="fill:#859900"
+       style="fill:#dc322f;fill-opacity:1"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccssssssccccsccsc" />
     <path
