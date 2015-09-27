@@ -7,12 +7,12 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="48"
-   viewBox="0 0 48 48"
-   height="48"
+   width="96"
+   viewBox="0 0 96 96"
+   height="96"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
+   inkscape:version="0.91 r"
    sodipodi:docname="gnome-fs-loading-icon.svg">
   <metadata
      id="metadata12">
@@ -22,6 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -37,22 +38,24 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1023"
+     inkscape:window-height="1056"
      id="namedview8"
      showgrid="false"
-     inkscape:zoom="54.843234"
-     inkscape:cx="13.720274"
-     inkscape:cy="24"
+     inkscape:zoom="3.4277021"
+     inkscape:cx="-6.4111005"
+     inkscape:cy="20.329677"
      inkscape:window-x="0"
-     inkscape:window-y="28"
+     inkscape:window-y="24"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2" />
   <path
-     style="opacity:0.5;fill:#f5c14e;line-height:normal;color:#000;fill-opacity:1"
-     d="M 7,4 C 7,4 4,4 4,7 L 4.0000107,9.0010178 8,8.9999998 l 0,-1 1.0000107,0.00102 0,-4 L 7,4 z m 14,0 0,4 6,0 0,-4 z m 10,0 0,4 5,0 0,-4 z m 8.000011,0.00102 0,4 L 40,8 40,9 44.000011,9.00102 44,7 C 44,7 44,4 41,4 z M 12,4 l 0,4 5,0 0,-4 z m 27.999989,7.99898 0,5 L 44,17 44,12 z M 4,12 4.0000107,17.001018 8,17 7.9999893,11.998982 z m 35.999989,8.99898 0,7 L 44,28 44,21 z m 0,11 0,4 L 44,36 44,32 z M 4,21 l 0,6 3.9999893,-0.001 0,-6 z m 0,10 0,5 3.9999893,-10e-4 0,-5 z m 1.07e-5,8.001018 L 4,41 c 0,3 3,3 3,3 l 2.0000107,0.001 L 8.9999997,40 7.999989,39.998982 8,39 z M 40,38.999998 39.999989,39.99898 39,40 39.000011,44.001018 41,44 c 3,0 3,-3 3,-3 l 1.1e-5,-1.998982 z M 11.999989,39.998982 12,44 l 5,0 -1.1e-5,-4.001018 z m 9,0 L 21,44 l 6,0 -1.1e-5,-4.001018 z m 10,0 L 31,44 l 5,0 -1.1e-5,-4.001018 z"
-     id="path4" />
+     style="color:#000000;line-height:normal;opacity:0.5;fill:#f5c14e;fill-opacity:1"
+     d="m 13.999998,8.000011 c 0,0 -5.999998,0 -5.999998,5.999846 l 2.14e-5,4.001933 7.9999766,-0.002 0,-1.999949 2.000021,0.002 0,-7.999794 -4.000021,-0.002 z m 27.999993,0 0,7.999794 11.999996,0 0,-7.999794 z m 19.999994,0 0,7.999794 9.999997,0 0,-7.999794 z m 16.000018,0.002 0,7.999794 1.999977,-0.002 0,1.999949 8.00002,0.002 -2.2e-5,-4.001897 c 0,0 0,-5.999846 -5.999998,-5.999846 z m -54.000007,-0.002 0,7.999794 9.999997,0 0,-7.999794 z m 55.999962,15.997548 0,9.999743 8.00002,0.002 0,-9.999743 z M 8,23.999599 l 2.14e-5,10.001779 7.9999766,-0.002 -2.2e-5,-10.001779 z m 71.999958,17.997497 0,13.99964 8.00002,0.002 0,-13.99964 z m 0,21.999434 0,7.999795 8.00002,0.002 0,-7.999795 z M 8,41.999136 l 0,11.999692 7.999976,-0.002 0,-11.999692 z m 0,19.999486 0,9.999743 7.999976,-0.002 0,-9.999743 z M 8.0000214,78.000246 8,81.998107 c 0,5.999846 5.999998,5.999846 5.999998,5.999846 l 4.000021,0.002 -2.2e-5,-8.001794 -2.000021,-0.002 2.2e-5,-1.997949 z m 71.9999586,-0.002 -2.2e-5,1.997913 -1.999977,0.002 2.2e-5,8.00183 3.999977,-0.002 c 5.999998,0 5.999998,-5.999846 5.999998,-5.999846 L 88,78.000246 Z m -56.000006,1.997917 2.2e-5,8.00183 9.999997,0 -2.2e-5,-8.00183 z m 17.999995,0 2.2e-5,8.00183 11.999996,0 -2.2e-5,-8.00183 z m 19.999994,0 2.2e-5,8.00183 9.999997,0 -2.2e-5,-8.00183 z"
+     id="path4"
+     inkscape:connector-curvature="0" />
   <path
-     style="fill:none;stroke:#e9a439;stroke-linejoin:round;stroke-linecap:round;stroke-width:2;stroke-opacity:1;opacity:0.8"
-     d="m 24,12 0,12 6,6"
-     id="path6" />
+     style="opacity:0.8;fill:none;stroke:#e9a439;stroke-width:1.99999988;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+     d="m 47.99999,24.000138 0,23.999027 11.9998,11.999512"
+     id="path6"
+     inkscape:connector-curvature="0" />
 </svg>
