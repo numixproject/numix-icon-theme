@@ -13,7 +13,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r"
-   sodipodi:docname="usbpendrive-unmount.svg">
+   sodipodi:docname="drive-removable-media-usb.svg">
   <metadata
      id="metadata10">
     <rdf:RDF>
@@ -36,29 +36,31 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="640"
-     inkscape:window-height="480"
+     inkscape:window-width="1920"
+     inkscape:window-height="1056"
      id="namedview6"
-     showgrid="false"
-     inkscape:zoom="14.75"
-     inkscape:cx="8"
-     inkscape:cy="8"
+     showgrid="true"
+     inkscape:zoom="20.85965"
+     inkscape:cx="13.572223"
+     inkscape:cy="2.3209227"
      inkscape:window-x="0"
-     inkscape:window-y="27"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="svg2" />
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4138" />
+  </sodipodi:namedview>
   <path
      style="fill:#dc4946;fill-opacity:1;stroke:none"
-     d="M 7.9999999,16 C 12,16 12.003364,12.5 12.003364,12.5 l 0,-7.4865442 c 0,-0.554 -0.446,-1 -1,-1 l -6.0067275,0 c -0.5540004,0 -1.0000004,0.446 -1.0000004,1 l 0,7.4865442 c 0,0 0.00336,3.5 4.0033638,3.5 z"
+     d="M 7.9999999,16 C 12,16 12,12.5 12,12.5 L 12,5 C 12,4.446 11.554,4 11,4 L 5.0000002,4 C 4.4459998,4 3.9999998,4.446 3.9999998,5 l 0,7.5 c 0,0 -3.7e-6,3.5 4.0000001,3.5 z"
      id="rect2991"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="scsssscs" />
   <path
      style="opacity:0.39446369;fill:#ffffff;fill-opacity:1;stroke:none"
-     d="m 9.9999999,15.6045 0,-11.6044993 1.0000001,0 0,10.9280903 c -0.262907,0.205663 -0.593092,0.567641 -1.0000001,0.676409 z"
-     id="rect3761"
-     inkscape:connector-curvature="0"
-     sodipodi:nodetypes="ccccc" />
+     d="M 10 4 L 10 15.607422 C 10.40957 15.420151 10.741269 15.181754 11 14.916016 L 11 4 L 10 4 z "
+     id="rect3761" />
   <rect
      style="fill:#657b83;fill-opacity:1;stroke:none"
      id="rect3763"
@@ -69,20 +71,20 @@
      transform="scale(1,-1)"
      ry="0" />
   <rect
-     style="opacity:0.31141872;fill:#ffffff;fill-opacity:1;stroke:none"
-     id="rect3765"
-     width="1"
-     height="4.0000005"
-     x="9"
-     y="-4.000001"
-     transform="scale(1,-1)" />
-  <rect
      style="fill:#002b36;fill-opacity:1;stroke:none"
      id="rect3767"
      width="1"
      height="2"
      x="6"
      y="-3.0000007"
+     transform="scale(1,-1)" />
+  <rect
+     style="opacity:0.31141872;fill:#ffffff;fill-opacity:1;stroke:none"
+     id="rect3765"
+     width="1"
+     height="4.0000005"
+     x="9"
+     y="-4.000001"
      transform="scale(1,-1)" />
   <rect
      style="fill:#002b36;fill-opacity:1;stroke:none"
