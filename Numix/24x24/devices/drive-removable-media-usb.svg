@@ -13,7 +13,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r"
-   sodipodi:docname="usbpendrive-unmount.svg">
+   sodipodi:docname="drive-removable-media-usb.svg">
   <metadata
      id="metadata10">
     <rdf:RDF>
@@ -22,6 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -36,15 +37,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1366"
-     inkscape:window-height="704"
+     inkscape:window-width="1920"
+     inkscape:window-height="1056"
      id="namedview6"
      showgrid="true"
-     inkscape:zoom="27.812867"
-     inkscape:cx="12"
-     inkscape:cy="13.051275"
+     inkscape:zoom="60.682618"
+     inkscape:cx="11.678417"
+     inkscape:cy="9.3273617"
      inkscape:window-x="0"
-     inkscape:window-y="27"
+     inkscape:window-y="24"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2">
     <inkscape:grid
@@ -53,22 +54,21 @@
   </sodipodi:namedview>
   <path
      style="fill:#dc4946;fill-opacity:1;stroke:none"
-     d="m 12,20 c 4,0 4.003364,-3.5 4.003364,-3.5 l 0,-7.4865449 c 0,-0.554 -0.446,-1 -1,-1 l -6.0067274,0 c -0.5540004,0 -1.0000004,0.446 -1.0000004,1 l 0,7.4865449 C 7.9966362,16.5 8,20 12,20 z"
+     d="m 12,20 c 4,0 4,-3.5 4,-3.5 L 16,9 C 16,8.446 15.554,8 15,8 L 9.0000004,8 C 8.446,8 8,8.446 8,9 l 0,7.5 c 0,0 -3.6e-6,3.5 4,3.5 z"
      id="rect2991"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="scsssscs" />
   <path
      style="opacity:0.39446369;fill:#ffffff;fill-opacity:1;stroke:none"
-     d="M 14,19.6045 14,8 l 1,0 0,10.928091 c -0.262907,0.205663 -0.593092,0.567641 -1,0.676409 z"
+     d="m 14,8 0,11.607422 c 0.40957,-0.187271 0.741269,-0.425668 1,-0.691406 L 15,8 14,8 Z"
      id="rect3761"
-     inkscape:connector-curvature="0"
-     sodipodi:nodetypes="ccccc" />
+     inkscape:connector-curvature="0" />
   <rect
      style="fill:#657b83;fill-opacity:1;stroke:none"
      id="rect3763"
      width="6"
      height="4.0000005"
-     x="9"
+     x="9.000001"
      y="-8"
      transform="scale(1,-1)"
      ry="0" />
@@ -81,15 +81,15 @@
      y="-8"
      transform="scale(1,-1)" />
   <rect
-     style="opacity:1;fill:#002b36;fill-opacity:1;stroke:none"
+     style="fill:#002b36;fill-opacity:1;stroke:none"
      id="rect3767"
      width="1"
      height="2"
-     x="10"
+     x="10.000001"
      y="-7"
      transform="scale(1,-1)" />
   <rect
-     style="opacity:1;fill:#002b36;fill-opacity:1;stroke:none"
+     style="fill:#002b36;fill-opacity:1;stroke:none"
      id="rect3769"
      width="1"
      height="2"
