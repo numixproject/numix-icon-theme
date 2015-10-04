@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="96px" height="96px" viewBox="0 0 72 72" version="1.1">
+  <g id="surface1">
+    <path style="fill:none;stroke-width:2.322581;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(68.627451%,52.156863%,40%);stroke-opacity:1;stroke-miterlimit:4;" d="M 14 12 L 34 12 C 35.104838 12 36 12.895162 36 14 L 36 34 C 36 35.104838 35.104838 36 34 36 L 14 36 C 12.895162 36 12 35.104838 12 34 L 12 14 C 12 12.895162 12.895162 12 14 12 M 14 12 " transform="matrix(1.9375,0,0,1.9375,-10.500001,-10.500001)"/>
+    <path style=" stroke:none;fill-rule:nonzero;fill:rgb(100%,95.686275%,67.058824%);fill-opacity:1;" d="M 17.25 13.5 L 54.75 13.5 C 56.820312 13.5 58.5 15.179688 58.5 17.25 L 58.5 54.75 C 58.5 56.820312 56.820312 58.5 54.75 58.5 L 17.25 58.5 C 15.179688 58.5 13.5 56.820312 13.5 54.75 L 13.5 17.25 C 13.5 15.179688 15.179688 13.5 17.25 13.5 M 17.25 13.5 "/>
+    <path style=" stroke:none;fill-rule:nonzero;fill:rgb(89.411765%,83.921569%,41.568627%);fill-opacity:1;" d="M 13.5 45 L 58.5 45 L 58.5 48 L 13.5 48 Z M 13.5 45 "/>
+    <path style=" stroke:none;fill-rule:nonzero;fill:rgb(89.411765%,83.921569%,41.568627%);fill-opacity:1;" d="M 13.5 36 L 58.5 36 L 58.5 39 L 13.5 39 Z M 13.5 36 "/>
+    <path style=" stroke:none;fill-rule:nonzero;fill:rgb(89.411765%,83.921569%,41.568627%);fill-opacity:1;" d="M 13.5 27 L 58.5 27 L 58.5 30 L 13.5 30 Z M 13.5 27 "/>
+    <path style=" stroke:none;fill-rule:nonzero;fill:rgb(90.196078%,69.803922%,66.27451%);fill-opacity:1;" d="M 25.5 13.5 L 28.5 13.5 L 28.5 58.5 L 25.5 58.5 Z M 25.5 13.5 "/>
+    <path style=" stroke:none;fill-rule:evenodd;fill:rgb(14.901961%,54.509804%,82.352941%);fill-opacity:1;" d="M 36 51 C 36 42.71875 42.71875 36 51 36 C 59.28125 36 66 42.71875 66 51 C 66 59.28125 59.28125 66 51 66 C 42.71875 66 36 59.28125 36 51 Z M 36 51 "/>
+    <path style=" stroke:none;fill-rule:nonzero;fill:rgb(100%,100%,100%);fill-opacity:0.901961;" d="M 48 40.5 L 54 40.5 L 54 52.5 L 48 52.5 L 48 40.5 "/>
+    <path style=" stroke:none;fill-rule:evenodd;fill:rgb(100%,100%,100%);fill-opacity:0.901961;" d="M 48 58.5 C 48 56.847656 49.347656 55.5 51 55.5 C 52.652344 55.5 54 56.847656 54 58.5 C 54 60.152344 52.652344 61.5 51 61.5 C 49.347656 61.5 48 60.152344 48 58.5 Z M 48 58.5 "/>
+  </g>
+</svg>

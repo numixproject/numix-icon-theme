@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="96px" height="96px" viewBox="0 0 72 72" version="1.1">
+  <defs>
+    <linearGradient id="linear0" gradientUnits="userSpaceOnUse" x1="22.454058" y1="-7" x2="22.454058" y2="23" gradientTransform="matrix(1.5,0,0,1.5,0,0)">
+      <stop offset="0" style="stop-color:rgb(51.372549%,58.039216%,58.823529%);stop-opacity:1;"/>
+      <stop offset="1" style="stop-color:rgb(40%,46.27451%,47.058824%);stop-opacity:1;"/>
+    </linearGradient>
+  </defs>
+  <g id="surface1">
+    <path style=" stroke:none;fill-rule:nonzero;fill:url(#linear0);" d="M 33 12 C 31.339844 12 30 13.339844 30 15 L 30 16.5 L 27 16.5 C 25.339844 16.5 24 17.839844 24 19.5 L 24 57 C 24 58.660156 25.339844 60 27 60 L 45 60 C 46.660156 60 48 58.660156 48 57 L 48 19.5 C 48 17.839844 46.660156 16.5 45 16.5 L 42 16.5 L 42 15 C 42 13.339844 40.660156 12 39 12 Z M 33 12 "/>
+    <path style=" stroke:none;fill-rule:nonzero;fill:rgb(43.529412%,65.490196%,80.784314%);fill-opacity:1;" d="M 27 38.25 L 45 38.25 C 46.65625 38.25 48 39.59375 48 41.25 L 48 57 C 48 58.65625 46.65625 60 45 60 L 27 60 C 25.34375 60 24 58.65625 24 57 L 24 41.25 C 24 39.59375 25.34375 38.25 27 38.25 Z M 27 38.25 "/>
+    <path style=" stroke:none;fill-rule:nonzero;fill:rgb(100%,100%,100%);fill-opacity:0.2;" d="M 36 12 L 39 12 L 39 16.5 L 36 16.5 Z M 36 12 "/>
+    <path style=" stroke:none;fill-rule:nonzero;fill:rgb(43.529412%,65.490196%,80.784314%);fill-opacity:0.2;" d="M 27 16.5 L 45 16.5 C 46.65625 16.5 48 17.84375 48 19.5 L 48 57 C 48 58.65625 46.65625 60 45 60 L 27 60 C 25.34375 60 24 58.65625 24 57 L 24 19.5 C 24 17.84375 25.34375 16.5 27 16.5 Z M 27 16.5 "/>
+    <path style=" stroke:none;fill-rule:nonzero;fill:rgb(100%,100%,100%);fill-opacity:0.2;" d="M 40.5 16.5 L 45 16.5 L 45 60 L 40.5 60 Z M 40.5 16.5 "/>
+    <path style=" stroke:none;fill-rule:evenodd;fill:rgb(100%,100%,100%);fill-opacity:1;" d="M 42 22.5 L 26.25 40.5 L 36 40.5 L 30 54 L 45.75 34.5 L 38.25 34.5 Z M 42 22.5 "/>
+  </g>
+</svg>
