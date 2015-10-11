@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="96px" height="96px" viewBox="0 0 72 72" version="1.1">
+  <defs>
+    <clipPath id="clip1">
+      <path d="M 21 27 L 51 27 L 51 50 L 21 50 Z M 21 27 "/>
+    </clipPath>
+    <clipPath id="clip2">
+      <path d="M 64.75 40.839844 C 64.75 55.492188 51.875 67.363281 36.007812 67.363281 C 20.144531 67.363281 7.269531 55.492188 7.269531 40.839844 C 7.269531 26.183594 20.144531 14.3125 36.007812 14.3125 C 51.875 14.3125 64.75 26.183594 64.75 40.839844 Z M 64.75 40.839844 "/>
+    </clipPath>
+    <clipPath id="clip3">
+      <path d="M 25 45 L 48 45 L 48 56 L 25 56 Z M 25 45 "/>
+    </clipPath>
+    <clipPath id="clip4">
+      <path d="M 64.75 40.839844 C 64.75 55.492188 51.875 67.363281 36.007812 67.363281 C 20.144531 67.363281 7.269531 55.492188 7.269531 40.839844 C 7.269531 26.183594 20.144531 14.3125 36.007812 14.3125 C 51.875 14.3125 64.75 26.183594 64.75 40.839844 Z M 64.75 40.839844 "/>
+    </clipPath>
+  </defs>
+  <g id="surface1">
+    <path style=" stroke:none;fill-rule:nonzero;fill:rgb(21.568627%,41.568627%,58.039216%);fill-opacity:1;" d="M 12 1.5 C 10.457031 1.5 9 2.957031 9 4.5 L 9 67.5 C 9 68.957031 10.542969 70.5 12 70.5 L 60 70.5 C 61.457031 70.5 63 68.957031 63 67.5 L 63 21 L 43.5 1.5 Z M 12 1.5 "/>
+    <path style=" stroke:none;fill-rule:nonzero;fill:rgb(0%,0%,0%);fill-opacity:0.196078;" d="M 43.5 18 L 43.59375 18.09375 L 43.828125 18 Z M 46.5 21 L 63 37.5 L 63 21 Z M 46.5 21 "/>
+    <path style=" stroke:none;fill-rule:nonzero;fill:rgb(100%,100%,100%);fill-opacity:0.392157;" d="M 43.5 1.5 L 63 21 L 46.5 21 C 45.042969 21 43.5 19.457031 43.5 18 Z M 43.5 1.5 "/>
+    <g clip-path="url(#clip1)" clip-rule="nonzero">
+      <g clip-path="url(#clip2)" clip-rule="nonzero">
+        <path style=" stroke:none;fill-rule:nonzero;fill:rgb(100%,100%,100%);fill-opacity:1;" d="M 30 27 C 25.09375 27 21 31.472656 21 36 L 21 40.5 C 21 45.027344 25.09375 49.5 30 49.5 L 42 49.5 C 46.90625 49.5 51 45.027344 51 40.5 L 51 36 C 51 31.472656 46.90625 27 42 27 "/>
+      </g>
+    </g>
+    <g clip-path="url(#clip3)" clip-rule="nonzero">
+      <g clip-path="url(#clip4)" clip-rule="nonzero">
+        <path style=" stroke:none;fill-rule:nonzero;fill:rgb(100%,100%,100%);fill-opacity:1;" d="M 48 45 L 30 45 L 25.5 55.5 "/>
+      </g>
+    </g>
+  </g>
+</svg>
