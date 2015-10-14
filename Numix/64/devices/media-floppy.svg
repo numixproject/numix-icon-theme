@@ -1,3 +1,12 @@
-<svg width="64" xmlns="http://www.w3.org/2000/svg" height="64" viewBox="0 0 64 64" xmlns:xlink="http://www.w3.org/1999/xlink">
-<path style="fill:#909ea9" d="M 10.667969 10.667969 L 10.667969 53.332031 L 53.332031 53.332031 L 53.332031 16 L 48 10.667969 Z M 13.332031 13.332031 L 25.332031 13.332031 L 25.332031 21.332031 L 45.332031 21.332031 L 45.332031 13.332031 L 46.667969 13.332031 L 50.667969 17.332031 L 50.667969 50.667969 L 48 50.667969 L 48 25.332031 L 16 25.332031 L 16 50.667969 L 13.332031 50.667969 Z M 38.667969 13.332031 L 42.667969 13.332031 L 42.667969 20 L 38.667969 20 Z M 17.332031 33.332031 L 46.667969 33.332031 L 46.667969 34.667969 L 17.332031 34.667969 Z M 17.332031 42.667969 L 46.667969 42.667969 L 46.667969 44 L 17.332031 44 Z "/>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64px" height="64px" viewBox="0 0 48 48" version="1.1">
+  <g id="surface1">
+    <path style=" stroke:none;fill-rule:nonzero;fill:rgb(0%,16.862745%,21.176471%);fill-opacity:1;" d="M 7.5 7.5 L 7.5 40.5 L 40.5 40.5 L 40.5 12 L 36 7.5 Z M 7.5 7.5 "/>
+    <path style=" stroke:none;fill-rule:nonzero;fill:rgb(57.647059%,63.137255%,63.137255%);fill-opacity:1;" d="M 19.5 7.5 L 19.5 16.5 L 33 16.5 L 33 7.5 Z M 19.5 7.5 "/>
+    <path style=" stroke:none;fill-rule:nonzero;fill:rgb(93.333333%,90.980392%,83.529412%);fill-opacity:1;" d="M 12 19.5 L 12 40.5 L 36 40.5 L 36 19.5 Z M 12 19.5 "/>
+    <path style=" stroke:none;fill-rule:nonzero;fill:rgb(0%,16.862745%,21.176471%);fill-opacity:1;" d="M 31.5 9 L 28.5 9 L 28.5 15 L 31.5 15 Z M 31.5 9 "/>
+    <path style=" stroke:none;fill-rule:nonzero;fill:rgb(0%,16.862745%,21.176471%);fill-opacity:1;" d="M 13.5 25.5 L 13.5 27 L 34.5 27 L 34.5 25.5 Z M 13.5 25.5 "/>
+    <path style=" stroke:none;fill-rule:nonzero;fill:rgb(0%,16.862745%,21.176471%);fill-opacity:1;" d="M 13.5 33 L 13.5 34.5 L 34.5 34.5 L 34.5 33 Z M 13.5 33 "/>
+    <path style=" stroke:none;fill-rule:nonzero;fill:rgb(99.215686%,96.470588%,89.019608%);fill-opacity:0.247059;" d="M 37.5 40.5 L 34.5 40.5 L 34.5 7.5 L 36 7.5 L 37.5 9 Z M 37.5 40.5 "/>
+  </g>
 </svg>
