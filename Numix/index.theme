@@ -939,14 +939,14 @@ Type=Scalable
 
 [256/actions]
 Size=256
-MinSize=56
+MinSize=8
 MaxSize=512
 Context=Actions
 Type=Scalable
 
 [256/places]
 Size=256
-MinSize=56
+MinSize=8
 MaxSize=512
 Context=Places
 Type=Scalable
@@ -954,7 +954,7 @@ Type=Scalable
 [256@2x/actions]
 Size=256
 Scale=2
-MinSize=56
+MinSize=8
 MaxSize=512
 Context=Actions
 Type=Scalable
@@ -962,7 +962,7 @@ Type=Scalable
 [256@2x/places]
 Size=256
 Scale=2
-MinSize=56
+MinSize=8
 MaxSize=512
 Context=Places
 Type=Scalable
