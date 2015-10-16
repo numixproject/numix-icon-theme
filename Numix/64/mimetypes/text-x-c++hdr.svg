@@ -13,7 +13,7 @@
    version="1.1"
    id="svg2"
    inkscape:version="0.91 r"
-   sodipodi:docname="text-x-chdr.svg">
+   sodipodi:docname="text-x-c++hdr.svg">
   <metadata
      id="metadata39">
     <rdf:RDF>
@@ -55,9 +55,9 @@
      inkscape:window-height="1056"
      id="namedview35"
      showgrid="true"
-     inkscape:zoom="8"
-     inkscape:cx="59.084272"
-     inkscape:cy="10.163426"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="74.127853"
+     inkscape:cy="-188.5819"
      inkscape:window-x="0"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
@@ -82,7 +82,7 @@
      d="M 38,0 55.984375,18 40.757812,18 C 39.410156,18 38,16.574219 38,15.226562 Z m 0,0"
      style="fill:#ffffff;fill-opacity:0.39215698;fill-rule:nonzero;stroke:none" />
   <g
-     transform="matrix(1.6922056,0,0,1.5823645,-7.2729512,-10.181817)"
+     transform="matrix(1.1281142,0,0,1.0548883,-5.8481034,3.546295)"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32.66667175px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#3e3e3e;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      id="text4137">
     <path
@@ -100,4 +100,14 @@
     <g
        id="g55" />
   </g>
+  <path
+     inkscape:connector-curvature="0"
+     style="fill:#3e3e3e;fill-opacity:1;fill-rule:nonzero;stroke:none"
+     d="m 40,38 -4,0 0,4 -2,0 0,-4 -4,0 0,-2 4,0 0,-4 2,0 0,4 4,0"
+     id="path4154" />
+  <path
+     inkscape:connector-curvature="0"
+     style="fill:#3e3e3e;fill-opacity:1;fill-rule:nonzero;stroke:none"
+     d="m 52,36 0,2 -4,0 0,4 -2,0 0,-4 -4,0 0,-2 4,0 0,-4 2,0 0,4 2,0"
+     id="path4156" />
 </svg>
