@@ -13,7 +13,7 @@
    version="1.1"
    id="svg2"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="text-x-gettext-translation-template0.svg">
+   sodipodi:docname="text-x-gettext-translation-template.svg">
   <metadata
      id="metadata27">
     <rdf:RDF>
@@ -22,7 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -41,8 +41,8 @@
      inkscape:window-height="704"
      id="namedview23"
      showgrid="false"
-     inkscape:zoom="1"
-     inkscape:cx="6.9922657"
+     inkscape:zoom="5.9551649"
+     inkscape:cx="18.011442"
      inkscape:cy="32"
      inkscape:window-x="0"
      inkscape:window-y="27"
@@ -72,7 +72,7 @@
      sodipodi:nodetypes="scscscscsccccccccccccccscscccscccscccscccscccsccsccccc" />
   <path
      style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.1375"
-     d="m 24,19 0,25 2,0 0,-12 15.999999,0 L 35.500042,26.5 42,21 26,21 26,19 Z"
+     d="m 24,15 0,25 2,0 0,-12 15.999999,0 L 35.500042,22.5 42,17 26,17 26,15 Z"
      id="rect4148"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="cccccccccc" />
