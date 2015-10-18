@@ -34,37 +34,73 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="640"
-     inkscape:window-height="480"
-     id="namedview3139" />
-  <g
-     transform="translate(0 -1004.3622)"
-     id="g3127">
-    <rect
-       width="48"
-       x="-.063"
-       y="1004.362"
-       height="48"
-       style="fill:none"
-       id="rect3129" />
-  </g>
-  <g
-     style="fill:#919fa9;line-height:normal"
-     transform="translate(0 -1004.3622)"
-     id="g3131">
-    <path
-       style="color:#000"
-       d="M 14.5625 8 C 13.102417 8 11.90625 9.19625 11.90625 10.65625 L 11.90625 37.3125 C 11.90625 38.7726 13.102417 40 14.5625 40 L 33.4375 40 C 34.897583 40 36.09375 38.7726 36.09375 37.3125 L 36.09375 10.65625 C 36.09375 9.19625 34.897583 8 33.4375 8 L 14.5625 8 z M 14.5625 10 L 33.4375 10 C 33.824178 10 34.09375 10.26965 34.09375 10.65625 L 34.09375 35.28125 C 34.09375 35.66795 33.824178 35.96875 33.4375 35.96875 L 14.5625 35.96875 C 14.175822 35.96875 13.90625 35.66795 13.90625 35.28125 L 13.90625 10.65625 C 13.90625 10.26965 14.175822 10 14.5625 10 z M 33 37 C 33.552285 37 34 37.447715 34 38 C 34 38.552285 33.552285 39 33 39 C 32.447715 39 32 38.552285 32 38 C 32 37.447715 32.447715 37 33 37 z "
-       transform="translate(0 1004.3622)"
-       id="path3133" />
-    <path
-       d="m 13,26 22,0 0,1 -22,0 z"
-       transform="translate(0 1004.3622)"
-       id="path3135" />
-    <path
-       style="color:#000"
-       d="m 17,13 0,0.5 0,20 0,0.5 0.5,0 13,0 0.5,0 0,-0.5 0,-17.5 0,-1 -2,-2 -11.5,0 z m 1,13 12,0 0,7 -12,0 z"
-       transform="translate(0 1004.3622)"
-       id="path3137" />
-  </g>
+     inkscape:window-width="1920"
+     inkscape:window-height="1056"
+     id="namedview3139"
+     showgrid="true"
+     inkscape:zoom="9.8333333"
+     inkscape:cx="12.570259"
+     inkscape:cy="15.720171"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3125">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4151" />
+  </sodipodi:namedview>
+  <rect
+     style="opacity:1;fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     id="rect4153"
+     width="38"
+     height="26"
+     x="5"
+     y="11" />
+  <rect
+     style="opacity:1;fill:#fffedb;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     id="rect4155"
+     width="30"
+     height="18"
+     x="9"
+     y="15" />
+  <path
+     style="fill:#a6e3ff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 12,30 21,0 0,-7 -6,2 -5,-5 -4,7 -3,-3 z"
+     id="path4166"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cccccccc" />
+  <path
+     style="opacity:1;fill:#858585;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     d="M 32,7 43,11 43,36.999999 32,41 Z"
+     id="rect4157"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ccccc" />
+  <circle
+     style="opacity:1;fill:#e4db5c;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     id="path4160"
+     cx="7"
+     cy="33"
+     r="1" />
+  <circle
+     r="1"
+     cy="30"
+     cx="7"
+     id="circle4162"
+     style="opacity:1;fill:#858585;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+  <circle
+     style="opacity:1;fill:#858585;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     id="circle4164"
+     cx="7"
+     cy="27"
+     r="1" />
+  <circle
+     style="opacity:1;fill:#f6e972;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     id="path4168"
+     cx="14"
+     cy="20"
+     r="2" />
+  <path
+     style="opacity:0.3;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     d="M 11 11 L 11 37 L 13 37 L 13 11 L 11 11 z "
+     id="rect4170" />
 </svg>
