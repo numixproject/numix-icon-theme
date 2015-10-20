@@ -1,4 +1,51 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" viewBox="0 0 16 16" height="16">
- <path d="M 5 0 L 5 2 L 2 2 L 2 16 L 14 16 L 14 2 L 11 2 L 11 0 L 5 0 z M 10 3 L 9 8 L 12 8 L 6 15 L 7 10 L 4 10 L 10 3 z " opacity="0.6" fill="#353535"/>
- <path d="M 2 10 L 2 16 L 14 16 L 14 10 L 10.28125 10 L 6 15 L 7 10 L 4 10 L 2 10 z " fill="#353535"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="16"
+   viewBox="0 0 16 16"
+   height="16"
+   id="svg347"
+   version="1.1"
+   inkscape:version="0.91 r"
+   sodipodi:docname="battery-low-charging-symbolic.svg">
+  <metadata
+     id="metadata357">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs355" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview353" />
+  <path
+     d="M 5 0 L 5 2 L 2 2 L 2 16 L 14 16 L 14 2 L 11 2 L 11 0 L 5 0 z M 10 3 L 9 8 L 12 8 L 6 15 L 7 10 L 4 10 L 10 3 z "
+     opacity="0.6"
+     fill="#353535"
+     id="path349" />
+  <path
+     d="M 2 10 L 2 16 L 14 16 L 14 10 L 10.28125 10 L 6 15 L 7 10 L 4 10 L 2 10 z "
+     fill="#353535"
+     id="path351" />
 </svg>

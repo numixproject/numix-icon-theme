@@ -1,15 +1,92 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
-<g style="fill:#353535">
-<g transform="translate(-401.0002 -57)">
-<path d="m 409.0002,59 c -3.30289,0 -6,2.69711 -6,6 0,3.30289 2.69711,6 6,6 3.3029,0 6,-2.69711 6,-6 0,-3.30289 -2.6971,-6 -6,-6 z m 0,1 c 2.76142,0 5,2.23858 5,5 0,2.76142 -2.23858,5 -5,5 -2.76142,0 -5,-2.23858 -5,-5 0,-2.76142 2.23858,-5 5,-5 z"/>
-</g>
-<g style="color:#000" transform="translate(-401.0002 -57)">
-<path style="opacity:.5" d="m 409.0002,61 c -2.20914,0 -4,1.79086 -4,4 0,2.20914 1.79086,4 4,4 2.20914,0 4,-1.79086 4,-4 0,-2.20914 -1.79086,-4 -4,-4 z m 0,1 c 1.65685,0 3,1.34315 3,3 0,1.65685 -1.34315,3 -3,3 -1.65685,0 -3,-1.34315 -3,-3 0,-1.65685 1.34315,-3 3,-3 z"/>
-<rect width="3" x="401" y="64" rx="1" height="2"/>
-<rect width="2" x="408" y="57" rx="1" height="3"/>
-<rect width="3" x="414" y="64" rx="1" height="2"/>
-<rect width="2" x="408" y="70" rx="1" height="3"/>
-<path d="m 170,682 a 2,2 0 1 1 -4,0 2,2 0 1 1 4,0 z" transform="translate(241.0002 -617)"/>
-</g>
-</g>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 16 16"
+   id="svg2173"
+   version="1.1"
+   inkscape:version="0.91 r"
+   sodipodi:docname="edit-find-symbolic.svg">
+  <metadata
+     id="metadata2199">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs2197" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview2195" />
+  <g
+     style="fill:#353535"
+     id="g2175">
+    <g
+       transform="translate(-401.0002 -57)"
+       id="g2177">
+      <path
+         d="m 409.0002,59 c -3.30289,0 -6,2.69711 -6,6 0,3.30289 2.69711,6 6,6 3.3029,0 6,-2.69711 6,-6 0,-3.30289 -2.6971,-6 -6,-6 z m 0,1 c 2.76142,0 5,2.23858 5,5 0,2.76142 -2.23858,5 -5,5 -2.76142,0 -5,-2.23858 -5,-5 0,-2.76142 2.23858,-5 5,-5 z"
+         id="path2179" />
+    </g>
+    <g
+       style="color:#000"
+       transform="translate(-401.0002 -57)"
+       id="g2181">
+      <path
+         style="opacity:.5"
+         d="m 409.0002,61 c -2.20914,0 -4,1.79086 -4,4 0,2.20914 1.79086,4 4,4 2.20914,0 4,-1.79086 4,-4 0,-2.20914 -1.79086,-4 -4,-4 z m 0,1 c 1.65685,0 3,1.34315 3,3 0,1.65685 -1.34315,3 -3,3 -1.65685,0 -3,-1.34315 -3,-3 0,-1.65685 1.34315,-3 3,-3 z"
+         id="path2183" />
+      <rect
+         width="3"
+         x="401"
+         y="64"
+         rx="1"
+         height="2"
+         id="rect2185" />
+      <rect
+         width="2"
+         x="408"
+         y="57"
+         rx="1"
+         height="3"
+         id="rect2187" />
+      <rect
+         width="3"
+         x="414"
+         y="64"
+         rx="1"
+         height="2"
+         id="rect2189" />
+      <rect
+         width="2"
+         x="408"
+         y="70"
+         rx="1"
+         height="3"
+         id="rect2191" />
+      <path
+         d="m 170,682 a 2,2 0 1 1 -4,0 2,2 0 1 1 4,0 z"
+         transform="translate(241.0002 -617)"
+         id="path2193" />
+    </g>
+  </g>
 </svg>

@@ -1,6 +1,59 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16.001" width="16" height="16">
- <g transform="matrix(.5019 0 0 .50143 -4.5535 -507.67635)" fill="#353535">
-  <rect width="11.955" x="19.03" y="1012.46" rx="5.977" height="21.937" ry="5.978"/>
-  <path d="m 15.04981,24.051238 c 0,0 0,9.971482 7.969716,9.971482 l 0,3.988593 -3.984858,0 0,1.994296 12.250987,0 0,-1.994296 -4.281272,0 0,-3.988593 c 7.969716,0 7.969716,-9.971482 7.969716,-9.971482 l -1.992429,0 c 0,0 0.03028,7.977186 -7.969715,7.977186 -8,0 -7.969716,-7.977186 -7.969716,-7.977186 z" transform="translate(0,1004.3622)"/>
- </g>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 16 16.001"
+   width="16"
+   height="16"
+   id="svg1673"
+   version="1.1"
+   inkscape:version="0.91 r"
+   sodipodi:docname="audio-input-microphone-symbolic.svg">
+  <metadata
+     id="metadata1685">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs1683" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview1681" />
+  <g
+     transform="matrix(.5019 0 0 .50143 -4.5535 -507.67635)"
+     fill="#353535"
+     id="g1675">
+    <rect
+       width="11.955"
+       x="19.03"
+       y="1012.46"
+       rx="5.977"
+       height="21.937"
+       ry="5.978"
+       id="rect1677" />
+    <path
+       d="m 15.04981,24.051238 c 0,0 0,9.971482 7.969716,9.971482 l 0,3.988593 -3.984858,0 0,1.994296 12.250987,0 0,-1.994296 -4.281272,0 0,-3.988593 c 7.969716,0 7.969716,-9.971482 7.969716,-9.971482 l -1.992429,0 c 0,0 0.03028,7.977186 -7.969715,7.977186 -8,0 -7.969716,-7.977186 -7.969716,-7.977186 z"
+       transform="translate(0,1004.3622)"
+       id="path1679" />
+  </g>
 </svg>

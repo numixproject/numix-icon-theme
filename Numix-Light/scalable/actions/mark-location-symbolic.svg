@@ -1,5 +1,48 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
-<g transform="translate(-161.00015 -807)">
-<path style="fill:#353535;color:#000" d="m 169.0002,807 c -2.76142,0 -5,2.23858 -5,5 0,0.34518 0.0272,0.67451 0.0937,1 0.37506,2.83961 3.93256,4.92586 4.9375,8.96875 0.98541,-3.98539 4.99777,-6.918 5,-9.96875 l -0.0312,0 c 0,-2.76142 -2.23858,-5 -5,-5 z m 0,2 c 1.65686,0 3,1.34314 3,3 0,1.65686 -1.34314,3 -3,3 -1.65686,0 -3,-1.34314 -3,-3 0,-1.65686 1.34314,-3 3,-3 z"/>
-</g>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 16 16"
+   id="svg2717"
+   version="1.1"
+   inkscape:version="0.91 r"
+   sodipodi:docname="mark-location-symbolic.svg">
+  <metadata
+     id="metadata2727">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs2725" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview2723" />
+  <g
+     transform="translate(-161.00015 -807)"
+     id="g2719">
+    <path
+       style="fill:#353535;color:#000"
+       d="m 169.0002,807 c -2.76142,0 -5,2.23858 -5,5 0,0.34518 0.0272,0.67451 0.0937,1 0.37506,2.83961 3.93256,4.92586 4.9375,8.96875 0.98541,-3.98539 4.99777,-6.918 5,-9.96875 l -0.0312,0 c 0,-2.76142 -2.23858,-5 -5,-5 z m 0,2 c 1.65686,0 3,1.34314 3,3 0,1.65686 -1.34314,3 -3,3 -1.65686,0 -3,-1.34314 -3,-3 0,-1.65686 1.34314,-3 3,-3 z"
+       id="path2721" />
+  </g>
 </svg>
