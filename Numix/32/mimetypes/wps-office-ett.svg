@@ -12,7 +12,7 @@
    viewBox="0 0 32 32"
    id="svg3001"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="wps-office-ett.svg">
   <metadata
      id="metadata3021">
@@ -36,15 +36,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1280"
-     inkscape:window-height="970"
+     inkscape:window-width="1366"
+     inkscape:window-height="704"
      id="namedview3017"
-     showgrid="true"
-     inkscape:zoom="14.75"
-     inkscape:cx="22.065678"
-     inkscape:cy="16.417468"
+     showgrid="false"
+     inkscape:zoom="33.6875"
+     inkscape:cx="16.616484"
+     inkscape:cy="2.5773057"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg3001">
     <inkscape:grid
@@ -71,15 +71,18 @@
      style="fill:#ffffff"
      inkscape:connector-curvature="0"
      id="path3011"
-     d="m 9,31 0,-5.597539 3.719391,0 0,0.922671 -2.497364,0 0,1.254834 2.169303,0 0,0.922671 -2.169303,0 0,1.574692 2.714704,0 0,0.922671 L 9,31" />
+     d="m 9,31 0,-6 3.675361,0 0,0.989011 -2.475361,0 0,1.116483 2.1,0 0,0.989011 -2.1,0 0,1.916484 2.6927,0 L 12.8927,31 9,31"
+     sodipodi:nodetypes="ccccccccccccc" />
   <path
      style="fill:#ffffff"
      inkscape:connector-curvature="0"
      id="path3013"
-     d="m 18.042179,25.402461 0,0.922671 -1.6157,0 0,4.674868 -1.230228,0 0,-4.674868 -1.615701,0 0,-0.922671 4.461629,0" />
+     d="m 18.011629,25 0,1 -1.705975,0 0,5 -1.230228,0 0,-5 -1.595426,0 0,-1 4.531629,0"
+     sodipodi:nodetypes="ccccccccc" />
   <path
      style="fill:#ffffff"
      inkscape:connector-curvature="0"
      id="path3015"
-     d="m 23,25.402461 0,0.922671 -1.615701,0 0,4.674868 -1.230228,0 0,-4.674868 -1.615699,0 0,-0.922671 4.461628,0" />
+     d="m 23,25 0,1 -1.705976,0 0,5 -1.230228,0 0,-5 -1.525424,0 0,-1 L 23,25"
+     sodipodi:nodetypes="ccccccccc" />
 </svg>
