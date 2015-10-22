@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="64"
+   viewBox="0 0 64 64"
+   height="64"
+   style="enable-background:new"
+   id="svg6665"
+   version="1.1"
+   inkscape:version="0.91 r"
+   sodipodi:docname="weather-clear-night.svg">
+  <metadata
+     id="metadata6673">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1056"
+     id="namedview6671"
+     showgrid="true"
+     inkscape:zoom="7.375"
+     inkscape:cx="-16.005749"
+     inkscape:cy="26.496885"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg6665">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4133" />
+  </sodipodi:namedview>
+  <defs
+     id="defs6667">
+    <linearGradient
+       osb:paint="solid"
+       id="linearGradient5606">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop5608" />
+    </linearGradient>
+  </defs>
+  <path
+     style="fill:#ececec;fill-opacity:1"
+     d="M 31.274273,11 C 20.077103,11 11,20.402017 11,31.999994 11,43.597985 20.077101,53 31.274273,53 34.350406,53 37.263131,52.284635 39.875,51.014819 32.979635,47.662589 28.201455,40.411709 28.201455,31.999994 c 0,-8.411731 4.77818,-15.662571 11.673545,-19.014838 C 37.263131,11.715365 34.350406,11 31.274273,11 Z"
+     id="path6669"
+     inkscape:connector-curvature="0" />
+</svg>
