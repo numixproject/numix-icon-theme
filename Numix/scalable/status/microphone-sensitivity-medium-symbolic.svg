@@ -13,7 +13,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r"
-   sodipodi:docname="audio-input-microphone-symbolic.svg">
+   sodipodi:docname="microphone-sensitivity-medium-symbolic.svg">
   <metadata
      id="metadata14">
     <rdf:RDF>
@@ -22,6 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -52,7 +53,7 @@
        id="grid4142" />
   </sodipodi:namedview>
   <rect
-     style="fill:#bebebe"
+     style="fill:#bebebe;opacity:0.4"
      id="rect6"
      ry="3"
      height="11"
@@ -61,9 +62,15 @@
      x="4.9998126"
      width="6.0002146" />
   <path
-     style="fill:#bebebe"
+     style="fill:#bebebe;opacity:1"
      inkscape:connector-curvature="0"
      id="path8"
      d="m 2.9999996,8.0004998 c 0,0 0,5.0005002 4.0000005,5.0005002 l 0,2.000001 -2.0000002,0 0,0.999999 6.0001871,0 0,-0.999999 -2.0001872,0 0,-2.000001 C 13,13.001 13,8.0004998 13,8.0004998 l -1,0 c 0,0 0.0152,4.0005012 -3.9999998,4.0005012 -4.0152,0 -4.0000004,-4.0005012 -4.0000004,-4.0005012 z"
      sodipodi:nodetypes="cccccccccccscc" />
+  <path
+     style="opacity:1;fill:#bebebe"
+     d="m 11.000027,5.0003123 0,2.9996873 C 11.000027,9.6619996 9.6620912,11 8.0001707,11 l -5.016e-4,0 C 6.3377486,11 4.9998126,9.6619996 4.9998126,7.9999996 l 0,-2.9996873 z"
+     id="rect4322"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="csssscc" />
 </svg>

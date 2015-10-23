@@ -22,7 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -35,14 +35,14 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1215"
-     inkscape:window-height="776"
+     inkscape:window-width="1920"
+     inkscape:window-height="1056"
      id="namedview28"
      showgrid="true"
      inkscape:zoom="38.125"
-     inkscape:cx="8"
+     inkscape:cx="0.8"
      inkscape:cy="8"
-     inkscape:window-x="65"
+     inkscape:window-x="0"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2"
@@ -68,13 +68,13 @@
      style="fill:#bebebe"
      sodipodi:nodetypes="ssssccs" />
   <path
-     style="opacity:0.3;fill:#bebebe;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     style="opacity:0.4;fill:#bebebe;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      d="M 13.140638,1 11.726417,2.413582 C 12.808349,3.4955144 13.990412,5.4467621 14,8 c 0,2.551493 -1.192916,4.505751 -2.273583,5.586418 L 13.140638,15 C 14.595711,13.544927 16.019176,11 16,8 16.035061,5 14.595117,2.4544787 13.140638,1 Z"
      id="path4508"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="ccccccc" />
   <path
-     style="opacity:0.3;fill:#bebebe;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     style="opacity:0.4;fill:#bebebe;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      d="M 11,3.1156678 9.5897193,4.5261118 C 10.372347,5.3087395 11,6.5690611 11,8 11,9.4309388 10.372767,10.690952 9.5897193,11.474 L 11,12.884 C 12.275645,11.608355 13,9.854095 13,8 13,6.1543677 12.273068,4.3887355 11,3.1156678 Z"
      id="path4529"
      inkscape:connector-curvature="0"
