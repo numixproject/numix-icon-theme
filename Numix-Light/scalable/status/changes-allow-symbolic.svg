@@ -13,7 +13,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r"
-   sodipodi:docname="network-offline-symbolic.svg">
+   sodipodi:docname="changes-allow-symbolic.svg">
   <metadata
      id="metadata10">
     <rdf:RDF>
@@ -22,12 +22,10 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <defs
-     id="defs8" />
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -39,29 +37,23 @@
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
      inkscape:window-height="1056"
-     id="namedview6"
+     id="namedview8"
      showgrid="true"
-     inkscape:zoom="34.0625"
-     inkscape:cx="-0.058715596"
-     inkscape:cy="3.3027523"
+     inkscape:zoom="41.7193"
+     inkscape:cx="5.4637856"
+     inkscape:cy="7.2719483"
      inkscape:window-x="0"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2">
     <inkscape:grid
        type="xygrid"
-       id="grid4138" />
+       id="grid4205" />
   </sodipodi:namedview>
+  <defs
+     id="defs4" />
   <path
-     style="color:#353535;opacity:1;fill:#353535;fill-opacity:1"
-     d="M 2,1 C 0.79661025,1 0,1.7966102 0,3 l 0,10 c 0,1.202426 0.79529735,2 2,2 l 12,0 c 1.200448,0 2,-0.801944 2,-2 l 0,-7 -2,0 0,3 -2,0 0,2 -1,0 0,2 L 5,13 5,11 4,11 4,9 2,9 2,5 C 2,3.2033898 2,3 3,3 l 7,0 0,-2 z"
-     id="path6104"
-     inkscape:connector-curvature="0"
-     sodipodi:nodetypes="ssssssccccccccccccssccs" />
-  <path
-     inkscape:connector-curvature="0"
-     d="m 11,-1e-7 1.5,0 L 13.5,1 14.5,-1e-7 16,-1e-7 16,1.5 l -1,1 1,1 0,1.5 -1.5,0 -1,-1 -1,1 -1.5,0 0,-1.5 1,-1 -1,-1 z"
-     id="path3761-2-3-5-4-8-9-8-0-1-7-8"
-     sodipodi:nodetypes="ccccccccccccccccc"
-     style="color:#353535;display:inline;overflow:visible;visibility:visible;fill:#353535;fill-opacity:1;stroke:none;stroke-width:2;marker:none" />
+     style="color:#000000;line-height:normal;fill:#353535"
+     d="M 8 0 C 8.000004 5.9211895e-16 2.9998044 0.0046648 2.9589844 3.546875 L 2.9726562 4 L 5.03125 4 C 5.3391097 1.7778778 8 1.7753906 8 1.7753906 C 8 1.7753906 11 1.7749806 11 4.4316406 L 11 6.6015625 C 8.3405482 6.6015625 5.6809215 6.6061721 3.0214844 6.5957031 C 3.0214844 6.5957031 1 6.6017169 1 7.4042969 L 1 14.726562 C 1.000073 15.399853 1.7146269 15.99991 2.5 16 L 13.5 16 C 14.285379 15.99991 14.999921 15.399852 15 14.726562 L 15 7.4042969 C 15 6.6017169 13.005859 6.6015625 13.005859 6.6015625 L 13.005859 3.546875 C 13.000529 0.0088198 8 0 8 0 z "
+     id="path6" />
 </svg>

@@ -8,12 +8,11 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="16"
-   viewBox="0 0 16 16"
    height="16"
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r"
-   sodipodi:docname="network-offline-symbolic.svg">
+   sodipodi:docname="media-playlist-no-repeat-symbolic.svg">
   <metadata
      id="metadata10">
     <rdf:RDF>
@@ -41,9 +40,9 @@
      inkscape:window-height="1056"
      id="namedview6"
      showgrid="true"
-     inkscape:zoom="34.0625"
-     inkscape:cx="-0.058715596"
-     inkscape:cy="3.3027523"
+     inkscape:zoom="14.75"
+     inkscape:cx="-25.186441"
+     inkscape:cy="10.711864"
      inkscape:window-x="0"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
@@ -53,15 +52,9 @@
        id="grid4138" />
   </sodipodi:namedview>
   <path
-     style="color:#353535;opacity:1;fill:#353535;fill-opacity:1"
-     d="M 2,1 C 0.79661025,1 0,1.7966102 0,3 l 0,10 c 0,1.202426 0.79529735,2 2,2 l 12,0 c 1.200448,0 2,-0.801944 2,-2 l 0,-7 -2,0 0,3 -2,0 0,2 -1,0 0,2 L 5,13 5,11 4,11 4,9 2,9 2,5 C 2,3.2033898 2,3 3,3 l 7,0 0,-2 z"
-     id="path6104"
+     d="m 4,3 8,4.8e-6 c 3,1.8e-6 3,0 3,3 l 0,4.0000002 c 0,3 0,3 -3,3 -1.124967,0 -0.437531,-0.0095 -1.562498,-0.0095 0.375792,0.32137 0.725348,0.79471 0.529143,1.31452 -0.208347,0.75499 -1.297649,0.94274 -1.764985,0.32464 C 8.330828,13.751435 7.847727,12.891365 7,11.990545 c 0.898484,-0.95018 1.42853,-1.86376 2.354207,-2.7871402 0.607961,-0.5622 1.733859,-0.0578 1.686082,0.77981 0.01962,0.4353102 -0.319888,0.7308802 -0.602787,1.0072902 1.25616,-0.0122 0.30825,0.05385 1.562498,0.0095 1,0 1,0 1,-1 l 0,-4.0000002 c 0,-1 0,-0.9999994 -1,-1 L 4,5 c -1,-6e-7 -1,0 -1,1 l 0,4 c 0,1 1,1 1,1 l 1,0 c 0,0 1,0 1,1 0,1 0,1 -1,1 L 4,13 C 1,13 1,13 1,10 L 1,6 C 1,3 1,2.9999982 4,3 Z"
+     id="path4"
      inkscape:connector-curvature="0"
-     sodipodi:nodetypes="ssssssccccccccccccssccs" />
-  <path
-     inkscape:connector-curvature="0"
-     d="m 11,-1e-7 1.5,0 L 13.5,1 14.5,-1e-7 16,-1e-7 16,1.5 l -1,1 1,1 0,1.5 -1.5,0 -1,-1 -1,1 -1.5,0 0,-1.5 1,-1 -1,-1 z"
-     id="path3761-2-3-5-4-8-9-8-0-1-7-8"
-     sodipodi:nodetypes="ccccccccccccccccc"
-     style="color:#353535;display:inline;overflow:visible;visibility:visible;fill:#353535;fill-opacity:1;stroke:none;stroke-width:2;marker:none" />
+     style="color:#353535;fill:#353535;fill-opacity:1;opacity:0.4"
+     sodipodi:nodetypes="sssssccccccccssssssssssssss" />
 </svg>

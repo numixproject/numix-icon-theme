@@ -8,26 +8,24 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="16"
-   viewBox="0 0 16 16"
    height="16"
+   viewBox="0 0 16 16"
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r"
-   sodipodi:docname="network-offline-symbolic.svg">
+   sodipodi:docname="network-receive-symbolic.svg">
   <metadata
-     id="metadata10">
+     id="metadata32">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <defs
-     id="defs8" />
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -39,29 +37,31 @@
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
      inkscape:window-height="1056"
-     id="namedview6"
+     id="namedview30"
      showgrid="true"
-     inkscape:zoom="34.0625"
-     inkscape:cx="-0.058715596"
-     inkscape:cy="3.3027523"
+     inkscape:zoom="41.7193"
+     inkscape:cx="3.6979633"
+     inkscape:cy="8.0592377"
      inkscape:window-x="0"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2">
     <inkscape:grid
        type="xygrid"
-       id="grid4138" />
+       id="grid3915" />
   </sodipodi:namedview>
+  <defs
+     id="defs4" />
   <path
-     style="color:#353535;opacity:1;fill:#353535;fill-opacity:1"
-     d="M 2,1 C 0.79661025,1 0,1.7966102 0,3 l 0,10 c 0,1.202426 0.79529735,2 2,2 l 12,0 c 1.200448,0 2,-0.801944 2,-2 l 0,-7 -2,0 0,3 -2,0 0,2 -1,0 0,2 L 5,13 5,11 4,11 4,9 2,9 2,5 C 2,3.2033898 2,3 3,3 l 7,0 0,-2 z"
-     id="path6104"
+     sodipodi:nodetypes="cccccccc"
      inkscape:connector-curvature="0"
-     sodipodi:nodetypes="ssssssccccccccccccssccs" />
+     id="path3035"
+     d="m 8,10 3.5,3.5 3.5,-3.5 -2,0 0,-5 -3,0 0,5 z"
+     style="fill:#bebebe;fill-rule:evenodd;fill-opacity:1" />
   <path
+     sodipodi:nodetypes="cccccccc"
      inkscape:connector-curvature="0"
-     d="m 11,-1e-7 1.5,0 L 13.5,1 14.5,-1e-7 16,-1e-7 16,1.5 l -1,1 1,1 0,1.5 -1.5,0 -1,-1 -1,1 -1.5,0 0,-1.5 1,-1 -1,-1 z"
-     id="path3761-2-3-5-4-8-9-8-0-1-7-8"
-     sodipodi:nodetypes="ccccccccccccccccc"
-     style="color:#353535;display:inline;overflow:visible;visibility:visible;fill:#353535;fill-opacity:1;stroke:none;stroke-width:2;marker:none" />
+     id="path3033-3"
+     d="m 7.9999999,6 -3.5,-3.5 L 1,6 l 1.9999999,0 0,5 3,0 0,-5 z"
+     style="opacity:0.4;fill:#bebebe;fill-opacity:1;fill-rule:evenodd" />
 </svg>
