@@ -12,7 +12,7 @@
    height="16"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.91 r"
    sodipodi:docname="network-wired-acquiring-symbolic.svg">
   <metadata
      id="metadata10">
@@ -22,7 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -37,15 +37,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1280"
-     inkscape:window-height="773"
+     inkscape:window-width="1920"
+     inkscape:window-height="1056"
      id="namedview6"
      showgrid="true"
      inkscape:zoom="34.0625"
-     inkscape:cx="8"
+     inkscape:cx="-0.058715596"
      inkscape:cy="8"
      inkscape:window-x="0"
-     inkscape:window-y="27"
+     inkscape:window-y="24"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2">
     <inkscape:grid
@@ -53,7 +53,7 @@
        id="grid4138" />
   </sodipodi:namedview>
   <path
-     style="color:#bebebe;fill:#353535;fill-opacity:1;opacity:0.5"
+     style="color:#353535;fill:#353535;fill-opacity:1;opacity:0.4"
      d="M 1.9999999,15 C 0.79529725,15 0,14.202426 0,13 L 0,3 C 0,1.7966102 0.79661015,1 1.9999999,1 L 14,1 c 1.20339,0 2,0.7966102 2,2 l 0,10 c 0,1.198056 -0.799552,2 -2,2 z m 2,-4 L 5,11 l -1e-7,2 L 11,13 l 0,-2 1,0 0,-2 2,0 0,-4 C 14,3.2 14,3 13,3 L 2.9999999,3 c -1,0 -1,0.2033898 -1,2 l 0,4 2,0 z"
      id="path6104"
      inkscape:connector-curvature="0"
