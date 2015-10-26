@@ -1,6 +1,50 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
-<g style="fill:#353535;color:#353535">
-<path d="M 8,0 C 3.5817219,0 0,3.5817221 0,8 c 0,4.418278 3.5817219,8 8,8 4.418278,0 8,-3.581722 8,-8 C 16,3.5817221 12.418278,0 8,0 z m 0,2 c 3.313708,0 6,2.6862915 6,6 0,3.313708 -2.686292,6 -6,6 C 4.6862915,14 2,11.313708 2,8 2,4.6862915 4.6862915,2 8,2 z"/>
-<path d="M 7,4 7,8 4,8 8,12 12,8 9,8 9,4 z"/>
-</g>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 16 16"
+   id="svg3205"
+   version="1.1"
+   inkscape:version="0.91 r"
+   sodipodi:docname="browser-download-symbolic.svg">
+  <metadata
+     id="metadata3217">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs3215" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview3213" />
+  <g
+     style="fill:#353535;color:#353535"
+     id="g3207">
+    <path
+       d="M 8,0 C 3.5817219,0 0,3.5817221 0,8 c 0,4.418278 3.5817219,8 8,8 4.418278,0 8,-3.581722 8,-8 C 16,3.5817221 12.418278,0 8,0 z m 0,2 c 3.313708,0 6,2.6862915 6,6 0,3.313708 -2.686292,6 -6,6 C 4.6862915,14 2,11.313708 2,8 2,4.6862915 4.6862915,2 8,2 z"
+       id="path3209" />
+    <path
+       d="M 7,4 7,8 4,8 8,12 12,8 9,8 9,4 z"
+       id="path3211" />
+  </g>
 </svg>

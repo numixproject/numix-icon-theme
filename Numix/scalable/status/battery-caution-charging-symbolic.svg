@@ -14,7 +14,7 @@
    height="16"
    viewBox="0 0 16 16"
    id="svg2"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.91 r"
    sodipodi:docname="battery-caution-charging-symbolic.svg">
   <sodipodi:namedview
      pagecolor="#ffffff"
@@ -44,7 +44,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>

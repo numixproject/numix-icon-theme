@@ -1,8 +1,62 @@
-<svg width="16" xmlns="http://www.w3.org/2000/svg" height="16" viewBox="0 0 16 16">
-<g style="fill:#bebebe">
-<rect width="14" x=".814" y="12" rx=".5" height="3" ry=".75"/>
-<g style="color:#000" transform="translate(-4 -3)">
-<path d="m 10,5 0,1 4,0 0,-1 -4,0 z m 0,2 0,2 4,0 0,-2 -4,0 z m -2.5,3 4.5,5 4.5,-5 -2.5,0 -4,0 -1,0 -1.5,0 z"/>
-</g>
-</g>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="16"
+   height="16"
+   viewBox="0 0 16 16"
+   id="svg3171"
+   version="1.1"
+   inkscape:version="0.91 r"
+   sodipodi:docname="document-save-as-symbolic.svg">
+  <metadata
+     id="metadata3185">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs3183" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview3181" />
+  <g
+     style="fill:#bebebe"
+     id="g3173">
+    <rect
+       width="14"
+       x=".814"
+       y="12"
+       rx=".5"
+       height="3"
+       ry=".75"
+       id="rect3175" />
+    <g
+       style="color:#000"
+       transform="translate(-4 -3)"
+       id="g3177">
+      <path
+         d="m 10,5 0,1 4,0 0,-1 -4,0 z m 0,2 0,2 4,0 0,-2 -4,0 z m -2.5,3 4.5,5 4.5,-5 -2.5,0 -4,0 -1,0 -1.5,0 z"
+         id="path3179" />
+    </g>
+  </g>
 </svg>

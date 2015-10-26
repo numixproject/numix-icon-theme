@@ -1,6 +1,57 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
-<g style="fill:#bebebe;color:#bebebe" transform="translate(-81.0002 -747)">
-<rect width="2" x="-85.981" y="749" rx="0" height="12" transform="scale(-1 1)"/>
-<path style="line-height:normal" d="m 93.997054,748.9558 -1,0 c -0.0104,-1.2e-4 -0.0208,-4.6e-4 -0.0313,0 -0.25495,0.0112 -0.50987,0.12858 -0.6875,0.3125 l -6.29767,5.71875 6.29772,5.71875 c 0.18816,0.18819 0.45346,0.28125 0.71875,0.28125 l 1,0 0,-1 c 0,-0.26529 -0.0931,-0.53058 -0.28125,-0.71875 l -4.82897,-4.28125 4.82897,-4.28125 c 0.21074,-0.19463 0.30316,-0.46925 0.28125,-0.75 z"/>
-</g>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 16 16"
+   id="svg3009"
+   version="1.1"
+   inkscape:version="0.91 r"
+   sodipodi:docname="go-first-symbolic.svg">
+  <metadata
+     id="metadata3021">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs3019" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview3017" />
+  <g
+     style="fill:#bebebe;color:#bebebe"
+     transform="translate(-81.0002 -747)"
+     id="g3011">
+    <rect
+       width="2"
+       x="-85.981"
+       y="749"
+       rx="0"
+       height="12"
+       transform="scale(-1 1)"
+       id="rect3013" />
+    <path
+       style="line-height:normal"
+       d="m 93.997054,748.9558 -1,0 c -0.0104,-1.2e-4 -0.0208,-4.6e-4 -0.0313,0 -0.25495,0.0112 -0.50987,0.12858 -0.6875,0.3125 l -6.29767,5.71875 6.29772,5.71875 c 0.18816,0.18819 0.45346,0.28125 0.71875,0.28125 l 1,0 0,-1 c 0,-0.26529 -0.0931,-0.53058 -0.28125,-0.71875 l -4.82897,-4.28125 4.82897,-4.28125 c 0.21074,-0.19463 0.30316,-0.46925 0.28125,-0.75 z"
+       id="path3015" />
+  </g>
 </svg>

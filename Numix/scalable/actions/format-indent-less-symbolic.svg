@@ -1,8 +1,67 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
-<g style="fill:#bebebe;color:#bebebe" transform="translate(-181.0002 -277)">
-<rect width="5" x="183" y="280" height="2"/>
-<rect width="6" x="183" y="284" height="2"/>
-<rect width="7" x="186" y="288" height="2"/>
-<path style="line-height:normal" d="m 195.40625,280 0,1 c 0,0.25689 -0.12983,0.52846 -0.3125,0.71875 L 193.8125,283 l 1.28125,1.28125 c 0.18267,0.19029 0.3125,0.46186 0.3125,0.71875 l 0,1 -1,0 c -0.30945,0 -0.55232,-0.0903 -0.75,-0.28125 L 191,283 l 2.65625,-2.71875 C 193.85393,280.0903 194.0968,280 194.40625,280 l 1,0 z"/>
-</g>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 16 16"
+   id="svg3653"
+   version="1.1"
+   inkscape:version="0.91 r"
+   sodipodi:docname="format-indent-less-symbolic.svg">
+  <metadata
+     id="metadata3669">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs3667" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview3665" />
+  <g
+     style="fill:#bebebe;color:#bebebe"
+     transform="translate(-181.0002 -277)"
+     id="g3655">
+    <rect
+       width="5"
+       x="183"
+       y="280"
+       height="2"
+       id="rect3657" />
+    <rect
+       width="6"
+       x="183"
+       y="284"
+       height="2"
+       id="rect3659" />
+    <rect
+       width="7"
+       x="186"
+       y="288"
+       height="2"
+       id="rect3661" />
+    <path
+       style="line-height:normal"
+       d="m 195.40625,280 0,1 c 0,0.25689 -0.12983,0.52846 -0.3125,0.71875 L 193.8125,283 l 1.28125,1.28125 c 0.18267,0.19029 0.3125,0.46186 0.3125,0.71875 l 0,1 -1,0 c -0.30945,0 -0.55232,-0.0903 -0.75,-0.28125 L 191,283 l 2.65625,-2.71875 C 193.85393,280.0903 194.0968,280 194.40625,280 l 1,0 z"
+       id="path3663" />
+  </g>
 </svg>
