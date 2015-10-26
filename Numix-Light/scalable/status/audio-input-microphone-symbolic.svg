@@ -10,12 +10,12 @@
    viewBox="0 0 16 16.001"
    width="16"
    height="16"
-   id="svg1673"
+   id="svg2"
    version="1.1"
    inkscape:version="0.91 r"
    sodipodi:docname="audio-input-microphone-symbolic.svg">
   <metadata
-     id="metadata1685">
+     id="metadata14">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -26,7 +26,7 @@
     </rdf:RDF>
   </metadata>
   <defs
-     id="defs1683" />
+     id="defs12" />
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -36,24 +36,34 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="640"
-     inkscape:window-height="480"
-     id="namedview1681" />
-  <g
-     transform="matrix(.5019 0 0 .50143 -4.5535 -507.67635)"
-     fill="#353535"
-     id="g1675">
-    <rect
-       width="11.955"
-       x="19.03"
-       y="1012.46"
-       rx="5.977"
-       height="21.937"
-       ry="5.978"
-       id="rect1677" />
-    <path
-       d="m 15.04981,24.051238 c 0,0 0,9.971482 7.969716,9.971482 l 0,3.988593 -3.984858,0 0,1.994296 12.250987,0 0,-1.994296 -4.281272,0 0,-3.988593 c 7.969716,0 7.969716,-9.971482 7.969716,-9.971482 l -1.992429,0 c 0,0 0.03028,7.977186 -7.969715,7.977186 -8,0 -7.969716,-7.977186 -7.969716,-7.977186 z"
-       transform="translate(0,1004.3622)"
-       id="path1679" />
-  </g>
+     inkscape:window-width="1920"
+     inkscape:window-height="1056"
+     id="namedview10"
+     showgrid="true"
+     inkscape:zoom="41.7193"
+     inkscape:cx="7.8721476"
+     inkscape:cy="6.3260107"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4142" />
+  </sodipodi:namedview>
+  <rect
+     style="fill:#353535"
+     id="rect6"
+     ry="3"
+     height="11"
+     rx="2.9998565"
+     y="-4.3391293e-07"
+     x="4.9998126"
+     width="6.0002146" />
+  <path
+     style="fill:#353535"
+     inkscape:connector-curvature="0"
+     id="path8"
+     d="m 2.9999996,8.0004998 c 0,0 0,5.0005002 4.0000005,5.0005002 l 0,2.000001 -2.0000002,0 0,0.999999 6.0001871,0 0,-0.999999 -2.0001872,0 0,-2.000001 C 13,13.001 13,8.0004998 13,8.0004998 l -1,0 c 0,0 0.0152,4.0005012 -3.9999998,4.0005012 -4.0152,0 -4.0000004,-4.0005012 -4.0000004,-4.0005012 z"
+     sodipodi:nodetypes="cccccccccccscc" />
 </svg>
