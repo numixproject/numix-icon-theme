@@ -10,12 +10,12 @@
    width="16"
    viewBox="0 0 16 16"
    height="16"
-   id="svg732"
+   id="svg2"
    version="1.1"
    inkscape:version="0.91 r"
    sodipodi:docname="user-invisible-symbolic.svg">
   <metadata
-     id="metadata742">
+     id="metadata12">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -26,7 +26,7 @@
     </rdf:RDF>
   </metadata>
   <defs
-     id="defs740" />
+     id="defs10" />
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -36,16 +36,24 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="640"
+     inkscape:window-width="972"
      inkscape:window-height="480"
-     id="namedview738" />
+     id="namedview8"
+     showgrid="false"
+     inkscape:zoom="14.75"
+     inkscape:cx="8"
+     inkscape:cy="8"
+     inkscape:window-x="10"
+     inkscape:window-y="34"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" />
   <g
-     style="opacity:.5;fill:#353535"
+     style="opacity:0.4;fill:#353535"
      transform="matrix(1 0 0 .99995 -3 -1033.3134)"
-     id="g734">
+     id="g4">
     <path
        style="line-height:normal;color:#000"
        d="m 3.9062541,1033.3626 c -0.491584,0.046 -0.908379,0.5062 -0.90625,1 l 0,10 c 5.2e-5,0.5235 0.476416,0.9999 1,1 l 7.9999999,0 4,4 0,-4 2,0 c 0.523584,-10e-5 0.999948,-0.4765 1,-1 l 0,-10 c -5.2e-5,-0.5236 -0.476416,-1 -1,-1 l -13.9999999,0 c -0.03123,-10e-4 -0.06252,-10e-4 -0.09375,0 z"
-       id="path736" />
+       id="path6" />
   </g>
 </svg>

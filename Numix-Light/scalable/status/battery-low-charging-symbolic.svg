@@ -10,12 +10,12 @@
    width="16"
    viewBox="0 0 16 16"
    height="16"
-   id="svg347"
+   id="svg2"
    version="1.1"
    inkscape:version="0.91 r"
    sodipodi:docname="battery-low-charging-symbolic.svg">
   <metadata
-     id="metadata357">
+     id="metadata12">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -26,7 +26,7 @@
     </rdf:RDF>
   </metadata>
   <defs
-     id="defs355" />
+     id="defs10" />
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -36,16 +36,25 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="640"
+     inkscape:window-width="972"
      inkscape:window-height="480"
-     id="namedview353" />
+     id="namedview8"
+     showgrid="false"
+     inkscape:zoom="14.75"
+     inkscape:cx="8"
+     inkscape:cy="8"
+     inkscape:window-x="10"
+     inkscape:window-y="34"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" />
   <path
      d="M 5 0 L 5 2 L 2 2 L 2 16 L 14 16 L 14 2 L 11 2 L 11 0 L 5 0 z M 10 3 L 9 8 L 12 8 L 6 15 L 7 10 L 4 10 L 10 3 z "
      opacity="0.6"
      fill="#353535"
-     id="path349" />
+     id="path4"
+     style="opacity:0.4" />
   <path
      d="M 2 10 L 2 16 L 14 16 L 14 10 L 10.28125 10 L 6 15 L 7 10 L 4 10 L 2 10 z "
      fill="#353535"
-     id="path351" />
+     id="path6" />
 </svg>
