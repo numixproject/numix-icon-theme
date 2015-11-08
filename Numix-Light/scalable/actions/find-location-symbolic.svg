@@ -8,12 +8,12 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    viewBox="0 0 16 16"
-   id="svg2129"
+   id="svg2301"
    version="1.1"
    inkscape:version="0.91 r"
    sodipodi:docname="find-location-symbolic.svg">
   <metadata
-     id="metadata2151">
+     id="metadata2323">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -24,7 +24,7 @@
     </rdf:RDF>
   </metadata>
   <defs
-     id="defs2149" />
+     id="defs2321" />
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -36,33 +36,33 @@
      inkscape:pageshadow="2"
      inkscape:window-width="640"
      inkscape:window-height="480"
-     id="namedview2147" />
+     id="namedview2319" />
   <g
      style="fill:#353535;color:#000"
      transform="translate(-180.97371 -807)"
-     id="g2131">
+     id="g2303">
     <g
        style="line-height:normal"
-       id="g2133">
+       id="g2305">
       <path
          d="m 188.47943,808.0553 c -3.57286,0 -6.49043,2.91418 -6.49043,6.4829 0,3.56872 2.91757,6.4829 6.49043,6.4829 3.57286,0 6.49043,-2.91418 6.49043,-6.4829 0,-3.56872 -2.91757,-6.4829 -6.49043,-6.4829 z m 0,1.99697 c 2.49225,0 4.49115,1.99658 4.49115,4.48593 0,2.48935 -1.9989,4.48594 -4.49115,4.48594 -2.49224,0 -4.49114,-1.99659 -4.49114,-4.48594 0,-2.48935 1.9989,-4.48593 4.49114,-4.48593 z"
-         id="path2135" />
+         id="path2307" />
       <path
          d="m 191.41333,813.97762 a 0.50305987,0.50389111 0 1 0 0.12479,1 l 3.93101,0 a 0.4992251,0.50005 0 1 0 0,-1 l -3.93101,0 a 0.4992251,0.50005 0 0 0 -0.12479,0 z"
-         id="path2137" />
+         id="path2309" />
       <path
          d="m 181.42983,814.00887 a 0.50136402,0.50219246 0 1 0 0.0935,1 l 3.9622,0 a 0.4992251,0.50005 0 1 0 0,-1 l -3.9622,0 a 0.4992251,0.50005 0 0 0 -0.0935,0 z"
-         id="path2139" />
+         id="path2311" />
       <path
          d="m 188.38708,807.00887 a 0.4992251,0.50005 0 0 0 -0.40558,0.5 l 0,4.03125 a 0.4992251,0.50005 0 1 0 0.99835,0 l 0,-4.03125 a 0.4992251,0.50005 0 0 0 -0.59277,-0.5 z"
-         id="path2141" />
+         id="path2313" />
       <path
          d="m 188.41828,817.04012 a 0.49922507,0.50004997 0 0 0 -0.43678,0.53125 l 0,3.9375 a 0.49922507,0.50004997 0 1 0 0.99835,0 l 0,-3.9375 a 0.49922507,0.50004997 0 0 0 -0.56157,-0.53125 z"
-         id="path2143" />
+         id="path2315" />
     </g>
     <path
        d="m -91,478 a 1,1 0 1 1 -2,0 1,1 0 1 1 2,0 z"
        transform="matrix(1.49753 0 0 1.5 326.25322 97.50887)"
-       id="path2145" />
+       id="path2317" />
   </g>
 </svg>

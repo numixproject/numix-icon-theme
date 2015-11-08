@@ -8,12 +8,12 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    viewBox="0 0 16 16"
-   id="svg2173"
+   id="svg2345"
    version="1.1"
    inkscape:version="0.91 r"
    sodipodi:docname="edit-find-symbolic.svg">
   <metadata
-     id="metadata2199">
+     id="metadata2371">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -24,7 +24,7 @@
     </rdf:RDF>
   </metadata>
   <defs
-     id="defs2197" />
+     id="defs2369" />
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -36,57 +36,57 @@
      inkscape:pageshadow="2"
      inkscape:window-width="640"
      inkscape:window-height="480"
-     id="namedview2195" />
+     id="namedview2367" />
   <g
      style="fill:#353535"
-     id="g2175">
+     id="g2347">
     <g
        transform="translate(-401.0002 -57)"
-       id="g2177">
+       id="g2349">
       <path
          d="m 409.0002,59 c -3.30289,0 -6,2.69711 -6,6 0,3.30289 2.69711,6 6,6 3.3029,0 6,-2.69711 6,-6 0,-3.30289 -2.6971,-6 -6,-6 z m 0,1 c 2.76142,0 5,2.23858 5,5 0,2.76142 -2.23858,5 -5,5 -2.76142,0 -5,-2.23858 -5,-5 0,-2.76142 2.23858,-5 5,-5 z"
-         id="path2179" />
+         id="path2351" />
     </g>
     <g
        style="color:#000"
        transform="translate(-401.0002 -57)"
-       id="g2181">
+       id="g2353">
       <path
          style="opacity:.5"
          d="m 409.0002,61 c -2.20914,0 -4,1.79086 -4,4 0,2.20914 1.79086,4 4,4 2.20914,0 4,-1.79086 4,-4 0,-2.20914 -1.79086,-4 -4,-4 z m 0,1 c 1.65685,0 3,1.34315 3,3 0,1.65685 -1.34315,3 -3,3 -1.65685,0 -3,-1.34315 -3,-3 0,-1.65685 1.34315,-3 3,-3 z"
-         id="path2183" />
+         id="path2355" />
       <rect
          width="3"
          x="401"
          y="64"
          rx="1"
          height="2"
-         id="rect2185" />
+         id="rect2357" />
       <rect
          width="2"
          x="408"
          y="57"
          rx="1"
          height="3"
-         id="rect2187" />
+         id="rect2359" />
       <rect
          width="3"
          x="414"
          y="64"
          rx="1"
          height="2"
-         id="rect2189" />
+         id="rect2361" />
       <rect
          width="2"
          x="408"
          y="70"
          rx="1"
          height="3"
-         id="rect2191" />
+         id="rect2363" />
       <path
          d="m 170,682 a 2,2 0 1 1 -4,0 2,2 0 1 1 4,0 z"
          transform="translate(241.0002 -617)"
-         id="path2193" />
+         id="path2365" />
     </g>
   </g>
 </svg>

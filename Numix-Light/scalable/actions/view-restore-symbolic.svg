@@ -8,12 +8,12 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    viewBox="0 0 16.0853 16.0243"
-   id="svg3265"
+   id="svg3437"
    version="1.1"
    inkscape:version="0.91 r"
    sodipodi:docname="view-restore-symbolic.svg">
   <metadata
-     id="metadata3295">
+     id="metadata3467">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -24,7 +24,7 @@
     </rdf:RDF>
   </metadata>
   <defs
-     id="defs3293" />
+     id="defs3465" />
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -36,20 +36,20 @@
      inkscape:pageshadow="2"
      inkscape:window-width="640"
      inkscape:window-height="480"
-     id="namedview3291" />
+     id="namedview3463" />
   <g
      style="color:#000"
      transform="translate(-60.95223 -646.97574)"
-     id="g3267">
+     id="g3439">
     <g
        style="fill:#353535;line-height:normal"
-       id="g3269">
+       id="g3441">
       <path
          d="M 71.78125,647 A 1.0001,1.0001 0 0 0 71,648 l 0,4 a 1.0001,1.0001 0 0 0 1,1 l 4,0 a 1.0001,1.0001 0 1 0 0,-2 l -3,0 0,-3 a 1.0001,1.0001 0 0 0 -1.21875,-1 z"
-         id="path3271" />
+         id="path3443" />
       <path
          d="m 75.875,647 a 1.0001,1.0001 0 0 0 -0.59375,0.28125 l -4,4 a 1.016466,1.016466 0 1 0 1.4375,1.4375 l 4,-4 A 1.0001,1.0001 0 0 0 75.875,647 z"
-         id="path3273" />
+         id="path3445" />
     </g>
     <rect
        width="1"
@@ -57,41 +57,41 @@
        y="652"
        height="1"
        style="fill:#353535"
-       id="rect3275" />
+       id="rect3447" />
     <g
        style="fill:#353535;line-height:normal"
-       id="g3277">
+       id="g3449">
       <path
          d="M 61.90625,653 A 1.0001,1.0001 0 0 0 61,654 l 0,8 a 1.0001,1.0001 0 0 0 1,1 l 8,0 a 1.0001,1.0001 0 0 0 1,-1 l 0,-8 a 1.0001,1.0001 0 0 0 -1,-1 l -8,0 a 1.0001,1.0001 0 0 0 -0.09375,0 z M 63,655 l 6,0 0,6 -6,0 0,-6 z"
-         id="path3279" />
+         id="path3451" />
       <path
          style="fill-rule:evenodd"
          d="M 61.90625,655 A 1.001098,1.001098 0 1 0 62,657 l 8,0 a 1.0001,1.0001 0 1 0 0,-2 l -8,0 a 1.0001,1.0001 0 0 0 -0.09375,0 z"
-         id="path3281" />
+         id="path3453" />
       <rect
          width="1"
          x="76"
          y="652"
          height="1"
-         id="rect3283" />
+         id="rect3455" />
       <rect
          width="1"
          x="71"
          y="647"
          height="1"
-         id="rect3285" />
+         id="rect3457" />
       <rect
          width="1"
          x="70"
          y="662"
          height="1"
-         id="rect3287" />
+         id="rect3459" />
       <rect
          width="1"
          x="61"
          y="662"
          height="1"
-         id="rect3289" />
+         id="rect3461" />
     </g>
   </g>
 </svg>
