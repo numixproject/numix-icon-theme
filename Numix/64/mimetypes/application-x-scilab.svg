@@ -7,9 +7,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="48"
-   height="48"
-   viewBox="0 0 48 48"
+   width="64"
+   height="64"
+   viewBox="0 0 64 64"
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
@@ -41,9 +41,9 @@
      inkscape:window-height="1016"
      id="namedview28"
      showgrid="true"
-     inkscape:zoom="11.313709"
-     inkscape:cx="25.903816"
-     inkscape:cy="36.212675"
+     inkscape:zoom="9.1813396"
+     inkscape:cx="35.290051"
+     inkscape:cy="29.328228"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -63,24 +63,24 @@
   </sodipodi:namedview>
   <path
      style="fill:#4d4d4d;fill-opacity:1"
-     d="M 8,0 C 6.96875,0 5.996093,1.014774 5.996093,2.090679 l 0,43.819983 c 0,1.014771 1.03125,2.090676 2.003907,2.090676 l 31.992186,0 c 0.972657,0 2.003907,-1.075905 2.003907,-2.090676 l 0,-33.910662 -12,-12 z"
+     d="m 10.686292,0 c -1.375,0 -2.671876,1.353032 -2.671876,2.787572 l 0,58.426644 c 0,1.353028 1.375,2.787568 2.671876,2.787568 l 42.656248,0 c 1.296876,0 2.671876,-1.43454 2.671876,-2.787568 l 0,-45.214216 -16,-16 z"
      id="path4-7"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="ssssssccs" />
   <path
      style="fill:#000000;fill-opacity:0.19599998"
-     d="m 31.745762,9.996093 0.0462,0.05859 0.12015,-0.05859 z M 31.835102,12 41.996102,22.992186 42,12 Z"
+     d="m 42.347308,13.328124 0.0616,0.07812 0.1602,-0.07812 z M 42.466428,16 56.014429,30.656248 56.014429,16 Z"
      id="path6"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="cccccccc" />
   <path
      style="fill:#757575;fill-opacity:1"
-     d="M 29.996093,0 42,12 31.833929,12 c -0.897297,0 -1.837836,-0.951351 -1.837836,-1.848648 z"
+     d="M 40.014416,0 56,16 42.464864,16 c -1.196396,0 -2.450448,-1.268468 -2.450448,-2.464864 z"
      id="path8"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="ccssc" />
   <g
-     transform="matrix(0.99999,0,0,0.99999,-0.501644,4.833723)"
+     transform="matrix(1.33332,0,0,1.33332,-0.649232,6.444964)"
      id="g47-7">
     <path
        inkscape:connector-curvature="0"
