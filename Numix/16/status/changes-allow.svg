@@ -31,12 +31,14 @@
      id="namedview10"
      showgrid="false"
      inkscape:zoom="1"
-     inkscape:cx="7.436747"
+     inkscape:cx="4.5028606"
      inkscape:cy="8.1292103"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg7384">
+     inkscape:current-layer="svg7384"
+     showguides="false"
+     inkscape:object-nodes="true">
     <inkscape:grid
        type="xygrid"
        id="grid3342" />
@@ -55,12 +57,6 @@
   </metadata>
   <title
      id="title9167">Gnome Symbolic Icon Theme</title>
-  <path
-     style="color:#bebebe;fill:#ecd14c;fill-opacity:1"
-     d="M 2.1185363,8.1108888 C 2.2754476,7.9641017 2.6714197,8.0053356 2.6714197,8.0053356 l 6.6571623,0 c 0,0 0.395966,-0.041229 0.552878,0.1055585 0.15691,0.1467868 0.112838,0.5172049 0.112838,0.5172049 l 0,5.371901 -7.9885945,0 0,-5.3719009 c 0,0 -0.044077,-0.3704235 0.1128328,-0.5172103 z"
-     id="rect13312"
-     inkscape:connector-curvature="0"
-     sodipodi:nodetypes="zccsccccz" />
   <g
      id="g4185"
      transform="translate(-51.474513,-32.353237)">
@@ -81,9 +77,13 @@
        transform="translate(0,-1004.3622)" />
   </g>
   <path
-     style="opacity:1;fill:#808080;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     d="M 11,3 C 9.3431456,3 8,4.3431458 8,6 L 8,8 9,8 9,6 c 0,-1.1045696 0.89543,-2.0000002 2,-2 1.10457,-2e-7 2,1 2,2 l 0,2 1,0 0,-2 C 14,4.3431458 12.656854,3 11,3 Z"
-     id="path4143"
+     style="opacity:1;fill:#ecd14c;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 0.8007812,8 C 0.3575812,8 0,8.3575812 0,8.8007812 0,11.200521 0,13.60026 0,16 c 3.3333333,0 6.6666667,0 10,0 0,-2.39974 0,-4.799479 0,-7.1992188 C 10,8.3575812 9.6424188,8 9.1992188,8 Z"
+     id="rect4141"
      inkscape:connector-curvature="0"
-     sodipodi:nodetypes="ssccsssccss" />
+     sodipodi:nodetypes="sccccss" />
+  <path
+     style="opacity:1;fill:#808080;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 11 1 A 4 4 0 0 0 7 5 L 7 8 L 9 8 L 9 5 A 2 2 0 0 1 11 3 A 2 2 0 0 1 13 5 L 13 8 L 15 8 L 15 5 A 4 4 0 0 0 11 1 z "
+     id="path4144" />
 </svg>
