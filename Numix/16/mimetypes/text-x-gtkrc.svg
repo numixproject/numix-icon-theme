@@ -12,8 +12,8 @@
    viewBox="0 0 16 16"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
-   sodipodi:docname="text-x-gtkrc.svg">
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="text-x-gtkrc2.svg">
   <metadata
      id="metadata24">
     <rdf:RDF>
@@ -22,6 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -36,17 +37,18 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1280"
-     inkscape:window-height="970"
+     inkscape:window-width="1366"
+     inkscape:window-height="704"
      id="namedview20"
-     showgrid="true"
-     inkscape:zoom="20.85965"
-     inkscape:cx="13.212645"
-     inkscape:cy="8.7968964"
+     showgrid="false"
+     inkscape:zoom="1"
+     inkscape:cx="7.5784881"
+     inkscape:cy="11.744486"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg2">
+     inkscape:current-layer="svg2"
+     inkscape:object-nodes="true">
     <inkscape:grid
        type="xygrid"
        id="grid3012" />
@@ -66,28 +68,23 @@
   <g
      style="fill:#ffffff"
      id="g10"
-     transform="matrix(1.3350716,0,0,1.3350716,-2.6805728,-3.0156444)">
-    <path
-       d="m 10.667969,6.332031 0,-0.332031 -5.335938,0 0,0.332031 L 5,6.332031 5,8 l 0.332031,0 0,0.332031 5.335938,0 L 10.667969,8 11,8 11,6.332031 z m -5.335938,0 3.335938,0 0,1.667969 -3.335938,0 z m 4,0.335938 1,0 0,0.664062 -0.332031,0 0,0.335938 -0.332031,0 0,-0.335938 -0.335938,0 z"
-       id="path12"
-       inkscape:connector-curvature="0" />
-    <path
-       d="m 5.332031,9.332031 0,0.335938 -0.332031,0 0,2 0.332031,0 0,0.332031 2,0 0,-0.332031 0.335938,0 0,-2 -0.335938,0 0,-0.335938 z M 7,10 l 0.332031,0 0,0.332031 L 7,10.320312 l 0,0.347657 -0.332031,0 0,0.332031 -0.335938,0 0,0.332031 L 6,11.332031 6,11 l -0.332031,0 0,-0.332031 0.332031,0 L 6,11 l 0.332031,0 0,-0.332031 0.335938,0 0,-0.335938 0.332031,0 z"
-       id="path14"
-       inkscape:connector-curvature="0" />
-    <path
-       d="m 8.996094,9.332031 0,0.335938 1.332031,0 0,-0.335938 z m 1.332031,0.335938 0,0.332031 0.332031,0 0,-0.332031 z M 10.660156,10 l 0,1.332031 0.335938,0 0,-1.332031 z m 0,1.332031 -0.332031,0 0,0.335938 0.332031,0 z m -0.332031,0.335938 -1.332031,0 0,0.332031 1.332031,0 z m -1.332031,0 0,-0.335938 -0.335938,0 0,0.335938 z m -0.335938,-0.335938 0,-1.332031 -0.332031,0 0,1.332031 z m 0,-1.332031 0.335938,0 0,-0.332031 -0.335938,0 z"
-       id="path16"
-       inkscape:connector-curvature="0" />
-    <path
-       d="m 9.328125,11 -0.332031,0 0,-0.667969 0.332031,0 0,-0.332031 0.667969,0 0,0.332031 0.332031,0 0,0.667969 -0.332031,0 0,0.332031 -0.667969,0 z"
-       id="path18"
-       inkscape:connector-curvature="0" />
-  </g>
+     transform="matrix(1.3350716,0,0,1.3350716,-2.6805728,-3.0156444)" />
   <path
      style="fill:#ffffff;fill-opacity:0.39200003"
      d="m 10,-4.455e-4 3.996396,3.9999998 -3.383784,0 C 10.313513,3.9995543 10,3.6824373 10,3.3833383 z"
      id="path8"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="ccssc" />
+  <path
+     style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 10 9 A 2 2 0 0 0 8 11 A 2 2 0 0 0 10 13 A 2 2 0 0 0 12 11 A 2 2 0 0 0 10 9 z M 10 9.75 A 1.25 1.25 0 0 1 11.25 11 A 1.25 1.25 0 0 1 10 12.25 A 1.25 1.25 0 0 1 8.75 11 A 1.25 1.25 0 0 1 10 9.75 z M 10 10.25 A 0.75 0.75 0 0 0 9.25 11 A 0.75 0.75 0 0 0 10 11.75 A 0.75 0.75 0 0 0 10.75 11 A 0.75 0.75 0 0 0 10 10.25 z "
+     id="path4152" />
+  <path
+     style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 5 9 C 4.446 9 4 9.446 4 10 L 4 12 C 4 12.554 4.446 13 5 13 L 7 13 C 7.554 13 8 12.554 8 12 L 8 10 C 8 9.446 7.554 9 7 9 L 5 9 z M 6.8339844 10 L 7.25 10.400391 L 5.5839844 12 L 4.75 11.199219 L 5.1660156 10.800781 L 5.5839844 11.199219 L 6.8339844 10 z "
+     id="rect4160" />
+  <path
+     style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 5 5 C 4.446 5 4 5.446 4 6 L 4 7 C 4 7.554 4.446 8 5 8 L 11 8 C 11.554 8 12 7.554 12 7 L 12 6 C 12 5.446 11.554 5 11 5 L 5 5 z M 4.5 5.5 L 9 5.5 L 9 7.5 L 4.5 7.5 L 4.5 5.5 z M 10 6 L 11 6 L 11 7 L 10 7 L 10 6 z "
+     id="rect4168" />
 </svg>
