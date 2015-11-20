@@ -12,7 +12,7 @@
    viewBox="0 0 24 24"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="text-x-gtkrc.svg">
   <metadata
      id="metadata24">
@@ -36,15 +36,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1280"
-     inkscape:window-height="970"
+     inkscape:window-width="1366"
+     inkscape:window-height="704"
      id="namedview20"
      showgrid="true"
-     inkscape:zoom="29.5"
-     inkscape:cx="12.288453"
+     inkscape:zoom="32"
+     inkscape:cx="8.875227"
      inkscape:cy="10.826288"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2">
     <inkscape:grid
@@ -61,27 +61,6 @@
      id="path4"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="ssssssccs" />
-  <g
-     style="fill:#ffffff"
-     id="g10"
-     transform="matrix(1.6666667,0,0,1.6666667,-1.3333333,-1)">
-    <path
-       d="m 10.667969,6.332031 0,-0.332031 -5.335938,0 0,0.332031 L 5,6.332031 5,8 l 0.332031,0 0,0.332031 5.335938,0 L 10.667969,8 11,8 11,6.332031 z m -5.335938,0 3.335938,0 0,1.667969 -3.335938,0 z m 4,0.335938 1,0 0,0.664062 -0.332031,0 0,0.335938 -0.332031,0 0,-0.335938 -0.335938,0 z"
-       id="path12"
-       inkscape:connector-curvature="0" />
-    <path
-       d="m 5.332031,9.332031 0,0.335938 -0.332031,0 0,2 0.332031,0 0,0.332031 2,0 0,-0.332031 0.335938,0 0,-2 -0.335938,0 0,-0.335938 z M 7,10 l 0.332031,0 0,0.332031 L 7,10.320312 l 0,0.347657 -0.332031,0 0,0.332031 -0.335938,0 0,0.332031 L 6,11.332031 6,11 l -0.332031,0 0,-0.332031 0.332031,0 L 6,11 l 0.332031,0 0,-0.332031 0.335938,0 0,-0.335938 0.332031,0 z"
-       id="path14"
-       inkscape:connector-curvature="0" />
-    <path
-       d="m 8.996094,9.332031 0,0.335938 1.332031,0 0,-0.335938 z m 1.332031,0.335938 0,0.332031 0.332031,0 0,-0.332031 z M 10.660156,10 l 0,1.332031 0.335938,0 0,-1.332031 z m 0,1.332031 -0.332031,0 0,0.335938 0.332031,0 z m -0.332031,0.335938 -1.332031,0 0,0.332031 1.332031,0 z m -1.332031,0 0,-0.335938 -0.335938,0 0,0.335938 z m -0.335938,-0.335938 0,-1.332031 -0.332031,0 0,1.332031 z m 0,-1.332031 0.335938,0 0,-0.332031 -0.335938,0 z"
-       id="path16"
-       inkscape:connector-curvature="0" />
-    <path
-       d="m 9.328125,11 -0.332031,0 0,-0.667969 0.332031,0 0,-0.332031 0.667969,0 0,0.332031 0.332031,0 0,0.667969 -0.332031,0 0,0.332031 -0.667969,0 z"
-       id="path18"
-       inkscape:connector-curvature="0" />
-  </g>
   <path
      style="fill:#000000;fill-opacity:0.19599998"
      d="m 15,7 5,5 0,-5 z"
@@ -94,4 +73,20 @@
      id="path8"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="ccssc" />
+  <path
+     style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 8,14 c -0.554,0 -1,0.446 -1,1 l 0,3 c 0,0.554 0.446,1 1,1 l 3,0 c 0.554,0 1,-0.446 1,-1 l 0,-3 c 0,-0.554 -0.446,-1 -1,-1 z M 10.716797,15 11.25,15.539062 8.7162031,18 7.6497969,16.921875 8.183,16.380859 8.7162031,16.921875 Z"
+     id="rect4141"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="sssssssssccccccc" />
+  <path
+     inkscape:connector-curvature="0"
+     style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 8,9 C 7.446,9 7,9.446 7,10 l 0,2 c 0,0.554 0.446,1 1,1 l 8,0 c 0.554,0 1,-0.446 1,-1 l 0,-2 C 17,9.446 16.554,9 16,9 L 8,9 Z m 0,1 5,0 0,2 -5,0 0,-2 z m 6,0 2,0 0,2 -2,0 0,-2 z"
+     id="rect4145" />
+  <path
+     inkscape:connector-curvature="0"
+     style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 14.5,14 A 2.5,2.5 0 0 0 12,16.5 2.5,2.5 0 0 0 14.5,19 2.5,2.5 0 0 0 17,16.5 2.5,2.5 0 0 0 14.5,14 Z m 0,0.75 a 1.75,1.75 0 0 1 1.75,1.75 1.75,1.75 0 0 1 -1.75,1.75 1.75,1.75 0 0 1 -1.75,-1.75 1.75,1.75 0 0 1 1.75,-1.75 z m 0,0.75 a 1,1 0 0 0 -1,1 1,1 0 0 0 1,1 1,1 0 0 0 1,-1 1,1 0 0 0 -1,-1 z"
+     id="path4140" />
 </svg>
