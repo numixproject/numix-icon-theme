@@ -7,13 +7,15 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="16"
    viewBox="0 0 16 16"
-   id="svg3782"
+   height="16"
+   id="svg3953"
    version="1.1"
    inkscape:version="0.91 r"
-   sodipodi:docname="drive-harddisk-symbolic-backup.svg">
+   sodipodi:docname="input-keyboard-symbolic-old.svg">
   <metadata
-     id="metadata3790">
+     id="metadata3977">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -24,7 +26,7 @@
     </rdf:RDF>
   </metadata>
   <defs
-     id="defs3788" />
+     id="defs3975" />
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -36,9 +38,33 @@
      inkscape:pageshadow="2"
      inkscape:window-width="640"
      inkscape:window-height="480"
-     id="namedview3786" />
-  <path
-     style="fill:#353535;line-height:normal;color:#000"
-     d="M 0.53750721,0 C 0.24473911,0.03102375 -0.00156689,0.30588419 7.5062558e-6,0.60045973 l 0,10.80832527 C 3.8906256e-5,11.723176 0.28585671,12.009195 0.60000721,12.009245 l 5.39999779,0 -5e-6,2.989989 4,0 3e-6,-2.989989 5.399997,0 c 0.314151,-5e-5 0.599969,-0.286069 0.6,-0.60046 L 16,0.60045973 C 15.999969,0.28611906 15.714151,1.0007662e-4 15.4,0 L 0.60000721,0 z M 2.3506104,2.0015315 c 0.024925,-0.005 0.050074,-0.005 0.075,0 l 11.1474416,0 c 0.209433,5.01e-5 0.399979,0.190696 0.399999,0.4003065 l 0,7.2049132 c -2e-5,0.2096105 -0.190566,0.4002568 -0.399999,0.4003068 l -11.1474416,0 C 2.2161769,10.007008 2.0256319,9.8163617 2.0256109,9.6067512 l 0,-7.2049132 C 2.0223109,2.215045 2.1672499,2.0363582 2.3506104,2.0015315 z M 2,13.998468 2,16 l 12,0 0,-2.001532 z"
-     id="path3784" />
+     id="namedview3973" />
+  <g
+     style="fill:#353535"
+     id="g3955">
+    <path
+       d="M 1,4 C 0.446,4 0,4.446 0,5 l 0,7 c 0,0.554 0.446,1 1,1 l 14,0 c 0.554,0 1,-0.446 1,-1 L 16,5 C 16,4.446 15.554,4 15,4 Z m 2,1.5 10,0 c 0.554,0 1.5,0.946 1.5,1.5 l 0,3 c 0,0.554 -0.946,1.5 -1.5,1.5 l -10,0 C 2.446,11.5 1.5,10.554 1.5,10 l 0,-3 C 1.5,6.446 2.446,5.5 3,5.5 Z"
+       id="path3957" />
+    <path
+       d="M 3,7 3,8 4,8 4,7 z"
+       id="path3959" />
+    <path
+       d="M 5,7 5,8 6,8 6,7 z"
+       id="path3961" />
+    <path
+       d="M 7,7 7,8 8,8 8,7 z"
+       id="path3963" />
+    <path
+       d="m 9,7 0,1 1,0 0,-1 z"
+       id="path3965" />
+    <path
+       d="m 3,9 0,1 2.0361386,0 0,-1 z"
+       id="path3967" />
+    <path
+       d="m 6,9 0,1 4.964356,0 0,-1 z"
+       id="path3969" />
+    <path
+       d="m 11,7 0,1 1,0 0,2 1,0 0,-3 z"
+       id="path3971" />
+  </g>
 </svg>
