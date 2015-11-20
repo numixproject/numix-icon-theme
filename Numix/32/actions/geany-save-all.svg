@@ -12,7 +12,7 @@
    viewBox="0 0 32 32"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="geany-save-all.svg">
   <metadata
      id="metadata16">
@@ -38,14 +38,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="747"
+     inkscape:window-height="704"
      id="namedview12"
      showgrid="true"
-     inkscape:zoom="14.75"
-     inkscape:cx="11.585516"
-     inkscape:cy="19.880671"
+     inkscape:zoom="31.055664"
+     inkscape:cx="16.894815"
+     inkscape:cy="9.5765925"
      inkscape:window-x="0"
-     inkscape:window-y="21"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2">
     <inkscape:grid
@@ -59,8 +59,9 @@
   <path
      inkscape:connector-curvature="0"
      id="path8"
-     d="M 8.222656,0 23.777344,0 C 28.445312,0 30,1.601562 30,6.398438 l 0,12.800781 C 30,24 28.445312,25.601562 23.777344,25.601562 l -15.554688,0 C 3.554688,25.601562 2,24 2,19.199219 L 2,6.398438 C 2,1.601562 3.554688,0 8.222656,0 Z"
-     style="fill:#ffffff;fill-opacity:0.30199998;fill-rule:evenodd" />
+     d="M 8.222656,0 23.777344,0 C 28.445312,0 30,1.601562 30,6.398438 l 0,12.800781 C 30,24 28.445312,26 23.777344,26 L 8.222656,26 C 3.554688,26 2,24 2,19.199219 L 2,6.398438 C 2,1.601562 3.554688,0 8.222656,0 Z"
+     style="fill:#ffffff;fill-opacity:0.30199998;fill-rule:evenodd"
+     sodipodi:nodetypes="sssssssss" />
   <path
      inkscape:connector-curvature="0"
      id="path10"
