@@ -8,12 +8,12 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    viewBox="0 0 16.0002 16.0001"
-   id="svg3612"
+   id="svg3784"
    version="1.1"
    inkscape:version="0.91 r"
    sodipodi:docname="view-paged-symbolic.svg">
   <metadata
-     id="metadata3630">
+     id="metadata3802">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -24,7 +24,7 @@
     </rdf:RDF>
   </metadata>
   <defs
-     id="defs3628" />
+     id="defs3800" />
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -36,20 +36,20 @@
      inkscape:pageshadow="2"
      inkscape:window-width="640"
      inkscape:window-height="480"
-     id="namedview3626" />
+     id="namedview3798" />
   <g
      style="fill:#353535;color:#353535"
      transform="translate(-161 -866.99988)"
-     id="g3614">
+     id="g3786">
     <g
        style="line-height:normal"
-       id="g3616">
+       id="g3788">
       <path
          d="m 162,867 0,1 0,11 0,1 1,0 10,0 1,0 0,-1 0,-11 0,-1 -1,0 -10,0 -1,0 z m 2,2 8,0 0,9 -8,0 0,-9 z"
-         id="path3618" />
+         id="path3790" />
       <path
          d="m 175.0002,869.99988 0,11 -10,0 0,2 12,0 0,-13 z"
-         id="path3620" />
+         id="path3792" />
     </g>
     <rect
        width="4"
@@ -59,7 +59,7 @@
        height="2"
        style="opacity:.35"
        transform="scale(-1 1)"
-       id="rect3622" />
+       id="rect3794" />
     <rect
        width="4"
        x="-170"
@@ -68,6 +68,6 @@
        height="2"
        style="opacity:.35"
        transform="scale(-1 1)"
-       id="rect3624" />
+       id="rect3796" />
   </g>
 </svg>

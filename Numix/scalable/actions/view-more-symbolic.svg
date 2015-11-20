@@ -34,36 +34,46 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="640"
-     inkscape:window-height="480"
-     id="namedview3345" />
-  <g
-     style="fill:#bebebe;color:#000"
-     transform="translate(-121.0004 -867)"
-     id="g3337">
-    <rect
-       width="4"
-       x="126.956"
-       y="867"
-       rx=".385"
-       height="4"
-       ry=".502"
-       id="rect3339" />
-    <rect
-       width="4"
-       x="126.956"
-       y="873"
-       rx=".385"
-       height="4"
-       ry=".502"
-       id="rect3341" />
-    <rect
-       width="4"
-       x="126.956"
-       y="879"
-       rx=".385"
-       height="4"
-       ry=".502"
-       id="rect3343" />
-  </g>
+     inkscape:window-width="1920"
+     inkscape:window-height="1056"
+     id="namedview3345"
+     showgrid="true"
+     inkscape:zoom="29.5"
+     inkscape:cx="8.6868695"
+     inkscape:cy="3.6863534"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3335">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4136" />
+  </sodipodi:namedview>
+  <rect
+     style="color:#000000;fill:#bebebe"
+     id="rect3339"
+     ry="0.50199997"
+     height="4"
+     rx="0.38499999"
+     y="0"
+     x="5.9999967"
+     width="4" />
+  <rect
+     style="color:#000000;fill:#bebebe"
+     id="rect3341"
+     ry="0.50199997"
+     height="4"
+     rx="0.38499999"
+     y="6"
+     x="6"
+     width="4" />
+  <rect
+     style="color:#000000;fill:#bebebe"
+     id="rect3343"
+     ry="0.50199997"
+     height="4"
+     rx="0.38499999"
+     y="12"
+     x="6"
+     width="4" />
 </svg>
