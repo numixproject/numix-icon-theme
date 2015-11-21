@@ -12,7 +12,7 @@
    viewBox="0 0 16 16"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="geany-save-all.svg">
   <metadata
      id="metadata16">
@@ -22,7 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -38,16 +38,17 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="747"
+     inkscape:window-height="704"
      id="namedview12"
-     showgrid="true"
-     inkscape:zoom="29.5"
-     inkscape:cx="6.7374612"
-     inkscape:cy="10.676599"
+     showgrid="false"
+     inkscape:zoom="1"
+     inkscape:cx="6.4724401"
+     inkscape:cy="11.284059"
      inkscape:window-x="0"
-     inkscape:window-y="21"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg2">
+     inkscape:current-layer="svg2"
+     inkscape:object-nodes="true">
     <inkscape:grid
        type="xygrid"
        id="grid4138" />
@@ -59,23 +60,24 @@
      inkscape:connector-curvature="0" />
   <path
      id="path4147"
-     d="m 4.1111,0 7.7778,0 c 2.33334,0 3.11112,0.8 3.11112,3.2 l 0,6.4 c 0,2.4 -0.77778,3.2 -3.11112,3.2 l -7.7778,0 C 1.77776,12.8 0.99998,12 0.99998,9.6 l 0,-6.4 C 0.99998,0.8 1.77776,0 4.1111,0 Z"
+     d="m 4.1111,0 7.7778,0 c 2.33334,0 3.11112,0.8 3.11112,3.2 l 0,6.4 c 0,2.4 -0.77778,3.4 -3.11112,3.4 L 4.1111,13 C 1.77776,13 0.99998,12 0.99998,9.6 l 0,-6.4 C 0.99998,0.8 1.77776,0 4.1111,0 Z"
      style="fill:#ffffff;fill-opacity:0.3;fill-rule:evenodd"
-     inkscape:connector-curvature="0" />
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="sssssssss" />
   <g
      id="g4137"
      transform="matrix(0.5,0,0,0.5,0,0.0248856)">
     <path
        sodipodi:nodetypes="cccccccc"
        style="fill:#ffffff;fill-opacity:0.9020004"
-       d="M 16,15.999889 10.5,22.5 5,15.999889 l 3,0 L 8,10 l 5,0 0,5.999889 z"
+       d="m 16,15.950229 -6,8 -6,-8 4,0 0,-6.0000002 4,0 0,6.0000002 z"
        id="path10"
        inkscape:connector-curvature="0" />
     <path
-       sodipodi:nodetypes="cccccccc"
-       style="fill:#ffffff;fill-opacity:0.9020004"
-       d="M 27,9.0003466 21.5,15.5 16,9.0003466 l 3,0 0,-5.999889 5,0 0,5.999889 z"
-       id="path10-3"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       id="path4138"
+       d="m 28,9.9502288 -6,8.0000002 -6,-8.0000002 4,0 0,-6.0000004 4,0 0,6.0000004 z"
+       style="fill:#ffffff;fill-opacity:0.90196078"
+       sodipodi:nodetypes="cccccccc" />
   </g>
 </svg>
