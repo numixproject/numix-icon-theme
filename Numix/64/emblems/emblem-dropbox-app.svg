@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="64"
+   height="64"
+   viewBox="0 0 64 64"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r"
+   sodipodi:docname="emblem-dropbox-app.svg">
+  <metadata
+     id="metadata16">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs14" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1056"
+     id="namedview12"
+     showgrid="true"
+     inkscape:zoom="7.375"
+     inkscape:cx="36.688188"
+     inkscape:cy="47.860458"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4150" />
+  </sodipodi:namedview>
+  <path
+     style="fill:#fff;stroke:#777;stroke-width:.5"
+     d="M 25.932953 35.186401 C 25.932953 42.095309 20.446393 47.695712 13.677926 47.695712 C 6.90946 47.695712 1.4229 42.095309 1.4229 35.186401 C 1.4229 28.277492 6.90946 22.677089 13.677926 22.677089 C 20.446393 22.677089 25.932953 28.277492 25.932953 35.186401 Z "
+     transform="matrix(2.13305 0 0 2.08969 2.82425 -41.52879)"
+     id="path4" />
+  <path
+     id="polygon4880"
+     d="m 25.696652,18.601552 -8.980651,5.864138 6.210774,4.973702 9.053788,-5.590644 z m 6.283911,5.247196 9.053798,5.590644 6.210765,-4.973702 -8.980652,-5.864138 z m 9.053798,5.590644 -9.053798,5.590647 6.283911,5.247192 8.980652,-5.864134 z m -9.053798,5.590647 -9.053789,-5.590647 -6.210774,4.973705 8.980651,5.864134 z m 0.01905,1.128941 -6.302994,5.231293 -2.69674,-1.761785 0,1.974852 L 31.999613,47 41,41.60334 l 0,-1.974852 -2.697397,1.761785 z"
+     style="fill:#427fed;fill-opacity:1"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ccccccccccccccccccccccccccccc" />
+</svg>
