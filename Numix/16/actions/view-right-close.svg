@@ -11,7 +11,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="window-new.svg"
+   sodipodi:docname="view-right-close.svg"
    width="16"
    height="16">
   <metadata
@@ -40,18 +40,14 @@
      inkscape:window-width="1366"
      inkscape:window-height="704"
      id="namedview24"
-     showgrid="true"
-     inkscape:zoom="23.117557"
-     inkscape:cx="2.7034535"
-     inkscape:cy="8.0000496"
+     showgrid="false"
+     inkscape:zoom="21.174654"
+     inkscape:cx="3.9307327"
+     inkscape:cy="6.1847899"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg2">
-    <inkscape:grid
-       type="xygrid"
-       id="grid4156" />
-  </sodipodi:namedview>
+     inkscape:current-layer="svg2" />
   <g
      style="color:#000000;line-height:normal"
      id="g4"
@@ -82,13 +78,9 @@
        transform="translate(-0.13375,0.13384)"
        id="g14" />
   </g>
-  <g
-     transform="translate(-0.13375,0.13374082)"
-     id="g20">
-    <path
-       style="fill:#859900"
-       d="m 16.133838,9.866247 -3,0 0,-3 -3,0 0,3 -3.0000004,0 0,3 3.0000004,0 0,3 3,0 0,-3 3,0 z"
-       id="path22"
-       inkscape:connector-curvature="0" />
-  </g>
+  <path
+     style="fill:#dc322f;fill-opacity:1"
+     d="M 16,13.749999 13.75,11.5 16,9.2499996 l -2.25,-2.25 -2.25,2.25 -2.25,-2.25 -2.25,2.25 L 9.25,11.5 7,13.749999 9.25,16 11.5,13.749999 13.75,16 Z"
+     id="path6"
+     inkscape:connector-curvature="0" />
 </svg>
