@@ -7,7 +7,7 @@ Inherits=gnome,hicolor
 
 Example=folder
 
-Directories=16/actions,16/animations,16/apps,16/categories,16/devices,16/emblems,16/mimetypes,16/panel,16/places,16/status,16@2x/actions,16@2x/animations,16@2x/apps,16@2x/categories,16@2x/devices,16@2x/emblems,16@2x/mimetypes,16@2x/panel,16@2x/places,16@2x/status,22/actions,22/animations,22/apps,22/categories,22/devices,22/emblems,22/mimetypes,22/panel,22/places,22/status,22@2x/actions,22@2x/animations,22@2x/apps,22@2x/categories,22@2x/devices,22@2x/emblems,22@2x/mimetypes,22@2x/panel,22@2x/places,22@2x/status,24/actions,24/animations,24/apps,24/categories,24/devices,24/emblems,24/mimetypes,24/panel,24/places,24/status,24@2x/actions,24@2x/animations,24@2x/apps,24@2x/categories,24@2x/devices,24@2x/emblems,24@2x/mimetypes,24@2x/panel,24@2x/places,24@2x/status,32/actions,32/animations,32/apps,32/categories,32/devices,32/emblems,32/mimetypes,32/places,32/status,32@2x/actions,32@2x/animations,32@2x/apps,32@2x/categories,32@2x/devices,32@2x/emblems,32@2x/mimetypes,32@2x/places,32@2x/status,48/actions,48/animations,48/apps,48/categories,48/devices,48/emblems,48/mimetypes,48/notifications,48/places,48/status,48@2x/actions,48@2x/animations,48@2x/apps,48@2x/categories,48@2x/devices,48@2x/emblems,48@2x/mimetypes,48@2x/notifications,48@2x/places,48@2x/status,64/actions,64/animations,64/apps,64/categories,64/devices,64/emblems,64/mimetypes,64/places,64/status,64@2x/actions,64@2x/animations,64@2x/apps,64@2x/categories,64@2x/devices,64@2x/emblems,64@2x/mimetypes,64@2x/places,64@2x/status,96/actions,96/places,96@2x/actions,96@2x/places,128/actions,128/places,128@2x/actions,128@2x/places,256/actions,256/places,256@2x/actions,256@2x/places,scalable/actions,scalable/apps,scalable/categories,scalable/devices,scalable/emblems,scalable/mimetypes,scalable/places,scalable/status
+Directories=16/actions,16/animations,16/apps,16/categories,16/devices,16/emblems,16/emotes,16/mimetypes,16/panel,16/places,16/status,16@2x/actions,16@2x/animations,16@2x/apps,16@2x/categories,16@2x/devices,16@2x/emblems,16@2x/emotes,16@2x/mimetypes,16@2x/panel,16@2x/places,16@2x/status,22/actions,22/animations,22/apps,22/categories,22/devices,22/emblems,22/emotes,22/mimetypes,22/panel,22/places,22/status,22@2x/actions,22@2x/animations,22@2x/apps,22@2x/categories,22@2x/devices,22@2x/emblems,22@2x/emotes,22@2x/mimetypes,22@2x/panel,22@2x/places,22@2x/status,24/actions,24/animations,24/apps,24/categories,24/devices,24/emblems,24/emotes,24/mimetypes,24/panel,24/places,24/status,24@2x/actions,24@2x/animations,24@2x/apps,24@2x/categories,24@2x/devices,24@2x/emblems,24@2x/emotes,24@2x/mimetypes,24@2x/panel,24@2x/places,24@2x/status,32/actions,32/animations,32/apps,32/categories,32/devices,32/emblems,32/emotes,32/mimetypes,32/places,32/status,32@2x/actions,32@2x/animations,32@2x/apps,32@2x/categories,32@2x/devices,32@2x/emblems,32@2x/emotes,32@2x/mimetypes,32@2x/places,32@2x/status,48/actions,48/animations,48/apps,48/categories,48/devices,48/emblems,48/emotes,48/mimetypes,48/notifications,48/places,48/status,48@2x/actions,48@2x/animations,48@2x/apps,48@2x/categories,48@2x/devices,48@2x/emblems,48@2x/emotes,48@2x/mimetypes,48@2x/notifications,48@2x/places,48@2x/status,64/actions,64/animations,64/apps,64/categories,64/devices,64/emblems,64/emotes,64/mimetypes,64/places,64/status,64@2x/actions,64@2x/animations,64@2x/apps,64@2x/categories,64@2x/devices,64@2x/emblems,64@2x/emotes,64@2x/mimetypes,64@2x/places,64@2x/status,96/actions,96/places,96@2x/actions,96@2x/places,128/actions,128/places,128@2x/actions,128@2x/places,256/actions,256/places,256@2x/actions,256@2x/places,scalable/actions,scalable/apps,scalable/categories,scalable/devices,scalable/emblems,scalable/mimetypes,scalable/places,scalable/status
 
 [16/actions]
 Size=16
@@ -47,6 +47,13 @@ Type=Scalable
 [16/emblems]
 Size=16
 Context=Emblems
+MinSize=8
+MaxSize=21
+Type=Scalable
+
+[16/emotes]
+Size=16
+Context=Emotes
 MinSize=8
 MaxSize=21
 Type=Scalable
@@ -127,6 +134,14 @@ MinSize=8
 MaxSize=21
 Type=Scalable
 
+[16@2x/emotes]
+Size=16
+Scale=2
+Context=Emotes
+MinSize=8
+MaxSize=21
+Type=Scalable
+
 [16@2x/mimetypes]
 Size=16
 Scale=2
@@ -197,6 +212,13 @@ Type=Scalable
 [22/emblems]
 Size=22
 Context=Emblems
+MinSize=8
+MaxSize=23
+Type=Scalable
+
+[22/emotes]
+Size=22
+Context=Emotes
 MinSize=8
 MaxSize=23
 Type=Scalable
@@ -277,6 +299,14 @@ MinSize=8
 MaxSize=23
 Type=Scalable
 
+[22@2x/emotes]
+Size=22
+Scale=2
+Context=Emotes
+MinSize=8
+MaxSize=23
+Type=Scalable
+
 [22@2x/mimetypes]
 Size=22
 Scale=2
@@ -347,6 +377,13 @@ Type=Scalable
 [24/emblems]
 Size=24
 Context=Emblems
+MinSize=8
+MaxSize=31
+Type=Scalable
+
+[24/emotes]
+Size=24
+Context=Emotes
 MinSize=8
 MaxSize=31
 Type=Scalable
@@ -425,6 +462,14 @@ MinSize=8
 MaxSize=31
 Type=Scalable
 
+[24@2x/emotes]
+Size=24
+Scale=2
+Context=Emotes
+MinSize=8
+MaxSize=31
+Type=Scalable
+
 [24@2x/mimetypes]
 Size=24
 Scale=2
@@ -499,6 +544,13 @@ MinSize=8
 MaxSize=47
 Type=Scalable
 
+[32/emotes]
+Size=32
+Context=Emotes
+MinSize=8
+MaxSize=47
+Type=Scalable
+
 [32/mimetypes]
 Size=32
 Context=MimeTypes
@@ -568,6 +620,14 @@ MinSize=8
 MaxSize=47
 Type=Scalable
 
+[32@2x/emotes]
+Size=32
+Scale=2
+Context=Emotes
+MinSize=8
+MaxSize=47
+Type=Scalable
+
 [32@2x/mimetypes]
 Size=32
 Scale=2
@@ -630,6 +690,13 @@ Type=Scalable
 [48/emblems]
 Size=48
 Context=Emblems
+MinSize=8
+MaxSize=63
+Type=Scalable
+
+[48/emotes]
+Size=48
+Context=Emotes
 MinSize=8
 MaxSize=63
 Type=Scalable
@@ -710,6 +777,14 @@ MinSize=8
 MaxSize=127
 Type=Scalable
 
+[48@2x/emotes]
+Size=48
+Scale=2
+Context=Emotes
+MinSize=8
+MaxSize=127
+Type=Scalable
+
 [48@2x/mimetypes]
 Size=48
 Scale=2
@@ -784,6 +859,13 @@ MinSize=8
 MaxSize=95
 Type=Scalable
 
+[64/emotes]
+Size=64
+Context=Emotes
+MinSize=8
+MaxSize=95
+Type=Scalable
+
 [64/mimetypes]
 Size=64
 Context=MimeTypes
@@ -849,6 +931,14 @@ Type=Scalable
 Size=64
 Scale=2
 Context=Emblems
+MinSize=8
+MaxSize=512
+Type=Scalable
+
+[64@2x/emotes]
+Size=64
+Scale=2
+Context=Emotes
 MinSize=8
 MaxSize=512
 Type=Scalable
