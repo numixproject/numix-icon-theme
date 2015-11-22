@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="24px"
+   height="24px"
+   viewBox="0 0 18 18"
+   version="1.1"
+   id="svg1027"
+   inkscape:version="0.91 r"
+   sodipodi:docname="face-angry.svg">
+  <metadata
+     id="metadata1042">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs1040" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview1038" />
+  <g
+     id="surface1">
+    <path
+       style=" stroke:none;fill-rule:nonzero;fill:rgb(100%,55.294118%,36.862745%);fill-opacity:1;"
+       d="M 15.75 9 C 15.75 12.210938 12.726562 14.8125 9 14.8125 C 5.273438 14.8125 2.25 12.210938 2.25 9 C 2.25 5.789062 5.273438 3.1875 9 3.1875 C 12.726562 3.1875 15.75 5.789062 15.75 9 Z M 15.75 9 "
+       id="path1030" />
+    <path
+       style=" stroke:none;fill-rule:nonzero;fill:rgb(39.607843%,39.607843%,39.607843%);fill-opacity:1;"
+       d="M 6.414062 12.375 C 6.625 11.292969 7.71875 10.5 9 10.5 C 10.28125 10.5 11.371094 11.292969 11.585938 12.375 L 11.222656 12.375 C 11.066406 11.730469 10.117188 11.25 9 11.25 C 7.882812 11.25 6.933594 11.730469 6.777344 12.375 Z M 6.414062 12.375 "
+       id="path1032" />
+    <path
+       style=" stroke:none;fill-rule:nonzero;fill:rgb(39.607843%,39.607843%,39.607843%);fill-opacity:1;"
+       d="M 6.25 6.894531 C 5.976562 7.066406 5.8125 7.367188 5.8125 7.6875 C 5.8125 8.207031 6.230469 8.625 6.75 8.625 C 7.253906 8.625 7.667969 8.226562 7.6875 7.722656 Z M 6.25 6.894531 "
+       id="path1034" />
+    <path
+       style=" stroke:none;fill-rule:nonzero;fill:rgb(39.607843%,39.607843%,39.607843%);fill-opacity:1;"
+       d="M 11.75 6.894531 L 10.3125 7.722656 C 10.332031 8.226562 10.746094 8.625 11.25 8.625 C 11.769531 8.625 12.1875 8.207031 12.1875 7.6875 C 12.1875 7.367188 12.019531 7.066406 11.75 6.894531 Z M 11.75 6.894531 "
+       id="path1036" />
+  </g>
+</svg>

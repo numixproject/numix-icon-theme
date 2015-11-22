@@ -44,12 +44,7 @@
        id="grid4164" />
   </sodipodi:namedview>
   <defs
-     id="defs4878">
-    <inkscape:path-effect
-       effect="spiro"
-       id="path-effect4161"
-       is_visible="true" />
-  </defs>
+     id="defs4878" />
   <metadata
      id="metadata4881">
     <rdf:RDF>
@@ -58,7 +53,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>

@@ -44,15 +44,7 @@
        id="grid4164" />
   </sodipodi:namedview>
   <defs
-     id="defs4878">
-    <inkscape:perspective
-       id="perspective4152"
-       inkscape:persp3d-origin="24 : 16 : 1"
-       inkscape:vp_z="48 : 24 : 1"
-       inkscape:vp_y="0 : 1000 : 0"
-       inkscape:vp_x="0 : 24 : 1"
-       sodipodi:type="inkscape:persp3d" />
-  </defs>
+     id="defs4878" />
   <metadata
      id="metadata4881">
     <rdf:RDF>
@@ -61,7 +53,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
