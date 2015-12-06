@@ -7,15 +7,15 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="48"
-   height="48"
-   viewBox="0 0 48 48"
+   width="22"
+   height="22"
+   viewBox="0 0 22 22"
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="bp-toggle.svg">
+   sodipodi:docname="bp-next.svg">
   <metadata
-     id="metadata14">
+     id="metadata10">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -27,7 +27,7 @@
     </rdf:RDF>
   </metadata>
   <defs
-     id="defs12" />
+     id="defs8" />
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -39,22 +39,28 @@
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
      inkscape:window-height="704"
-     id="namedview10"
-     showgrid="false"
-     inkscape:zoom="1"
-     inkscape:cx="13.007252"
-     inkscape:cy="24"
+     id="namedview6"
+     showgrid="true"
+     inkscape:object-nodes="true"
+     inkscape:zoom="22.627417"
+     inkscape:cx="10.727084"
+     inkscape:cy="7.7677669"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2">
     <inkscape:grid
        type="xygrid"
-       id="grid4207" />
+       id="grid4138" />
   </sodipodi:namedview>
   <path
      style="fill:#dc322f;fill-rule:evenodd"
-     d="M 40,24 C 40,32.835226 32.835226,40 24,40 15.164772,40 8,32.835226 8,24 8,15.164772 15.164772,8 24,8 c 8.835226,0 16,7.164772 16,16 z"
+     d="m 19,11 c 0,4.417613 -3.582387,8 -8,8 -4.4176139,0 -8,-3.582387 -8,-8 0,-4.4176139 3.5823861,-8 8,-8 4.417613,0 8,3.5823861 8,8 z"
      id="path4"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:#dfdd41;fill-opacity:1"
+     d="m 11,7 0,14 10,-7 z"
+     id="path4-2"
      inkscape:connector-curvature="0" />
 </svg>

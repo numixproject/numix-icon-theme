@@ -7,27 +7,27 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="48"
-   height="48"
-   viewBox="0 0 48 48"
+   width="64"
+   height="64"
+   viewBox="0 0 64 64"
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="bp-toggle.svg">
+   sodipodi:docname="bp-rm-all.svg">
   <metadata
-     id="metadata14">
+     id="metadata10">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <defs
-     id="defs12" />
+     id="defs8" />
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -39,22 +39,34 @@
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
      inkscape:window-height="704"
-     id="namedview10"
+     id="namedview6"
      showgrid="false"
-     inkscape:zoom="1"
-     inkscape:cx="13.007252"
-     inkscape:cy="24"
+     inkscape:zoom="11.91033"
+     inkscape:cx="39.935774"
+     inkscape:cy="22"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2">
     <inkscape:grid
        type="xygrid"
-       id="grid4207" />
+       id="grid4146" />
   </sodipodi:namedview>
   <path
      style="fill:#dc322f;fill-rule:evenodd"
-     d="M 40,24 C 40,32.835226 32.835226,40 24,40 15.164772,40 8,32.835226 8,24 8,15.164772 15.164772,8 24,8 c 8.835226,0 16,7.164772 16,16 z"
+     d="M 56,32 A 24,24 0 0 1 8.0000001,32 24,24 0 1 1 56,32 Z"
      id="path4"
      inkscape:connector-curvature="0" />
+  <path
+     inkscape:connector-curvature="0"
+     style="fill:#dfd187"
+     d="M 56,36 56,60 42,60 36,45.6 36,60 24,60 24,36 Z"
+     id="path6"
+     sodipodi:nodetypes="cccccccc" />
+  <path
+     style="opacity:1;fill:#268bd2;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 34.498,15.998 c -1.385,0 -2.529148,1.115308 -2.5,2.5 L 31.998,28 25,28 c -2.77,0 -5,2.23 -5,5 l 0,7 c 13.333333,0 26.666667,0 40,0 l 0,-7 c 0,-2.77 -2.23,-5 -5,-5 l -6.998,0 0,-9.502 c 0,-1.385 -1.115,-2.5 -2.5,-2.5 z"
+     id="rect4144"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="sscssccsscsss" />
 </svg>

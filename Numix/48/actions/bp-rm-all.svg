@@ -13,7 +13,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="bp-toggle.svg">
+   sodipodi:docname="bp-rm-allsvg.svg">
   <metadata
      id="metadata14">
     <rdf:RDF>
@@ -57,4 +57,21 @@
      d="M 40,24 C 40,32.835226 32.835226,40 24,40 15.164772,40 8,32.835226 8,24 8,15.164772 15.164772,8 24,8 c 8.835226,0 16,7.164772 16,16 z"
      id="path4"
      inkscape:connector-curvature="0" />
+  <path
+     inkscape:connector-curvature="0"
+     style="fill:#dfd187"
+     d="m 40,26 0,16 -8,0 -4,-10 0,10 -8,0 0,-16 z"
+     id="path6"
+     sodipodi:nodetypes="cccccccc" />
+  <path
+     style="opacity:1;fill:#268bd2;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 28,14 c -1.108,0 -2,0.892 -2,2 l 0,6 -5,0 c -1.662,0 -3,1.338 -3,3 l 0,5 24,0 0,-5 c 0,-1.662 -1.338,-3 -3,-3 l -5,0 0,-6 c 0,-1.108 -0.892,-2 -2,-2 l -4,0 z"
+     id="rect4219"
+     inkscape:connector-curvature="0" />
+  <circle
+     style="opacity:1;fill:#268bd2;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="path4227"
+     cx="30"
+     cy="20"
+     r="2" />
 </svg>
