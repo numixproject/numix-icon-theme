@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="application-menu-symbolic.svg"
+   inkscape:export-filename="/home/sam/dev/RESOURCES/gnome-icon-theme-symbolic/src/gnome-stencils.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90"
+   height="16"
+   id="svg7384"
+   version="1.1"
+   inkscape:version="0.91 r"
+   width="16">
+  <metadata
+     id="metadata90">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>elementary Symbolic Icon Theme</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     inkscape:bbox-nodes="true"
+     inkscape:bbox-paths="true"
+     bordercolor="#666666"
+     borderopacity="1"
+     inkscape:current-layer="layer12"
+     inkscape:cx="-3.7751932"
+     inkscape:cy="7.2732189"
+     gridtolerance="10"
+     inkscape:guide-bbox="true"
+     guidetolerance="10"
+     id="namedview88"
+     inkscape:object-nodes="true"
+     inkscape:object-paths="false"
+     objecttolerance="10"
+     pagecolor="#3a3b39"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     showborder="true"
+     showgrid="true"
+     showguides="true"
+     inkscape:snap-bbox="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:snap-global="true"
+     inkscape:snap-grids="true"
+     inkscape:snap-nodes="true"
+     inkscape:snap-others="false"
+     inkscape:snap-to-guides="true"
+     inkscape:window-height="1056"
+     inkscape:window-maximized="1"
+     inkscape:window-width="1920"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:zoom="32">
+    <inkscape:grid
+       dotted="false"
+       empspacing="4"
+       enabled="true"
+       id="grid4866"
+       originx="0"
+       originy="0"
+       snapvisiblegridlinesonly="true"
+       spacingx="1px"
+       spacingy="1px"
+       type="xygrid"
+       visible="true" />
+    <inkscape:grid
+       color="#000000"
+       dotted="true"
+       empcolor="#000000"
+       empopacity="0.25098039"
+       empspacing="4"
+       enabled="true"
+       id="grid13609"
+       opacity="0.1254902"
+       originx="-352px"
+       originy="-269px"
+       snapvisiblegridlinesonly="true"
+       spacingx="0.5px"
+       spacingy="0.5px"
+       type="xygrid"
+       visible="true" />
+  </sodipodi:namedview>
+  <title
+     id="title9167">elementary Symbolic Icon Theme</title>
+  <defs
+     id="defs7386" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer9"
+     label="status"
+     inkscape:label="status"
+     style="display:inline"
+     transform="translate(-593.0002,52)" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer10"
+     inkscape:label="devices"
+     style="display:inline"
+     transform="translate(-593.0002,52)" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer13"
+     inkscape:label="places"
+     style="display:inline"
+     transform="translate(-593.0002,52)" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer14"
+     inkscape:label="mimes"
+     transform="translate(-593.0002,52)" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer15"
+     inkscape:label="emblems"
+     style="display:inline"
+     transform="translate(-593.0002,52)" />
+  <g
+     inkscape:groupmode="layer"
+     id="g71291"
+     inkscape:label="emotes"
+     style="display:inline"
+     transform="translate(-593.0002,52)" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer12"
+     inkscape:label="actions"
+     style="display:inline"
+     transform="translate(-593.0002,52)">
+    <path
+       style="fill:#353535;fill-opacity:1"
+       inkscape:connector-curvature="0"
+       id="path12"
+       d="m 602.5002,-43.998652 c 0,0.827493 -0.67404,1.498652 -1.50128,1.498652 -0.82723,0 -1.49872,-0.671159 -1.49872,-1.498652 0,-0.827493 0.67149,-1.501348 1.49872,-1.501348 0.82724,0 1.50128,0.673855 1.50128,1.501348 z" />
+    <circle
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#353535;stroke-width:0.99999994;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path4169"
+       cx="601.00018"
+       cy="-44"
+       r="5" />
+    <g
+       id="g4188"
+       transform="matrix(0.5,0,0,0.48076923,593.0002,-51.692308)"
+       style="fill:#353535;fill-opacity:1">
+      <rect
+         ry="0.5"
+         rx="0.5"
+         y="3"
+         x="14"
+         height="3"
+         width="4"
+         id="rect4171"
+         style="opacity:1;fill:#353535;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         ry="0.5"
+         rx="0.5"
+         y="26"
+         x="14"
+         height="3"
+         width="4"
+         id="rect4171-7"
+         style="opacity:1;fill:#353535;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    </g>
+    <g
+       id="g4188-3"
+       transform="matrix(0,0.5,-0.48076923,0,608.69251,-52)"
+       style="fill:#353535;fill-opacity:1">
+      <rect
+         ry="0.5"
+         rx="0.5"
+         y="3"
+         x="14"
+         height="3"
+         width="4"
+         id="rect4171-5"
+         style="opacity:1;fill:#353535;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         ry="0.5"
+         rx="0.5"
+         y="26"
+         x="14"
+         height="3"
+         width="4"
+         id="rect4171-7-8"
+         style="opacity:1;fill:#353535;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    </g>
+    <g
+       id="g4188-7"
+       transform="matrix(0.35355339,0.35355339,-0.33995519,0.33995519,600.78263,-55.096137)"
+       style="fill:#353535;fill-opacity:1">
+      <rect
+         ry="0.5"
+         rx="0.5"
+         y="3"
+         x="14"
+         height="3"
+         width="4"
+         id="rect4171-2"
+         style="opacity:1;fill:#353535;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         ry="0.5"
+         rx="0.5"
+         y="26"
+         x="14"
+         height="3"
+         width="4"
+         id="rect4171-7-0"
+         style="opacity:1;fill:#353535;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    </g>
+    <g
+       id="g4188-5"
+       transform="matrix(0.35355339,-0.35355339,0.33995519,0.33995519,589.90406,-43.782429)"
+       style="fill:#353535;fill-opacity:1">
+      <rect
+         ry="0.5"
+         rx="0.5"
+         y="3"
+         x="14"
+         height="3"
+         width="4"
+         id="rect4171-4"
+         style="opacity:1;fill:#353535;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         ry="0.5"
+         rx="0.5"
+         y="26"
+         x="14"
+         height="3"
+         width="4"
+         id="rect4171-7-2"
+         style="opacity:1;fill:#353535;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    </g>
+  </g>
+</svg>

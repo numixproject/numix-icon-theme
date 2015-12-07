@@ -34,19 +34,31 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="640"
-     inkscape:window-height="480"
-     id="namedview2481" />
-  <g
+     inkscape:window-width="1920"
+     inkscape:window-height="1056"
+     id="namedview2481"
+     showgrid="true"
+     inkscape:zoom="14.75"
+     inkscape:cx="8"
+     inkscape:cy="8"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2473">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4137" />
+  </sodipodi:namedview>
+  <path
      style="fill:#353535"
-     transform="translate(-160.0002 -646)"
-     id="g2475">
-    <path
-       d="m 160.53145,651 c -0.28913,0 -0.53125,0.2421 -0.53125,0.5313 l 0,9.9375 c 0,0.2985 0.23264,0.5312 0.53125,0.5312 l 13.8125,0 c 0.2986,0 0.53125,-0.2326 0.53125,-0.5312 l 1.125,-4.9159 c 0,-0.2891 -0.24212,-0.5312 -0.53125,-0.5312 l -11.59375,0 -0.875,3.4783 c 0,0.277 -0.223,0.5 -0.5,0.5 -0.277,0 -0.5,-0.223 -0.5,-0.5 l 0,-4.9966 c 0,-0.277 0.223,-0.5 0.5,-0.5 l 0.46615,0 0,-3.0034 z"
-       id="path2477" />
-    <path
-       style="line-height:normal;color:#000"
-       d="m 164.8127,647 c -0.4584,0.0875 -0.82072,0.5334 -0.8125,1 l 0,7 2,0 0,-6 4,0 0,3 3,0 0,3 2,0 0,-3.4375 c 0.006,-0.2641 -0.0976,-0.529 -0.28125,-0.7188 l -3.5625,-3.56245 c -0.18978,-0.1837 -0.45469,-0.28737 -0.71875,-0.28125 l -5.4375,0 c -0.0312,-10e-4 -0.0625,-10e-4 -0.0937,0 -0.0312,-10e-4 -0.0625,-10e-4 -0.0937,0 z"
-       id="path2479" />
-  </g>
+     inkscape:connector-curvature="0"
+     id="path2477"
+     d="M 0.53125,5 C 0.24212,5 0,5.2421 0,5.5313 l 0,9.9375 C 0,15.7673 0.23264,16 0.53125,16 l 13.8125,0 c 0.2986,0 0.53125,-0.2326 0.53125,-0.5312 L 16,10.5529 c 0,-0.2891 -0.24212,-0.5312 -0.53125,-0.5312 L 3.875,10.0217 3,13.5 C 3,13.777 2.777,14 2.5,14 2.223,14 2,13.777 2,13.5 L 2,8.5034 c 0,-0.277 0.223,-0.5 0.5,-0.5 l 0.46615,0 0,-3.0034 z" />
+  <rect
+     style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#353535;stroke-width:0.99999988;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     id="rect4135"
+     width="10"
+     height="11"
+     x="4.5"
+     y="2.5" />
 </svg>

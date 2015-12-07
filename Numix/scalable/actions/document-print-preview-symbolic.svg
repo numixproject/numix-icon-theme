@@ -22,21 +22,12 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <defs
-     id="defs4109">
-    <filter
-       color-interpolation-filters="sRGB"
-       id="filter7554">
-      <feBlend
-         mode="darken"
-         in2="BackgroundImage"
-         id="feBlend7556" />
-    </filter>
-  </defs>
+     id="defs4109" />
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"

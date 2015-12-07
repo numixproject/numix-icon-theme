@@ -55,56 +55,7 @@
   <title
      id="title8473">Paper Symbolic Icon Theme</title>
   <defs
-     id="defs7386">
-    <filter
-       id="filter7554"
-       style="color-interpolation-filters:sRGB">
-      <feBlend
-         id="feBlend7556"
-         in2="BackgroundImage"
-         mode="darken" />
-    </filter>
-    <linearGradient
-       gradientTransform="matrix(0,-1,1,0,-1.5e-6,47.999998)"
-       gradientUnits="userSpaceOnUse"
-       x2="47"
-       x1="1"
-       id="linearGradient3764">
-      <stop
-         id="stop7"
-         style="stop-color:#66c3de;stop-opacity:1" />
-      <stop
-         id="stop9"
-         style="stop-color:#77c9e2;stop-opacity:1"
-         offset="1" />
-    </linearGradient>
-    <clipPath
-       id="clipPath-834013908">
-      <g
-         id="g12"
-         transform="translate(0,-1004.3622)">
-        <path
-           inkscape:connector-curvature="0"
-           id="path14"
-           style="fill:#1890d0"
-           transform="matrix(15.333333,0,0,11.5,414.99999,878.8622)"
-           d="m -24,13 c 0,1.105 -0.672,2 -1.5,2 -0.828,0 -1.5,-0.895 -1.5,-2 0,-1.105 0.672,-2 1.5,-2 0.828,0 1.5,0.895 1.5,2 z" />
-      </g>
-    </clipPath>
-    <clipPath
-       id="clipPath-845942433">
-      <g
-         id="g17"
-         transform="translate(0,-1004.3622)">
-        <path
-           inkscape:connector-curvature="0"
-           id="path19"
-           style="fill:#1890d0"
-           transform="matrix(15.333333,0,0,11.5,414.99999,878.8622)"
-           d="m -24,13 c 0,1.105 -0.672,2 -1.5,2 -0.828,0 -1.5,-0.895 -1.5,-2 0,-1.105 0.672,-2 1.5,-2 0.828,0 1.5,0.895 1.5,2 z" />
-      </g>
-    </clipPath>
-  </defs>
+     id="defs7386" />
   <path
      inkscape:connector-curvature="0"
      id="path62"
