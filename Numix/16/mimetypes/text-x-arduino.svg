@@ -13,7 +13,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="application-arduino_16-9-.svg">
+   sodipodi:docname="application-arduino_16-8-.svg">
   <metadata
      id="metadata16">
     <rdf:RDF>
@@ -22,7 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -54,10 +54,10 @@
      inkscape:window-width="1920"
      inkscape:window-height="1013"
      id="namedview12"
-     showgrid="false"
-     inkscape:zoom="8"
-     inkscape:cx="-58.126093"
-     inkscape:cy="19.282594"
+     showgrid="true"
+     inkscape:zoom="1"
+     inkscape:cx="9.025587"
+     inkscape:cy="6.5008366"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -86,14 +86,26 @@
      sodipodi:nodetypes="ccssc" />
   <path
      style="fill:#ffffff"
-     d="m 4,8 0,1 0,0 c 2.9999995,0 0,0 2.9999995,0 l 0,-1 C 5.0470297,8 5.6875457,8 4,8 Z"
+     d="m 4,9 0,1 0,0 c 2.9999995,0 0,0 2.9999995,0 l 0,-1 C 5.0470297,9 5.6875457,9 4,9 Z"
      id="polygon47-0"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="cccccc" />
+  <circle
+     style="opacity:0.7;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.70050198;stroke-opacity:1"
+     id="path4162"
+     cx="5.5"
+     cy="9.5"
+     r="2.149749" />
   <path
      style="fill:#ffffff"
-     d="m 9,8 0,1 0,0 1,0 0,0 0,1 0,0 1,0 0,-1 1,0 0,-1 -1,0 0,-1 -1,0 0,1 z"
+     d="m 9,9 0,1 0,0 1,0 0,0 0,1 0,0 1,0 0,-1 1,0 0,-1 -1,0 0,-1 -1,0 0,1 z"
      id="polygon47"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="cccccccccccccccc" />
+  <circle
+     style="opacity:0.7;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.70050198;stroke-opacity:1"
+     id="path4162-4"
+     cx="10.5"
+     cy="9.5"
+     r="2.149749" />
 </svg>
