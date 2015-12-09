@@ -13,7 +13,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="application-vbox-2_32-1P-.svg">
+   sodipodi:docname="virtualbox-vbox-extpack.svg">
   <metadata
      id="metadata26">
     <rdf:RDF>
@@ -22,7 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -42,8 +42,8 @@
      id="namedview22"
      showgrid="false"
      inkscape:zoom="1"
-     inkscape:cx="20.714746"
-     inkscape:cy="6.438442"
+     inkscape:cx="13.525562"
+     inkscape:cy="1.3219199"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -85,7 +85,8 @@
      inkscape:connector-curvature="0"
      id="path4218"
      style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.0232296px;line-height:125%;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     d="m 9,31 0,-6 2.833753,0 0,0.988692 -1.904282,0 0,1.347333 1.654912,0 0,0.988692 -1.654912,0 0,1.686592 2.070529,0 L 12,31 9,31 Z" />
+     d="m 9,31 0,-6 2.833753,0 0,0.988692 -1.904282,0 0,1.016962 1.654912,0 0,0.988692 -1.654912,0 0,2.016963 2.070529,0 L 12,31 Z"
+     sodipodi:nodetypes="ccccccccccccc" />
   <path
      inkscape:connector-curvature="0"
      id="path4220"
