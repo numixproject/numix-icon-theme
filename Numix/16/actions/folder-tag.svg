@@ -7,13 +7,13 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="64"
-   height="64"
-   viewBox="0 0 64 64"
+   width="16"
+   height="16"
+   viewBox="0 0 16 16"
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r"
-   sodipodi:docname="tag-new.svg">
+   sodipodi:docname="folder-tag.svg">
   <metadata
      id="metadata12">
     <rdf:RDF>
@@ -22,7 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -41,24 +41,20 @@
      inkscape:window-height="1056"
      id="namedview8"
      showgrid="true"
-     inkscape:zoom="8"
-     inkscape:cx="15.05021"
-     inkscape:cy="18.155005"
+     inkscape:zoom="32"
+     inkscape:cx="10.262943"
+     inkscape:cy="8"
      inkscape:window-x="0"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2">
     <inkscape:grid
        type="xygrid"
-       id="grid4134" />
+       id="grid4146" />
   </sodipodi:namedview>
   <path
-     inkscape:connector-curvature="0"
-     style="opacity:1;fill:#e6e1a2;fill-opacity:1;stroke:#a3a093;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     d="M 30.999986,4.7500011 2.7499709,35.171578 28.828423,61.250031 59.250001,30.828453 l 0,-26.0784519 -28.250015,0 z m 14.125007,8.0714329 a 6.0535746,6.0535746 0 0 1 6.053575,6.053574 6.0535746,6.0535746 0 0 1 -6.053575,6.053575 6.0535746,6.0535746 0 0 1 -6.053574,-6.053575 6.0535746,6.0535746 0 0 1 6.053574,-6.053574 z"
-     id="rect4170" />
-  <path
-     style="fill:#859900"
-     d="M 64 40 L 52 40 L 52 28 L 40 28 L 40 40 L 28 40 L 28 52 L 40 52 L 40 64 L 52 64 L 52 52 L 64 52 Z "
-     id="path6" />
+     style="opacity:1;fill:#e6e1a2;fill-opacity:1;stroke:#a3a093;stroke-width:0.49999997;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 6.999995,2.2500016 0.24999027,9.5192372 6.4807638,15.75001 13.75,8.480775 l 0,-6.2307734 -6.750005,0 z M 10.115382,4.326926 A 1.5576934,1.5576934 0 0 1 11.673074,5.8846194 1.5576934,1.5576934 0 0 1 10.115382,7.4423128 1.5576934,1.5576934 0 0 1 8.5576883,5.8846194 1.5576934,1.5576934 0 0 1 10.115382,4.326926 Z"
+     id="rect4170"
+     inkscape:connector-curvature="0" />
 </svg>
