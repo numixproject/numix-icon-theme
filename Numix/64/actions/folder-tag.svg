@@ -13,7 +13,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r"
-   sodipodi:docname="tag-new.svg">
+   sodipodi:docname="folder-tag.svg">
   <metadata
      id="metadata12">
     <rdf:RDF>
@@ -22,7 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -57,8 +57,4 @@
      style="opacity:1;fill:#e6e1a2;fill-opacity:1;stroke:#a3a093;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      d="M 30.999986,4.7500011 2.7499709,35.171578 28.828423,61.250031 59.250001,30.828453 l 0,-26.0784519 -28.250015,0 z m 14.125007,8.0714329 a 6.0535746,6.0535746 0 0 1 6.053575,6.053574 6.0535746,6.0535746 0 0 1 -6.053575,6.053575 6.0535746,6.0535746 0 0 1 -6.053574,-6.053575 6.0535746,6.0535746 0 0 1 6.053574,-6.053574 z"
      id="rect4170" />
-  <path
-     style="fill:#859900"
-     d="M 64 40 L 52 40 L 52 28 L 40 28 L 40 40 L 28 40 L 28 52 L 40 52 L 40 64 L 52 64 L 52 52 L 64 52 Z "
-     id="path6" />
 </svg>
