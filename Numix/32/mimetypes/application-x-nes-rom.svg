@@ -13,7 +13,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="application-roms_32-nes.svg">
+   sodipodi:docname="application-x-nes-rom.svg">
   <metadata
      id="metadata16">
     <rdf:RDF>
@@ -22,7 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -56,8 +56,8 @@
      id="namedview12"
      showgrid="false"
      inkscape:zoom="1"
-     inkscape:cx="22.726436"
-     inkscape:cy="10.581925"
+     inkscape:cx="13.444941"
+     inkscape:cy="-0.035562116"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -103,7 +103,8 @@
      inkscape:connector-curvature="0"
      id="path4161"
      style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:medium;line-height:125%;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     d="m 14,31 0,-6 3.778337,0 0,0.988691 -2.539042,0 0,1.347334 2.206548,0 0,0.988693 -2.206548,0 0,1.686591 2.760705,0 L 18,31 14,31 Z" />
+     d="m 14,31 0,-6 3.778337,0 0,0.988691 -2.539042,0 0,1.016962 2.206548,0 0,0.988693 -2.206548,0 0,2.016963 2.760705,0 L 18,31 Z"
+     sodipodi:nodetypes="ccccccccccccc" />
   <path
      inkscape:connector-curvature="0"
      id="path4163"
