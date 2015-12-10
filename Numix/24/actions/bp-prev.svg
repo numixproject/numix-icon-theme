@@ -11,7 +11,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="bp-toggle.svg">
+   sodipodi:docname="bp-prev.svg">
   <metadata
      id="metadata16">
     <rdf:RDF>
@@ -51,4 +51,18 @@
      style="fill:#dc322f;fill-rule:evenodd"
      id="path4"
      inkscape:connector-curvature="0" />
+  <path
+     style="opacity:1;fill:#dfdd41;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 12,6 -7,6 7,6 z"
+     id="rect4140"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cccc" />
+  <rect
+     style="opacity:1;fill:#dfdd41;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect4148"
+     width="7.9999995"
+     height="4.0000005"
+     x="-18"
+     y="10"
+     transform="scale(-1,1)" />
 </svg>
