@@ -13,7 +13,7 @@
    version="1.1"
    id="svg2"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="application-cursor-4.svg">
+   sodipodi:docname="image-x-xcursor.svg">
   <metadata
      id="metadata15">
     <rdf:RDF>
@@ -22,7 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -42,7 +42,7 @@
      id="namedview11"
      showgrid="false"
      inkscape:zoom="1"
-     inkscape:cx="34.366706"
+     inkscape:cx="-147.13329"
      inkscape:cy="19.44456"
      inkscape:window-x="0"
      inkscape:window-y="27"
@@ -68,5 +68,5 @@
      inkscape:connector-curvature="0"
      id="path3809"
      d="M 27.220732,21 25,44.452082 l 5.675367,-4.812717 2.576977,8.21093 4.360992,-1.368684 -2.576977,-8.210931 7.407609,0.706663 z"
-     style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:0.61290325;fill-rule:nonzero;stroke:none;stroke-width:2.5;marker:none;enable-background:accumulate" />
+     style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#f9f9f9;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.5;marker:none;enable-background:accumulate" />
 </svg>
