@@ -7,27 +7,25 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="32"
-   height="32"
    viewBox="0 0 32 32"
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
    sodipodi:docname="bp-prev.svg">
   <metadata
-     id="metadata10">
+     id="metadata12">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <defs
-     id="defs8" />
+     id="defs10" />
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -39,10 +37,10 @@
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
      inkscape:window-height="704"
-     id="namedview6"
+     id="namedview8"
      showgrid="false"
-     inkscape:zoom="8"
-     inkscape:cx="7.4420934"
+     inkscape:zoom="2.1054688"
+     inkscape:cx="-97.087261"
      inkscape:cy="16"
      inkscape:window-x="0"
      inkscape:window-y="27"
@@ -50,16 +48,25 @@
      inkscape:current-layer="svg2">
     <inkscape:grid
        type="xygrid"
-       id="grid4148" />
+       id="grid4150" />
   </sodipodi:namedview>
   <path
+     d="m 30,16.002898 a 14,14 0 0 1 -27.9999998,0 14,14 0 1 1 27.9999998,0 z"
      style="fill:#dc322f;fill-rule:evenodd"
-     d="M 28,16 A 12,12 0 0 1 4,16 12,12 0 1 1 28,16 Z"
      id="path4"
      inkscape:connector-curvature="0" />
   <path
-     style="fill:#dfdd41;fill-opacity:1"
-     d="M 30,12 30,32 14,22 Z"
-     id="path4-2"
-     inkscape:connector-curvature="0" />
+     style="opacity:1;fill:#dfdd41;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 16.999999,8.0028984 7,16.002898 l 9.999999,8 z"
+     id="rect4140"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cccc" />
+  <rect
+     style="opacity:1;fill:#dfdd41;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect4148"
+     width="10"
+     height="4"
+     x="-24"
+     y="14"
+     transform="scale(-1,1)" />
 </svg>

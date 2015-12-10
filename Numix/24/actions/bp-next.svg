@@ -7,8 +7,6 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="24"
-   height="24"
    viewBox="0 0 24 24"
    id="svg2"
    version="1.1"
@@ -40,26 +38,30 @@
      inkscape:window-width="1366"
      inkscape:window-height="704"
      id="namedview12"
-     showgrid="true"
-     inkscape:zoom="10.897788"
-     inkscape:cx="6.3418039"
+     showgrid="false"
+     inkscape:zoom="16"
+     inkscape:cx="1.760322"
      inkscape:cy="12"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg2">
-    <inkscape:grid
-       type="xygrid"
-       id="grid4144" />
-  </sodipodi:namedview>
+     inkscape:current-layer="svg2" />
   <path
+     d="m 22,12.001 a 10,10 0 0 1 -19.9999999,0 A 10,10 0 1 1 22,12.001 Z"
      style="fill:#dc322f;fill-rule:evenodd"
-     d="m 20,12 c 0,4.417613 -3.582387,8 -8,8 -4.4176139,0 -8,-3.582387 -8,-8 0,-4.417614 3.5823861,-8 8,-8 4.417613,0 8,3.582386 8,8 z"
      id="path4"
      inkscape:connector-curvature="0" />
   <path
-     style="fill:#dfdd41;fill-opacity:1"
-     d="m 12,8 0,14 10,-7 z"
-     id="path4-2"
-     inkscape:connector-curvature="0" />
+     style="opacity:1;fill:#dfdd41;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 12,6.001 7,6 -7,6 z"
+     id="rect4140"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cccc" />
+  <rect
+     style="opacity:1;fill:#dfdd41;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect4148"
+     width="7.9999995"
+     height="4.0000005"
+     x="6"
+     y="10.000999" />
 </svg>
