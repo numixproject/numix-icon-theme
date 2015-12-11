@@ -7,13 +7,13 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   viewBox="0 0 22 22"
+   viewBox="0 0 16 16"
    id="svg3055"
    version="1.1"
    inkscape:version="0.91 r"
    width="100%"
    height="100%"
-   sodipodi:docname="gsm-3g-high-secure.svg">
+   sodipodi:docname="gsm-3g-high.svg">
   <metadata
      id="metadata3075">
     <rdf:RDF>
@@ -42,8 +42,8 @@
      id="namedview3071"
      showgrid="true"
      inkscape:zoom="21.454545"
-     inkscape:cx="10.272519"
-     inkscape:cy="5.4574134"
+     inkscape:cx="0.45692773"
+     inkscape:cy="7.0361952"
      inkscape:window-x="0"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
@@ -53,18 +53,15 @@
        id="grid4137" />
   </sodipodi:namedview>
   <path
-     style="fill:#ececec;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;opacity:0.4"
-     d="m 19,3 -16,16 11.5,0 0,-1 c 0,-0.779849 0.423009,-1.407283 1,-1.869141 l 0,-0.09961 C 15.5,14.114682 17.070012,12.5 19,12.5 Z"
+     style="fill:#bebebe;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;opacity:0.4"
+     d="M 15,15 15,1 1,15 Z"
      id="path4139"
      inkscape:connector-curvature="0"
-     sodipodi:nodetypes="cccscscc" />
+     sodipodi:nodetypes="cccc" />
   <path
+     sodipodi:nodetypes="cccc"
      inkscape:connector-curvature="0"
-     style="fill:#ececec;fill-opacity:1"
-     d="m 19,14 c -1.108,0 -2,0.910763 -2,2.03125 L 17,17 c -0.554,0 -1,0.446 -1,1 l 0,3 c 0,0.554 0.446,1 1,1 l 4,0 c 0.554,0 1,-0.446 1,-1 l 0,-3 c 0,-0.554 -0.446,-1 -1,-1 l 0,-0.96875 C 21,14.910764 20.108,14 19,14 Z m 0,1 c 0.554,0 1,0.442363 1,1 l 0,1 -2,0 0,-1 c 0,-0.557637 0.446,-1 1,-1 z"
-     id="path3095" />
-  <path
-     style="fill:#ececec;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;opacity:1"
-     d="M 15 7 L 3 19 L 14.5 19 L 14.5 18 C 14.5 17.476765 14.700408 17.02852 15 16.646484 L 15 7 z "
-     id="path4353" />
+     id="path4134"
+     d="M 12,15 12,4 1,15 Z"
+     style="fill:#bebebe;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
 </svg>

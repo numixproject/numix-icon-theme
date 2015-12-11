@@ -8,25 +8,26 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    viewBox="0 0 24 24"
-   id="svg2"
+   id="svg3055"
    version="1.1"
    inkscape:version="0.91 r"
    width="100%"
    height="100%"
    sodipodi:docname="gsm-3g-medium-secure.svg">
   <metadata
-     id="metadata38">
+     id="metadata3075">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <defs
-     id="defs36" />
+     id="defs3073" />
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -36,57 +37,35 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1280"
-     inkscape:window-height="998"
-     id="namedview34"
-     showgrid="false"
-     inkscape:zoom="30.341309"
-     inkscape:cx="9.6774516"
-     inkscape:cy="8.476093"
+     inkscape:window-width="1920"
+     inkscape:window-height="1056"
+     id="namedview3071"
+     showgrid="true"
+     inkscape:zoom="21.454545"
+     inkscape:cx="-2.4859186"
+     inkscape:cy="5.4670416"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="24"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg2" />
-  <rect
-     id="rect14"
-     style="opacity:0.4;fill:#ececec;fill-opacity:1"
-     height="16"
-     rx="1"
-     y="4"
-     x="19.000315"
-     width="2" />
-  <rect
-     id="rect20"
-     style="opacity:0.4;fill:#ececec;fill-opacity:1"
-     height="11"
-     rx="1"
-     y="9"
-     x="15.000314"
-     width="2" />
-  <rect
-     style="fill:#ececec;fill-opacity:1"
-     id="rect24"
-     height="7"
-     rx="1"
-     y="13"
-     x="11.000004"
-     width="2" />
-  <rect
-     style="fill:#ececec;fill-opacity:1"
-     id="rect26"
-     height="3"
-     rx="1"
-     y="17"
-     x="6.999999"
-     width="2" />
+     inkscape:current-layer="svg3055">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4137" />
+  </sodipodi:namedview>
   <path
-     style="fill:#ececec;fill-opacity:1"
+     style="opacity:0.4;fill:#ececec;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 20,4 -16,16 11.5,0 0,-1 c 0,-0.779849 0.423009,-1.407283 1,-1.869141 l 0,-0.09961 C 16.5,15.114682 18.070012,13.5 20,13.5 Z"
+     id="path4139"
      inkscape:connector-curvature="0"
-     id="path28"
-     d="m 1.4998523,12 c -0.06925,0 -0.1276406,0.006 -0.1875,0.03125 -0.057115,0.02622 -0.1129571,0.08181 -0.15625,0.125 l -0.03125,0.03125 c -0.032203,0.03814 -0.074055,0.07828 -0.09375,0.125 -0.0960746,0.182877 -0.0638124,0.405327 0.09375,0.5625 l 2.875,2.875 0,3.75 c 0,0.277 0.223,0.5 0.5,0.5 0.277,0 0.5,-0.223 0.5,-0.5 l 0,-3.75 2.875,-2.875 c 0.1575625,-0.157173 0.1898247,-0.379623 0.09375,-0.5625 -0.019695,-0.04672 -0.061547,-0.08686 -0.09375,-0.125 l -0.03125,-0.03125 C 7.7525741,12.065447 7.6212978,12.006356 7.4998523,12 l -0.03125,0 -2.96875,0 -2.96875,0 -0.03125,0 z m 1.21875,1 1.28125,0 0,1.25 -1.28125,-1.25 z m 2.28125,0 1.28125,0 -1.28125,1.28125 0,-1.28125 z" />
+     sodipodi:nodetypes="cccscscc" />
   <path
-     style="fill:#ececec;fill-opacity:1"
-     d="m 20,14 c -1.108,0 -2,0.910763 -2,2.03125 L 18,17 c -0.554,0 -1,0.446 -1,1 l 0,3 c 0,0.554 0.446,1 1,1 l 4,0 c 0.554,0 1,-0.446 1,-1 l 0,-3 c 0,-0.554 -0.446,-1 -1,-1 l 0,-0.96875 C 22,14.910764 21.108,14 20,14 z m 0,1 c 0.554,0 1,0.442363 1,1 l 0,1 -2,0 0,-1 c 0,-0.557637 0.446,-1 1,-1 z"
-     id="path32"
+     style="fill:#ececec;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 12,12 -8,8 8,0 0,-8 z"
+     id="path4137"
      inkscape:connector-curvature="0" />
+  <path
+     inkscape:connector-curvature="0"
+     style="fill:#ececec;fill-opacity:1"
+     d="m 20,15 c -1.108,0 -2,0.910763 -2,2.03125 L 18,18 c -0.554,0 -1,0.446 -1,1 l 0,3 c 0,0.554 0.446,1 1,1 l 4,0 c 0.554,0 1,-0.446 1,-1 l 0,-3 c 0,-0.554 -0.446,-1 -1,-1 l 0,-0.96875 C 22,15.910764 21.108,15 20,15 Z m 0,1 c 0.554,0 1,0.442363 1,1 l 0,1 -2,0 0,-1 c 0,-0.557637 0.446,-1 1,-1 z"
+     id="path3095" />
 </svg>
