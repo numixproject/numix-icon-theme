@@ -44,7 +44,7 @@
      id="namedview30"
      showgrid="true"
      inkscape:zoom="37.772727"
-     inkscape:cx="12"
+     inkscape:cx="6.2286402"
      inkscape:cy="12"
      inkscape:window-x="0"
      inkscape:window-y="27"
@@ -68,11 +68,14 @@
        snapvisiblegridlinesonly="true" />
   </sodipodi:namedview>
   <path
-     style="fill:#dcdcdc"
+     style="fill:#cccccc"
      d="M 5,1 C 4.527343,1 4,1.527344 4,2 l 0,20 c 0,0.445312 0.554687,1 1,1 l 14,0 c 0.445313,0 0.992367,-0.554753 1,-1 L 20,7 14,1 z"
      id="path4"
      inkscape:connector-curvature="0"
-     sodipodi:nodetypes="ssssssccs" />
+     sodipodi:nodetypes="ssssssccs"
+     inkscape:export-filename="/home/ismael/Imágenes/Icons/inode-fifo/path4.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <path
      style="fill:#000000;fill-opacity:0.19599998"
      d="m 15,7 5,5 0,-5 z"
