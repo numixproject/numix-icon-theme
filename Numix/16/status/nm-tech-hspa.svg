@@ -41,9 +41,9 @@
      inkscape:window-height="1056"
      id="namedview3373"
      showgrid="true"
-     inkscape:zoom="29.5"
-     inkscape:cx="-2.9438199"
-     inkscape:cy="5.8581559"
+     inkscape:zoom="41.7193"
+     inkscape:cx="9.2775326"
+     inkscape:cy="7.4238073"
      inkscape:window-x="0"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
@@ -52,33 +52,24 @@
        type="xygrid"
        id="grid3411" />
   </sodipodi:namedview>
-  <rect
-     style="opacity:1;fill:#ececec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-     id="rect4143"
-     width="9"
-     height="1"
-     x="7"
-     y="2"
-     rx="0.5"
-     ry="0.5" />
-  <rect
-     style="opacity:1;fill:#ececec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-     id="rect4145"
-     width="1"
-     height="12"
-     x="11"
-     y="2"
-     rx="0.5"
-     ry="0.49999997" />
   <path
-     style="fill:none;fill-rule:evenodd;stroke:#ececec;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     d="m 7.5,2.5 4,5.5 4,-5.5"
-     id="path4147"
+     sodipodi:nodetypes="cccc"
      inkscape:connector-curvature="0"
-     sodipodi:nodetypes="ccc" />
+     id="path4139"
+     d="M 15,15 15,1 1,15 Z"
+     style="fill:#ececec;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  <g
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.34567928px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     id="g4169"
+     transform="matrix(-1,0,0,1,-44.963641,-18.34766)" />
+  <g
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.34567928px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     id="g4169-7"
+     transform="matrix(-1,0,0,1,-64.982985,-20.426498)" />
   <path
-     style="fill:#ececec;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     d="m 3,7 0,7 1,0 0,-3 2,0 0,3 1,0 0,-7 -1,0 0,3 -2,0 0,-3 z"
-     id="path4137"
-     inkscape:connector-curvature="0" />
+     id="rect4134"
+     d="m 2,2 1,0 0,1.499954 1,0 L 4,2 5,2 5,6 4,6 4,4.499955 l -1,0 L 3,6 2,6 Z"
+     style="opacity:1;fill:#ececec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.06666672;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ccccccccccccc" />
 </svg>

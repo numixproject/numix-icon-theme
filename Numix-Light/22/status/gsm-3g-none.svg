@@ -22,7 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -42,8 +42,8 @@
      id="namedview3071"
      showgrid="true"
      inkscape:zoom="21.454545"
-     inkscape:cx="-2.4859186"
-     inkscape:cy="5.4670416"
+     inkscape:cx="6.6729799"
+     inkscape:cy="4.8144992"
      inkscape:window-x="0"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
@@ -53,14 +53,9 @@
        id="grid4137" />
   </sodipodi:namedview>
   <path
-     style="fill:#353535;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;opacity:0.4"
-     d="m 19,3 -16,16 11.5,0 0,-1 c 0,-0.779849 0.423009,-1.407283 1,-1.869141 l 0,-0.09961 C 15.5,14.114682 17.070012,12.5 19,12.5 Z"
+     style="opacity:0.4;fill:#353535;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="M 19,3 3,19 19,19 Z"
      id="path4139"
      inkscape:connector-curvature="0"
-     sodipodi:nodetypes="cccscscc" />
-  <path
-     inkscape:connector-curvature="0"
-     style="fill:#353535;fill-opacity:1"
-     d="m 19,14 c -1.108,0 -2,0.910763 -2,2.03125 L 17,17 c -0.554,0 -1,0.446 -1,1 l 0,3 c 0,0.554 0.446,1 1,1 l 4,0 c 0.554,0 1,-0.446 1,-1 l 0,-3 c 0,-0.554 -0.446,-1 -1,-1 l 0,-0.96875 C 21,14.910764 20.108,14 19,14 Z m 0,1 c 0.554,0 1,0.442363 1,1 l 0,1 -2,0 0,-1 c 0,-0.557637 0.446,-1 1,-1 z"
-     id="path3095" />
+     sodipodi:nodetypes="cccc" />
 </svg>

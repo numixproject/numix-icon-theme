@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -15,7 +13,7 @@
    inkscape:version="0.91 r"
    sodipodi:docname="nm-tech-edge.svg">
   <metadata
-     id="metadata12">
+     id="metadata16">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -27,7 +25,7 @@
     </rdf:RDF>
   </metadata>
   <defs
-     id="defs10" />
+     id="defs14" />
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -39,39 +37,36 @@
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
      inkscape:window-height="1056"
-     id="namedview8"
+     id="namedview12"
      showgrid="true"
-     inkscape:zoom="9.8333334"
-     inkscape:cx="-28.612398"
-     inkscape:cy="7.0601576"
+     inkscape:zoom="19.666667"
+     inkscape:cx="15.060839"
+     inkscape:cy="17.641988"
      inkscape:window-x="0"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2">
     <inkscape:grid
        type="xygrid"
-       id="grid4363" />
+       id="grid4149" />
   </sodipodi:namedview>
   <g
-     id="g4146">
-    <rect
-       ry="1"
-       rx="1"
-       y="4"
-       x="16"
-       height="16"
-       width="2"
-       id="rect4361-2"
-       style="opacity:1;fill:#353535;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+     id="g4217">
     <path
+       style="fill:#353535;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 21,21 21,4.9999996 5,21 Z"
+       id="path4139-8"
        inkscape:connector-curvature="0"
-       id="rect4363-6"
-       d="m 12,4 c -0.554,0 -1,0.446 -1,1 0,0.2444339 0.09757,0.4594594 0.242188,0.6328125 l -0.0098,0.00781 5,5.9999995 L 17,11 l 0.767578,0.640625 5,-6 -0.0098,-0.00781 C 22.902428,5.4594594 23,5.2444339 23,5 23,4.446 22.554,4 22,4 L 12,4 Z M 14.134766,6 19.865234,6 17,9.4375 14.134766,6 Z"
-       style="opacity:1;fill:#353535;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+       sodipodi:nodetypes="cccc" />
+    <g
+       transform="matrix(-1,0,0,1,-11.253709,-13.565582)"
+       id="g4169"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.34567928px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     <path
+       sodipodi:nodetypes="ccccccccccccc"
        inkscape:connector-curvature="0"
        id="path4140"
-       d="m 4,10 0,10 7,0 0,-2 -5,0 0,-2 4,0 0,-2 -4,0 0,-2 5,0 0,-2 z"
+       d="m 3,3 0,10 6,0 0,-1.999999 -4,0 L 5,9 8,9 8,7 5,7 5,5 9,5 9,3 Z"
        style="fill:#353535;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
   </g>
 </svg>
