@@ -12,37 +12,27 @@ Directories=16/actions,16/animations,16/apps,16/categories,16/devices,16/emblems
 [16/actions]
 Size=16
 Context=Actions
-MinSize=8
-MaxSize=21
-Type=Scalable
+Type=Fixed
 
 [16/animations]
 Size=16
 Context=Animations
-MinSize=8
-MaxSize=21
-Type=Scalable
+Type=Fixed
 
 [16/apps]
 Size=16
 Context=Applications
-MinSize=8
-MaxSize=21
-Type=Scalable
+Type=Fixed
 
 [16/categories]
 Size=16
 Context=Categories
-MinSize=8
-MaxSize=21
-Type=Scalable
+Type=Fixed
 
 [16/devices]
 Size=16
 Context=Devices
-MinSize=8
-MaxSize=21
-Type=Scalable
+Type=Fixed
 
 [16/emblems]
 Size=16
@@ -54,23 +44,17 @@ Type=Scalable
 [16/emotes]
 Size=16
 Context=Emotes
-MinSize=8
-MaxSize=21
-Type=Scalable
+Type=Fixed
 
 [16/mimetypes]
 Size=16
 Context=MimeTypes
-MinSize=8
-MaxSize=21
-Type=Scalable
+Type=Fixed
 
 [16/panel]
 Size=16
 Context=Panel
-MinSize=8
-MaxSize=21
-Type=Scalable
+Type=Fixed
 
 [16/places]
 Size=16
@@ -82,57 +66,43 @@ Type=Scalable
 [16/status]
 Size=16
 Context=Status
-MinSize=8
-MaxSize=21
-Type=Scalable
+Type=Fixed
 
 [16@2x/actions]
 Size=16
 Scale=2
 Context=Actions
-MinSize=8
-MaxSize=21
-Type=Scalable
+Type=Fixed
 
 [16@2x/animations]
 Size=16
 Scale=2
 Context=Animations
-MinSize=8
-MaxSize=21
-Type=Scalable
+Type=Fixed
 
 [16@2x/apps]
 Size=16
 Scale=2
 Context=Applications
-MinSize=8
-MaxSize=21
-Type=Scalable
+Type=Fixed
 
 [16@2x/categories]
 Size=16
 Scale=2
 Context=Categories
-MinSize=8
-MaxSize=21
-Type=Scalable
+Type=Fixed
 
 [16@2x/devices]
 Size=16
 Scale=2
 Context=Devices
-MinSize=8
-MaxSize=21
-Type=Scalable
+Type=Fixed
 
 [16@2x/emblems]
 Size=16
 Scale=2
 Context=Emblems
-MinSize=8
-MaxSize=21
-Type=Scalable
+Type=Fixed
 
 [16@2x/emotes]
 Size=16
@@ -146,511 +116,377 @@ Type=Scalable
 Size=16
 Scale=2
 Context=MimeTypes
-MinSize=8
-MaxSize=21
-Type=Scalable
+Type=Fixed
 
 [16@2x/panel]
 Size=16
 Scale=2
 Context=Panel
-MinSize=8
-MaxSize=21
-Type=Scalable
+Type=Fixed
 
 [16@2x/places]
 Size=16
 Scale=2
 Context=Places
-MinSize=8
-MaxSize=21
-Type=Scalable
+Type=Fixed
 
 [16@2x/status]
 Size=16
 Scale=2
 Context=Status
-MinSize=8
-MaxSize=21
-Type=Scalable
+Type=Fixed
 
 [22/actions]
 Size=22
 Context=Actions
-MinSize=8
-MaxSize=23
-Type=Scalable
+Type=Fixed
 
 [22/animations]
 Size=22
 Context=Animations
-MinSize=8
-MaxSize=23
-Type=Scalable
+Type=Fixed
 
 [22/apps]
 Size=22
 Context=Applications
-MinSize=8
-MaxSize=23
-Type=Scalable
+Type=Fixed
 
 [22/categories]
 Size=22
 Context=Categories
-MinSize=8
-MaxSize=23
-Type=Scalable
+Type=Fixed
 
 [22/devices]
 Size=22
 Context=Devices
-MinSize=8
-MaxSize=23
-Type=Scalable
+Type=Fixed
 
 [22/emblems]
 Size=22
 Context=Emblems
-MinSize=8
-MaxSize=23
-Type=Scalable
+Type=Fixed
 
 [22/emotes]
 Size=22
 Context=Emotes
-MinSize=8
-MaxSize=23
-Type=Scalable
+Type=Fixed
 
 [22/mimetypes]
 Size=22
 Context=MimeTypes
-MinSize=8
-MaxSize=23
-Type=Scalable
+Type=Fixed
 
 [22/panel]
 Size=22
 Context=Panel
-MinSize=8
-MaxSize=23
-Type=Scalable
+Type=Fixed
 
 [22/places]
 Size=22
 Context=Places
-MinSize=8
-MaxSize=23
-Type=Scalable
+Type=Fixed
 
 [22/status]
 Size=22
 Context=Status
-MinSize=8
-MaxSize=23
-Type=Scalable
+Type=Fixed
 
 [22@2x/actions]
 Size=22
 Scale=2
 Context=Actions
-MinSize=8
-MaxSize=23
-Type=Scalable
+Type=Fixed
 
 [22@2x/animations]
 Size=22
 Scale=2
 Context=Animations
-MinSize=8
-MaxSize=23
-Type=Scalable
+Type=Fixed
 
 [22@2x/apps]
 Size=22
 Scale=2
 Context=Applications
-MinSize=8
-MaxSize=23
-Type=Scalable
+Type=Fixed
 
 [22@2x/categories]
 Size=22
 Scale=2
 Context=Categories
-MinSize=8
-MaxSize=23
-Type=Scalable
+Type=Fixed
 
 [22@2x/devices]
 Size=22
 Scale=2
 Context=Devices
-MinSize=8
-MaxSize=23
-Type=Scalable
+Type=Fixed
 
 [22@2x/emblems]
 Size=22
 Scale=2
 Context=Emblems
-MinSize=8
-MaxSize=23
-Type=Scalable
+Type=Fixed
 
 [22@2x/emotes]
 Size=22
 Scale=2
 Context=Emotes
-MinSize=8
-MaxSize=23
-Type=Scalable
+Type=Fixed
 
 [22@2x/mimetypes]
 Size=22
 Scale=2
 Context=MimeTypes
-MinSize=8
-MaxSize=23
-Type=Scalable
+Type=Fixed
 
 [22@2x/panel]
 Size=22
 Scale=2
 Context=Panel
-MinSize=8
-MaxSize=23
-Type=Scalable
+Type=Fixed
 
 [22@2x/places]
 Size=22
 Scale=2
 Context=Places
-MinSize=8
-MaxSize=23
-Type=Scalable
+Type=Fixed
 
 [22@2x/status]
 Size=22
 Scale=2
 Context=Status
-MinSize=8
-MaxSize=23
-Type=Scalable
+Type=Fixed
 
 [24/actions]
 Size=24
 Context=Actions
-MinSize=8
-MaxSize=31
-Type=Scalable
+Type=Fixed
 
 [24/animations]
 Size=24
 Context=Animations
-MinSize=8
-MaxSize=31
-Type=Scalable
+Type=Fixed
 
 [24/apps]
 Size=24
 Context=Applications
-MinSize=8
-MaxSize=31
-Type=Scalable
+Type=Fixed
 
 [24/categories]
 Size=24
 Context=Categories
-MinSize=8
-MaxSize=31
-Type=Scalable
+Type=Fixed
 
 [24/devices]
 Size=24
 Context=Devices
-MinSize=8
-MaxSize=31
-Type=Scalable
+Type=Fixed
 
 [24/emblems]
 Size=24
 Context=Emblems
-MinSize=8
-MaxSize=31
-Type=Scalable
+Type=Fixed
 
 [24/emotes]
 Size=24
 Context=Emotes
-MinSize=8
-MaxSize=31
-Type=Scalable
+Type=Fixed
 
 [24/mimetypes]
 Size=24
 Context=MimeTypes
-MinSize=8
-MaxSize=31
-Type=Scalable
+Type=Fixed
 
 [24/panel]
 Size=24
 Context=Panel
-MinSize=8
-MaxSize=31
-Type=Scalable
+Type=Fixed
 
 [24/places]
 Size=24
 Context=Places
-Type=Scalable
+Type=Fixed
 
 [24/status]
 Size=24
 Context=Status
-MinSize=8
-MaxSize=31
-Type=Scalable
+Type=Fixed
 
 [24@2x/actions]
 Size=24
 Scale=2
 Context=Actions
-MinSize=8
-MaxSize=31
-Type=Scalable
+Type=Fixed
 
 [24@2x/animations]
 Size=24
 Scale=2
 Context=Animations
-MinSize=8
-MaxSize=31
-Type=Scalable
+Type=Fixed
 
 [24@2x/apps]
 Size=24
 Scale=2
 Context=Applications
-MinSize=8
-MaxSize=31
-Type=Scalable
+Type=Fixed
 
 [24@2x/categories]
 Size=24
 Scale=2
 Context=Categories
-MinSize=8
-MaxSize=31
-Type=Scalable
+Type=Fixed
 
 [24@2x/devices]
 Size=24
 Scale=2
 Context=Devices
-MinSize=8
-MaxSize=31
-Type=Scalable
+Type=Fixed
 
 [24@2x/emblems]
 Size=24
 Scale=2
 Context=Emblems
-MinSize=8
-MaxSize=31
-Type=Scalable
+Type=Fixed
 
 [24@2x/emotes]
 Size=24
 Scale=2
 Context=Emotes
-MinSize=8
-MaxSize=31
-Type=Scalable
+Type=Fixed
 
 [24@2x/mimetypes]
 Size=24
 Scale=2
 Context=MimeTypes
-MinSize=8
-MaxSize=31
-Type=Scalable
+Type=Fixed
 
 [24@2x/panel]
 Size=24
 Scale=2
 Context=Panel
-MinSize=8
-MaxSize=31
-Type=Scalable
+Type=Fixed
 
 [24@2x/places]
 Size=24
 Scale=2
 Context=Places
-MinSize=8
-MaxSize=31
-Type=Scalable
+Type=Fixed
 
 [24@2x/status]
 Size=24
 Scale=2
 Context=Status
-MinSize=8
-MaxSize=31
-Type=Scalable
+Type=Fixed
 
 [32/actions]
 Size=32
 Context=Actions
-MinSize=8
-MaxSize=47
-Type=Scalable
+Type=Fixed
 
 [32/animations]
 Size=32
 Context=Animations
-MinSize=8
-MaxSize=47
-Type=Scalable
+Type=Fixed
 
 [32/apps]
 Size=32
 Context=Applications
-MinSize=8
-MaxSize=47
-Type=Scalable
+Type=Fixed
 
 [32/categories]
 Size=32
 Context=Categories
-MinSize=8
-MaxSize=47
-Type=Scalable
+Type=Fixed
 
 [32/devices]
 Size=32
 Context=Devices
-MinSize=8
-MaxSize=47
-Type=Scalable
+Type=Fixed
 
 [32/emblems]
 Size=32
 Context=Emblems
-MinSize=8
-MaxSize=47
-Type=Scalable
+Type=Fixed
 
 [32/emotes]
 Size=32
 Context=Emotes
-MinSize=8
-MaxSize=47
-Type=Scalable
+Type=Fixed
 
 [32/mimetypes]
 Size=32
 Context=MimeTypes
-MinSize=8
-MaxSize=47
-Type=Scalable
+Type=Fixed
 
 [32/places]
 Size=32
 Context=Places
-MinSize=8
-MaxSize=47
-Type=Scalable
+Type=Fixed
 
 [32/status]
 Size=32
 Context=Status
-MinSize=8
-MaxSize=47
-Type=Scalable
+Type=Fixed
 
 [32@2x/actions]
 Size=32
 Scale=2
 Context=Actions
-MinSize=8
-MaxSize=47
-Type=Scalable
+Type=Fixed
 
 [32@2x/animations]
 Size=32
 Scale=2
 Context=Animations
-MinSize=8
-MaxSize=47
-Type=Scalable
+Type=Fixed
 
 [32@2x/apps]
 Size=32
 Scale=2
 Context=Applications
-MinSize=8
-MaxSize=47
-Type=Scalable
+Type=Fixed
 
 [32@2x/categories]
 Size=32
 Scale=2
 Context=Categories
-MinSize=8
-MaxSize=47
-Type=Scalable
+Type=Fixed
 
 [32@2x/devices]
 Size=32
 Scale=2
 Context=Devices
-MinSize=8
-MaxSize=47
-Type=Scalable
+Type=Fixed
 
 [32@2x/emblems]
 Size=32
 Scale=2
 Context=Emblems
-MinSize=8
-MaxSize=47
-Type=Scalable
+Type=Fixed
 
 [32@2x/emotes]
 Size=32
 Scale=2
 Context=Emotes
-MinSize=8
-MaxSize=47
-Type=Scalable
+Type=Fixed
 
 [32@2x/mimetypes]
 Size=32
 Scale=2
 Context=MimeTypes
-MinSize=8
-MaxSize=47
-Type=Scalable
+Type=Fixed
 
 [32@2x/places]
 Size=32
 Scale=2
 Context=Places
-MinSize=8
-MaxSize=47
-Type=Scalable
+Type=Fixed
 
 [32@2x/status]
 Size=32
 Scale=2
 Context=Status
-MinSize=8
-MaxSize=47
-Type=Scalable
+Type=Fixed
 
 [48/actions]
 Size=48
