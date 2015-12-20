@@ -65,12 +65,12 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1016"
+     inkscape:window-height="1013"
      id="namedview10"
      showgrid="true"
-     inkscape:zoom="11.313709"
-     inkscape:cx="32.71283"
-     inkscape:cy="29.616764"
+     inkscape:zoom="11.313708"
+     inkscape:cx="47.143701"
+     inkscape:cy="31.942096"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -91,29 +91,24 @@
      id="path8"
      inkscape:connector-curvature="0" />
   <g
-     transform="matrix(1.0829907,0,0,1.0521164,6.0155837,11.373623)"
+     transform="matrix(1.0829907,0,0,1.0521164,6.0155837,12.373623)"
      id="g49"
-     style="fill:#ffffff">
+     style="fill:#f9f9f9">
     <g
        clip-path="url(#clipPath-165128749)"
        id="g51"
-       style="fill:#ffffff">
+       style="fill:#f9f9f9">
       <!-- color: #474747 -->
       <g
          id="g53"
-         style="fill:#ffffff">
+         style="fill:#f9f9f9">
         <path
-           d="m 19.191685,12.000931 c -3.926,0 -7.202279,3.877819 -7.202278,7.803819 l 10e-7,3.90191 c 1e-6,3.926 3.276277,7.303575 7.202277,7.303575 l 9.603037,0 c 3.925956,0 7.202277,-3.377574 7.202278,-7.303575 l 0,-3.90191 c 0,-3.926 -3.276278,-7.803819 -7.202278,-7.803819"
+           style="fill:#f9f9f9;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="m 33,24 c -9,0 -14,5.000001 -14,10 0,3.562531 2.285063,7.246041 7,9 l -2,6 10,-5 C 40.686316,43.726177 45,38.857013 45,34 45,29.000001 39.999999,24 33,24 Z"
            id="path55"
+           transform="matrix(0.92336896,0,0,0.95046518,-5.5546033,-10.810233)"
            inkscape:connector-curvature="0"
-           style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           sodipodi:nodetypes="cssssssc" />
-        <path
-           style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           inkscape:connector-curvature="0"
-           d="m 33.226893,27.208374 -13.850534,0 -3.693476,9.504651"
-           id="path57"
-           sodipodi:nodetypes="ccc" />
+           sodipodi:nodetypes="sscccss" />
       </g>
     </g>
   </g>
