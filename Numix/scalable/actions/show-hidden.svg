@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<!-- Copyright (C) 2015 Germar Reitze -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48"
+   height="48"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="show-hidden-numix.svg">
+  <title
+     id="title3021">show-hidden</title>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>show-hidden</dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-nc-sa/3.0/" />
+        <dc:date>2015-12-22</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Germar Reitze</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>eye</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <dc:description>Icon for showing hidden files in BackInTime</dc:description>
+        <dc:source>https://github.com/bit-team/backintime</dc:source>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:prohibits
+           rdf:resource="http://creativecommons.org/ns#CommercialUse" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="16"
+     inkscape:cx="22.804126"
+     inkscape:cy="22.522452"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1623"
+     inkscape:window-height="1026"
+     inkscape:window-x="57"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1">
+    <sodipodi:guide
+       orientation="0,1"
+       position="0,24"
+       id="guide2985" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="24,0"
+       id="guide2987" />
+  </sodipodi:namedview>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-1004.3622)">
+    <path
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#859900;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+       d="m 24.0625,1016.3438 c -10.893616,0 -20.3323309,4.5171 -23.65625,11.5312 l -0.09375,0.2188 0.09375,0.1874 c 3.3239203,7.0141 12.762631,11.5313 23.65625,11.5313 10.893617,0 20.301078,-4.5172 23.625,-11.5313 l 0.125,-0.1874 -0.125,-0.2188 c -3.323921,-7.0141 -12.731386,-11.5312 -23.625,-11.5312 z m 0,5.75 c 7.364606,0 13.582096,2.4963 15.875,5.9687 -1.85645,2.831 -6.348111,4.9723 -11.9375,5.6875 1.266431,-1.1167 2.125,-2.7145 2.125,-4.5312 0,-3.3571 -2.736777,-6.0938 -6.09375,-6.0938 -3.356973,0 -6.09375,2.7367 -6.09375,6.0938 0,1.8152 0.829179,3.4146 2.09375,4.5312 -5.558837,-0.7243 -10.026799,-2.8673 -11.875,-5.6875 2.291895,-3.4733 8.540343,-5.9687 15.90625,-5.9687 z"
+       id="path4622"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="scccscccssccsssccs" />
+  </g>
+</svg>
