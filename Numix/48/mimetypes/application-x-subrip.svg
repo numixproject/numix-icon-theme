@@ -13,7 +13,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="application-x-subrip.svg">
+   sodipodi:docname="application-x-subrip_48.svg">
   <metadata
      id="metadata14">
     <rdf:RDF>
@@ -54,6 +54,19 @@
            id="path19" />
       </g>
     </clipPath>
+    <clipPath
+       id="clipPath-165128749-9">
+      <g
+         transform="translate(0,-1004.3622)"
+         id="g17-3">
+        <path
+           style="fill:#1890d0"
+           inkscape:connector-curvature="0"
+           d="m -24,13 c 0,1.105 -0.672,2 -1.5,2 -0.828,0 -1.5,-0.895 -1.5,-2 0,-1.105 0.672,-2 1.5,-2 0.828,0 1.5,0.895 1.5,2 z"
+           transform="matrix(15.333333,0,0,11.5,414.99999,878.8622)"
+           id="path19-1" />
+      </g>
+    </clipPath>
   </defs>
   <sodipodi:namedview
      pagecolor="#ffffff"
@@ -65,12 +78,12 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1016"
+     inkscape:window-height="1013"
      id="namedview10"
-     showgrid="true"
-     inkscape:zoom="11.313709"
-     inkscape:cx="13.72126"
-     inkscape:cy="22.870994"
+     showgrid="false"
+     inkscape:zoom="1"
+     inkscape:cx="-168.91605"
+     inkscape:cy="13.94584"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -93,29 +106,24 @@
      d="m 29,1 13,13 -11,0 c -0.971429,0 -2,-1.028571 -2,-2 L 29,1 z"
      id="path8" />
   <g
-     transform="matrix(0.83306979,0,0,0.7688543,4.0119871,8.7730325)"
+     transform="matrix(0.83306977,0,0,0.79960846,4.0119875,9.4039538)"
      id="g49"
-     style="fill:#ffffff">
+     style="fill:#f9f9f9">
     <g
-       clip-path="url(#clipPath-165128749)"
+       clip-path="url(#clipPath-165128749-9)"
        id="g51"
-       style="fill:#ffffff">
+       style="fill:#f9f9f9">
       <!-- color: #474747 -->
       <g
          id="g53"
-         style="fill:#ffffff">
+         style="fill:#f9f9f9">
         <path
-           d="m 19.191685,12.000931 c -3.926,0 -7.202279,3.877819 -7.202278,7.803819 l 10e-7,3.90191 c 1e-6,3.926 3.276277,7.803819 7.202277,7.803819 l 9.603037,0 c 3.925956,0 7.202277,-3.877818 7.202278,-7.803819 l 0,-3.90191 c 0,-3.926 -3.276278,-7.803819 -7.202278,-7.803819"
+           style="fill:#f9f9f9;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="M 32.65,24 C 24.2,24 19,28.868422 19,33.868421 c 0,3.562531 2.435063,7.456567 7.15,9.210526 L 24.2,49 33.95,43.736842 C 40.636316,43.463019 45,38.725434 45,33.868421 45,28.868422 39.8,24 32.65,24 Z"
            id="path55"
+           transform="matrix(0.92336896,0,0,0.95046518,-5.5546033,-10.810233)"
            inkscape:connector-curvature="0"
-           style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           sodipodi:nodetypes="cssssssc" />
-        <path
-           style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           inkscape:connector-curvature="0"
-           d="m 33.59624,27.60857 -14.404555,0 -3.601139,9.104455"
-           id="path57"
-           sodipodi:nodetypes="ccc" />
+           sodipodi:nodetypes="sscccss" />
       </g>
     </g>
   </g>
