@@ -22,7 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -40,8 +40,8 @@
      id="namedview10"
      showgrid="true"
      inkscape:zoom="22.627417"
-     inkscape:cx="-5.7757772"
-     inkscape:cy="13.491906"
+     inkscape:cx="6.0818385"
+     inkscape:cy="9.0065078"
      inkscape:window-x="0"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
@@ -52,15 +52,16 @@
   </sodipodi:namedview>
   <defs
      id="defs4" />
-  <circle
+  <ellipse
      style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ececec;stroke-width:0.56444442;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
      id="path4134"
      cx="3.3866665"
-     cy="3.3866668"
-     r="2.54" />
+     cy="3.3866665"
+     rx="2.2577777"
+     ry="2.2577779" />
   <path
      style="fill:#ececec;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.28222221px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     d="m 1.6933332,3.3866666 0.8466667,-0.8466667 0,0.5644444 1.6933333,0 0,-0.5644444 0.8466666,0.8466666 -0.8466666,0.8466668 0,-0.5644445 -1.6933333,0 0,0.5644444 z"
+     d="m 1.6933332,3.3866664 0.8466667,-0.8466667 0,0.5644444 1.6933333,0 0,-0.5644444 0.8466666,0.8466666 -0.8466666,0.8466668 0,-0.5644445 -1.6933333,0 0,0.5644444 z"
      id="path4136"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="ccccccccccc" />
