@@ -928,6 +928,13 @@ MaxSize=512
 Context=Emblems
 Type=Scalable
 
+[scalable/emotes]
+Size=16
+MinSize=16
+MaxSize=512
+Context=Emotes
+Type=Scalable
+
 [scalable/mimetypes]
 Size=16
 MinSize=16
