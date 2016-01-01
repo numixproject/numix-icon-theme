@@ -1,118 +1,12 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="22"
-   height="22"
-   viewBox="0 0 22 22"
-   id="svg2"
-   version="1.1"
-   inkscape:version="0.91 r"
-   sodipodi:docname="yast_soundcard.svg">
-  <metadata
-     id="metadata10">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <defs
-     id="defs8" />
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1366"
-     inkscape:window-height="704"
-     id="namedview6"
-     showgrid="true"
-     inkscape:zoom="21.454545"
-     inkscape:cx="11"
-     inkscape:cy="11"
-     inkscape:window-x="0"
-     inkscape:window-y="27"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg2">
-    <inkscape:grid
-       type="xygrid"
-       id="grid3012" />
-  </sodipodi:namedview>
-  <path
-     style="fill:#a6b44a;fill-opacity:1;stroke:none"
-     d="m 19,14.0339 -14.0000002,0 0,-8.0000018 14.0000002,0 z"
-     id="path2991"
-     inkscape:connector-curvature="0"
-     sodipodi:nodetypes="ccccc" />
-  <path
-     style="fill:#073642;stroke:none"
-     d="m 5.9999998,7.0338982 0,1.9999996 5.0000002,0 0,-1.9999996 z"
-     id="path3761"
-     inkscape:connector-curvature="0"
-     sodipodi:nodetypes="ccccc" />
-  <path
-     style="fill:#073642;stroke:none"
-     d="m 13,7.0338982 0,1.9999996 5,0 0,-1.9999996 z"
-     id="path3763"
-     inkscape:connector-curvature="0"
-     sodipodi:nodetypes="ccccc" />
-  <path
-     style="fill:#073642;stroke:none"
-     d="m 5.9999998,10.0339 0,1 12.0000002,0 0,-1 z"
-     id="path3765"
-     inkscape:connector-curvature="0"
-     sodipodi:nodetypes="ccccc" />
-  <path
-     style="fill:#073642;stroke:none"
-     d="m 5.9999998,12.0339 0,1 12.0000002,0 0,-1 z"
-     id="path3767"
-     inkscape:connector-curvature="0"
-     sodipodi:nodetypes="ccccc" />
-  <rect
-     style="fill:#859900;fill-opacity:1;stroke:none"
-     id="rect3769"
-     width="1"
-     height="2"
-     x="3"
-     y="6.0338969" />
-  <rect
-     style="fill:#268bd2;fill-opacity:1;stroke:none"
-     id="rect3771"
-     width="1"
-     height="2"
-     x="3"
-     y="9.0339012" />
-  <rect
-     style="fill:#dc322f;fill-opacity:1;stroke:none"
-     id="rect3769-3"
-     width="1"
-     height="2"
-     x="3"
-     y="12.0339" />
-  <path
-     style="fill:#657b83;fill-opacity:1;stroke:none"
-     d="m 4.9999998,3.0338982 -1,0 0,14.0000018 -1,0 0,1 2,0 z"
-     id="path3791"
-     inkscape:connector-curvature="0"
-     sodipodi:nodetypes="ccccccc" />
-  <rect
-     style="fill:#fdf6e3;fill-opacity:0.33734939;stroke:none"
-     id="rect3793"
-     width="2"
-     height="8"
-     x="15.999999"
-     y="6.0338969" />
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 22">
+ <path d="m 19 14.03 -14 0 0 -8 14 0 z" style="fill:#a6b44a;fill-opacity:1;stroke:none"/>
+ <path d="m 6 7.03 0 2 5 0 0 -2 z" style="fill:#073642;stroke:none"/>
+ <path d="m 13 7.03 0 2 5 0 0 -2 z" style="fill:#073642;stroke:none"/>
+ <path d="m 6 10.03 0 1 12 0 0 -1 z" style="fill:#073642;stroke:none"/>
+ <path d="m 6 12.03 0 1 12 0 0 -1 z" style="fill:#073642;stroke:none"/>
+ <rect width="1" height="2" x="3" y="6.03" style="fill:#859900;fill-opacity:1;stroke:none"/>
+ <rect width="1" height="2" x="3" y="9.03" style="fill:#268bd2;fill-opacity:1;stroke:none"/>
+ <rect width="1" height="2" x="3" y="12.03" style="fill:#dc322f;fill-opacity:1;stroke:none"/>
+ <path d="m 5 3.034 -1 0 0 14 -1 0 0 1 2 0 z" style="fill:#657b83;fill-opacity:1;stroke:none"/>
+ <rect width="2" height="8" x="16" y="6.03" style="fill:#fdf6e3;fill-opacity:0.337;stroke:none"/>
 </svg>

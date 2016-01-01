@@ -1,59 +1,8 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   viewBox="0 0 48 48"
-   id="svg1202"
-   version="1.1"
-   inkscape:version="0.91 r"
-   sodipodi:docname="media-jaz.svg">
-  <metadata
-     id="metadata1218">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <defs
-     id="defs1216" />
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="640"
-     inkscape:window-height="480"
-     id="namedview1214" />
-  <g
-     style="fill:#919fa9"
-     transform="translate(0 -1004.3622)"
-     id="g1204">
-    <path
-       style="line-height:normal;color:#000"
-       d="M 13.5 8 C 13.379049 8.02 13.261876 8.063 13.15625 8.125 L 8.46875 11.03125 C 8.1842921 11.20965 8.0011664 11.5392 8 11.875 L 8 38.03125 C 8.0000524 38.55485 8.4764155 39.03115 9 39.03125 L 12.6875 39.03125 C 12.70357 39.54435 13.174154 40.0002 13.6875 40 L 34.3125 40 C 34.825846 40.0002 35.296434 39.54435 35.3125 39.03125 L 39 39.03125 C 39.523584 39.03115 39.999948 38.55485 40 38.03125 L 40 11.875 C 39.9988 11.5392 39.815708 11.20965 39.53125 11.03125 L 34.84375 8.125 C 34.682713 8.035 34.496567 7.9917 34.3125 8 L 13.6875 8 C 13.62518 7.99 13.562316 7.99 13.5 8 z M 14 10 L 35 10 L 38 12 L 38 37 L 35 37 L 35 27 L 13 27 L 13 37 L 10 37 L 10 12 L 14 10 z M 14 31 L 34 31 L 34 32 L 14 32 L 14 31 z M 14 35 L 34 35 L 34 36 L 14 36 L 14 35 z "
-       transform="translate(0 1004.3622)"
-       id="path1206" />
-    <path
-       d="m 22.5,1013.3622 -3.5,0 0,3 14,0 0,-3 z"
-       id="path1208" />
-    <path
-       d="m 14,1029.3622 0,-7 14,0 0,7 z"
-       id="path1210" />
-    <path
-       d="m 30,1022.3622 0,7 4,0 0,-7 z"
-       id="path1212" />
-  </g>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48">
+ <g transform="translate(0 -1004.3622)" style="fill:#919fa9">
+  <path d="m 13.5 8 c -0.121 0.02 -0.238 0.063 -0.344 0.125 l -4.688 2.906 c -0.284 0.178 -0.468 0.508 -0.469 0.844 l 0 26.16 c 0 0.524 0.476 1 1 1 l 3.688 0 c 0.016 0.513 0.487 0.969 1 0.969 l 20.625 0 c 0.513 0 0.984 -0.456 1 -0.969 l 3.688 0 c 0.524 0 1 -0.476 1 -1 l 0 -26.16 c -0.001 -0.336 -0.184 -0.665 -0.469 -0.844 l -4.688 -2.906 c -0.161 -0.09 -0.347 -0.133 -0.531 -0.125 l -20.625 0 c -0.062 -0.01 -0.125 -0.01 -0.188 0 z m 0.5 2 l 21 0 l 3 2 l 0 25 l -3 0 l 0 -10 l -22 0 l 0 10 l -3 0 l 0 -25 l 4 -2 z m 0 21 l 20 0 l 0 1 l -20 0 l 0 -1 z m 0 4 l 20 0 l 0 1 l -20 0 l 0 -1 z" transform="translate(0 1004.3622)" style="color:#000"/>
+  <path d="m 22.5 1013.36 -3.5 0 0 3 14 0 0 -3 z"/>
+  <path d="m 14 1029.36 0 -7 14 0 0 7 z"/>
+  <path d="m 30 1022.36 0 7 4 0 0 -7 z"/>
+ </g>
 </svg>
