@@ -1,95 +1,10 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="22"
-   height="22"
-   viewBox="0 0 22 22"
-   id="svg2"
-   version="1.1"
-   inkscape:version="0.91 r"
-   sodipodi:docname="gtk-preferences.svg">
-  <metadata
-     id="metadata26">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <defs
-     id="defs24" />
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1680"
-     inkscape:window-height="1026"
-     id="namedview22"
-     showgrid="true"
-     inkscape:zoom="21.454545"
-     inkscape:cx="15.635946"
-     inkscape:cy="8.8014225"
-     inkscape:window-x="0"
-     inkscape:window-y="24"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg2">
-    <inkscape:grid
-       type="xygrid"
-       id="grid4154" />
-  </sodipodi:namedview>
-  <path
-     style="fill:#ec86ab"
-     inkscape:connector-curvature="0"
-     id="path6"
-     d="M 3,3 3,14 4,14 4,3 Z" />
-  <path
-     style="fill:#ec86ab"
-     inkscape:connector-curvature="0"
-     id="path8"
-     d="M 5,14.5 C 5,15.326446 4.3296548,16 3.4979312,16 2.6703452,16 2,15.326446 2,14.5 2,13.673553 2.6703452,13 3.4979312,13 4.3296548,13 5,13.673553 5,14.5 Z" />
-  <path
-     style="fill:#ec86ab"
-     inkscape:connector-curvature="0"
-     id="path10"
-     d="m 9,19 0,-14.175781 -1,0 L 8,19 Z" />
-  <path
-     style="fill:#ec86ab"
-     inkscape:connector-curvature="0"
-     id="path12"
-     d="M 7,4.5041325 C 7,3.6735541 7.6735541,3 8.5000005,3 9.326447,3 10,3.6735541 10,4.5041325 10,5.3305789 9.326447,6 8.5000005,6 7.6735541,6 7,5.3305789 7,4.5041325 Z" />
-  <path
-     style="fill:#ec86ab"
-     inkscape:connector-curvature="0"
-     id="path14"
-     d="m 13,3 0,10 1,0 0,-10 z" />
-  <path
-     style="fill:#ec86ab"
-     inkscape:connector-curvature="0"
-     id="path16"
-     d="M 15,13.500001 C 15,14.330579 14.330579,15 13.504132,15 12.673554,15 12,14.330579 12,13.500001 12,12.673554 12.673554,12 13.504132,12 14.330579,12 15,12.673554 15,13.500001 Z" />
-  <path
-     style="fill:#ec86ab"
-     inkscape:connector-curvature="0"
-     id="path18"
-     d="m 19,19 0,-7.5 -1,0 0,7.5 z" />
-  <path
-     style="fill:#ec86ab"
-     inkscape:connector-curvature="0"
-     id="path20"
-     d="M 17,11.499999 C 17,10.669421 17.673553,9.9999989 18.499999,9.9999989 19.326446,9.9999989 20,10.669421 20,11.499999 20,12.326446 19.326446,13 18.499999,13 17.673553,13 17,12.326446 17,11.499999 Z" />
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 22">
+ <path d="m 3 3 0 11 1 0 0 -11" style="fill:#ec86ab"/>
+ <path d="m 5 14.5 c 0 0.826 -0.67 1.5 -1.502 1.5 -0.828 0 -1.498 -0.674 -1.498 -1.5 0 -0.826 0.67 -1.5 1.498 -1.5 0.832 0 1.502 0.674 1.502 1.5" style="fill:#ec86ab"/>
+ <path d="m 9 19 0 -14.176 -1 0 l 0 14.176" style="fill:#ec86ab"/>
+ <path d="m 7 4.504 c 0 -0.831 0.674 -1.504 1.5 -1.504 0.826 0 1.5 0.674 1.5 1.504 0 0.826 -0.674 1.496 -1.5 1.496 -0.826 0 -1.5 -0.669 -1.5 -1.496" style="fill:#ec86ab"/>
+ <path d="m 13 3 0 10 1 0 0 -10 z" style="fill:#ec86ab"/>
+ <path d="m 15 13.5 c 0 0.831 -0.669 1.5 -1.496 1.5 -0.831 0 -1.504 -0.669 -1.504 -1.5 0 -0.826 0.674 -1.5 1.504 -1.5 0.826 0 1.496 0.674 1.496 1.5" style="fill:#ec86ab"/>
+ <path d="m 19 19 0 -7.5 -1 0 0 7.5 z" style="fill:#ec86ab"/>
+ <path d="m 17 11.5 c 0 -0.831 0.674 -1.5 1.5 -1.5 0.826 0 1.5 0.669 1.5 1.5 0 0.826 -0.674 1.5 -1.5 1.5 -0.826 0 -1.5 -0.674 -1.5 -1.5" style="fill:#ec86ab"/>
 </svg>

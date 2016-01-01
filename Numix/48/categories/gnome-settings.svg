@@ -1,95 +1,10 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="48"
-   height="48"
-   viewBox="0 0 38.4 38.4"
-   id="svg2"
-   version="1.1"
-   inkscape:version="0.91 r"
-   sodipodi:docname="gtk-preferences.svg">
-  <metadata
-     id="metadata26">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <defs
-     id="defs24" />
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1680"
-     inkscape:window-height="1026"
-     id="namedview22"
-     showgrid="true"
-     inkscape:zoom="9.9368421"
-     inkscape:cx="6.3404198"
-     inkscape:cy="16.627048"
-     inkscape:window-x="0"
-     inkscape:window-y="24"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg2">
-    <inkscape:grid
-       type="xygrid"
-       id="grid4154" />
-  </sodipodi:namedview>
-  <path
-     style="fill:#ec86ab"
-     inkscape:connector-curvature="0"
-     id="path6"
-     d="M 6.4,4 6.4,24 8,24 8,4 Z" />
-  <path
-     style="fill:#ec86ab"
-     inkscape:connector-curvature="0"
-     id="path8"
-     d="M 9.6,24.801895 C 9.6,26.124073 8.5240727,27.2 7.1981054,27.2 5.8759273,27.2 4.8,26.124073 4.8,24.801895 4.8,23.475927 5.8759273,22.4 7.1981054,22.4 8.5240727,22.4 9.6,23.475927 9.6,24.801895 Z" />
-  <path
-     style="fill:#ec86ab"
-     inkscape:connector-curvature="0"
-     id="path10"
-     d="m 16,34.4 0,-24.8 -1.6,0 0,24.8 z" />
-  <path
-     style="fill:#ec86ab"
-     inkscape:connector-curvature="0"
-     id="path12"
-     d="M 12.8,8.8018941 C 12.8,7.4759266 13.875928,6.4 15.198106,6.4 16.524073,6.4 17.6,7.4759266 17.6,8.8018941 17.6,10.124072 16.524073,11.2 15.198106,11.2 13.875928,11.2 12.8,10.124072 12.8,8.8018941 Z" />
-  <path
-     style="fill:#ec86ab"
-     inkscape:connector-curvature="0"
-     id="path14"
-     d="m 22.4,4 0,18.4 1.6,0 L 24,4 Z" />
-  <path
-     style="fill:#ec86ab"
-     inkscape:connector-curvature="0"
-     id="path16"
-     d="M 25.6,23.198106 C 25.6,24.524072 24.524072,25.6 23.201894,25.6 21.875927,25.6 20.8,24.524072 20.8,23.198106 20.8,21.875927 21.875927,20.8 23.201894,20.8 24.524072,20.8 25.6,21.875927 25.6,23.198106 Z" />
-  <path
-     style="fill:#ec86ab"
-     inkscape:connector-curvature="0"
-     id="path18"
-     d="m 32,34.4 0,-13.2 -1.6,0 0,13.2 z" />
-  <path
-     style="fill:#ec86ab"
-     inkscape:connector-curvature="0"
-     id="path20"
-     d="M 28.8,19.998106 C 28.8,18.672139 29.875927,17.6 31.201895,17.6 32.524073,17.6 33.6,18.672139 33.6,19.998106 33.6,21.324073 32.524073,22.4 31.201895,22.4 29.875927,22.4 28.8,21.324073 28.8,19.998106 Z" />
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 38.4 38.4">
+ <path d="m 6.4 4 0 20 1.6 0 0 -20" style="fill:#ec86ab"/>
+ <path d="m 9.6 24.802 c 0 1.322 -1.076 2.398 -2.402 2.398 -1.322 0 -2.398 -1.076 -2.398 -2.398 0 -1.326 1.076 -2.402 2.398 -2.402 1.326 0 2.402 1.076 2.402 2.402" style="fill:#ec86ab"/>
+ <path d="m 16 34.4 0 -24.8 -1.6 0 0 24.8 z" style="fill:#ec86ab"/>
+ <path d="m 12.8 8.802 c 0 -1.326 1.076 -2.402 2.398 -2.402 1.326 0 2.402 1.076 2.402 2.402 0 1.322 -1.076 2.398 -2.402 2.398 -1.322 0 -2.398 -1.076 -2.398 -2.398" style="fill:#ec86ab"/>
+ <path d="m 22.4,4 0,18.4 1.6,0 L 24,4 Z" style="fill:#ec86ab"/>
+ <path d="m 25.6 23.2 c 0 1.326 -1.076 2.402 -2.398 2.402 -1.326 0 -2.402 -1.076 -2.402 -2.402 0 -1.322 1.076 -2.398 2.402 -2.398 1.322 0 2.398 1.076 2.398 2.398" style="fill:#ec86ab"/>
+ <path d="m 32 34.4 0 -13.2 -1.6 0 0 13.2 z" style="fill:#ec86ab"/>
+ <path d="m 28.8 19.998 c 0 -1.326 1.076 -2.398 2.402 -2.398 1.322 0 2.398 1.072 2.398 2.398 0 1.326 -1.076 2.402 -2.398 2.402 -1.326 0 -2.402 -1.076 -2.402 -2.402" style="fill:#ec86ab"/>
 </svg>

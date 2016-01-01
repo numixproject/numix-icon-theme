@@ -1,90 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="22"
-   height="22"
-   viewBox="0 0 17.6 17.6"
-   id="svg2"
-   version="1.1"
-   inkscape:version="0.91 r"
-   sodipodi:docname="applications-interfacedesign.svg">
-  <metadata
-     id="metadata54">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <defs
-     id="defs52" />
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1680"
-     inkscape:window-height="1026"
-     id="namedview50"
-     showgrid="true"
-     inkscape:zoom="28.105634"
-     inkscape:cx="10.901815"
-     inkscape:cy="11.723176"
-     inkscape:window-x="0"
-     inkscape:window-y="24"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg2">
-    <inkscape:grid
-       type="xygrid"
-       id="grid4182" />
-  </sodipodi:namedview>
-  <path
-     style="fill:none;stroke:#89b585;stroke-width:0.80000001;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
-     d="m 2.1678092,1.9999999 13.2643818,0 c 0.09323,0 0.167809,0.074583 0.167809,0.1678089 l 0,13.2643822 C 15.6,15.525421 15.52542,15.6 15.432191,15.6 l -13.2643818,0 C 2.0745822,15.6 2,15.52542 2,15.432191 L 2,2.1678088 c -1e-7,-0.093226 0.074582,-0.1678089 0.1678092,-0.1678089 z"
-     id="path8"
-     inkscape:connector-curvature="0" />
-  <path
-     style="fill:none;stroke:#89b585;stroke-width:0.80000001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
-     d="m 3.6,7.600001 2.4,0 L 6,10 3.6,10 Z"
-     id="path12"
-     inkscape:connector-curvature="0" />
-  <path
-     style="fill:none;stroke:#89b585;stroke-width:0.80000001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
-     d="M 14,8.801002 C 14,9.462656 13.462656,10 12.798998,10 12.137344,10 11.6,9.462656 11.6,8.801002 11.6,8.137343 12.137344,7.6 12.798998,7.6 13.462656,7.6 14,8.137343 14,8.801002 Z"
-     id="path14"
-     inkscape:connector-curvature="0" />
-  <path
-     style="fill:none;stroke:#89b585;stroke-width:0.80000001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
-     d="M 4.1679975,3.6 13.4341,3.6 C 13.748488,3.6 14,3.8642016 14,4.1949576 l 0,1.2100836 C 14,5.7357972 13.748488,6 13.4341,6 L 4.1679976,6 C 3.8536073,6 3.6,5.7357972 3.6,5.4050412 l 0,-1.2100836 C 3.6,3.8642016 3.8536073,3.6 4.1679975,3.6 Z"
-     id="path16"
-     inkscape:connector-curvature="0" />
-  <path
-     style="fill:none;stroke:#89b585;stroke-width:0.80000001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
-     d="m 10.8,3.6 0,2.4 2.497856,0 C 13.689281,6 14,5.6712612 14,5.2598316 L 14,4.3462188 C 14,3.9347904 13.689281,3.6 13.297856,3.6 Z"
-     id="path24"
-     inkscape:connector-curvature="0" />
-  <path
-     style="fill:none;stroke:#89b585;stroke-width:0.80000001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
-     d="m 3.6,11.599999 2.4,0 L 6,14 3.6,14 Z"
-     id="path26"
-     inkscape:connector-curvature="0" />
-  <path
-     style="fill:none;stroke:#89b585;stroke-width:0.80000001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
-     d="M 14,12.798998 C 14,13.462657 13.462656,14 12.798998,14 12.137344,14 11.6,13.462657 11.6,12.798998 11.6,12.137344 12.137344,11.6 12.798998,11.6 13.462656,11.6 14,12.137344 14,12.798998 Z"
-     id="path30"
-     inkscape:connector-curvature="0" />
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 17.6 17.6">
+ <path d="m 2.168 2 13.264 0 c 0.093 0 0.168 0.075 0.168 0.168 l 0 13.264 c 0 0.093 -0.075 0.168 -0.168 0.168 l -13.264 0 c -0.093 0 -0.168 -0.075 -0.168 -0.168 l 0 -13.264 c 0 -0.093 0.075 -0.168 0.168 -0.168 z" style="stroke-dasharray:none;fill:none;stroke-miterlimit:4;stroke:#89b585;stroke-linecap:round;stroke-width:0.8"/>
+ <path d="m 3.6 7.6 2.4 0 l 0 2.4 -2.4 0" style="stroke-dasharray:none;fill:none;stroke-miterlimit:4;stroke:#89b585;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.8"/>
+ <path d="m 14 8.801 c 0 0.662 -0.537 1.199 -1.201 1.199 -0.662 0 -1.199 -0.537 -1.199 -1.199 0 -0.664 0.537 -1.201 1.199 -1.201 0.664 0 1.201 0.537 1.201 1.201" style="stroke-dasharray:none;fill:none;stroke-miterlimit:4;stroke:#89b585;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.8"/>
+ <path d="m 4.168 3.6 9.266 0 c 0.314 0 0.566 0.264 0.566 0.595 l 0 1.21 c 0 0.331 -0.252 0.595 -0.566 0.595 l -9.266 0 c -0.314 0 -0.568 -0.264 -0.568 -0.595 l 0 -1.21 c 0 -0.331 0.254 -0.595 0.568 -0.595" style="stroke-dasharray:none;fill:none;stroke-miterlimit:4;stroke:#89b585;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.8"/>
+ <path d="m 10.8 3.6 0 2.4 2.498 0 c 0.391 0 0.702 -0.329 0.702 -0.74 l 0 -0.914 c 0 -0.411 -0.311 -0.746 -0.702 -0.746" style="stroke-dasharray:none;fill:none;stroke-miterlimit:4;stroke:#89b585;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.8"/>
+ <path d="m 3.6 11.6 2.4 0 l 0 2.4 -2.4 0" style="stroke-dasharray:none;fill:none;stroke-miterlimit:4;stroke:#89b585;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.8"/>
+ <path d="m 14 12.799 c 0 0.664 -0.537 1.201 -1.201 1.201 -0.662 0 -1.199 -0.537 -1.199 -1.201 0 -0.662 0.537 -1.199 1.199 -1.199 0.664 0 1.201 0.537 1.201 1.199" style="stroke-dasharray:none;fill:none;stroke-miterlimit:4;stroke:#89b585;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.8"/>
 </svg>
