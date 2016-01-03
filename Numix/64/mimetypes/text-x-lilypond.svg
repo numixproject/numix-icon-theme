@@ -1,69 +1,8 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="64px"
-   height="64px"
-   viewBox="0 0 64 64"
-   version="1.1"
-   id="svg2"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="text-x-lilypond.svg">
-  <metadata
-     id="metadata17">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <defs
-     id="defs15" />
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="723"
-     inkscape:window-height="480"
-     id="namedview13"
-     showgrid="false"
-     inkscape:zoom="3.6875"
-     inkscape:cx="32"
-     inkscape:cy="32"
-     inkscape:window-x="0"
-     inkscape:window-y="28"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="svg2" />
-  <g
-     id="surface1">
-    <path
-       style="stroke:none;fill-rule:nonzero;fill:#dcdcdc;fill-opacity:1"
-       d="M 10.671875 0 C 9.296875 0 8 1.355469 8 2.789062 L 8 61.210938 C 8 62.566406 9.375 64 10.671875 64 L 53.328125 64 C 54.625 64 56 62.566406 56 61.210938 L 56 18 L 38 0 Z M 10.671875 0 "
-       id="path5" />
-    <path
-       style=" stroke:none;fill-rule:nonzero;fill:rgb(0%,0%,0%);fill-opacity:0.196078;"
-       d="M 42 18 L 56 32 L 56 18 Z M 42 18 "
-       id="path7" />
-    <path
-       style=" stroke:none;fill-rule:nonzero;fill:rgb(100%,100%,100%);fill-opacity:0.392157;"
-       d="M 38 0 L 55.984375 18 L 40.757812 18 C 39.410156 18 38 16.574219 38 15.226562 Z M 38 0 "
-       id="path9" />
-    <path
-       style="stroke:none;fill-rule:nonzero;fill:#555555;fill-opacity:1"
-       d="M 33.601562 26.90625 C 32.046875 27.296875 30.742188 28.726562 30.742188 28.726562 L 30.789062 28.765625 L 33.273438 38.015625 C 31.492188 37.046875 28.953125 37.289062 26.851562 38.8125 C 24.132812 40.773438 23.1875 44.117188 24.757812 46.273438 C 26.335938 48.4375 29.804688 48.585938 32.523438 46.625 C 34.664062 45.070312 35.859375 42.632812 35.429688 40.632812 C 35.414062 40.570312 35.390625 40.507812 35.375 40.445312 L 32.992188 31.203125 C 33.046875 31.125 33.742188 30.804688 36 30.648438 C 38.382812 30.492188 40 26.664062 40 26.664062 C 40 26.664062 37.3125 27.695312 35.203125 26.953125 C 34.671875 26.765625 34.117188 26.773438 33.601562 26.90625 Z M 33.601562 26.90625 "
-       id="path11" />
-  </g>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+ <g>
+  <path d="m 10.672 0 c -1.375 0 -2.672 1.355 -2.672 2.789 l 0 58.42 c 0 1.355 1.375 2.789 2.672 2.789 l 42.656 0 c 1.297 0 2.672 -1.434 2.672 -2.789 l 0 -43.21 l -18 -18 m -27.328 0" style="fill:#dcdcdc;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
+  <path d="m 42 18 l 14 14 l 0 -14 m -14 0" style="fill:#000;fill-opacity:0.196;stroke:none;fill-rule:nonzero"/>
+  <path d="m 38 0 l 17.984 18 l -15.227 0 c -1.348 0 -2.758 -1.426 -2.758 -2.773 m 0 -15.227" style="fill:#fff;fill-opacity:0.392;stroke:none;fill-rule:nonzero"/>
+  <path d="m 33.602 26.906 c -1.555 0.391 -2.859 1.82 -2.859 1.82 l 0.047 0.039 l 2.484 9.25 c -1.781 -0.969 -4.32 -0.727 -6.422 0.797 c -2.719 1.961 -3.664 5.305 -2.094 7.461 c 1.578 2.164 5.05 2.313 7.766 0.352 c 2.141 -1.555 3.336 -3.992 2.906 -5.992 c -0.016 -0.063 -0.039 -0.125 -0.055 -0.188 l -2.383 -9.242 c 0.055 -0.078 0.75 -0.398 3.01 -0.555 c 2.383 -0.156 4 -3.984 4 -3.984 c 0 0 -2.688 1.031 -4.797 0.289 c -0.531 -0.188 -1.086 -0.18 -1.602 -0.047 m 0 0" style="fill:#555;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
+ </g>
 </svg>
