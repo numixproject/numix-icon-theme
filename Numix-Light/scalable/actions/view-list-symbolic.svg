@@ -1,88 +1,14 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   viewBox="0 0 16 16"
-   id="svg3671"
-   version="1.1"
-   inkscape:version="0.91 r"
-   sodipodi:docname="view-list-symbolic.svg">
-  <metadata
-     id="metadata3695">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <defs
-     id="defs3693" />
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="640"
-     inkscape:window-height="480"
-     id="namedview3691" />
-  <g
-     style="fill:#353535;color:#353535"
-     id="g3673">
-    <g
-       transform="matrix(.60002 0 0 1 -18.80147 -746)"
-       id="g3675">
-      <rect
-         width="10"
-         x="43"
-         y="749"
-         height="2"
-         id="rect3677" />
-      <rect
-         width="10"
-         x="43"
-         y="753"
-         height="2"
-         id="rect3679" />
-      <rect
-         width="10"
-         x="43"
-         y="757"
-         height="2"
-         id="rect3681" />
-    </g>
-    <g
-       transform="matrix(.19997 0 0 1 -5.59863 -746.0002)"
-       id="g3683">
-      <rect
-         width="10"
-         x="43"
-         y="749"
-         height="2"
-         id="rect3685" />
-      <rect
-         width="10"
-         x="43"
-         y="753"
-         height="2"
-         id="rect3687" />
-      <rect
-         width="10"
-         x="43"
-         y="757"
-         height="2"
-         id="rect3689" />
-    </g>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
+ <g style="fill:#353535;color:#353535">
+  <g transform="matrix(.60002 0 0 1 -18.80147 -746)">
+   <rect width="10" x="43" y="749" height="2"/>
+   <rect width="10" x="43" y="753" height="2"/>
+   <rect width="10" x="43" y="757" height="2"/>
   </g>
+  <g transform="matrix(.19997 0 0 1 -5.59863 -746.0002)">
+   <rect width="10" x="43" y="749" height="2"/>
+   <rect width="10" x="43" y="753" height="2"/>
+   <rect width="10" x="43" y="757" height="2"/>
+  </g>
+ </g>
 </svg>

@@ -1,56 +1,6 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="16"
-   viewBox="0 0 16 16"
-   height="16"
-   id="svg3907"
-   version="1.1"
-   inkscape:version="0.91 r"
-   sodipodi:docname="multimedia-player-symbolic.svg">
-  <metadata
-     id="metadata3919">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <defs
-     id="defs3917" />
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="640"
-     inkscape:window-height="480"
-     id="namedview3915" />
-  <g
-     style="fill:#bebebe"
-     transform="matrix(.5 0 0 .5 -4 -506.1811)"
-     id="g3909">
-    <path
-       style="line-height:normal;color:#000"
-       d="M 18.65625,8 C 17.196167,8 16,9.19625 16,10.65625 L 16,37.3125 C 16,38.7726 17.196167,40 18.65625,40 L 29.3125,40 C 30.772583,40 32,38.7726 32,37.3125 L 32,10.65625 C 32,9.19625 30.772583,8 29.3125,8 L 18.65625,8 Z m 1,2 8.6875,0 C 29.26713,10 30,10.73287 30,11.65625 l 0,12.78125 c 0,0.92338 -0.73287,1.65625 -1.65625,1.65625 l -8.6875,0 C 18.73287,26.09375 18,25.36088 18,24.4375 L 18,11.65625 C 18,10.73287 18.73287,10 19.65625,10 Z M 24,28 c 2.761424,0 5,2.238576 5,5 0,2.761424 -2.238576,5 -5,5 -2.761424,0 -5,-2.238576 -5,-5 0,-2.761424 2.238576,-5 5,-5 z"
-       transform="translate(0 1004.3622)"
-       id="path3911" />
-    <path
-       d="m 25,33 c 0,0.552285 -0.447715,1 -1,1 -0.552285,0 -1,-0.447715 -1,-1 0,-0.552285 0.447715,-1 1,-1 0.552285,0 1,0.447715 1,1 z"
-       transform="matrix(2 0 0 2 -24 971.3622)"
-       id="path3913" />
-  </g>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
+ <g transform="matrix(.5 0 0 .5 -4 -506.1811)" style="fill:#bebebe">
+  <path d="m 18.656 8 c -1.46 0 -2.656 1.196 -2.656 2.656 l 0 26.656 c 0 1.46 1.196 2.688 2.656 2.688 l 10.656 0 c 1.46 0 2.688 -1.227 2.688 -2.688 l 0 -26.656 c 0 -1.46 -1.227 -2.656 -2.688 -2.656 l -10.656 0 m 1 2 8.688 0 c 0.923 0 1.656 0.733 1.656 1.656 l 0 12.781 c 0 0.923 -0.733 1.656 -1.656 1.656 l -8.688 0 c -0.923 0 -1.656 -0.733 -1.656 -1.656 l 0 -12.781 c 0 -0.923 0.733 -1.656 1.656 -1.656 m 4.344 18 c 2.761 0 5 2.239 5 5 0 2.761 -2.239 5 -5 5 -2.761 0 -5 -2.239 -5 -5 0 -2.761 2.239 -5 5 -5 z" transform="translate(0 1004.3622)" style="color:#000"/>
+  <path d="m 25 33 c 0 0.552 -0.448 1 -1 1 -0.552 0 -1 -0.448 -1 -1 0 -0.552 0.448 -1 1 -1 0.552 0 1 0.448 1 1 z" transform="matrix(2 0 0 2 -24 971.3622)"/>
+ </g>
 </svg>

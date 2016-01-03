@@ -1,77 +1,13 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   viewBox="0 0 16 16"
-   id="svg3137"
-   version="1.1"
-   inkscape:version="0.91 r"
-   sodipodi:docname="list-remove-all-symbolic.svg">
-  <metadata
-     id="metadata3159">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <defs
-     id="defs3157" />
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="640"
-     inkscape:window-height="480"
-     id="namedview3155" />
-  <g
-     style="fill:#353535"
-     transform="translate(-81.0004 -847)"
-     id="g3139">
-    <g
-       style="color:#353535"
-       id="g3141">
-      <rect
-         width="10"
-         x="84.001"
-         y="850"
-         height="2"
-         id="rect3143" />
-      <rect
-         width="3"
-         x="91"
-         y="854"
-         height="2"
-         id="rect3145" />
-      <rect
-         width="3"
-         x="91"
-         y="858"
-         height="2"
-         id="rect3147" />
-    </g>
-    <g
-       style="line-height:normal;color:#000"
-       id="g3149">
-      <path
-         d="m 82,853.0625 0,0.5 0,6.96875 0,0.5 0.5,0 7,0 0.5,0 0,-0.5 0,-6.96875 0,-0.5 -0.5,0 -7,0 -0.5,0 z m 1,1 6,0 0,5.96875 -6,0 0,-5.96875 z"
-         id="path3151" />
-      <path
-         d="m 84.03125,856 0,2 4.03125,0 0,-2 -4.03125,0 z"
-         id="path3153" />
-    </g>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
+ <g transform="translate(-81.0004 -847)" style="fill:#353535">
+  <g style="color:#353535">
+   <rect width="10" x="84" y="850" height="2"/>
+   <rect width="3" x="91" y="854" height="2"/>
+   <rect width="3" x="91" y="858" height="2"/>
   </g>
+  <g style="color:#000">
+   <path d="m 82 853.06 0 0.5 0 6.969 0 0.5 0.5 0 7 0 0.5 0 0 -0.5 0 -6.969 0 -0.5 -0.5 0 -7 0 -0.5 0 z m 1 1 6 0 0 5.969 -6 0 0 -5.969 z"/>
+   <path d="m 84.03 856 0 2 4.03 0 0 -2 -4.03 0 z"/>
+  </g>
+ </g>
 </svg>

@@ -1,60 +1,6 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   viewBox="0 0 16 16"
-   width="16"
-   height="16"
-   id="svg2825"
-   version="1.1"
-   inkscape:version="0.91 r"
-   sodipodi:docname="media-eject-symbolic.svg">
-  <metadata
-     id="metadata2837">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <defs
-     id="defs2835" />
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="640"
-     inkscape:window-height="480"
-     id="namedview2833" />
-  <g
-     transform="matrix(0 1 -1 0 502.99976 20)"
-     id="g2827">
-    <path
-       d="m -18,494.99995 c 0,0.26598 0.0891,0.53317 0.28125,0.71875 l 5,5 c 0.15909,0.1562 0.3719,0.25725 0.59375,0.28125 l 0.125,0 1,0 0,-12 -1,0 -0.125,0 c -0.22185,0.024 -0.43466,0.12505 -0.59375,0.28125 l -5,5 C -17.91087,494.46678 -18,494.73397 -18,494.99995 z"
-       fill="#353535"
-       color="#000"
-       id="path2829" />
-  </g>
-  <rect
-     width="12"
-     height="2"
-     x="2"
-     y="11"
-     rx="0.714"
-     ry="0.378"
-     fill="#353535"
-     id="rect2831" />
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
+ <g transform="matrix(0 1 -1 0 502.99976 20)">
+  <path d="m -18 495 c 0 0.266 0.089 0.533 0.281 0.719 l 5 5 c 0.159 0.156 0.372 0.257 0.594 0.281 l 0.125 0 1 0 0 -12 -1 0 -0.125 0 c -0.222 0.024 -0.435 0.125 -0.594 0.281 l -5 5 c -0.192 0.186 -0.281 0.453 -0.281 0.719 z" style="fill:#353535;color:#000"/>
+ </g>
+ <rect width="12" height="2" x="2" y="11" rx="0.714" ry="0.378" style="fill:#353535"/>
 </svg>

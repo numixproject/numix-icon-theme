@@ -1,64 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="16"
-   viewBox="0 0 16 16"
-   height="16"
-   id="svg3648"
-   version="1.1"
-   inkscape:version="0.91 r"
-   sodipodi:docname="video-display-symbolic.svg">
-  <metadata
-     id="metadata3666">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <defs
-     id="defs3664" />
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="640"
-     inkscape:window-height="480"
-     id="namedview3662" />
-  <g
-     transform="matrix(.5 0 0 .50004 -4 -506.00483)"
-     fill="#353535"
-     id="g3650">
-    <path
-       d="m 8,1013.9285 0,21.9983 c 0,0 0,1.9998 2,1.9998 l 10,0 0,1.9999 8,0 6e-6,-1.9999 9.999994,0 c 2,0 2,-1.9998 2,-1.9998 l 0,-21.9983 c 0,-1.9998 -2,-1.9998 -2,-1.9998 l -28,0 c -2,0 -2,1.9998 -2,1.9998 z m 4,0 24,0 c 2,0 2,1.9999 2,1.9999 l 0,17.9985 c 0,1.9999 -2,1.9999 -2,1.9999 l -24,0 c 0,0 -2,0 -2,-1.9999 l 0,-17.9985 c 0,0 0,-1.9999 2,-1.9999 z m 2,27.9725 0,2.0251 20.025002,0.025 0,-2.0251 z"
-       color="#000000"
-       id="path3652" />
-    <path
-       d="m 12,11.566186 0,5.99952 6,-5.99952 z"
-       transform="translate(0,1004.3622)"
-       id="path3654" />
-    <path
-       d="m 12,1033.9269 6,0 -6,-5.9995 z"
-       id="path3656" />
-    <path
-       d="m 36,1033.9269 0,-5.9995 -6,5.9995 z"
-       id="path3658" />
-    <path
-       d="m 36,1015.9284 -6,0 6,5.4338 z"
-       id="path3660" />
-  </g>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
+ <g transform="matrix(.5 0 0 .50004 -4 -506.00483)" style="fill:#353535">
+  <path d="m 8 1013.93 0 21.998 c 0 0 0 2 2 2 l 10 0 0 2 8 0 0 -2 10 0 c 2 0 2 -2 2 -2 l 0 -21.998 c 0 -2 -2 -2 -2 -2 l -28 0 c -2 0 -2 2 -2 2 z m 4 0 24 0 c 2 0 2 2 2 2 l 0 17.998 c 0 2 -2 2 -2 2 l -24 0 c 0 0 -2 0 -2 -2 l 0 -17.999 c 0 0 0 -2 2 -2 z m 2 27.973 0 2.025 20.03 0.025 0 -2.025 z" style="color:#000"/>
+  <path d="m 12 11.566 0 6 6 -6 z" transform="translate(0,1004.3622)"/>
+  <path d="m 12 1033.93 6 0 -6 -5.999 z"/>
+  <path d="m 36 1033.93 0 -5.999 -6 5.999 z"/>
+  <path d="m 36 1015.93 -6 0 6 5.434 z"/>
+ </g>
 </svg>
