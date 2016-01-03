@@ -1,54 +1,7 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   viewBox="0 0 24 24"
-   id="svg2"
-   version="1.1"
-   inkscape:version="0.91 r"
-   sodipodi:docname="nm-signal-25.svg">
-  <metadata
-     id="metadata14">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <defs
-     id="defs12" />
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="640"
-     inkscape:window-height="480"
-     id="namedview10" />
-  <g
-     transform="translate(-81.000208,-525.36047)"
-     id="g4">
-    <path
-       d="m 102 532.48 c -2.601 -1.979 -5.69 -3.121 -9 -3.121 -3.31 0 -6.399 1.142 -9 3.121 l 9 12.879 z"
-       style="fill:#353535;opacity:0.4;fill-opacity:1;color:#000"
-       id="path6" />
-    <path
-       d="m 95.25 542.14 c -0.65 -0.495 -1.422 -0.78 -2.25 -0.78 -0.828 0 -1.6 0.285 -2.25 0.78 l 2.25 3.22 z"
-       style="fill:#353535;opacity:1;fill-opacity:1;color:#000"
-       id="path8" />
-  </g>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+ <g transform="translate(-81.000208,-525.36047)">
+  <path d="m 102 532.48 c -2.601 -1.979 -5.69 -3.121 -9 -3.121 -3.31 0 -6.399 1.142 -9 3.121 l 9 12.879 z" style="fill:#353535;opacity:0.4;fill-opacity:1;color:#000"/>
+  <path d="m 95.25 542.14 c -0.65 -0.495 -1.422 -0.78 -2.25 -0.78 -0.828 0 -1.6 0.285 -2.25 0.78 l 2.25 3.22 z" style="fill:#353535;opacity:1;fill-opacity:1;color:#000"/>
+ </g>
 </svg>
