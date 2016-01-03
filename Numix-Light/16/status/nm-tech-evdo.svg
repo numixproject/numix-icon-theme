@@ -41,9 +41,9 @@
      inkscape:window-height="1056"
      id="namedview3373"
      showgrid="true"
-     inkscape:zoom="29.5"
-     inkscape:cx="6.3273665"
-     inkscape:cy="6.980932"
+     inkscape:zoom="14.75"
+     inkscape:cx="-25.229327"
+     inkscape:cy="12.292012"
      inkscape:window-x="0"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
@@ -52,43 +52,25 @@
        type="xygrid"
        id="grid3411" />
   </sodipodi:namedview>
-  <rect
-     style="opacity:1;fill:#353535;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-     id="rect4143"
-     width="9"
-     height="1"
-     x="7"
-     y="2"
-     rx="0.5"
-     ry="0.5" />
-  <rect
-     style="opacity:1;fill:#353535;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-     id="rect4145"
-     width="1"
-     height="12"
-     x="11"
-     y="2"
-     rx="0.5"
-     ry="0.49999997" />
-  <path
-     style="fill:none;fill-rule:evenodd;stroke:#353535;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     d="m 7.5,2.5 4,5.5 4,-5.5"
-     id="path4147"
-     inkscape:connector-curvature="0"
-     sodipodi:nodetypes="ccc" />
-  <path
-     style="fill:#353535;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     d="m 4,6.9999996 -4,0 L 0,14 l 4,0 0,-1 -3,0 0,-2 2,0 0,-1.0000004 -2,0 0,-2 3,0 z"
-     id="path4206"
-     inkscape:connector-curvature="0"
-     sodipodi:nodetypes="ccccccccccccc" />
   <g
-     transform="scale(0.9647938,1.0364909)"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.91043091px;line-height:125%;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';letter-spacing:0px;word-spacing:0px;fill:#353535;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     id="text4325">
+     id="g4146">
     <path
-       d="M 6.5517138,13.507113 Q 6.2898635,12.754294 5.9952818,11.805086 5.7007002,10.855879 5.4388499,9.9175817 5.1769995,8.9683742 4.9697013,8.128271 4.7624032,7.2881678 4.6642093,6.7535567 l 1.418356,0 q 0.065463,0.5237007 0.1963878,1.2219683 0.1309251,0.6873571 0.2836712,1.4292664 0.1636564,0.7309986 0.3382233,1.4510876 0.1854773,0.709178 0.3600442,1.27652 0.1745669,-0.556432 0.3491338,-1.26561 Q 7.7845925,10.146701 7.9373386,9.4157019 8.0900846,8.6737926 8.2210098,7.975525 8.3519349,7.2772574 8.4392184,6.7535567 l 1.4074456,0 Q 9.7157388,7.4081826 9.519351,8.2155545 9.3338737,9.0229264 9.0829338,9.9175817 8.8429043,10.801327 8.5483227,11.728713 8.253741,12.645189 7.9373386,13.507113 l -1.3856248,0 z"
-       style="fill:#353535;fill-opacity:1"
-       id="path4330" />
+       style="fill:#353535;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 15,15 15,1 1,15 Z"
+       id="path4139"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
+    <path
+       sodipodi:nodetypes="ccccccccccccc"
+       inkscape:connector-curvature="0"
+       id="path4140-0"
+       d="m 2,2 0,5.0003988 2.9999392,0 0,-0.9999799 -1.9999595,0 0,-0.9999797 1.4999696,0 0,-0.9999797 -1.4999696,0 0,-0.9999798 1.9999595,0 0,-1.0004797 z"
+       style="fill:#353535;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       sodipodi:nodetypes="cccccccc"
+       inkscape:connector-curvature="0"
+       id="rect4137"
+       d="M 5.1999352,2 6.5436579,7 7.4752796,7 8.8190023,2 7.7838673,2 7.009469,5.5919274 6.2350702,2 Z"
+       style="opacity:1;fill:#353535;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
   </g>
 </svg>
