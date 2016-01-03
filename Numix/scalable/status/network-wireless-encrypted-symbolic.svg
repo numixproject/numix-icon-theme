@@ -11,7 +11,7 @@
    style="enable-background:new"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="network-wireless-encrypted-symbolic.svg">
   <metadata
      id="metadata12">
@@ -35,16 +35,29 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="640"
-     inkscape:window-height="480"
-     id="namedview8" />
+     inkscape:window-width="1366"
+     inkscape:window-height="704"
+     id="namedview8"
+     showgrid="false"
+     inkscape:zoom="1"
+     inkscape:cx="7.8015157"
+     inkscape:cy="6.232233"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4134" />
+  </sodipodi:namedview>
   <g
      style="fill:#bebebe"
      transform="matrix(.4375 0 0 .4 -2.5 -403.34488)"
      id="g4">
     <path
-       style="line-height:normal;color:#000"
-       d="m 24,1008.3622 c 0,0 12,0 12,9 l 0,7 c 0,0 4,0 4,4 l 0,16 c 0,4 -4,4 -4,4 l -24,0 c 0,0 -4,0 -4,-4 l 0,-16 c 0,-4 4,-4 4,-4 l 0,-7 c 0,-9 12,-9 12,-9 z m 0,5 c 0,0 -7,0 -7,6 l 0,5 14,0 0,-5 c 0,-6 -7,-6 -7,-6 z"
+       style="color:#000000;line-height:normal"
+       d="M 8 0 C 8 0 3 -0.00039065 3 3.5996094 L 3 6 C 1.892 6 1 6.892 1 8 L 1 14 C 1 15.108 1.892 16 3 16 L 13 16 C 14.108 16 15 15.108 15 14 L 15 8 C 15 6.892 14.108 6 13 6 L 13 3.5996094 C 13 -0.00039065 8 0 8 0 z M 8 2 C 8 2 11 2.0003906 11 4.4003906 L 11 6 L 5 6 L 5 4.4003906 C 5.0749634 2.0003906 8 2 8 2 z "
+       transform="matrix(2.2857143,0,0,2.5,5.7142857,1008.3622)"
        id="path6" />
   </g>
 </svg>

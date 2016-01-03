@@ -12,7 +12,7 @@
    sodipodi:docname="pamac-tray-no-update.svg"
    height="24"
    id="svg7384"
-   inkscape:version="0.91 r"
+   inkscape:version="0.91 r13725"
    version="1.1"
    width="24">
   <metadata
@@ -33,13 +33,13 @@
      bordercolor="#666666"
      borderopacity="1"
      inkscape:current-layer="layer9"
-     inkscape:cx="-0.59579257"
-     inkscape:cy="7.7535657"
+     inkscape:cx="11.564448"
+     inkscape:cy="11.315718"
      gridtolerance="10"
      inkscape:guide-bbox="true"
      guidetolerance="10"
      id="namedview88"
-     inkscape:object-nodes="false"
+     inkscape:object-nodes="true"
      inkscape:object-paths="false"
      objecttolerance="10"
      pagecolor="#f9f9f9"
@@ -55,11 +55,11 @@
      inkscape:snap-nodes="true"
      inkscape:snap-others="false"
      inkscape:snap-to-guides="true"
-     inkscape:window-height="747"
+     inkscape:window-height="704"
      inkscape:window-maximized="1"
      inkscape:window-width="1366"
      inkscape:window-x="0"
-     inkscape:window-y="21"
+     inkscape:window-y="27"
      inkscape:zoom="16">
     <inkscape:grid
        empspacing="2"
@@ -99,11 +99,10 @@
      style="display:inline"
      transform="translate(-181.0002,-249)">
     <path
-       inkscape:connector-curvature="0"
-       d="m 193.0002,250 -3.11811,4.72048 -4.76378,-1.60237 1.60237,4.76378 -4.72048,3.11811 4.72048,3.11811 -1.60237,4.76378 4.76378,-1.60237 3.11811,4.72048 3.11811,-4.72048 4.76378,1.60237 -1.60237,-4.76378 4.72048,-3.11811 -4.72048,-3.11811 1.60237,-4.76378 -4.76378,1.60237 z m 0,6.27952 0.99607,0.95276 2.77165,2.77165 c 0.30988,0.31316 0.45914,0.77756 0.38976,1.2126 l 0,1.16929 -1.2126,0 c -0.42157,0.0555 -0.86536,-0.0923 -1.16929,-0.38975 l -0.38977,-0.38978 0,3.55119 -2.77164,0 0,-3.55119 -0.38977,0.38978 c -0.26447,0.25257 -0.63039,0.39578 -0.99606,0.38975 l -0.21655,0 -1.16928,0 0,-1.08267 c -0.001,-0.0432 -0.001,-0.0866 0,-0.1298 -0.0555,-0.42157 0.0923,-0.86535 0.38976,-1.16929 l 2.77165,-2.77165 z"
-       id="rect7040"
-       sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccc"
-       style="display:inline;fill:#ececec;fill-opacity:1;fill-rule:evenodd;stroke:none;enable-background:new" />
+       style="display:inline;fill:#ececec;fill-opacity:1;fill-rule:evenodd;stroke:none;enable-background:new"
+       d="M 12 1 L 8.8828125 5.7207031 L 4.1171875 4.1171875 L 5.7207031 8.8828125 L 1 12 L 5.7207031 15.117188 L 4.1171875 19.882812 L 8.8828125 18.279297 L 12 23 L 15.117188 18.279297 L 19.882812 19.882812 L 18.279297 15.117188 L 23 12 L 18.279297 8.8828125 L 19.882812 4.1171875 L 15.117188 5.7207031 L 12 1 z M 12 7.5 L 16 11.5 L 16 13 L 14.5 13 L 13 11.5 L 13 16 L 11 16 L 11 11.328125 L 9.5 13 L 8 13 L 8 11.5 L 12 7.5 z "
+       transform="translate(181.0002,249)"
+       id="rect7040" />
   </g>
   <g
      inkscape:groupmode="layer"

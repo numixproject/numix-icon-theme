@@ -10,7 +10,7 @@
    viewBox="0 0 16 16"
    id="svg199"
    version="1.1"
-   inkscape:version="0.91 r"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="emblem-important-symbolic.svg">
   <metadata
      id="metadata207">
@@ -34,11 +34,25 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="640"
-     inkscape:window-height="480"
-     id="namedview203" />
+     inkscape:window-width="1366"
+     inkscape:window-height="704"
+     id="namedview203"
+     showgrid="true"
+     inkscape:zoom="21.959671"
+     inkscape:cx="1.173548"
+     inkscape:cy="8"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg199">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4133" />
+  </sodipodi:namedview>
   <path
-     style="fill:#353535"
-     d="m 2.75,0.9999998 c -0.9695,0 -1.75,0.7805 -1.75,1.75 L 1,13.25 C 1,14.2195 1.7805,15 2.75,15 l 10.5,0 C 14.2195,15 15,14.2195 15,13.25 L 15,2.7499998 c 0,-0.9695 -0.7805,-1.75 -1.75,-1.75 z m 4.083333,2.3333333 2.333334,0 0,6.4166669 -2.333334,0 z m 0,7.5833339 2.333334,0 0,2.333333 -2.333334,0 z"
-     id="path201" />
+     style="fill:#353535;fill-opacity:1"
+     d="m 2.75,0.9999999 c -0.9695,0 -1.75,0.7805 -1.75,1.75 L 1,13.25 C 1,14.2195 1.7805,15 2.75,15 l 10.5,0 C 14.2195,15 15,14.2195 15,13.25 L 15,2.7499999 c 0,-0.9695 -0.7805,-1.75 -1.75,-1.75 z M 7,3.0000001 l 2.0000002,0 0,6 -2.0000002,0 z M 7,11 l 2.0000002,0 0,2 L 7,13 Z"
+     id="path363"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ssssssssscccccccccc" />
 </svg>
