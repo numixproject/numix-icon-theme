@@ -1,8 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 22">
- <g transform="scale(0.45833333333333331)">
-  <path d="M41.964 6v16.184H25.78V6m16.184 0" fill="#7fcc28"/>
-  <path d="M6 6h16.184v16.184H6M6 6" fill="#f15119"/>
-  <path d="M22.184 25.816V42H6V25.816m16.184 0" fill="#00abec"/>
-  <path d="M25.816 25.816H42V42H25.816m0-16.184" fill="#fbb909"/>
- </g>
+ <path d="M19.982 2v8.092H11.89V2m8.092 0" fill="#7fcc28"/>
+ <path d="M2 2h8.092v8.092H2M2 2" fill="#f15119"/>
+ <path d="M10.092 11.908V20H2v-8.092m8.092 0" fill="#00abec"/>
+ <path d="M11.908 11.908H20V20h-8.092m0-8.092" fill="#fbb909"/>
 </svg>
