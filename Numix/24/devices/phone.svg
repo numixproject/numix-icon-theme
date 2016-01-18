@@ -1,99 +1,10 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="24"
-   height="24"
-   viewBox="0 0 24 24"
-   id="svg2"
-   version="1.1"
-   inkscape:version="0.91 r"
-   sodipodi:docname="stock_cell-phone.svg">
-  <metadata
-     id="metadata10">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <defs
-     id="defs8" />
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1056"
-     id="namedview6"
-     showgrid="false"
-     inkscape:zoom="21.454545"
-     inkscape:cx="-0.67683296"
-     inkscape:cy="5.8191921"
-     inkscape:window-x="0"
-     inkscape:window-y="24"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg2" />
-  <rect
-     style="fill:#5aa9e1;fill-opacity:1;stroke:none"
-     id="rect2991"
-     width="8.75"
-     height="18.754206"
-     x="7.625"
-     y="2.62079"
-     ry="1.2933935" />
-  <path
-     style="fill:#fdf6e3;fill-opacity:0.18875505;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     d="m 9.5,20.124996 5,-16.2500003 1.875,0 0,16.2500003 z"
-     id="path3761"
-     inkscape:connector-curvature="0" />
-  <rect
-     style="fill:#002b36;fill-opacity:1;stroke:none"
-     id="rect3763"
-     width="2.5"
-     height="1.5"
-     x="10.75"
-     y="20"
-     ry="0.75" />
-  <rect
-     style="fill:#002b36;fill-opacity:1;stroke:none"
-     id="rect3765"
-     width="5"
-     height="1.875"
-     x="9.5"
-     y="2.6249957"
-     ry="0.625" />
-  <g
-     transform="matrix(0.625,0,0,0.625,-3,-630.72637)"
-     id="g4"
-     style="fill:#073642">
-    <path
-       style="color:#000000;line-height:normal;fill:#073642"
-       d="M 18.625,8 C 17.190566,8 16,9.15925 16,10.59375 L 16,37.375 C 16,38.8094 17.190566,40 18.625,40 l 10.75,0 C 30.809434,40 32,38.8094 32,37.375 L 32,10.59375 C 32,9.15925 30.809434,8 29.375,8 Z m 3.875,1.499992 3,0 c 0.277,0 0.5,0.223 0.5,0.5 0,0.277 -0.223,0.5 -0.5,0.5 l -3,0 c -0.277,0 -0.5,-0.223 -0.5,-0.5 0,-0.277 0.223,-0.5 0.5,-0.5 z M 17.6,12 l 12.8,0 0,24 -12.8,0 z M 24,37 c 0.552285,0 1,0.447715 1,1 0,0.552285 -0.447715,1 -1,1 -0.552285,0 -1,-0.447715 -1,-1 0,-0.552285 0.447715,-1 1,-1 z"
-       transform="translate(0,1004.3622)"
-       id="path6"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="sssssssssssssssscccccsssss" />
-  </g>
-  <rect
-     style="fill:#eee8d5;fill-opacity:0.1485944;stroke:none"
-     id="rect3767"
-     width="1.5"
-     height="20"
-     x="14.5"
-     y="1.9999956" />
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+ <rect width="8.75" height="18.754" x="7.625" y="2.621" rx="1.293" style="fill:#5aa9e1;fill-opacity:1;stroke:none"/>
+ <path d="m 9.5 20.12 5 -16.25 1.875 0 0 16.25 z" style="fill:#fdf6e3;fill-opacity:0.189;stroke:none"/>
+ <rect width="2.5" height="1.5" x="10.75" y="20" rx="0.75" style="fill:#002b36;fill-opacity:1;stroke:none"/>
+ <rect width="5" height="1.875" x="9.5" y="2.625" rx="0.625" style="fill:#002b36;fill-opacity:1;stroke:none"/>
+ <g transform="matrix(0.625,0,0,0.625,-3,-630.72637)" style="fill:#073642">
+  <path d="m 18.625 8 c -1.434 0 -2.625 1.159 -2.625 2.594 l 0 26.781 c 0 1.434 1.191 2.625 2.625 2.625 l 10.75 0 c 1.434 0 2.625 -1.191 2.625 -2.625 l 0 -26.781 c 0 -1.435 -1.191 -2.594 -2.625 -2.594 m -6.875 1.5 3 0 c 0.277 0 0.5 0.223 0.5 0.5 0 0.277 -0.223 0.5 -0.5 0.5 l -3 0 c -0.277 0 -0.5 -0.223 -0.5 -0.5 0 -0.277 0.223 -0.5 0.5 -0.5 z m -4.9 2.5 l 12.8 0 0 24 -12.8 0 z m 6.4 25 c 0.552 0 1 0.448 1 1 0 0.552 -0.448 1 -1 1 -0.552 0 -1 -0.448 -1 -1 0 -0.552 0.448 -1 1 -1 z" transform="translate(0,1004.3622)" style="color:#000"/>
+ </g>
+ <rect width="1.5" height="20" x="14.5" y="2" style="fill:#eee8d5;fill-opacity:0.149;stroke:none"/>
 </svg>
