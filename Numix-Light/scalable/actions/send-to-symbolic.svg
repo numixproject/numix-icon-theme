@@ -1,52 +1,6 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   viewBox="0 0 16 16"
-   id="svg2108"
-   version="1.1"
-   inkscape:version="0.91 r"
-   sodipodi:docname="send-to-symbolic.svg">
-  <metadata
-     id="metadata2120">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <defs
-     id="defs2118" />
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="640"
-     inkscape:window-height="480"
-     id="namedview2116" />
-  <g
-     style="fill:#353535;color:#000"
-     transform="translate(-41 -787)"
-     id="g2110">
-    <path
-       d="m 291,178.03125 a 1.96875,1.96875 0 1 1 -3.9375,0 1.96875,1.96875 0 1 1 3.9375,0 z"
-       transform="matrix(1.50794 0 0 1.50794 -391.84057 531.50893)"
-       id="path2112" />
-    <path
-       d="m 47.0002,787 -4.00436,2.60053 2.33814,0.36339 -2.00985,5.80655 c 2.24125,-0.43289 4.38456,0.75975 4.89844,3.25272 l 4.64422,-4.60121 1.13341,1.69492 1,-5.1169 -4.81381,0.19547 1.27128,1.56728 -4.45747,2.74488 0.60769,-4.98335 2.21537,0.45428 z"
-       id="path2114" />
-  </g>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
+ <g transform="translate(-41 -787)" style="fill:#353535;color:#000">
+  <path d="m 291 178.03 a 1.969 1.969 0 1 1 -3.938 0 1.969 1.969 0 1 1 3.938 0 z" transform="matrix(1.50794 0 0 1.50794 -391.84057 531.50893)"/>
+  <path d="m 47 787 -4 2.601 2.338 0.363 -2.01 5.807 c 2.241 -0.433 4.385 0.76 4.898 3.253 l 4.644 -4.601 1.133 1.695 1 -5.117 -4.814 0.195 1.271 1.567 -4.457 2.745 0.608 -4.983 2.215 0.454 z"/>
+ </g>
 </svg>

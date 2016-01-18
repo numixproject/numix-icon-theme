@@ -1,53 +1,6 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   viewBox="0 0 16.0001 15.9999"
-   id="svg3321"
-   version="1.1"
-   inkscape:version="0.91 r"
-   sodipodi:docname="insert-text-symbolic.svg">
-  <metadata
-     id="metadata3333">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <defs
-     id="defs3331" />
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="640"
-     inkscape:window-height="480"
-     id="namedview3329" />
-  <g
-     style="fill:#353535;line-height:normal"
-     transform="translate(-81.00014 -807)"
-     id="g3323">
-    <path
-       style="color:#353535"
-       d="m 92.000179,819 -0.999993,0 c -0.256903,10e-6 -0.528453,0.11786 -0.718755,0.28369 l -1.281223,1.16309 -1.281234,-1.1631 C 87.52893,819.11762 87.257123,819 87.000201,819.00004 l -0.999993,0 -1e-5,0.90779 c 0,0.28091 0.09021,0.50137 0.281297,0.68082 l 2.718741,2.41128 2.718704,-2.41128 c 0.190934,-0.17949 0.281258,-0.39993 0.281258,-0.68084 l 0,-0.90778 z"
-       id="path3325" />
-    <path
-       style="color:#000"
-       d="m 85,807 0,2 6,0 c 0.428164,0 1,0.61414 1,1 l 0,1 -5,0 c -0.919269,0 -1.735601,0.38396 -2.25,0.96875 -0.514399,0.58479 -0.756392,1.31063 -0.75,2.03125 0.0064,0.72062 0.268927,1.45271 0.78125,2.03125 C 85.293573,816.60979 86.091722,817 87,817 l 6,0 1,0 0,-1 0,-6 c 0,-1.63434 -1.319804,-3 -3,-3 l -6,0 z m 2,6 5,0 0,2 -5,0 c -0.397872,0 -0.566911,-0.10979 -0.71875,-0.28125 C 86.129411,814.54729 86.002478,814.27938 86,814 c -0.0025,-0.27938 0.104672,-0.55354 0.25,-0.71875 C 86.395328,813.11604 86.577639,813 87,813 z"
-       id="path3327" />
-  </g>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16.0001 15.9999">
+ <g transform="translate(-81.00014 -807)" style="fill:#353535">
+  <path d="m 92 819 -1 0 c -0.257 0 -0.528 0.118 -0.719 0.284 l -1.281 1.163 -1.281 -1.163 c -0.19 -0.166 -0.462 -0.284 -0.719 -0.284 l -1 0 0 0.908 c 0 0.281 0.09 0.501 0.281 0.681 l 2.719 2.411 2.719 -2.411 c 0.191 -0.179 0.281 -0.4 0.281 -0.681 l 0 -0.908 z" style="color:#353535"/>
+  <path d="m 85 807 0 2 6 0 c 0.428 0 1 0.614 1 1 l 0 1 -5 0 c -0.919 0 -1.736 0.384 -2.25 0.969 -0.514 0.585 -0.756 1.311 -0.75 2.031 0.006 0.721 0.269 1.453 0.781 2.031 c 0.512 0.579 1.31 0.969 2.219 0.969 l 6 0 1 0 0 -1 0 -6 c 0 -1.634 -1.32 -3 -3 -3 l -6 0 z m 2 6 5 0 0 2 -5 0 c -0.398 0 -0.567 -0.11 -0.719 -0.281 c -0.152 -0.171 -0.279 -0.439 -0.281 -0.719 c -0.002 -0.279 0.105 -0.554 0.25 -0.719 c 0.145 -0.165 0.328 -0.281 0.75 -0.281 z" style="color:#000"/>
+ </g>
 </svg>

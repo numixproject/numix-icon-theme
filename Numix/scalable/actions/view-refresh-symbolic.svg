@@ -1,53 +1,6 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="16"
-   viewBox="0 0 16 16"
-   height="16"
-   id="svg3557"
-   version="1.1"
-   inkscape:version="0.91 r"
-   sodipodi:docname="view-refresh-symbolic.svg">
-  <metadata
-     id="metadata3569">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <defs
-     id="defs3567" />
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="640"
-     inkscape:window-height="480"
-     id="namedview3565" />
-  <g
-     style="fill:#bebebe"
-     transform="matrix(.04444 0 0 .04398 -2.54322 -2.38038)"
-     id="g3559">
-    <path
-       d="M 383.434,172.502 C 358.098,114.261 301.436,76.854 237.573,76.854 c -65.309,0 -125,40.928 -148.514,101.827 l 49.5,19.117 c 15.672,-40.617 55.469,-67.894 99.014,-67.894 42.02,0 79.197,24.386 96.408,62.332 l -36.117,14.428 92.352,53.279 27.01,-100.933 -33.792,13.492 z"
-       id="path3561" />
-    <path
-       d="m 237.573,342.101 c -41.639,0 -79.615,-25.115 -96.592,-62.819 L 176.585,265.519 85.198,213.4 57.223,311.649 91.303,298.477 c 24.852,58.018 82.859,96.671 146.27,96.671 65.551,0 123.598,-39.336 147.871,-100.196 L 336.176,275.3 c -16.195,40.577 -54.888,66.801 -98.603,66.801 z"
-       id="path3563" />
-  </g>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
+ <g transform="matrix(.04444 0 0 .04398 -2.54322 -2.38038)" style="fill:#bebebe">
+  <path d="m 383.43 172.5 c -25.336 -58.24 -81.998 -95.65 -145.86 -95.65 c -65.31 0 -125 40.928 -148.51 101.83 l 49.5 19.12 c 15.672 -40.617 55.47 -67.894 99.01 -67.894 42.02 0 79.2 24.386 96.41 62.33 l -36.12 14.428 92.35 53.28 27.01 -100.93 -33.792 13.492 z"/>
+  <path d="m 237.57 342.1 c -41.639 0 -79.61 -25.12 -96.59 -62.819 l 35.604 -13.763 -91.39 -52.12 -27.975 98.25 34.08 -13.172 c 24.852 58.02 82.86 96.67 146.27 96.67 65.55 0 123.6 -39.34 147.87 -100.2 l -49.27 -19.652 c -16.195 40.577 -54.888 66.801 -98.6 66.801 z"/>
+ </g>
 </svg>

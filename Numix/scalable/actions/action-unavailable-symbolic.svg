@@ -1,51 +1,6 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   viewBox="0 0 16 16"
-   id="svg3423"
-   version="1.1"
-   inkscape:version="0.91 r"
-   sodipodi:docname="action-unavailable-symbolic.svg">
-  <metadata
-     id="metadata3435">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <defs
-     id="defs3433" />
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="640"
-     inkscape:window-height="480"
-     id="namedview3431" />
-  <g
-     style="fill:#bebebe;line-height:normal;color:#000"
-     transform="translate(-219.99995 -606)"
-     id="g3425">
-    <path
-       d="m 228.00729,607.02074 c -3.86004,0 -7.00729,3.16598 -7.00729,7.01026 0,3.84428 3.14725,6.97868 7.00729,6.97868 3.86004,0 7.00729,-3.1344 7.00729,-6.97868 0,-3.84428 -3.14725,-7.01026 -7.00729,-7.01026 z m 0,2.02098 c 2.77694,0 5.00973,2.22368 5.00973,4.98928 0,2.7656 -2.23279,4.9577 -5.00973,4.9577 -2.77695,0 -5.00974,-2.1921 -5.00974,-4.9577 0,-2.7656 2.23279,-4.98928 5.00974,-4.98928 z"
-       id="path3427" />
-    <path
-       d="m 231.40625,609.4375 -8,8 1.40625,1.40625 8,-8 -1.40625,-1.40625 z"
-       id="path3429" />
-  </g>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
+ <g transform="translate(-219.99995 -606)" style="fill:#bebebe;color:#000">
+  <path d="m 228.01 607.02 c -3.86 0 -7.01 3.166 -7.01 7.01 0 3.844 3.147 6.979 7.01 6.979 3.86 0 7.01 -3.134 7.01 -6.979 0 -3.844 -3.147 -7.01 -7.01 -7.01 z m 0 2.02 c 2.777 0 5.01 2.224 5.01 4.989 0 2.766 -2.233 4.958 -5.01 4.958 -2.777 0 -5.01 -2.192 -5.01 -4.958 0 -2.766 2.233 -4.989 5.01 -4.989 z"/>
+  <path d="m 231.41 609.44 -8 8 1.406 1.406 8 -8 -1.406 -1.406 z"/>
+ </g>
 </svg>

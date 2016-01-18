@@ -1,48 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   viewBox="0 0 16 16"
-   id="svg2265"
-   version="1.1"
-   inkscape:version="0.91 r"
-   sodipodi:docname="gtk-about-symbolic.svg">
-  <metadata
-     id="metadata2275">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <defs
-     id="defs2273" />
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="640"
-     inkscape:window-height="480"
-     id="namedview2271" />
-  <g
-     transform="translate(-261 -647)"
-     id="g2267">
-    <path
-       style="fill:#bebebe;color:#000"
-       d="m 269,647.69 c -1.0005,-0.004 -1.5631,3.5402 -2.375,4.125 -0.81155,0.58452 -4.3435,-0.0125 -4.6562,0.9375 -0.31286,0.95036 2.8822,2.5784 3.1875,3.5312 0.30513,0.95245 -1.3381,4.1278 -0.53125,4.7188 0.80717,0.59122 3.3432,-1.9416 4.3438,-1.9375 1.0001,0.004 3.5011,2.5847 4.3125,2 0.81172,-0.58496 -0.81311,-3.7997 -0.5,-4.75 0.31298,-0.9499 3.5241,-2.5476 3.2188,-3.5 -0.3055,-0.95275 -3.8492,-0.37732 -4.6562,-0.96875 -0.8067,-0.5912 -1.3436,-4.1524 -2.3438,-4.1562 z"
-       id="path2269" />
-  </g>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
+ <g transform="translate(-261 -647)">
+  <path d="m 269 647.69 c -1 -0.004 -1.563 3.54 -2.375 4.125 -0.812 0.585 -4.344 -0.013 -4.656 0.938 -0.313 0.95 2.882 2.578 3.188 3.531 0.305 0.952 -1.338 4.128 -0.531 4.719 0.807 0.591 3.343 -1.942 4.344 -1.938 1 0.004 3.501 2.585 4.313 2 0.812 -0.585 -0.813 -3.8 -0.5 -4.75 0.313 -0.95 3.524 -2.548 3.219 -3.5 -0.305 -0.953 -3.849 -0.377 -4.656 -0.969 -0.807 -0.591 -1.344 -4.152 -2.344 -4.156 z" style="fill:#bebebe;color:#000"/>
+ </g>
 </svg>

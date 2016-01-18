@@ -1,51 +1,6 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   viewBox="0 0 16 16"
-   id="svg2407"
-   version="1.1"
-   inkscape:version="0.91 r"
-   sodipodi:docname="bookmark-add-symbolic.svg">
-  <metadata
-     id="metadata2419">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <defs
-     id="defs2417" />
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="640"
-     inkscape:window-height="480"
-     id="namedview2415" />
-  <g
-     style="fill:#bebebe"
-     transform="translate(-141.0002 -807)"
-     id="g2409">
-    <path
-       d="m 143.0002,807 0,13 4,-4 4,4 0,-4 0,-1 -2,0 0,-4 2,0 0,-4 z"
-       id="path2411" />
-    <path
-       d="m 152.0002,810 0,2 -2,0 0,2 2,0 0,2 2,0 0,-2 2,0 0,-2 -2,0 0,-2 -2,0 z"
-       id="path2413" />
-  </g>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
+ <g transform="translate(-141.0002 -807)" style="fill:#bebebe">
+  <path d="m 143 807 0 13 4 -4 4 4 0 -4 0 -1 -2 0 0 -4 2 0 0 -4 z"/>
+  <path d="m 152 810 0 2 -2 0 0 2 2 0 0 2 2 0 0 -2 2 0 0 -2 -2 0 0 -2 -2 0 z"/>
+ </g>
 </svg>

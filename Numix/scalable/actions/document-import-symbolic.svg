@@ -1,56 +1,7 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   viewBox="0 0 16 16"
-   id="svg3187"
-   version="1.1"
-   inkscape:version="0.91 r"
-   sodipodi:docname="document-import-symbolic.svg">
-  <metadata
-     id="metadata3201">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <defs
-     id="defs3199" />
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="640"
-     inkscape:window-height="480"
-     id="namedview3197" />
-  <path
-     style="fill:#bebebe;color:#bebebe"
-     d="m 10.074,2.4998135 0,-2.44201997 L 4,4.5758135 l 6.07389,4.499942 0,-2.575942 c 3.76636,-0.14511 5.247602,2.19241 2.000332,4.5000005 C 17.600223,9.3330735 15.666789,2.6809587 10.074,2.4998135 z"
-     id="path3189" />
-  <g
-     transform="translate(.08142 .06624)"
-     id="g3191">
-    <path
-       style="fill:#bebebe;color:#bebebe"
-       d="m 2,1 0,14 10.918582,-0.06624 0,-5.9999966 -1,-1 0,5.9999966 L 3,14 3,2 5.918582,1.933763 l 1,-1.00000001 z"
-       id="path3193" />
-  </g>
-  <path
-     style="fill:#bebebe"
-     d="m 11,1 2,0 0,1 -2,0 z"
-     id="path3195" />
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
+ <path d="m 10.07 2.5 0 -2.442 l -6.074 4.518 l 6.074 4.5 0 -2.576 c 3.766 -0.145 5.248 2.192 2 4.5 c 5.526 -1.667 3.593 -8.319 -2 -8.5 z" style="fill:#bebebe;color:#bebebe"/>
+ <g transform="translate(.08142 .06624)">
+  <path d="m 2 1 0 14 10.919 -0.066 0 -6 -1 -1 0 6 l -8.919 0.066 0 -12 2.919 -0.066 l 1 -1 z" style="fill:#bebebe;color:#bebebe"/>
+ </g>
+ <path d="m 11 1 2 0 0 1 -2 0 z" style="fill:#bebebe"/>
 </svg>
