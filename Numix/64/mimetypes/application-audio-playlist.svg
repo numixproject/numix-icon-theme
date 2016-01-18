@@ -1,15 +1,14 @@
-
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64px" height="64px" viewBox="0 0 64 64" version="1.1">
-<g id="surface1">
-<path style=" stroke:none;fill-rule:nonzero;fill:rgb(60.784314%,29.019608%,52.156863%);fill-opacity:1;" d="M 10.671875 0 C 9.296875 0 8 1.355469 8 2.789062 L 8 61.210938 C 8 62.566406 9.375 64 10.671875 64 L 53.328125 64 C 54.625 64 56 62.566406 56 61.210938 L 56 18 L 38 0 Z M 10.671875 0 "/>
-<path style=" stroke:none;fill-rule:nonzero;fill:rgb(0%,0%,0%);fill-opacity:0.196078;" d="M 42 18 L 56 32 L 56 18 Z M 42 18 "/>
-<path style=" stroke:none;fill-rule:nonzero;fill:rgb(100%,100%,100%);fill-opacity:0.392157;" d="M 38 0 L 55.984375 18 L 40.757812 18 C 39.410156 18 38 16.574219 38 15.226562 Z M 38 0 "/>
-<path style=" stroke:none;fill-rule:nonzero;fill:rgb(100%,100%,100%);fill-opacity:1;" d="M 26.9375 26.90625 C 25.382812 27.296875 24.078125 28.726562 24.078125 28.726562 L 24.117188 28.765625 L 26.609375 38.015625 C 24.828125 37.046875 22.289062 37.289062 20.1875 38.8125 C 17.46875 40.773438 16.523438 44.117188 18.09375 46.273438 C 19.671875 48.4375 23.140625 48.585938 25.859375 46.625 C 28 45.070312 29.1875 42.632812 28.757812 40.632812 C 28.75 40.570312 28.726562 40.507812 28.710938 40.445312 L 26.320312 31.203125 C 26.375 31.125 27.078125 30.804688 29.328125 30.648438 C 31.71875 30.492188 33.335938 26.664062 33.335938 26.664062 C 33.335938 26.664062 30.648438 27.695312 28.539062 26.953125 C 28.007812 26.765625 27.453125 26.773438 26.9375 26.90625 Z M 26.9375 26.90625 "/>
-<path style=" stroke:none;fill-rule:nonzero;fill:rgb(100%,100%,100%);fill-opacity:1;" d="M 36 28 L 36 26 L 46 26 L 46 28 Z M 36 28 "/>
-<path style=" stroke:none;fill-rule:nonzero;fill:rgb(100%,100%,100%);fill-opacity:1;" d="M 30 34 L 30 36 L 46 36 L 46 34 Z M 30 34 "/>
-<path style=" stroke:none;fill-rule:nonzero;fill:rgb(100%,100%,100%);fill-opacity:1;" d="M 34 32 L 34 30 L 46 30 L 46 32 Z M 34 32 "/>
-<path style=" stroke:none;fill-rule:nonzero;fill:rgb(100%,100%,100%);fill-opacity:1;" d="M 32 38 L 32 40 L 46 40 L 46 38 Z M 32 38 "/>
-<path style=" stroke:none;fill-rule:nonzero;fill:rgb(100%,100%,100%);fill-opacity:1;" d="M 32 42 L 32 44 L 46 44 L 46 42 Z M 32 42 "/>
-<path style=" stroke:none;fill-rule:nonzero;fill:rgb(100%,100%,100%);fill-opacity:1;" d="M 30 46 L 30 48 L 46 48 L 46 46 Z M 30 46 "/>
-</g>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+ <g>
+  <path d="m 10.672 0 c -1.375 0 -2.672 1.355 -2.672 2.789 l 0 58.42 c 0 1.355 1.375 2.789 2.672 2.789 l 42.656 0 c 1.297 0 2.672 -1.434 2.672 -2.789 l 0 -43.21 l -18 -18 m -27.328 0" style="fill:#9b4a85;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
+  <path d="m 42 18 l 14 14 l 0 -14 m -14 0" style="fill:#000;fill-opacity:0.196;stroke:none;fill-rule:nonzero"/>
+  <path d="m 38 0 l 17.984 18 l -15.227 0 c -1.348 0 -2.758 -1.426 -2.758 -2.773 m 0 -15.227" style="fill:#fff;fill-opacity:0.392;stroke:none;fill-rule:nonzero"/>
+  <path d="m 26.938 26.906 c -1.555 0.391 -2.859 1.82 -2.859 1.82 l 0.039 0.039 l 2.492 9.25 c -1.781 -0.969 -4.32 -0.727 -6.422 0.797 c -2.719 1.961 -3.664 5.305 -2.094 7.461 c 1.578 2.164 5.05 2.313 7.766 0.352 c 2.141 -1.555 3.328 -3.992 2.898 -5.992 c -0.008 -0.063 -0.031 -0.125 -0.047 -0.188 l -2.391 -9.242 c 0.055 -0.078 0.758 -0.398 3.01 -0.555 c 2.391 -0.156 4.01 -3.984 4.01 -3.984 c 0 0 -2.688 1.031 -4.797 0.289 c -0.531 -0.188 -1.086 -0.18 -1.602 -0.047 m 0 0" style="fill:#fff;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
+  <path d="m 36 28 l 0 -2 l 10 0 l 0 2 m -10 0" style="fill:#fff;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
+  <path d="m 30 34 l 0 2 l 16 0 l 0 -2 m -16 0" style="fill:#fff;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
+  <path d="m 34 32 l 0 -2 l 12 0 l 0 2 m -12 0" style="fill:#fff;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
+  <path d="m 32 38 l 0 2 l 14 0 l 0 -2 m -14 0" style="fill:#fff;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
+  <path d="m 32 42 l 0 2 l 14 0 l 0 -2 m -14 0" style="fill:#fff;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
+  <path d="m 30 46 l 0 2 l 16 0 l 0 -2 m -16 0" style="fill:#fff;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
+ </g>
 </svg>
