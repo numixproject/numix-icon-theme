@@ -1,52 +1,6 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="32"
-   height="32"
-   viewBox="0 0 32 32"
-   id="svg2"
-   version="1.1"
-   inkscape:version="0.91 r"
-   sodipodi:docname="xfce-graphics.svg">
-  <metadata
-     id="metadata14">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <defs
-     id="defs12" />
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="640"
-     inkscape:window-height="480"
-     id="namedview10" />
-  <g
-     style="fill:#f2469c"
-     id="g4">
-    <path
-       d="M 25.332031 6.070312 L 13.75 22.109375 C 12.816406 22.097656 11.539062 21.359375 10.90625 20.660156 L 23.753906 5.382812 C 24.617188 5.222656 25.144531 5.453125 25.332031 6.070312 Z "
-       id="path6" />
-    <path
-       d="M 11.089844 24.558594 C 12.4375 24.417969 14.519531 23.078125 13.546875 21.140625 C 11.214844 20.621094 11.742188 20.359375 11.742188 20.359375 C 8.542969 20.957031 6.109375 23.8125 6.777344 25.628906 C 7.203125 26.78125 7.132812 26.664062 7.132812 26.664062 C 8.019531 24.4375 8.035156 24.84375 11.089844 24.558594 Z "
-       id="path8" />
-  </g>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+ <g style="fill:#f2469c">
+  <path d="m 25.332 6.07 l -11.582 16.04 c -0.934 -0.012 -2.211 -0.75 -2.844 -1.449 l 12.848 -15.277 c 0.863 -0.16 1.391 0.07 1.578 0.688 Z"/>
+  <path d="m 11.09 24.559 c 1.348 -0.141 3.43 -1.48 2.457 -3.418 c -2.332 -0.52 -1.805 -0.781 -1.805 -0.781 c -3.199 0.598 -5.633 3.453 -4.965 5.27 c 0.426 1.152 0.355 1.035 0.355 1.035 c 0.887 -2.227 0.902 -1.82 3.957 -2.105 Z"/>
+ </g>
 </svg>

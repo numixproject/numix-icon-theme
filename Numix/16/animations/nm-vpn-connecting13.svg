@@ -1,83 +1,11 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   id="svg3208"
-   height="16"
-   width="16"
-   version="1.0"
-   inkscape:version="0.91 r"
-   sodipodi:docname="nm-vpn-connecting13.svg">
-  <defs
-     id="defs20750" />
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1056"
-     id="namedview20748"
-     showgrid="false"
-     inkscape:zoom="19.666667"
-     inkscape:cx="-4.468711"
-     inkscape:cy="4.3214892"
-     inkscape:window-x="0"
-     inkscape:window-y="24"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg3208" />
-  <metadata
-     id="metadata17">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <!-- imported from '../../status/22/nm-vpn-lock.svg' -->
-  <path
-     inkscape:connector-curvature="0"
-     d="m 13.8185,9.453 c -0.805701,0 -1.454333,0.662752 -1.454333,1.477552 l 0,0.704948 c -0.40285,0 -0.727167,0.324465 -0.727167,0.7275 l 0,2.1825 c 0,0.403035 0.324317,0.7275 0.727167,0.7275 l 2.908666,0 C 15.675683,15.273 16,14.948535 16,14.5455 l 0,-2.1825 c 0,-0.403035 -0.324317,-0.7275 -0.727167,-0.7275 l 0,-0.704948 c 0,-0.8148 -0.648632,-1.477552 -1.454333,-1.477552 z m 0,0.7275 c 0.40285,0 0.727167,0.321555 0.727167,0.7275 l 0,0.7275 -1.454334,0 0,-0.7275 c 0,-0.405945 0.324317,-0.7275 0.727167,-0.7275 z"
-     style="fill:#ececec;fill-opacity:1"
-     id="rect2822-2" />
-  <g
-     id="g4152">
-    <g
-       transform="translate(-81.000208,-533.36047)"
-       inkscape:label="panel"
-       id="layer1">
-      <path
-         mask="none"
-         style="color:#000000;line-height:normal;opacity:0.4;fill:#ececec;fill-opacity:1"
-         d="m 96.000208,537.56576 c -2.023292,-1.53955 -4.425479,-2.42751 -7.000002,-2.42751 -2.574519,0 -4.97671,0.88796 -6.999998,2.42751 l 6.999998,10.01693 z"
-         id="path18"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="csccc" />
-      <path
-         mask="none"
-         style="color:#000000;line-height:normal;opacity:1;fill:#ececec;fill-opacity:1"
-         d="m 90.750207,545.07846 c -0.505824,-0.3849 -1.10637,-0.60688 -1.75,-0.60688 -0.64363,0 -1.244177,0.22198 -1.75,0.60688 l 1.75,2.50423 z"
-         id="path18-5"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="csccc" />
-    </g>
-    <g
-       transform="translate(-81.000208,-80.998314)"
-       inkscape:label="animations"
-       id="layer2" />
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
+ <!-- imported from '../../status/22/nm-vpn-lock.svg' -->
+ <path d="m 13.819 9.453 c -0.806 0 -1.454 0.663 -1.454 1.478 l 0 0.705 c -0.403 0 -0.727 0.324 -0.727 0.728 l 0 2.183 c 0 0.403 0.324 0.727 0.727 0.727 l 2.909 0 c 0.403 0 0.727 -0.324 0.727 -0.727 l 0 -2.183 c 0 -0.403 -0.324 -0.727 -0.727 -0.727 l 0 -0.705 c 0 -0.815 -0.649 -1.478 -1.454 -1.478 z m 0 0.727 c 0.403 0 0.727 0.322 0.727 0.727 l 0 0.727 -1.454 0 0 -0.727 c 0 -0.406 0.324 -0.727 0.727 -0.727 z" style="fill:#ececec;fill-opacity:1"/>
+ <g>
+  <g transform="translate(-81.000208,-533.36047)">
+   <path d="m 96 537.57 c -2.023 -1.54 -4.425 -2.428 -7 -2.428 -2.575 0 -4.977 0.888 -7 2.428 l 7 10.02 z" style="fill:#ececec;opacity:0.4;mask:none;fill-opacity:1;color:#000"/>
+   <path d="m 90.75 545.08 c -0.506 -0.385 -1.106 -0.607 -1.75 -0.607 -0.644 0 -1.244 0.222 -1.75 0.607 l 1.75 2.504 z" style="fill:#ececec;opacity:1;mask:none;fill-opacity:1;color:#000"/>
   </g>
+ </g>
 </svg>

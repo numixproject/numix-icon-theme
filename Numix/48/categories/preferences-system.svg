@@ -1,57 +1,6 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   viewBox="0 0 48 48"
-   id="svg617"
-   version="1.1"
-   inkscape:version="0.91 r"
-   sodipodi:docname="xfce-system-settings.svg">
-  <metadata
-     id="metadata629">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <defs
-     id="defs627" />
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="640"
-     inkscape:window-height="480"
-     id="namedview625" />
-  <g
-     transform="translate(0 -1004.3622)"
-     id="g619">
-    <rect
-       width="30"
-       x="9"
-       y="1021.362"
-       rx="1.54"
-       height="14"
-       style="fill:none;stroke:#6baf53;stroke-linejoin:round;stroke-linecap:round;stroke-width:2"
-       id="rect621" />
-    <path
-       style="fill:#6baf53"
-       d="M 11.5,19 C 11.223,19 11,19.223 11,19.5 l 0,9 c 0,0.277 0.223,0.5 0.5,0.5 l 12.053571,0 c 0.277,0 0.5,-0.223 0.5,-0.5 l 0,-9 c 0,-0.277 -0.223,-0.5 -0.5,-0.5 z m 3.5,7 0,-4 1,0 0,4 z m 2,0 0,-4 1,0 0,4 z m 2,0 0,-4 1,0 0,4 z"
-       transform="translate(0 1004.3622)"
-       id="path623" />
-  </g>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48">
+ <g transform="translate(0 -1004.3622)">
+  <rect width="30" x="9" y="1021.36" rx="1.54" height="14" style="fill:none;stroke:#6baf53;stroke-linecap:round;stroke-linejoin:round;stroke-width:2"/>
+  <path d="m 11.5 19 c -0.277 0 -0.5 0.223 -0.5 0.5 l 0 9 c 0 0.277 0.223 0.5 0.5 0.5 l 12.05 0 c 0.277 0 0.5 -0.223 0.5 -0.5 l 0 -9 c 0 -0.277 -0.223 -0.5 -0.5 -0.5 z m 3.5 7 0 -4 1 0 0 4 z m 2 0 0 -4 1 0 0 4 z m 2 0 0 -4 1 0 0 4 z" transform="translate(0 1004.3622)" style="fill:#6baf53"/>
+ </g>
 </svg>

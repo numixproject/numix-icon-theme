@@ -1,78 +1,10 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="32"
-   height="32"
-   viewBox="0 0 25.6 25.6"
-   id="svg2"
-   version="1.1"
-   inkscape:version="0.91 r"
-   sodipodi:docname="applications-3D.svg">
-  <metadata
-     id="metadata21">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1056"
-     id="namedview19"
-     showgrid="true"
-     inkscape:zoom="19.873684"
-     inkscape:cx="11.570181"
-     inkscape:cy="22.19652"
-     inkscape:window-x="0"
-     inkscape:window-y="24"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg2">
-    <inkscape:grid
-       type="xygrid"
-       id="grid4149" />
-  </sodipodi:namedview>
-  <defs
-     id="defs4" />
-  <path
-     sodipodi:nodetypes="ccccccccccccc"
-     inkscape:connector-curvature="0"
-     id="path13"
-     d="M 2.4000027,17.066667 8.800001,18 l 0,-3.466667 -6.3999997,-0.4 0,-2.666666 6.3999997,-0.4 0,-3.4666669 -6.3999997,0.9333333 0,-2.8 L 12.000001,3.2 l 0,19.2 L 2.4,19.866667 Z"
-     style="fill:#c18eb2;fill-rule:evenodd" />
-  <path
-     style="fill:#c18eb2"
-     d="m 13.6,3.2000001 0,9.5999999 0,9.6 c 1.129412,0 2.920307,-0.404709 4.525368,-1.027083 1.345804,-0.521847 2.669475,-1.098086 3.678309,-2.219792 C 23.200456,17.600063 23.2,13.866667 23.2,12.8 23.2,11.733333 23.200456,7.9999374 21.803677,6.4468753 20.794843,5.3251663 19.471172,4.7489282 18.125368,4.2270834 16.520307,3.6047097 14.729412,3.2000001 13.6,3.2000001 Z m 3.388235,4.2666666 c 1.129413,0.02164 2.158644,0.7470767 2.723163,1.4697913 0.665023,0.8513854 0.665072,3.330209 0.665072,3.863542 0,0.533333 -4.9e-5,3.012153 -0.665072,3.863542 -0.564519,0.722711 -1.59375,1.448151 -2.723163,1.469791 l 0,-5.333333 z"
-     id="path15"
-     inkscape:connector-curvature="0"
-     sodipodi:nodetypes="cccsszssccszsccc" />
-  <flowRoot
-     xml:space="preserve"
-     id="flowRoot4135"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     transform="translate(0,-12.8)"><flowRegion
-       id="flowRegion4137"><rect
-         id="rect4139"
-         width="17.6"
-         height="37.599998"
-         x="-39.200001"
-         y="-7.1999998" /></flowRegion><flowPara
-       id="flowPara4141">DD</flowPara></flowRoot></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 25.6 25.6">
+ <path d="m 2.4 17.07 6.4 0.933 l 0 -3.467 -6.4 -0.4 0 -2.667 6.4 -0.4 0 -3.467 -6.4 0.933 0 -2.8 l 9.6 -2.533 l 0 19.2 l -9.6 -2.533" style="fill:#c18eb2;fill-rule:evenodd"/>
+ <path d="m 13.6 3.2 0 9.6 0 9.6 c 1.129 0 2.92 -0.405 4.525 -1.027 1.346 -0.522 2.669 -1.098 3.678 -2.22 c 1.397 -1.553 1.396 -5.286 1.396 -6.353 0 -1.067 0 -4.8 -1.396 -6.353 -1.01 -1.122 -2.333 -1.698 -3.678 -2.22 -1.605 -0.622 -3.396 -1.027 -4.525 -1.027 m 3.388 4.267 c 1.129 0.022 2.159 0.747 2.723 1.47 0.665 0.851 0.665 3.33 0.665 3.864 0 0.533 0 3.01 -0.665 3.864 -0.565 0.723 -1.594 1.448 -2.723 1.47 l 0 -5.333 z" style="fill:#c18eb2"/>
+ <flowRoot transform="translate(0,-12.8)" line-height="125%" style="letter-spacing:0;word-spacing:0;font-size:30;font-family:Ubuntu;fill:#000;fill-opacity:1;font-weight:normal;stroke:none;font-style:normal;font-variant:normal;font-stretch:normal">
+  <flowRegion>
+   <rect width="17.6" height="37.6" x="-39.2" y="-7.2"/>
+  </flowRegion>
+  <flowPara>DD</flowPara>
+ </flowRoot>
+</svg>
