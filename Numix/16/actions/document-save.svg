@@ -1,78 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="16"
-   height="16"
-   viewBox="0 0 16 16"
-   id="svg2"
-   version="1.1"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="document-save.svg">
-  <metadata
-     id="metadata18">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <defs
-     id="defs16" />
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1366"
-     inkscape:window-height="704"
-     id="namedview14"
-     showgrid="true"
-     inkscape:zoom="31.055664"
-     inkscape:cx="4.5782587"
-     inkscape:cy="5.4239804"
-     inkscape:window-x="0"
-     inkscape:window-y="27"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg2">
-    <inkscape:grid
-       type="xygrid"
-       id="grid4146" />
-  </sodipodi:namedview>
-  <g
-     style="fill-rule:evenodd"
-     transform="matrix(.77778 0 0 .8 -1.33333 -1.6)"
-     id="g4">
-    <path
-       style="fill:#268bd2"
-       d="m 7,2 10,0 c 3,0 4,1 4,4 l 0,12 c 0,3 -1,4 -4,4 L 7,22 C 4,22 3,21 3,18 L 3,6 C 3,3 4,2 7,2 z"
-       id="path6" />
-    <path
-       style="fill:#ffffff;fill-opacity:0.3"
-       d="m 7,2 10,0 c 3,0 4,1 4,4 l 0,8 c 0,3 -1,4.25 -4,4.25 l -10,0 C 4,18.25 3,17 3,14 L 3,6 C 3,3 4,2 7,2 Z"
-       id="path8"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="sssssssss" />
-  </g>
-  <g
-     style="color:#000"
-     transform="translate(-4 -3)"
-     id="g10">
-    <path
-       style="fill:#fff;fill-opacity:.9"
-       d="m 16.5,10 -4.5,5 -4.5,-5 2.5,0 0,-5 4,0 0,5 z"
-       id="path12" />
-  </g>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
+ <g transform="matrix(.77778 0 0 .8 -1.33333 -1.6)" style="fill-rule:evenodd">
+  <path d="m 7,2 10,0 c 3,0 4,1 4,4 l 0,12 c 0,3 -1,4 -4,4 L 7,22 C 4,22 3,21 3,18 L 3,6 C 3,3 4,2 7,2 z" style="fill:#268bd2"/>
+  <path d="m 7,2 10,0 c 3,0 4,1 4,4 l 0,8 c 0,3 -1,4.25 -4,4.25 l -10,0 C 4,18.25 3,17 3,14 L 3,6 C 3,3 4,2 7,2 Z" style="fill:#fff;fill-opacity:0.3"/>
+ </g>
+ <g transform="translate(-4 -3)" style="color:#000">
+  <path d="m 16.5 10 -4.5 5 -4.5 -5 2.5 0 0 -5 4 0 0 5 z" style="fill:#fff;fill-opacity:0.9"/>
+ </g>
 </svg>
