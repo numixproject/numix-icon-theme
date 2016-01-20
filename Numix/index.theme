@@ -615,7 +615,7 @@ Type=Fixed
 
 [64/apps]
 Size=64
-Context=Apps
+Context=Application
 Type=Fixed
 
 [64/categories]
@@ -839,7 +839,7 @@ Type=Scalable
 
 [128/apps]
 Size=128
-Context=Apps
+Context=Application
 MinSize=97
 MaxSize=512
 Type=Scalable
