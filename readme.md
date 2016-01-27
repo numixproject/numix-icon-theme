@@ -13,7 +13,7 @@ sudo apt-get update
 sudo apt-get install numix-icon-theme
 ```
 
-If you use Fedora you can either use [Fedy](http://satya164.github.io/fedy/) or using a terminal run:
+If you use Fedora you can either use [Fedy](http://folkswithhats.org/) or using a terminal run:
 
 ```bash
 sudo dnf copr enable numix/numix
