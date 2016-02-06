@@ -27,3 +27,15 @@ Application icon requests should be posted in the [Numix Circle](https://github.
 
 ### Hardcoded Icons
 To deal with hardcoded status icons Numix recommends you use the [Hardcode Tray](https://github.com/bil-elmoussaoui/Hardcode-Tray) script.
+
+### Cursor theme
+Set the cursor theme using either something like `unity-tweak-tool` or a terminal:
+
+    gsettings set org.gnome.desktop.interface cursor-theme 'Numix{-Light}'
+
+For system-wide change run the following:
+
+    sudo update-alternatives --install /usr/share/icons/default/index.theme x-cursor-theme /usr/share/icons/Numix{-Light}/cursor.theme 55
+    sudo update-alternatives --set x-cursor-theme /usr/share/icons/Numix{-Light}/cursor.theme
+
+Then restart or log out and back in for the changes to take effect.
