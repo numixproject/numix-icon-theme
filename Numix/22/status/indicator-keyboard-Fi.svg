@@ -1,11 +1,3 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 22">
- <defs>
-  <mask id="m">
-   <rect height="22" width="22" style="fill:#fff"/>
-   <text y="15.5" x="11" style="font-size:12;font-family:Ubuntu;fill:#000;font-weight:500;text-anchor:middle">Fi</text>
-  </mask>
- </defs>
-
-     transform="translate(0,1)" /&gt;
-
-   <rect rx="2" height="20" width="20" y="1" x="1" style="fill:#ececec;mask:url(#m);fill-opacity:1"/></svg>
+ <path d="m 3 1 c -1.108 0 -2 0.892 -2 2 l 0 16 c 0 1.108 0.892 2 2 2 l 16 0 c 1.108 0 2 -0.892 2 -2 l 0 -16 c 0 -1.108 -0.892 -2 -2 -2 l -16 0 z m 10.811 5.934 c 0.15 0 0.276 0.051 0.381 0.156 c 0.105 0.098 0.158 0.234 0.158 0.406 c 0 0.173 -0.053 0.311 -0.158 0.416 c -0.105 0.098 -0.231 0.146 -0.381 0.146 c -0.15 0 -0.278 -0.049 -0.383 -0.146 c -0.105 -0.105 -0.158 -0.244 -0.158 -0.416 c 0 -0.173 0.053 -0.309 0.158 -0.406 c 0.105 -0.105 0.233 -0.156 0.383 -0.156 z m -6.16 0.338 l 4.443 0 l 0 0.662 l -3.678 0 l 0 2.746 l 3.262 0 l 0 0.664 l -3.262 0 l 0 3.723 l -0.766 0 l 0 -7.795 z m 5.799 1.979 l 0.732 0 l 0 5.816 l -0.732 0 l 0 -5.816 z" style="fill:#ececec;fill-opacity:1"/>
+</svg>

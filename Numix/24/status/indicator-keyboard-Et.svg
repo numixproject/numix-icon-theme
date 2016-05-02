@@ -1,11 +1,53 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
- <defs>
-  <mask id="m">
-   <rect height="22" width="22" style="fill:#fff"/>
-   <text y="15.5" x="11" style="font-size:12;font-family:Ubuntu;fill:#000;font-weight:500;text-anchor:middle">Et</text>
-  </mask>
- </defs>
-
-     ry="2" /&gt;
-
-   <rect rx="2" height="20" width="20" y="1" x="1" transform="translate(1,1)" style="fill:#ececec;mask:url(#m);fill-opacity:1"/></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 24 24"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="indicator-keyboard-Et.svg">
+  <metadata
+     id="metadata10">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="459"
+     inkscape:window-height="369"
+     id="namedview6"
+     showgrid="false"
+     inkscape:zoom="9.8333333"
+     inkscape:cx="12"
+     inkscape:cy="12"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" />
+  <path
+     d="M 4,2 C 2.892,2 2,2.892 2,4 l 0,16 c 0,1.108 0.892,2 2,2 l 16,0 c 1.108,0 2,-0.892 2,-2 L 22,4 C 22,2.892 21.108,2 20,2 L 4,2 Z m 3.277,6.04 4.5,0 0,0.664 -3.736,0 0,2.711 3.33,0 0,0.654 -3.33,0 0,3.104 4.03,0 0,0.664 -4.791,0 0,-7.797 z m 6.881,0.137 0,1.844 2.318,0 0,0.619 -2.318,0 0,3.094 c 0,0.33 0.026,0.601 0.078,0.811 0.06,0.203 0.143,0.36 0.248,0.473 0.105,0.113 0.233,0.187 0.383,0.225 0.15,0.038 0.314,0.057 0.494,0.057 0.307,0 0.555,-0.034 0.742,-0.102 0.188,-0.075 0.334,-0.143 0.439,-0.203 l 0.18,0.607 c -0.105,0.068 -0.288,0.146 -0.551,0.236 -0.262,0.082 -0.548,0.125 -0.855,0.125 -0.36,0 -0.663,-0.047 -0.91,-0.137 -0.24,-0.098 -0.436,-0.238 -0.586,-0.426 -0.143,-0.195 -0.243,-0.436 -0.303,-0.721 -0.06,-0.285 -0.09,-0.624 -0.09,-1.014 l 0,-5.354 0.73,-0.135 z"
+     style="fill:#ececec;fill-opacity:1"
+     id="path4"
+     inkscape:connector-curvature="0" />
+</svg>

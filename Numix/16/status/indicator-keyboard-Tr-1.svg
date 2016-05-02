@@ -1,17 +1,52 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
- <defs>
-  <mask id="m">
-   <rect height="22" width="22" style="fill:#fff"/>
-   <text y="15.5" x="13" style="font-size:12;font-family:Ubuntu;fill:#000;font-weight:500;text-anchor:middle"><tspan>
-
-            Tr
-
-            <tspan dy="3" dx="-3.2" style="font-size:8">1</tspan>
-    </tspan>
-   </text>
-  </mask>
- </defs>
-
-     ry="2.7586207" /&gt;
-
-   <rect rx="2.759" height="20" width="20" y="1" x="1" transform="matrix(0.725,0,0,0.725,0.025,-0.3375)" style="fill:#ececec;mask:url(#m);fill-opacity:1"/></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 16 16"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="indicator-keyboard-Tr-1.svg">
+  <metadata
+     id="metadata14">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs12" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="459"
+     inkscape:window-height="369"
+     id="namedview10"
+     showgrid="false"
+     inkscape:zoom="14.75"
+     inkscape:cx="8"
+     inkscape:cy="8"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" />
+  <path
+     style="fill:#ececec;fill-opacity:1"
+     d="M 1.5996094 0 C 0.71320937 2.9605947e-16 0 0.71320937 0 1.5996094 L 0 14.400391 C 2.9605947e-16 15.286791 0.71320937 16 1.5996094 16 L 14.400391 16 C 15.286791 16 16 15.286791 16 14.400391 L 16 1.5996094 C 16 0.71320937 15.286791 0 14.400391 0 L 1.5996094 0 z M 3.03125 4.859375 L 7.640625 4.859375 L 7.640625 5.390625 L 5.6425781 5.390625 L 5.6425781 11.095703 L 5.0292969 11.095703 L 5.0292969 5.390625 L 3.03125 5.390625 L 3.03125 4.859375 z M 9.9042969 6.3535156 C 10.096297 6.3535156 10.275359 6.3684375 10.443359 6.3984375 C 10.617359 6.4284375 10.736734 6.4582812 10.802734 6.4882812 L 10.6875 6.9921875 C 10.6395 6.9681875 10.540625 6.9439219 10.390625 6.9199219 C 10.246625 6.8899219 10.054453 6.875 9.8144531 6.875 C 9.5624531 6.875 9.3571719 6.8936875 9.2011719 6.9296875 C 9.0511719 6.9656875 8.9522969 6.9955312 8.9042969 7.0195312 L 8.9042969 11.095703 L 8.3203125 11.095703 L 8.3203125 6.6582031 C 8.4703125 6.5922031 8.6774062 6.5269375 8.9414062 6.4609375 C 9.2054062 6.3889375 9.5262969 6.3535156 9.9042969 6.3535156 z M 12.699219 8.8417969 L 12.96875 8.8417969 L 12.96875 12.896484 L 12.587891 12.896484 L 12.587891 9.421875 C 12.544991 9.468675 12.488169 9.5157063 12.417969 9.5664062 C 12.351669 9.6171063 12.275253 9.66805 12.189453 9.71875 C 12.103653 9.76555 12.015475 9.812575 11.921875 9.859375 C 11.828275 9.902275 11.734225 9.9375437 11.640625 9.9648438 L 11.529297 9.671875 C 11.763297 9.5899751 11.970997 9.4880813 12.154297 9.3632812 C 12.337597 9.2345813 12.519819 9.0601969 12.699219 8.8417969 z "
+     id="path4" />
+</svg>

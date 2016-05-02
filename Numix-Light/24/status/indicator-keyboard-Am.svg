@@ -1,12 +1,53 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
- <defs>
-  <mask id="m">
-   <rect height="22" width="22" style="fill:#fff"/>
-   <text y="15.5" x="11" style="font-size:12;font-family:Ubuntu;fill:#000;font-weight:500;text-anchor:middle">Am</text>
-  </mask>
- </defs>
-
-
-     ry="2" /&gt;
-
-   <path transform="translate(1,1)" d="m 3,1 16,0 c 1.108,0 2,0.892 2,2 l 0,16 c 0,1.108 -0.892,2 -2,2 L 3,21 C 1.892,21 1,20.108 1,19 L 1,3 C 1,1.892 1.892,1 3,1 Z" style="fill:#353535;mask:url(#m);fill-opacity:1"/></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 24 24"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="indicator-keyboard-Am.svg">
+  <metadata
+     id="metadata10">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview6"
+     showgrid="false"
+     inkscape:zoom="9.8333333"
+     inkscape:cx="12"
+     inkscape:cy="12"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" />
+  <path
+     d="M 4,2 C 2.892,2 2,2.892 2,4 l 0,16 c 0,1.108 0.892,2 2,2 l 16,0 c 1.108,0 2,-0.892 2,-2 L 22,4 C 22,2.892 21.108,2 20,2 L 4,2 Z m 3.199,6.102 0.674,0 c 0.277,0.577 0.54,1.155 0.787,1.732 0.248,0.578 0.497,1.182 0.744,1.812 0.255,0.623 0.513,1.285 0.775,1.99 0.262,0.697 0.548,1.452 0.855,2.262 l -0.844,0 C 10.048,15.515 9.911,15.147 9.784,14.794 9.657,14.442 9.533,14.096 9.413,13.759 l -3.791,0 c -0.128,0.337 -0.255,0.683 -0.383,1.035 -0.128,0.353 -0.258,0.721 -0.393,1.104 l -0.799,0 c 0.3,-0.81 0.581,-1.564 0.844,-2.262 0.262,-0.705 0.516,-1.368 0.764,-1.99 C 5.91,11.016 6.161,10.411 6.409,9.834 6.656,9.256 6.921,8.679 7.198,8.102 Z M 7.513,8.979 C 7.228,9.624 6.951,10.28 6.681,10.948 6.419,11.616 6.144,12.336 5.859,13.108 l 3.318,0 C 8.892,12.336 8.615,11.615 8.345,10.948 8.075,10.28 7.798,9.624 7.513,8.979 Z m 6.801,0.99 c 0.735,0 1.268,0.215 1.598,0.643 0.038,-0.03 0.11,-0.079 0.215,-0.146 0.112,-0.075 0.251,-0.15 0.416,-0.225 0.165,-0.075 0.357,-0.139 0.574,-0.191 0.225,-0.053 0.472,-0.08 0.742,-0.08 0.442,0 0.798,0.068 1.068,0.203 0.277,0.127 0.491,0.311 0.641,0.551 0.15,0.233 0.252,0.514 0.305,0.844 0.053,0.33 0.078,0.69 0.078,1.08 l 0,3.252 -0.73,0 0,-3.02 c 0,-0.382 -0.019,-0.713 -0.057,-0.99 -0.03,-0.285 -0.098,-0.517 -0.203,-0.697 -0.098,-0.188 -0.24,-0.326 -0.428,-0.416 -0.188,-0.098 -0.43,-0.146 -0.73,-0.146 -0.225,0 -0.432,0.023 -0.619,0.068 -0.18,0.037 -0.338,0.086 -0.473,0.146 -0.135,0.06 -0.246,0.12 -0.336,0.18 -0.082,0.06 -0.144,0.105 -0.182,0.135 0.068,0.195 0.116,0.417 0.146,0.664 0.038,0.24 0.057,0.494 0.057,0.764 l 0,3.309 -0.73,0 0,-3.02 c 0,-0.383 -0.019,-0.713 -0.057,-0.99 -0.03,-0.285 -0.098,-0.517 -0.203,-0.697 -0.105,-0.188 -0.254,-0.326 -0.449,-0.416 -0.188,-0.098 -0.439,-0.146 -0.754,-0.146 -0.352,0 -0.653,0.019 -0.9,0.057 -0.24,0.037 -0.393,0.072 -0.461,0.102 l 0,5.107 -0.73,0 0,-5.613 c 0.217,-0.06 0.499,-0.128 0.844,-0.203 0.352,-0.075 0.804,-0.113 1.359,-0.113 z"
+     style="fill:#353535;fill-opacity:1"
+     id="path4"
+     inkscape:connector-curvature="0" />
+</svg>

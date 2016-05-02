@@ -1,12 +1,52 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
- <defs>
-  <mask id="m">
-   <rect height="22" width="22" style="fill:#fff"/>
-   <text y="15.5" x="11" style="font-size:12;font-family:Ubuntu;fill:#000;font-weight:500;text-anchor:middle">Hu</text>
-  </mask>
- </defs>
-
-
-     ry="2.7586207" /&gt;
-
-   <path transform="matrix(0.725,0,0,0.725,0.025,-0.3375)" d="m 3.759 1 14.483 0 c 1.528 0 2.759 1.23 2.759 2.759 l 0 14.483 c 0 1.528 -1.23 2.759 -2.759 2.759 l -14.483 0 c -1.528 0 -2.759 -1.23 -2.759 -2.759 l 0 -14.483 c 0 -1.528 1.23 -2.759 2.759 -2.759" style="fill:#353535;mask:url(#m);fill-opacity:1"/></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 16 16"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="indicator-keyboard-Hu.svg">
+  <metadata
+     id="metadata13">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs11" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview9"
+     showgrid="false"
+     inkscape:zoom="14.75"
+     inkscape:cx="8"
+     inkscape:cy="8"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" />
+  <path
+     style="fill:#353535;fill-opacity:1"
+     d="M 1.5996094 0 C 0.71320937 2.9605947e-16 0 0.71320937 0 1.5996094 L 0 14.400391 C 2.9605947e-16 15.286791 0.71320937 16 1.5996094 16 L 14.400391 16 C 15.286791 16 16 15.286791 16 14.400391 L 16 1.5996094 C 16 0.71320937 15.286791 0 14.400391 0 L 1.5996094 0 z M 3.1210938 4.8359375 L 3.7324219 4.8359375 L 3.7324219 7.5449219 L 7.1152344 7.5449219 L 7.1152344 4.8359375 L 7.7285156 4.8359375 L 7.7285156 11.074219 L 7.1152344 11.074219 L 7.1152344 8.0761719 L 3.7324219 8.0761719 L 3.7324219 11.074219 L 3.1210938 11.074219 L 3.1210938 4.8359375 z M 9.2519531 6.4199219 L 9.8378906 6.4199219 L 9.8378906 8.8417969 C 9.8378906 9.1717969 9.8621563 9.4497344 9.9101562 9.6777344 C 9.9581563 9.9057346 10.036531 10.092328 10.144531 10.236328 C 10.252531 10.374328 10.390594 10.476969 10.558594 10.542969 C 10.732594 10.602969 10.9415 10.632813 11.1875 10.632812 C 11.4635 10.632812 11.704203 10.617891 11.908203 10.587891 C 12.112203 10.557891 12.240922 10.529859 12.294922 10.505859 L 12.294922 6.4199219 L 12.878906 6.4199219 L 12.878906 10.912109 C 12.704906 10.960109 12.471734 11.014219 12.177734 11.074219 C 11.883734 11.134219 11.523656 11.164062 11.097656 11.164062 C 10.749656 11.164062 10.458609 11.111766 10.224609 11.009766 C 9.9906096 10.907766 9.8022031 10.764125 9.6582031 10.578125 C 9.5142031 10.392125 9.40975 10.168297 9.34375 9.9042969 C 9.28375 9.6402969 9.2519531 9.34925 9.2519531 9.03125 L 9.2519531 6.4199219 z "
+     id="path4" />
+</svg>

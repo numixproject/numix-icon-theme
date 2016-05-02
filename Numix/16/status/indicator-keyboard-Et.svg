@@ -1,11 +1,52 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
- <defs>
-  <mask id="m">
-   <rect height="22" width="22" style="fill:#fff"/>
-   <text y="15.5" x="11" style="font-size:12;font-family:Ubuntu;fill:#000;font-weight:500;text-anchor:middle">Et</text>
-  </mask>
- </defs>
-
-     ry="2.7586207" /&gt;
-
-   <rect rx="2.759" height="20" width="20" y="1" x="1" transform="matrix(0.725,0,0,0.725,0.025,-0.3375)" style="fill:#ececec;mask:url(#m);fill-opacity:1"/></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 16 16"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="indicator-keyboard-Et.svg">
+  <metadata
+     id="metadata13">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs11" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview9"
+     showgrid="false"
+     inkscape:zoom="14.75"
+     inkscape:cx="8"
+     inkscape:cy="8"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" />
+  <path
+     style="fill:#ececec;fill-opacity:1"
+     d="M 1.5996094 0 C 0.71320937 2.9605947e-16 0 0.71320937 0 1.5996094 L 0 14.400391 C 2.9605947e-16 15.286791 0.71320937 16 1.5996094 16 L 14.400391 16 C 15.286791 16 16 15.286791 16 14.400391 L 16 1.5996094 C 16 0.71320937 15.286791 0 14.400391 0 L 1.5996094 0 z M 4.2207031 4.8320312 L 7.8222656 4.8320312 L 7.8222656 5.3632812 L 4.8339844 5.3632812 L 4.8339844 7.53125 L 7.4980469 7.53125 L 7.4980469 8.0546875 L 4.8339844 8.0546875 L 4.8339844 10.537109 L 8.0546875 10.537109 L 8.0546875 11.068359 L 4.2207031 11.068359 L 4.2207031 4.8320312 z M 9.7265625 4.9394531 L 9.7265625 6.4160156 L 11.580078 6.4160156 L 11.580078 6.9101562 L 9.7265625 6.9101562 L 9.7265625 9.3867188 C 9.7265625 9.6507187 9.7470625 9.8652033 9.7890625 10.033203 C 9.8370625 10.195203 9.9042812 10.322109 9.9882812 10.412109 C 10.072282 10.502109 10.172969 10.561797 10.292969 10.591797 C 10.412969 10.621797 10.545453 10.636719 10.689453 10.636719 C 10.935453 10.636719 11.133203 10.610641 11.283203 10.556641 C 11.433203 10.496641 11.550766 10.442531 11.634766 10.394531 L 11.779297 10.880859 C 11.695297 10.934859 11.547891 10.996359 11.337891 11.068359 C 11.127891 11.134359 10.900297 11.167969 10.654297 11.167969 C 10.366297 11.167969 10.121828 11.132547 9.9238281 11.060547 C 9.7318281 10.982547 9.5770313 10.86875 9.4570312 10.71875 C 9.3430312 10.56275 9.2608906 10.370578 9.2128906 10.142578 C 9.1648906 9.9145783 9.140625 9.6440313 9.140625 9.3320312 L 9.140625 5.0488281 L 9.7265625 4.9394531 z "
+     id="path4" />
+</svg>

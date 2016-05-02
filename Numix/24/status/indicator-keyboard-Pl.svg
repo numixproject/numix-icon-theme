@@ -1,11 +1,53 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
- <defs>
-  <mask id="m">
-   <rect height="22" width="22" style="fill:#fff"/>
-   <text y="15.5" x="11" style="font-size:12;font-family:Ubuntu;fill:#000;font-weight:500;text-anchor:middle">Pl</text>
-  </mask>
- </defs>
-
-     ry="2" /&gt;
-
-   <rect rx="2" height="20" width="20" y="1" x="1" transform="translate(1,1)" style="fill:#ececec;mask:url(#m);fill-opacity:1"/></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 24 24"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="indicator-keyboard-Pl.svg">
+  <metadata
+     id="metadata10">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview6"
+     showgrid="false"
+     inkscape:zoom="9.8333333"
+     inkscape:cx="12"
+     inkscape:cy="12"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" />
+  <path
+     d="M 4,2 C 2.892,2 2,2.892 2,4 l 0,16 c 0,1.108 0.892,2 2,2 l 16,0 c 1.108,0 2,-0.892 2,-2 L 22,4 C 22,2.892 21.108,2 20,2 L 4,2 Z m 11.238,5.584 0,7.312 c 0,0.18 0.015,0.327 0.045,0.439 0.037,0.105 0.091,0.19 0.158,0.258 0.067,0.06 0.153,0.105 0.258,0.135 0.113,0.03 0.245,0.058 0.395,0.08 l -0.102,0.607 c -0.248,-0.008 -0.465,-0.042 -0.652,-0.102 -0.18,-0.053 -0.333,-0.136 -0.461,-0.248 -0.12,-0.12 -0.214,-0.269 -0.281,-0.449 -0.06,-0.188 -0.09,-0.42 -0.09,-0.697 l 0,-7.201 0.73,-0.135 z M 9.875,8.451 c 1.102,0 1.923,0.209 2.463,0.629 0.54,0.42 0.811,1.017 0.811,1.789 0,0.443 -0.079,0.822 -0.236,1.137 -0.157,0.308 -0.381,0.559 -0.674,0.754 -0.293,0.188 -0.653,0.326 -1.08,0.416 -0.42,0.082 -0.897,0.123 -1.43,0.123 l -1.057,0 0,3.02 -0.766,0 0,-7.65 C 8.176,8.594 8.491,8.543 8.851,8.513 9.218,8.476 9.559,8.456 9.874,8.456 Z M 9.908,9.115 C 9.623,9.115 9.38,9.126 9.178,9.148 8.983,9.163 8.815,9.178 8.672,9.193 l 0,3.441 0.967,0 c 0.412,0 0.783,-0.021 1.113,-0.066 0.337,-0.052 0.623,-0.142 0.855,-0.27 0.24,-0.135 0.423,-0.32 0.551,-0.553 0.127,-0.232 0.191,-0.529 0.191,-0.889 0,-0.345 -0.07,-0.629 -0.213,-0.854 C 12.001,9.777 11.816,9.6 11.583,9.473 11.358,9.338 11.1,9.244 10.808,9.192 10.515,9.139 10.215,9.114 9.908,9.114 Z"
+     style="fill:#ececec;fill-opacity:1"
+     id="path4"
+     inkscape:connector-curvature="0" />
+</svg>

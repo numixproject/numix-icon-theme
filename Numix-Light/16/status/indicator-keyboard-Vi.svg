@@ -1,12 +1,52 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
- <defs>
-  <mask id="m">
-   <rect height="22" width="22" style="fill:#fff"/>
-   <text y="15.5" x="11" style="font-size:12;font-family:Ubuntu;fill:#000;font-weight:500;text-anchor:middle">Vi</text>
-  </mask>
- </defs>
-
-
-     ry="2.7586207" /&gt;
-
-   <path transform="matrix(0.725,0,0,0.725,0.025,-0.3375)" d="m 3.759 1 14.483 0 c 1.528 0 2.759 1.23 2.759 2.759 l 0 14.483 c 0 1.528 -1.23 2.759 -2.759 2.759 l -14.483 0 c -1.528 0 -2.759 -1.23 -2.759 -2.759 l 0 -14.483 c 0 -1.528 1.23 -2.759 2.759 -2.759" style="fill:#353535;mask:url(#m);fill-opacity:1"/></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 16 16"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="indicator-keyboard-Vi.svg">
+  <metadata
+     id="metadata13">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs11" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview9"
+     showgrid="false"
+     inkscape:zoom="14.75"
+     inkscape:cx="8"
+     inkscape:cy="8"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" />
+  <path
+     style="fill:#353535;fill-opacity:1"
+     d="M 1.5996094 0 C 0.71320937 2.9605947e-16 0 0.71320937 0 1.5996094 L 0 14.400391 C 2.9605947e-16 15.286791 0.71320937 16 1.5996094 16 L 14.400391 16 C 15.286791 16 16 15.286791 16 14.400391 L 16 1.5996094 C 16 0.71320937 15.286791 0 14.400391 0 L 1.5996094 0 z M 11.074219 4.7460938 C 11.194219 4.7460938 11.294906 4.7890469 11.378906 4.8730469 C 11.462906 4.9510469 11.505859 5.0592656 11.505859 5.1972656 C 11.505859 5.3352656 11.462906 5.4452969 11.378906 5.5292969 C 11.294906 5.6072969 11.194219 5.6464844 11.074219 5.6464844 C 10.954219 5.6464844 10.851578 5.6072969 10.767578 5.5292969 C 10.683578 5.4452969 10.642578 5.3352656 10.642578 5.1972656 C 10.642578 5.0592656 10.683578 4.9510469 10.767578 4.8730469 C 10.851578 4.7890469 10.954219 4.7460938 11.074219 4.7460938 z M 4.4941406 5.015625 L 5.1777344 5.015625 C 5.3577344 5.549625 5.5331719 6.0571094 5.7011719 6.5371094 C 5.8691719 7.0111094 6.0333125 7.4738281 6.1953125 7.9238281 C 6.3573125 8.3678281 6.5214531 8.8062812 6.6894531 9.2382812 C 6.8574531 9.6642813 7.0384687 10.095203 7.2304688 10.533203 C 7.4164688 10.101203 7.5937187 9.6720938 7.7617188 9.2460938 C 7.9357187 8.8140938 8.103625 8.3756406 8.265625 7.9316406 C 8.433625 7.4816406 8.5977656 7.0171094 8.7597656 6.5371094 C 8.9277656 6.0571094 9.1032031 5.549625 9.2832031 5.015625 L 9.9296875 5.015625 C 9.6536875 5.801625 9.4055938 6.4919375 9.1835938 7.0859375 C 8.9675937 7.6799375 8.7642656 8.2172656 8.5722656 8.6972656 C 8.3862656 9.1772656 8.20525 9.6212969 8.03125 10.029297 C 7.86325 10.431297 7.686 10.839906 7.5 11.253906 L 6.9335938 11.253906 C 6.7475937 10.839906 6.5665781 10.431297 6.3925781 10.029297 C 6.2185781 9.6212969 6.03575 9.1772656 5.84375 8.6972656 C 5.65775 8.2172656 5.4544219 7.6799375 5.2324219 7.0859375 C 5.0164219 6.4919375 4.7701406 5.801625 4.4941406 5.015625 z M 10.785156 6.5996094 L 11.371094 6.5996094 L 11.371094 11.253906 L 10.785156 11.253906 L 10.785156 6.5996094 z "
+     id="path4" />
+</svg>

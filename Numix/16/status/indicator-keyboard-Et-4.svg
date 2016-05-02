@@ -1,17 +1,52 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
- <defs>
-  <mask id="m">
-   <rect height="22" width="22" style="fill:#fff"/>
-   <text y="15.5" x="13" style="font-size:12;font-family:Ubuntu;fill:#000;font-weight:500;text-anchor:middle"><tspan>
-
-            Et
-
-            <tspan dy="3" dx="-3.2" style="font-size:8">4</tspan>
-    </tspan>
-   </text>
-  </mask>
- </defs>
-
-     ry="2.7586207" /&gt;
-
-   <rect rx="2.759" height="20" width="20" y="1" x="1" transform="matrix(0.725,0,0,0.725,0.025,-0.3375)" style="fill:#ececec;mask:url(#m);fill-opacity:1"/></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 16 16"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="indicator-keyboard-Et-4.svg">
+  <metadata
+     id="metadata14">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs12" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview10"
+     showgrid="false"
+     inkscape:zoom="14.75"
+     inkscape:cx="8"
+     inkscape:cy="8"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" />
+  <path
+     style="fill:#ececec;fill-opacity:1"
+     d="M 1.5996094 0 C 0.71320937 2.9605947e-16 0 0.71320937 0 1.5996094 L 0 14.400391 C 2.9605947e-16 15.286791 0.71320937 16 1.5996094 16 L 14.400391 16 C 15.286791 16 16 15.286791 16 14.400391 L 16 1.5996094 C 16 0.71320937 15.286791 0 14.400391 0 L 1.5996094 0 z M 2.6660156 4.859375 L 6.265625 4.859375 L 6.265625 5.390625 L 3.2773438 5.390625 L 3.2773438 7.5585938 L 5.9414062 7.5585938 L 5.9414062 8.0800781 L 3.2773438 8.0800781 L 3.2773438 10.564453 L 6.5 10.564453 L 6.5 11.095703 L 2.6660156 11.095703 L 2.6660156 4.859375 z M 8.1699219 4.9667969 L 8.1699219 6.4433594 L 10.023438 6.4433594 L 10.023438 6.9375 L 8.1699219 6.9375 L 8.1699219 9.4121094 C 8.1699219 9.6761094 8.192375 9.8925467 8.234375 10.060547 C 8.282375 10.222547 8.3476406 10.349453 8.4316406 10.439453 C 8.5156406 10.529453 8.6182813 10.589141 8.7382812 10.619141 C 8.8582812 10.649141 8.9888125 10.664063 9.1328125 10.664062 C 9.3788125 10.664062 9.5765625 10.636031 9.7265625 10.582031 C 9.8765625 10.522031 9.9941252 10.469875 10.078125 10.421875 L 10.222656 10.90625 C 10.138656 10.96025 9.9912498 11.023703 9.78125 11.095703 C 9.57125 11.161703 9.3436563 11.195312 9.0976562 11.195312 C 8.8096562 11.195312 8.5671406 11.159891 8.3691406 11.087891 C 8.1771406 11.009891 8.0203906 10.894141 7.9003906 10.744141 C 7.7863906 10.588141 7.7062031 10.397922 7.6582031 10.169922 C 7.6102031 9.9419217 7.5859375 9.671375 7.5859375 9.359375 L 7.5859375 5.0742188 L 8.1699219 4.9667969 z M 12.433594 8.8417969 L 12.832031 8.8417969 L 12.832031 11.486328 L 13.333984 11.486328 L 13.333984 11.796875 L 12.832031 11.796875 L 12.832031 12.896484 L 12.457031 12.896484 L 12.457031 11.796875 L 10.621094 11.796875 L 10.621094 11.5625 C 10.691294 11.3753 10.787309 11.163688 10.912109 10.929688 C 11.040809 10.695687 11.185803 10.456638 11.345703 10.210938 C 11.505603 9.9652374 11.679987 9.7261874 11.867188 9.4921875 C 12.054388 9.2542875 12.242494 9.0367969 12.433594 8.8417969 z M 12.457031 9.2695312 C 12.320531 9.4099313 12.181416 9.5706063 12.041016 9.7539062 C 11.900616 9.9372063 11.767372 10.129225 11.638672 10.328125 C 11.513872 10.523125 11.396309 10.719069 11.287109 10.917969 C 11.177909 11.116869 11.085819 11.306928 11.011719 11.486328 L 12.457031 11.486328 L 12.457031 9.2695312 z "
+     id="path4" />
+</svg>

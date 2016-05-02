@@ -1,11 +1,52 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
- <defs>
-  <mask id="m">
-   <rect height="22" width="22" style="fill:#fff"/>
-   <text y="15.5" x="11" style="font-size:12;font-family:Ubuntu;fill:#000;font-weight:500;text-anchor:middle">Ur</text>
-  </mask>
- </defs>
-
-     ry="2.7586207" /&gt;
-
-   <rect rx="2.759" height="20" width="20" y="1" x="1" transform="matrix(0.725,0,0,0.725,0.025,-0.3375)" style="fill:#ececec;mask:url(#m);fill-opacity:1"/></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 16 16"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="indicator-keyboard-Ur.svg">
+  <metadata
+     id="metadata13">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs11" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview9"
+     showgrid="false"
+     inkscape:zoom="14.75"
+     inkscape:cx="8"
+     inkscape:cy="8"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" />
+  <path
+     style="fill:#ececec;fill-opacity:1"
+     d="M 1.5996094 0 C 0.71320937 2.9605947e-16 0 0.71320937 0 1.5996094 L 0 14.400391 C 2.9605947e-16 15.286791 0.71320937 16 1.5996094 16 L 14.400391 16 C 15.286791 16 16 15.286791 16 14.400391 L 16 1.5996094 C 16 0.71320937 15.286791 0 14.400391 0 L 1.5996094 0 z M 3.703125 4.8144531 L 4.3164062 4.8144531 L 4.3164062 8.65625 C 4.3164062 8.99825 4.3555938 9.2968281 4.4335938 9.5488281 C 4.5175938 9.7948281 4.6313906 9.998156 4.7753906 10.160156 C 4.9193906 10.322156 5.092875 10.441531 5.296875 10.519531 C 5.500875 10.597531 5.7284688 10.636719 5.9804688 10.636719 C 6.2324687 10.636719 6.4600625 10.597531 6.6640625 10.519531 C 6.8680625 10.441531 7.0435 10.322156 7.1875 10.160156 C 7.3315 9.998156 7.4415312 9.7948281 7.5195312 9.5488281 C 7.6035312 9.2968281 7.6464844 8.99825 7.6464844 8.65625 L 7.6464844 4.8144531 L 8.2578125 4.8144531 L 8.2578125 8.7382812 C 8.2578125 9.0802812 8.2168125 9.4011719 8.1328125 9.7011719 C 8.0548125 9.9951721 7.9241406 10.252609 7.7441406 10.474609 C 7.5641406 10.696609 7.3272031 10.870094 7.0332031 10.996094 C 6.7452031 11.122094 6.3944687 11.185547 5.9804688 11.185547 C 5.5664687 11.185547 5.2119688 11.122094 4.9179688 10.996094 C 4.6299687 10.870094 4.3967969 10.696609 4.2167969 10.474609 C 4.0367969 10.252609 3.9043125 9.9951721 3.8203125 9.7011719 C 3.7423125 9.4011719 3.703125 9.0802812 3.703125 8.7382812 L 3.703125 4.8144531 z M 11.396484 6.3085938 C 11.588484 6.3085938 11.767547 6.3235156 11.935547 6.3535156 C 12.109547 6.3835156 12.230875 6.4133594 12.296875 6.4433594 L 12.179688 6.9472656 C 12.131688 6.9232656 12.032812 6.899 11.882812 6.875 C 11.738812 6.845 11.546641 6.8300781 11.306641 6.8300781 C 11.054641 6.8300781 10.849359 6.8487656 10.693359 6.8847656 C 10.543359 6.9207656 10.444484 6.9506094 10.396484 6.9746094 L 10.396484 11.050781 L 9.8125 11.050781 L 9.8125 6.6132812 C 9.9625003 6.5472812 10.169594 6.4820156 10.433594 6.4160156 C 10.697594 6.3440156 11.018484 6.3085938 11.396484 6.3085938 z "
+     id="path4" />
+</svg>

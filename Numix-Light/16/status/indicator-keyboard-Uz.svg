@@ -1,12 +1,52 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
- <defs>
-  <mask id="m">
-   <rect height="22" width="22" style="fill:#fff"/>
-   <text y="15.5" x="11" style="font-size:12;font-family:Ubuntu;fill:#000;font-weight:500;text-anchor:middle">Uz</text>
-  </mask>
- </defs>
-
-
-     ry="2.7586207" /&gt;
-
-   <path transform="matrix(0.725,0,0,0.725,0.025,-0.3375)" d="m 3.759 1 14.483 0 c 1.528 0 2.759 1.23 2.759 2.759 l 0 14.483 c 0 1.528 -1.23 2.759 -2.759 2.759 l -14.483 0 c -1.528 0 -2.759 -1.23 -2.759 -2.759 l 0 -14.483 c 0 -1.528 1.23 -2.759 2.759 -2.759" style="fill:#353535;mask:url(#m);fill-opacity:1"/></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 16 16"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="indicator-keyboard-Uz.svg">
+  <metadata
+     id="metadata13">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs11" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview9"
+     showgrid="false"
+     inkscape:zoom="14.75"
+     inkscape:cx="8"
+     inkscape:cy="8"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" />
+  <path
+     style="fill:#353535;fill-opacity:1"
+     d="M 1.5996094 0 C 0.71320937 2.9605947e-16 0 0.71320937 0 1.5996094 L 0 14.400391 C 2.9605947e-16 15.286791 0.71320937 16 1.5996094 16 L 14.400391 16 C 15.286791 16 16 15.286791 16 14.400391 L 16 1.5996094 C 16 0.71320937 15.286791 0 14.400391 0 L 1.5996094 0 z M 3.4960938 4.8144531 L 4.1074219 4.8144531 L 4.1074219 8.65625 C 4.1074219 8.99825 4.1466094 9.2968281 4.2246094 9.5488281 C 4.3086094 9.7948281 4.4224063 9.998156 4.5664062 10.160156 C 4.7104063 10.322156 4.8858437 10.441531 5.0898438 10.519531 C 5.2938437 10.597531 5.5214375 10.636719 5.7734375 10.636719 C 6.0254375 10.636719 6.2530313 10.597531 6.4570312 10.519531 C 6.6610312 10.441531 6.8345156 10.322156 6.9785156 10.160156 C 7.1225156 9.998156 7.2345 9.7948281 7.3125 9.5488281 C 7.3965 9.2968281 7.4375 8.99825 7.4375 8.65625 L 7.4375 4.8144531 L 8.0507812 4.8144531 L 8.0507812 8.7382812 C 8.0507812 9.0802812 8.0078281 9.4011719 7.9238281 9.7011719 C 7.8458281 9.9951721 7.7171094 10.252609 7.5371094 10.474609 C 7.3571094 10.696609 7.1201719 10.870094 6.8261719 10.996094 C 6.5381719 11.122094 6.1874375 11.185547 5.7734375 11.185547 C 5.3594375 11.185547 5.0049375 11.122094 4.7109375 10.996094 C 4.4229375 10.870094 4.1897656 10.696609 4.0097656 10.474609 C 3.8297656 10.252609 3.6972812 9.9951721 3.6132812 9.7011719 C 3.5352813 9.4011719 3.4960938 9.0802812 3.4960938 8.7382812 L 3.4960938 4.8144531 z M 9.2363281 6.3984375 L 12.423828 6.3984375 L 12.423828 6.875 C 12.285828 7.031 12.104813 7.2474375 11.882812 7.5234375 C 11.660813 7.7994375 11.423875 8.1072188 11.171875 8.4492188 C 10.919875 8.7852187 10.671781 9.1397188 10.425781 9.5117188 C 10.179781 9.877719 9.9633435 10.226641 9.7773438 10.556641 L 12.503906 10.556641 L 12.503906 11.050781 L 9.1015625 11.050781 L 9.1015625 10.628906 C 9.2575625 10.334906 9.4497344 10.01025 9.6777344 9.65625 C 9.9117342 9.30225 10.152438 8.9533281 10.398438 8.6113281 C 10.644437 8.2633281 10.883188 7.940625 11.117188 7.640625 C 11.351187 7.334625 11.550891 7.0845781 11.712891 6.8925781 L 9.2363281 6.8925781 L 9.2363281 6.3984375 z "
+     id="path4" />
+</svg>

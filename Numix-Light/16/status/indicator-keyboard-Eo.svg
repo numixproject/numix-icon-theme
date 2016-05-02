@@ -1,12 +1,52 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
- <defs>
-  <mask id="m">
-   <rect height="22" width="22" style="fill:#fff"/>
-   <text y="15.5" x="11" style="font-size:12;font-family:Ubuntu;fill:#000;font-weight:500;text-anchor:middle">Eo</text>
-  </mask>
- </defs>
-
-
-     ry="2.7586207" /&gt;
-
-   <path transform="matrix(0.725,0,0,0.725,0.025,-0.3375)" d="m 3.759 1 14.483 0 c 1.528 0 2.759 1.23 2.759 2.759 l 0 14.483 c 0 1.528 -1.23 2.759 -2.759 2.759 l -14.483 0 c -1.528 0 -2.759 -1.23 -2.759 -2.759 l 0 -14.483 c 0 -1.528 1.23 -2.759 2.759 -2.759" style="fill:#353535;mask:url(#m);fill-opacity:1"/></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 16 16"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="indicator-keyboard-Eo.svg">
+  <metadata
+     id="metadata13">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs11" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview9"
+     showgrid="false"
+     inkscape:zoom="14.75"
+     inkscape:cx="8"
+     inkscape:cy="8"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" />
+  <path
+     style="fill:#353535;fill-opacity:1"
+     d="M 1.5996094 0 C 0.71320937 2.9605947e-16 0 0.71320937 0 1.5996094 L 0 14.400391 C 2.9605947e-16 15.286791 0.71320937 16 1.5996094 16 L 14.400391 16 C 15.286791 16 16 15.286791 16 14.400391 L 16 1.5996094 C 16 0.71320937 15.286791 0 14.400391 0 L 1.5996094 0 z M 3.5820312 4.828125 L 7.1816406 4.828125 L 7.1816406 5.359375 L 4.1933594 5.359375 L 4.1933594 7.5273438 L 6.8574219 7.5273438 L 6.8574219 8.0488281 L 4.1933594 8.0488281 L 4.1933594 10.533203 L 7.4160156 10.533203 L 7.4160156 11.064453 L 3.5820312 11.064453 L 3.5820312 4.828125 z M 10.294922 6.3027344 C 10.606922 6.3027344 10.892391 6.364375 11.150391 6.484375 C 11.408391 6.598375 11.630406 6.7625156 11.816406 6.9785156 C 12.008406 7.1885156 12.153859 7.4441406 12.255859 7.7441406 C 12.363859 8.0441406 12.417969 8.3761875 12.417969 8.7421875 C 12.417969 9.1081875 12.363859 9.4421875 12.255859 9.7421875 C 12.153859 10.042188 12.008406 10.295859 11.816406 10.505859 C 11.630406 10.715859 11.408391 10.881953 11.150391 11.001953 C 10.892391 11.115953 10.606922 11.171875 10.294922 11.171875 C 9.982922 11.171875 9.6974531 11.115953 9.4394531 11.001953 C 9.1814531 10.881953 8.9556719 10.715859 8.7636719 10.505859 C 8.5776719 10.295859 8.4322188 10.042188 8.3242188 9.7421875 C 8.2222187 9.4421875 8.1699219 9.1081875 8.1699219 8.7421875 C 8.1699219 8.3761875 8.2222187 8.0441406 8.3242188 7.7441406 C 8.4322188 7.4441406 8.5776719 7.1885156 8.7636719 6.9785156 C 8.9556719 6.7625156 9.1814531 6.598375 9.4394531 6.484375 C 9.6974531 6.364375 9.982922 6.3027344 10.294922 6.3027344 z M 10.294922 6.8339844 C 9.832922 6.8339844 9.4672656 7.0094219 9.1972656 7.3574219 C 8.9272656 7.6994219 8.7910156 8.1601875 8.7910156 8.7421875 C 8.7910156 9.3241875 8.9272656 9.7869062 9.1972656 10.128906 C 9.4672656 10.470906 9.832922 10.640625 10.294922 10.640625 C 10.756922 10.640625 11.122578 10.470906 11.392578 10.128906 C 11.662578 9.7869062 11.796875 9.3241875 11.796875 8.7421875 C 11.796875 8.1601875 11.662578 7.6994219 11.392578 7.3574219 C 11.122578 7.0094219 10.756922 6.8339844 10.294922 6.8339844 z "
+     id="path4" />
+</svg>
