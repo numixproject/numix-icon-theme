@@ -1,4 +1,58 @@
-<svg width="48" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" height="48">
-<path style="stroke-opacity:.941;fill:#53a93f;stroke:#2d5c22;stroke-width:.792" d="m 43.604269,24.000062 a 19.604206,19.604156 0 0 1 -39.2084117,0 19.604206,19.604156 0 1 1 39.2084117,0 z"/>
-<path style="fill:#fff" d="M 34.146146,13 20.620973,25.798705 13.853726,19.399367 8.9999751,23.995582 20.611642,35 20.621042,34.9911 20.630442,35 39.000025,17.596214 34.146281,13 z"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48"
+   viewBox="0 0 48 48"
+   height="48"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="emblem-insync-des-error.svg">
+  <metadata
+     id="metadata12">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs10" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="722"
+     inkscape:window-height="480"
+     id="namedview8"
+     showgrid="false"
+     inkscape:zoom="4.9166667"
+     inkscape:cx="24"
+     inkscape:cy="24"
+     inkscape:window-x="10"
+     inkscape:window-y="34"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" />
+  <path
+     style="stroke-opacity:0.94117647;fill:#f8c429;stroke:#777777;stroke-width:0.792;fill-opacity:1"
+     d="m 43.604269,24.000062 a 19.604206,19.604156 0 0 1 -39.2084117,0 19.604206,19.604156 0 1 1 39.2084117,0 z"
+     id="path4" />
+  <path
+     style="fill:#fff"
+     d="M 34.146146,13 20.620973,25.798705 13.853726,19.399367 8.9999751,23.995582 20.611642,35 20.621042,34.9911 20.630442,35 39.000025,17.596214 34.146281,13 z"
+     id="path6" />
 </svg>
