@@ -1,8 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
-<g style="fill:#dc322f;fill-rule:evenodd" transform="translate(0 -8)">
-<rect width="9" x="2" y="10" height="9"/>
-<rect width="9" x="13" y="10" height="9"/>
-<rect width="9" x="2" y="21" height="9"/>
-<rect width="9" x="13" y="21" height="9"/>
-</g>
+ <path d="m 2 8 0 -6 6 0 3 3 0 6 -6 0 z m 3 0 3 0 0 -3 -3 0" style="fill:#dc322f;fill-opacity:1;stroke:none"/>
+ <path d="m 2 16 0 6 6 0 3 -3 0 -6 -6 0 z m 3 0 3 0 0 3 -3 0 z" style="fill:#dc322f;fill-opacity:1;stroke:none"/>
+ <path d="m 22 8 0 -6 -6 0 -3 3 0 6 6 0 z m -3 0 -3 0 0 -3 3 0 z" style="fill:#dc322f;fill-opacity:1;stroke:none"/>
+ <path d="m 22 16 0 6 -6 0 -3 -3 0 -6 6 0 z m -3 0 -3 0 0 3 3 0 z" style="fill:#dc322f;fill-opacity:1;stroke:none"/>
 </svg>
