@@ -1,3 +1,4 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 22">
- <path d="M 11,3 C 7,3 4.601371,4.1455684 2,6.125 L 11,19 20,6.125 C 17.398628,4.1455684 15,3 11,3 z m 0,1 c 3.484375,0 5.20966,0.6034781 7.625,2.4375 L 11,17.3125 3.375,6.4375 C 5.79034,4.6034781 7.515625,4 11,4 z" style="fill:#353535;fill-opacity:1;color:#000"/>
+ <path style="fill:#353535;opacity:0.4;fill-opacity:1;fill-rule:evenodd" d="m 20,15 -5,5 -5,-5 h 3 V 8 h 4 v 7 h 3 z"/>
+ <path style="fill:#353535;opacity:0.4;fill-opacity:1;fill-rule:evenodd" d="M 12,8 7,3 2,8 h 3 v 7 H 9 V 8 h 3 z"/>
 </svg>
