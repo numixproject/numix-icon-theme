@@ -23,7 +23,7 @@ sudo dnf install numix-icon-theme
 For Arch users there's a [community maintained package](https://aur.archlinux.org/packages/numix-icon-theme-git/) in the AUR which builds from this GitHub.
 
 ### Icon Requests
-Application icon requests should be posted in the [Numix Core](https://github.com/numixproject/numix-icon-core) issue tracker. Folder icons requests should be posted in the [Numix Folders](https://github.com/numixproject/numix-folders/issues) issue tracker. Action icons, indicators, file types and everything else should be posted here.
+Application icon requests should be posted in the [Numix Core](https://github.com/numixproject/numix-core) issue tracker. Folder icons requests should be posted in the [Numix Folders](https://github.com/numixproject/numix-folders/issues) issue tracker. Action icons, indicators, file types and everything else should be posted here.
 
 ### Hardcoded Icons
 To deal with hardcoded status icons Numix recommends you use the [Hardcode Tray](https://github.com/bil-elmoussaoui/Hardcode-Tray) script.
