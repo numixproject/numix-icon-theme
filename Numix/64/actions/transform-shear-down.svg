@@ -1,105 +1,11 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   viewBox="0 0 64 64"
-   id="svg2"
-   version="1.1"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="transform-shear-down.svg"
-   width="64"
-   height="64">
-  <metadata
-     id="metadata22">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <defs
-     id="defs20">
-    <inkscape:path-effect
-       effect="spiro"
-       id="path-effect4145"
-       is_visible="true" />
-    <inkscape:path-effect
-       is_visible="true"
-       id="path-effect4157"
-       effect="spiro" />
-  </defs>
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1056"
-     id="namedview18"
-     showgrid="true"
-     inkscape:zoom="5.6568543"
-     inkscape:cx="16.378282"
-     inkscape:cy="12.942633"
-     inkscape:window-x="0"
-     inkscape:window-y="24"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg2">
-    <inkscape:grid
-       type="xygrid"
-       id="grid4167" />
-  </sodipodi:namedview>
-  <g
-     id="g4140">
-    <path
-       sodipodi:nodetypes="cc"
-       inkscape:connector-curvature="0"
-       inkscape:original-d="m 8.5,23 0,30"
-       inkscape:path-effect="#path-effect4157"
-       id="path4155"
-       d="m 8.5,23 0,30"
-       style="fill:none;fill-rule:evenodd;stroke:#6c71c4;stroke-width:3px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-    <path
-       sodipodi:nodetypes="cccc"
-       inkscape:connector-curvature="0"
-       id="path4159"
-       d="M 15,50 8.4983036,56.5 2,50 Z"
-       style="fill:#6c71c4;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-  </g>
-  <g
-     id="g4144"
-     transform="translate(0,1)">
-    <path
-       style="fill:#6c71c4;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 62,13 55.498305,6.5 49,13 Z"
-       id="path4141"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccc" />
-    <path
-       style="fill:none;fill-rule:evenodd;stroke:#6c71c4;stroke-width:3px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 55.5,40 0,-30"
-       id="path4179"
-       inkscape:path-effect="#path-effect4145"
-       inkscape:original-d="m 55.5,40 0,-30"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
-  </g>
-  <path
-     style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#888888;stroke-width:3px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     d="m 18.5,20.827106 0,35.753261 27,-13.407473 0,-35.7532611 z"
-     id="path4183"
-     inkscape:connector-curvature="0"
-     sodipodi:nodetypes="ccccc" />
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+ <g>
+  <path style="stroke-opacity:1;fill:none;stroke:#6c71c4;stroke-linecap:butt;stroke-linejoin:miter;stroke-width:3" d="m 8.5 23 0 30"/>
+  <path style="fill:#6c71c4;fill-opacity:1;stroke:none;fill-rule:evenodd" d="M 15,50 8.4983036,56.5 2,50 Z"/>
+ </g>
+ <g transform="matrix(1 0 0 1 0 1)">
+  <path style="fill:#6c71c4;fill-opacity:1;stroke:none;fill-rule:evenodd" d="M 62,13 55.498305,6.5 49,13 Z"/>
+  <path style="stroke-opacity:1;fill:none;stroke:#6c71c4;stroke-linecap:butt;stroke-linejoin:miter;stroke-width:3" d="m 55.5 40 0 -30"/>
+ </g>
+ <path style="stroke-opacity:1;fill:#fff;fill-opacity:1;stroke:#888;fill-rule:evenodd;stroke-linejoin:miter;stroke-width:3" d="m 18.5 20.827 0 35.753 27 -13.407 0 -35.753 z"/>
 </svg>
