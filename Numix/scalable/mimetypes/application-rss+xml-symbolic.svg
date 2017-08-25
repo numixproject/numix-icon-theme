@@ -1,7 +1,3 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
- <g transform="translate(-561 -301)" style="fill:#bebebe;fill-opacity:1">
-  <path d="m325.06 97.188a2 3.2361 0 1 1 -4 0 2 3.2361 0 1 1 4 0z" transform="matrix(1 0 0 .61803 241.94 252.93)" style="color:#000"/>
- </g>
- <path d="m -7 2 a 7 7 0 0 1 -7 7" transform="matrix(0,-1,1,0,0,0)" style="stroke-dasharray:none;stroke-opacity:1;fill:none;opacity:1;stroke-miterlimit:4;fill-opacity:1;stroke:#bebebe;fill-rule:nonzero;stroke-linecap:butt;stroke-linejoin:miter;stroke-width:2;stroke-dashoffset:0"/>
- <path transform="matrix(0,-1,1,0,0,0)" d="M -3 2 A 11 11 0 0 1 -14 13" style="stroke-dasharray:none;stroke-opacity:1;fill:none;opacity:1;stroke-miterlimit:4;fill-opacity:1;stroke:#bebebe;fill-rule:nonzero;stroke-linecap:butt;stroke-linejoin:miter;stroke-width:2;stroke-dashoffset:0"/>
+<svg version="1.1" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+ <path d="m1 1v2h2a10 10 0 0 1 10 10v2h2v-2a12 12 0 0 0-12-12h-2zm0 5v2h1c3.3137 0 6 2.6863 6 6v1h2v-1c0-4.4183-3.5817-8-8-8h-1zm2 5a2 2 0 0 0-2 2 2 2 0 0 0 2 2 2 2 0 0 0 2-2 2 2 0 0 0-2-2z" style="fill:#bebebe"/>
 </svg>
