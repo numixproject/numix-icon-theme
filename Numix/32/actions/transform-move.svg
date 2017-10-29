@@ -1,7 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
- <path d="m 12 24 8 0 -4 6 z" style="fill:#268bd2;opacity:1;fill-opacity:1;stroke:none"/>
- <circle cx="16" cy="16" r="4" style="fill:#268bd2;opacity:1;fill-opacity:1;stroke:none"/>
- <path d="m 8 12 0 8 -6 -4" style="fill:#268bd2;opacity:1;fill-opacity:1;stroke:none"/>
- <path d="m 24 12 0 8 6 -4 z" style="fill:#268bd2;opacity:1;fill-opacity:1;stroke:none"/>
- <path d="m 20 8 -8 0 4 -6" style="fill:#268bd2;opacity:1;fill-opacity:1;stroke:none"/>
+<svg viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
+ <path style="fill:#6c71c4;opacity:1;fill-opacity:1;stroke:none" d="m 8 20 0 -8 -6 4"/>
+ <circle style="stroke-dasharray:none;stroke-opacity:1;fill:#fff;opacity:1;stroke-miterlimit:23.7;fill-opacity:1;stroke:#888;fill-rule:nonzero;stroke-linecap:square;stroke-linejoin:miter;stroke-width:2;stroke-dashoffset:0" r="3" cy="16" cx="16"/>
+ <path style="fill:#6c71c4;opacity:1;fill-opacity:1;stroke:none" d="m 24 20 0 -8 6 4"/>
+ <path style="fill:#6c71c4;opacity:1;fill-opacity:1;stroke:none" d="m 20 24 -8 0 4 6"/>
+ <path style="fill:#6c71c4;opacity:1;fill-opacity:1;stroke:none" d="m 20 8 -8 0 4 -6"/>
 </svg>
