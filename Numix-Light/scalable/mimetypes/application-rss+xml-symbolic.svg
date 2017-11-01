@@ -1,3 +1,5 @@
-<svg version="1.1" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
- <path d="m1 1v2h2a10 10 0 0 1 10 10v2h2v-2a12 12 0 0 0-12-12zm0 5v2h1c3.3137 0 6 2.6863 6 6v1h2v-1c0-4.4183-3.5817-8-8-8zm2 5a2 2 0 0 0-2 2 2 2 0 0 0 2 2 2 2 0 0 0 2-2 2 2 0 0 0-2-2z" style="fill:#353535"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
+ <path style="visibility:visible;shape-rendering:auto;color-interpolation-filters:linearRGB;fill:#353535;opacity:1;image-rendering:auto;fill-opacity:1;text-rendering:auto;stroke:none;display:inline;color:#000;fill-rule:nonzero;color-rendering:auto;color-interpolation:sRGB" d="m 1 3.07 1.035 0 c 6.03 0 10.895 4.865 10.895 10.895 l 0 1.035 2.07 0 0 -1.035 c 0 -7.148 -5.817 -12.965 -12.965 -12.965 l -1.035 0 0 2.07 z"/>
+ <path style="visibility:visible;shape-rendering:auto;color-interpolation-filters:linearRGB;fill:#353535;opacity:1;image-rendering:auto;fill-opacity:1;text-rendering:auto;stroke:none;display:inline;color:#000;fill-rule:nonzero;color-rendering:auto;color-interpolation:sRGB" d="m 1 8.07 1.035 0 c 3.268 0 5.895 2.627 5.895 5.895 l 0 1.035 2.07 0 0 -1.035 c 0 -4.387 -3.578 -7.965 -7.965 -7.965 l -1.035 0 0 2.07 z"/>
+ <circle r="2" style="fill:#353535;opacity:1;fill-opacity:1;stroke:none;fill-rule:nonzero" cy="13" cx="3"/>
 </svg>
