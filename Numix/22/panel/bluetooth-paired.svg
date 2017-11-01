@@ -1,6 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 22">
- <g transform="matrix(.09 0 0 .09 -2.52 18.2)" style="fill:#ececec;fill-opacity:1">
-  <path d="m 118.5 -180 0 79.72 -43.819 -33.33 l -14.849 11.822 54.51 41.79 -55.35 41.789 l 17.341 13.05 42.16 -33.909 0 79.06 l 78.5 -58.21 -52.02 -41.13 50.36 -40.559 -76.84 -60.1 z m 21.494 38.588 25.648 22.17 -25.648 19.622 0 -41.789 z m -0.831 83.01 27.309 19.54 -25.648 17.652 -1.661 -37.19 z" style="fill-rule:evenodd"/>
- </g>
- <path d="m 15 13 c -1.108 0 -2 0.911 -2 2.031 l 0 0.969 c -0.554 0 -1 0.446 -1 1 l 0 3 c 0 0.554 0.446 1 1 1 l 4 0 c 0.554 0 1 -0.446 1 -1 l 0 -3 c 0 -0.554 -0.446 -1 -1 -1 l 0 -0.969 c 0 -1.12 -0.892 -2.031 -2 -2.031 m 0 1 c 0.554 0 1 0.442 1 1 l 0 1 -2 0 0 -1 c 0 -0.558 0.446 -1 1 -1 z" style="fill:#ececec;fill-opacity:1"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 22">
+ <path style="fill:#ececec;opacity:1;fill-opacity:1;stroke:none;fill-rule:nonzero" d="M 9,2 9,9 5.127,6.234 3.787,7.277 9,11 3.787,14.723 5.127,15.766 9,13 l 0,7 7.699,-5.5 -4.9,-3.5 4.9,-3.5 z M 11,5.428 13.9,7.5 11,9.572 Z m 0,7 2.9,2.072 -2.9,2.072 z"/>
+ <path style="fill:#ececec;fill-opacity:1;stroke:none;fill-rule:evenodd" d="m 18 8 -4 3 4 3 z"/>
+ <path style="fill:#ececec;fill-opacity:1;stroke:none;fill-rule:evenodd" d="m 3 8 4 3 -4 3 z"/>
 </svg>
