@@ -51,7 +51,7 @@ Type=Fixed
 
 [16/panel]
 Size=16
-Context=Panel
+Context=Status
 Type=Fixed
 
 [16/places]
@@ -115,7 +115,7 @@ Type=Fixed
 [16@2x/panel]
 Size=16
 Scale=2
-Context=Panel
+Context=Status
 Type=Fixed
 
 [16@2x/places]
@@ -172,7 +172,7 @@ Type=Fixed
 
 [22/panel]
 Size=22
-Context=Panel
+Context=Status
 Type=Fixed
 
 [22/places]
@@ -236,7 +236,7 @@ Type=Fixed
 [22@2x/panel]
 Size=22
 Scale=2
-Context=Panel
+Context=Status
 Type=Fixed
 
 [22@2x/places]
@@ -293,7 +293,7 @@ Type=Fixed
 
 [24/panel]
 Size=24
-Context=Panel
+Context=Status
 Type=Fixed
 
 [24/places]
@@ -357,7 +357,7 @@ Type=Fixed
 [24@2x/panel]
 Size=24
 Scale=2
-Context=Panel
+Context=Status
 Type=Fixed
 
 [24@2x/places]
@@ -524,7 +524,7 @@ Type=Fixed
 
 [48/notifications]
 Size=48
-Context=Notifications
+Context=Status
 Type=Fixed
 
 [48/places]
@@ -588,7 +588,7 @@ Type=Fixed
 [48@2x/notifications]
 Size=48
 Scale=2
-Context=Notifications
+Context=Status
 Type=Fixed
 
 [48@2x/places]
