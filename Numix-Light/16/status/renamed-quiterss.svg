@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
- <circle cx="3.5" cy="12.5" r="2.5" style="fill:#353535;opacity:1;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
- <path d="M 2 6 A 8 8 0 0 1 10 14" style="stroke-dasharray:none;stroke-opacity:1;fill:none;opacity:1;stroke-miterlimit:4;fill-opacity:1;stroke:#353535;fill-rule:nonzero;stroke-linecap:square;stroke-linejoin:miter;stroke-width:2;stroke-dashoffset:0"/>
- <path d="M 2 2 A 12 12 0 0 1 14 14" style="stroke-dasharray:none;stroke-opacity:1;fill:none;opacity:1;stroke-miterlimit:4;fill-opacity:1;stroke:#353535;fill-rule:nonzero;stroke-linecap:square;stroke-linejoin:miter;stroke-width:2;stroke-dashoffset:0"/>
+ <circle r="2.5" cx="2.5" cy="13.5" style="fill:#353535;opacity:1;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
+ <path style="stroke-dasharray:none;stroke-opacity:1;fill:none;opacity:1;stroke-miterlimit:4;stroke:#353535;stroke-linecap:square;stroke-linejoin:miter;stroke-width:2;stroke-dashoffset:0" d="m 1 6 a 9 9 0 0 1 9 9"/>
+ <path style="stroke-dasharray:none;stroke-opacity:1;fill:none;opacity:1;stroke-miterlimit:4;stroke:#353535;stroke-linecap:square;stroke-linejoin:miter;stroke-width:2;stroke-dashoffset:0" d="M 1 1 A 14 14 0 0 1 15 15"/>
 </svg>
