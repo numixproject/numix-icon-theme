@@ -1,6 +1,6 @@
 
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
+<svg viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
  <text style="font-size:12.666;font-family:Bitstream Vera Sans;fill:#353535;opacity:0.4;fill-opacity:1" y="-20.687" x="877.23"><tspan y="-20.687" x="877.23"/>
  </text>
  <text style="font-size:12.666;font-family:Bitstream Vera Sans;fill:#353535;opacity:0.4;fill-opacity:1" y="-61.43" x="901.19"><tspan y="-61.43" x="901.19"/>
@@ -211,5 +211,5 @@
  </text>
  <text style="font-size:12.666;font-family:Bitstream Vera Sans;fill:#353535;opacity:0.4;fill-opacity:1" y="-1480.95" x="1621.21"><tspan y="-1480.95" x="1621.21"/>
  </text>
- <path d="m 2 3 2 0 0 7 -2 0 z m 4 0 8 0 0 10 -2 0 0 -6 -1 0 0 6 -2 0 0 -6 -1 0 0 6 -2 0 z m -4 8 2 0 0 2 -2 0 z" style="fill:#353535;opacity:0.4;fill-opacity:1"/>
+ <path d="m 1,2 h 2 v 8 H 1 Z M 5,2 H 15 V 14 H 13 V 6 h -2 v 8 H 9 V 6 H 7 v 8 H 5 Z M 1,12 h 2 v 2 H 1 Z" style="fill:#353535;opacity:0.4;fill-opacity:1"/>
 </svg>

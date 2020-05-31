@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" viewBox="0 0 4.5155556 4.5155556" height="16">
- <g transform="matrix(0.72727,0,0,0.72727,8.3020474e-6,4.8911511e-6)">
-  <path d="m 3.112 0.847 c -1.241 0 -2.265 1.01 -2.265 2.25 0 1.241 1.024 2.265 2.265 2.265 1.241 0 2.25 -1.025 2.25 -2.265 0 -1.241 -1.01 -2.25 -2.25 -2.25 z m 0 0.441 c 1 0 1.809 0.807 1.809 1.809 0 1 -0.807 1.824 -1.809 1.824 -1 0 -1.824 -0.823 -1.824 -1.824 0 -1 0.822 -1.809 1.824 -1.809 z" style="fill:#353535;fill-opacity:1;color:#000"/>
-  <path d="m 2.54 1.976 0 2.258 1.693 -1.129 z" style="fill:#353535;fill-opacity:1"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 4.5155556 4.5155556">
+ <g transform="matrix(1.0001 0 0 1.0001 -0.847 -0.847)" style="stroke-width:0.727">
+  <path d="M 2.54,1.976 V 4.234 L 4.233,3.105 Z" style="fill:#353535;fill-opacity:1"/>
  </g>
+ <path transform="matrix(0.28222 0 0 0.28222 0 0)" d="m 8 0 c -4.412 0 -8 3.588 -8 8 c 0 4.412 3.588 8 8 8 c 4.412 0 8 -3.588 8 -8 c 0 -4.412 -3.588 -8 -8 -8 z m 0 1 a 7 7 0 0 1 7 7 a 7 7 0 0 1 -7 7 a 7 7 0 0 1 -7 -7 a 7 7 0 0 1 7 -7 z" style="visibility:visible;shape-rendering:auto;color-interpolation-filters:linearRGB;fill:#353535;opacity:1;image-rendering:auto;fill-opacity:0.941;text-rendering:auto;stroke:none;display:inline;color:#000;fill-rule:nonzero;color-rendering:auto;color-interpolation:sRGB"/>
 </svg>
