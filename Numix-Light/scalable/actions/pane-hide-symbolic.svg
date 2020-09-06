@@ -1,6 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
- <g style="fill:#353535;color:#353535">
-  <path d="m 2,1 0,2 0,10 0,2 9,0 0,-2 L 4,13 4,3 11,3 11,1 4,1 2,1 z"/>
-  <path d="m 9,4 5,4 -5,4 0,-2.96875 -4,0 0,-2 4,0 L 9,4 z"/>
+<svg version="1.1" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+ <g style="color:#353535;fill:#353535">
+  <path d="m2 1v14h9v-2h-7v-10h7v-2h-9zm7 3v3h-4v2h4v3l5-4-5-4z"/>
  </g>
 </svg>
