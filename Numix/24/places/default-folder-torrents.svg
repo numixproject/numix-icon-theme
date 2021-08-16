@@ -1,0 +1,21 @@
+<svg version="1.1" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <radialGradient id="radialGradient3766" cx="11" cy="19" r="11" gradientTransform="matrix(1 0 0 .09090909 0 17.272727)" gradientUnits="userSpaceOnUse">
+   <stop offset="0"/>
+   <stop style="stop-opacity:0" offset="1"/>
+  </radialGradient>
+  <clipPath id="clipPath1078">
+   <rect x="20" y="27" width="24" height="24" style="fill-rule:evenodd;fill:#00f;stroke-width:.952394"/>
+  </clipPath>
+ </defs>
+ <g transform="translate(0,-1028.3622)">
+  <path transform="matrix(1.1818182,0,0,1,-1,1030.3622)" d="m22 19a11 1 0 1 1-22 0 11 1 0 1 1 22 0z" style="fill:url(#radialGradient3766);opacity:.25"/>
+  <path d="m1 1032.36v14h22v-7l-1-6h-8l-1-2h-11c-0.5 0-1 0.5-1 1z" style="fill:#ef6c00"/>
+  <path d="m2 1031.36c-0.5 0-1 0.5-1 1v1c0-0.5 0.5-1 1-1h10l1 2h9v6-1-6h-8l-1-2z" style="opacity:.03"/>
+  <rect x="3" y="1034.36" width="10" height="4" style="fill:#fffdf0"/>
+  <path d="m23 1034.43v14.933h-22v-14h11l1-2h9c0.5 0 1 0.533 1 1.067z" style="fill:#ffa726"/>
+  <path d="m1 1048.36v1h22v-1z" style="opacity:.15"/>
+  <path d="m13 1033.36-1 2h-11v1h12l1-2h8c0.5 0 1 0.5 1 1v-1c0-0.5-0.5-1-1-1z" style="opacity:.03"/>
+  <path transform="matrix(.41666667 0 0 .41666667 -1.3333334 1026.1122)" d="m32 27a12 12 0 0 0-12 12 12 12 0 0 0 12 12h25v-2h-25a10 10 0 0 1-10-10 10 10 0 0 1 10-10zm0 3c-4.970563 0-9 4.029437-9 9s4.029437 9 9 9h25v-2h-25c-3.865993 0-7-3.134007-7-7s3.134007-7 7-7c1.038472 0.0032 2.063232 0.23733 3 0.685547v-2.160156c-0.96289-0.344291-1.977414-0.521964-3-0.525391zm0 3a6 6 0 0 0-6 6 6 6 0 0 0 6 6h25v-2h-25a4 4 0 0 1-4-4 4 4 0 0 1 4-4 4 4 0 0 1 3.458984 2h2.189454a6 6 0 0 0-5.648438-4z" clip-path="url(#clipPath1078)" style="fill:#b17621"/>
+ </g>
+</svg>
