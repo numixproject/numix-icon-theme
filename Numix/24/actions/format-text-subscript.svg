@@ -1,7 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <svg width="24" height="24" version="1.1" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
- <g transform="matrix(.87501 0 0 1 -2.5002 -1)" color="#000000" fill="#268bd2">
-  <path d="m6 3v3h9c0.68505 0 2.067 0.46397 2 1v1h-8c-4 0-5 2-4.9998 4.8-2e-4 2.2 0.9998 4.2 4.7999 4.2h11.2v-9.8c0-2.2881-2.1117-4.2-4.8-4.2zm3 8h8v3h-8c-1 0-2 0-2-1.4397 0-1.5603 1-1.5603 2-1.5603z"/>
-  <path transform="matrix(1.1428 0 0 1 2.8574 1)" d="m18.871 14c-1.4739 0.0094-2.613 0.45092-3.8496 1.4961l0.99609 1.8594c1.7911-1.096 3.6687-1.958 3.7285-0.56445 0.0389 0.99621-3.7289 1.4956-4.7461 3.4277l0.001953 1.7812h7.998v-1.0098h0.007813v-1h-3.5527c2.6024-0.9333 3.1105-2.3087 3.2051-3.1836 0.17711-1.499-1.7846-2.8255-3.7891-2.8066z" color="#000000" enable-background="new" fill="#278bd3" stroke-width="1.9245" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal"/>
+ <g transform="matrix(.99958 0 0 1 -1.9983 4)" style="color:#000000;fill:#268bd2">
+  <path d="m5-1v3h8c0.55656 0 1.9906 0.45303 2 1v1h-7c-3.25 0-4 2-4 4.8 0 2.2 0.9125 4.2 4 4.2h9.0055v-10c0-2.288-1.8215-4-4.0055-4m-5 8h7v3h-7c-0.8125 0-2-0.06-2-1.5 0-1.56 1.1875-1.5 2-1.5z" style="stroke-width:.90139"/>
+  <path transform="matrix(1.0004 0 0 1 1.9992 -4)" d="m18.389 14c-1.2897 0.0094-2.307 0.45477-3.389 1.5l1 1.5c1.5672-1.096 3.7435-1.5977 4 0 0.03404 0.99621-4.1095 1.0679-4.9996 3l2e-3 2h6.998v-2h-4.0004c2.2982-0.93345 3.9171-2.1218 4-3 0.15497-1.499-1.7461-3.0188-3.5-3z" color="#000000" enable-background="new" fill="#278bd3" stroke-width="1.8002" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal"/>
  </g>
 </svg>
