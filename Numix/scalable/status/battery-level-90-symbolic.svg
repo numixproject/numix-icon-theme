@@ -1,1 +1,4 @@
-<svg viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg"><g fill="#bebebe"><path d="m5 0v2h-3v14h12v-14h-3v-2z" opacity=".4"/><path d="m2 2v14h12v-14z" stroke-width="1.183"/></g></svg>
+<svg version="1.1" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+ <path d="m6 2v2h-2v10h8v-10h-2v-2z" style="fill:#bebebe;opacity:.4"/>
+ <path d="m6 3.2v0.801h-2v10h8v-10h-2v-0.801h-4z" style="fill:#bebebe"/>
+</svg>
