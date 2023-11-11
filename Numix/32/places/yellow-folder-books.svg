@@ -1,20 +1,17 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
  <defs>
-  <radialGradient id="radialGradient3031" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1,0,0,0.10447761,0,50.597015)" cx="32.5" cy="56.5" r="33.5">
+  <radialGradient id="radialGradient3011" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.83333334,0,0,0.13888885,-4,1041.4039)" cx="24" cy="40.5" r="24">
    <stop style="stop-color:#000;stop-opacity:1"/>
-   <stop offset="1" style="stop-color:#000;stop-opacity:0"/>
+   <stop offset="1" style="stop-color:#000;stop-opacity:0.196"/>
   </radialGradient>
  </defs>
  <g transform="translate(0,-1020.3622)">
-  <path d="M 66 56.5 A 33.5 3.5 0 0 1 32.5 60 33.5 3.5 0 0 1 -1 56.5 33.5 3.5 0 0 1 32.5 53 33.5 3.5 0 0 1 66 56.5" transform="matrix(0.71641791,0,0,0.85714286,-7.2835821,999.9336)" style="fill:url(#radialGradient3031);opacity:0.3;fill-opacity:1;stroke:none"/>
-  <path d="m 0 1024.89 0 21.412 32 0 0 -10.706 -1.524 -9.177 -11.976 -0.059 -1.5 -3 -15.476 0 c -0.762 0 -1.524 0.765 -1.524 1.529 z" style="fill:#ffb300;fill-opacity:1;stroke:none"/>
-  <rect width="15.786" height="5.941" x="2.5" y="1027.36" style="fill:#fffdf0;fill-opacity:1;stroke:none"/>
-  <path d="m 1.531 1023.36 c -0.762 0 -1.531 0.766 -1.531 1.531 l 0 1 c 0 -0.765 0.769 -1.531 1.531 -1.531 l 14.969 0 1.5 3 12.469 0.062 1.531 9.172 0 -1 -1.531 -9.172 -11.969 -0.062 -1.5 -3 z" style="fill:#000;opacity:0.03;fill-opacity:1;stroke:none"/>
-  <path d="m 32 1027.95 0 21.412 -32 0 0 -20 15 0 1.5 -3 13.976 0.059 c 0.762 0 1.524 0.765 1.524 1.53 z" style="fill:#ffca28;fill-opacity:1;stroke:none"/>
-  <path d="m 0 1048.36 0 1 32 0 0 -1 z" style="fill:#000;opacity:0.15;fill-opacity:1;stroke:none"/>
-  <path d="m 16.5 1026.36 -1.5 3 -15 0 0 1 15.5 0 1.5 -3 13.469 0.062 c 0.762 0 1.531 0.767 1.531 1.531 l 0 -1 c 0 -0.765 -0.769 -1.531 -1.531 -1.531 z" style="fill:#000;opacity:0.03;fill-opacity:1;stroke:none"/>
-  <g transform="matrix(2.6574797,0,0,2.6574797,10.000001,1009.3622)" style="fill:#c79a18;opacity:1;fill-opacity:1">
-   <path d="m 2.634 13.547 0 -3.01 -0.753 0 0 3.01 z m -1.129 -3.199 -1.505 -1.129 l 0 3.01 l 1.505 1.129 m 3.01 -1.129 0 -3.01 -1.505 1.129 0 3.01 z m -0.282 -3.199 c -0.847 0 -1.411 0.282 -1.976 0.753 -0.564 -0.47 -1.129 -0.753 -1.976 -0.753 l 1.599 1.129 0.753 0 z" style="stroke:none;fill-rule:nonzero"/>
-  </g>
+  <path d="m 16 1043.7 c -6.551 0 -12.352 0.522 -16 1.333 l 0 4 c 3.648 0.811 9.449 1.333 16 1.333 6.551 0 12.352 -0.522 16 -1.333 l 0 -4 c -3.648 -0.811 -9.449 -1.333 -16 -1.333 z" style="fill:url(#radialGradient3011);opacity:0.1;fill-opacity:1;stroke:none"/>
+  <rect width="30" height="21" x="1" y="1027.36" rx="3.261" ry="3.281" style="fill:#ffb300;fill-opacity:1;stroke:none"/>
+  <path d="m 4.261 1027.36 c -1.807 0 -3.261 1.115 -3.261 2.5 l 0 1 c 0 -1.385 1.454 -2.5 3.261 -2.5 l 23.478 0 c 1.807 0 3.261 1.115 3.261 2.5 l 0 -1 c 0 -1.385 -1.454 -2.5 -3.261 -2.5 l -23.478 0 z" style="fill:#fff;opacity:0.2;fill-opacity:1;stroke:none"/>
+  <path d="m 4.261 1032.36 5.217 0 c 7.174 -0.667 5.87 -8 10.435 -8 l 7.826 0 c 1.807 0 3.261 1.487 3.261 3.333 l 0 17.333 c 0 1.847 -1.454 3.333 -3.261 3.333 l -23.478 0 c -1.807 0 -3.261 -1.487 -3.261 -3.333 l 0 -9.333 c 0 -2 1.304 -3.333 3.261 -3.333 z" style="fill:#ffca28;fill-opacity:1;stroke:none"/>
+  <path d="m 1 1043.7 0 1.333 c 0 1.847 1.454 3.333 3.261 3.333 l 23.478 0 c 1.807 0 3.261 -1.487 3.261 -3.333 l 0 -1.333 c 0 1.847 -1.454 3.667 -3.261 3.667 l -23.478 0 c -1.807 0 -3.261 -1.82 -3.261 -3.667 z" style="fill:#000;opacity:0.15;fill-opacity:1;stroke:none"/>
+  <path d="m 9 1045.36 0 -6 -1 0 0 6 z m -2 -6.375 -3 -2.25 l 0 6 3 2.25 z m 6 3.751 l 0 -6 -3 2.249 0 6 z m -1 -6.375 c -1.687 0 -2.375 0.563 -3.5 1.5 -1.125 -0.938 -1.813 -1.5 -3.5 -1.5 l 3 2 1 0 z" style="fill:#000;fill-opacity:0.098;stroke:none;fill-rule:nonzero"/>
+  <path d="m 9 1044.36 0 -6 -1 0 0 6 z m -2 -6.375 -3 -2.25 l 0 6 3 2.25 z m 6 3.751 l 0 -6 -3 2.249 0 6 z m -1 -6.375 c -1.687 0 -2.375 0.563 -3.5 1.5 -1.125 -0.938 -1.813 -1.5 -3.5 -1.5 l 3 2 1 0 z" style="fill:#fff8e1;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
  </g>
 </svg>

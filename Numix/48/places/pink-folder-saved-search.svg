@@ -1,20 +1,17 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48">
  <defs>
-  <radialGradient id="radialGradient3850" cx="24.08" cy="41.38" r="21.08" gradientTransform="matrix(1,0,0,0.11307633,0,36.703704)" gradientUnits="userSpaceOnUse">
-   <stop style="stop-color:#000;stop-opacity:0.392"/>
-   <stop offset="1" style="stop-color:#000;stop-opacity:0"/>
+  <radialGradient r="24" cy="40.5" cx="24" gradientTransform="matrix(1.25,0,0,0.20833327,-6,1035.9247)" gradientUnits="userSpaceOnUse" id="radialGradient3063">
+   <stop style="stop-color:#000;stop-opacity:1"/>
+   <stop offset="1" style="stop-color:#000;stop-opacity:0.196"/>
   </radialGradient>
  </defs>
- <g>
-  <path d="m 45.15 41.38 a 21.08 2.383 0 1 1 -42.15 0 21.08 2.383 0 1 1 42.15 0 z" transform="matrix(1.1387537,0,0,1.0490275,-3.4162611,-1.9120725)" style="fill:url(#radialGradient3850);opacity:0.65;fill-opacity:1;stroke:none"/>
- </g>
  <g transform="translate(0,-1004.3622)">
-  <path d="m 3 1014.36 0 28 42 0 0 -14 -2 -12 -16 0 -2 -4 -20 0 c -1 0 -2 1 -2 2 z" style="fill:#ec407a;fill-opacity:1;stroke:none"/>
-  <rect width="21" height="8" x="6" y="1017.36" style="fill:#fffdf0;fill-opacity:1;stroke:none"/>
-  <path d="M 5,8 C 4,8 3,9 3,10 l 0,1 C 3,10 4,9 5,9 l 19,0 2,4 17,0 2,12 0,-1 -2,-12 -16,0 -2,-4 z" transform="translate(0,1004.3622)" style="fill:#000;opacity:0.03;fill-opacity:1;stroke:none"/>
-  <path d="m 45 1018.36 0 28 -42 0 0 -26 20 0 2 -4 18 0 c 1 0 2 1 2 2 z" style="fill:#f06292;fill-opacity:1;stroke:none"/>
-  <path d="m 3 1045.36 0 1 42 0 0 -1 z" style="fill:#000;opacity:0.15;fill-opacity:1;stroke:none"/>
-  <path d="m 25 12 -2 4 -20 0 0 1 21 0 2 -4 17 0 c 1 0 2 1 2 2 l 0 -1 c 0 -1 -1 -2 -2 -2 z" transform="translate(0,1004.3622)" style="fill:#000;opacity:0.03;fill-opacity:1;stroke:none"/>
-  <path d="m 30.376 1026.98 c -2.165 -2.166 -5.666 -2.152 -7.831 0.016 -1.841 1.842 -2.117 4.645 -0.83 6.776 l -5.341 5.343 c -0.498 0.498 -0.498 1.296 0 1.794 l 0.08 0.08 c 0.498 0.499 1.295 0.499 1.794 0 l 5.341 -5.343 c 2.133 1.29 4.946 1.025 6.787 -0.817 2.165 -2.166 2.165 -5.681 0 -7.847 z m -1.218 1.218 c 1.489 1.49 1.489 3.92 0 5.41 -1.475 1.476 -3.862 1.475 -5.355 0.027 l -0.04 -0.04 c -0.013 -0.016 -0.027 -0.027 -0.04 -0.041 -1.45 -1.492 -1.436 -3.867 0.04 -5.343 1.489 -1.49 3.906 -1.503 5.395 -0.016 z" style="fill:#c64077;opacity:1;fill-opacity:1;color:#000"/>
+  <path d="m 24 1039.36 c -9.827 0 -18.528 0.783 -24 2 l 0 6 c 5.472 1.217 14.173 2 24 2 9.827 0 18.528 -0.783 24 -2 l 0 -6 c -5.472 -1.217 -14.173 -2 -24 -2 z" style="fill:url(#radialGradient3063);opacity:0.1;fill-opacity:1;stroke:none"/>
+  <rect width="46" height="32" x="1" y="1014.36" rx="5" style="fill:#ec407a;fill-opacity:1;stroke:none"/>
+  <path d="m 6 1014.36 c -2.77 0 -5 2.23 -5 5 l 0 2 c 0 -2.77 2.23 -5 5 -5 l 36 0 c 2.77 0 5 2.23 5 5 l 0 -2 c 0 -2.77 -2.23 -5 -5 -5 l -36 0 z" style="fill:#fff;opacity:0.2;fill-opacity:1;stroke:none"/>
+  <path d="m 6 1022.36 8 0 c 11 -1 9 -12 16 -12 l 12 0 c 2.77 0 5 2.23 5 5 l 0 26 c 0 2.77 -2.23 5 -5 5 l -36 0 c -2.77 0 -5 -2.23 -5 -5 l 0 -14 c 0 -3 2 -5 5 -5 z" style="fill:#f06292;fill-opacity:1;stroke:none"/>
+  <path d="m 1 1039.36 0 2 c 0 2.77 2.23 5 5 5 l 36 0 c 2.77 0 5 -2.23 5 -5 l 0 -2 c 0 2.77 -2.23 5 -5 5 l -36 0 c -2.77 0 -5 -2.23 -5 -5 z" style="fill:#000;opacity:0.15;fill-opacity:1;stroke:none"/>
+  <path d="m 18.579 1028.78 c -1.895 -1.895 -4.958 -1.883 -6.852 0.014 -1.611 1.611 -1.852 4.064 -0.726 5.928 l -4.674 4.675 c -0.436 0.436 -0.436 1.134 0 1.57 l 0.07 0.07 c 0.436 0.436 1.134 0.436 1.57 0 l 4.674 -4.675 c 1.866 1.129 4.328 0.897 5.939 -0.715 1.895 -1.895 1.895 -4.971 0 -6.866 z m -1.066 1.066 c 1.303 1.303 1.303 3.43 0 4.734 -1.291 1.291 -3.38 1.291 -4.685 0.024 l -0.035 -0.035 c -0.012 -0.014 -0.024 -0.024 -0.035 -0.036 -1.268 -1.306 -1.256 -3.383 0.035 -4.675 1.303 -1.304 3.417 -1.315 4.72 -0.014 z" style="fill:#000;fill-opacity:0.098;color:#000"/>
+  <path d="m 18.579 1027.78 c -1.895 -1.895 -4.958 -1.883 -6.852 0.014 -1.611 1.611 -1.852 4.064 -0.726 5.928 l -4.674 4.675 c -0.436 0.436 -0.436 1.134 0 1.57 l 0.07 0.07 c 0.436 0.436 1.134 0.436 1.57 0 l 4.674 -4.675 c 1.866 1.129 4.328 0.897 5.939 -0.715 1.895 -1.895 1.895 -4.971 0 -6.866 z m -1.066 1.066 c 1.303 1.303 1.303 3.43 0 4.734 -1.291 1.291 -3.38 1.291 -4.685 0.024 l -0.035 -0.035 c -0.012 -0.014 -0.024 -0.024 -0.035 -0.036 -1.268 -1.306 -1.256 -3.383 0.035 -4.675 1.303 -1.304 3.417 -1.315 4.72 -0.014 z" style="fill:#fff8e1;opacity:1;fill-opacity:1;color:#000"/>
  </g>
 </svg>
