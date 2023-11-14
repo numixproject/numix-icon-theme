@@ -1,13 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48">
- <path d="m 8 1 c -1.029 0 -2 0.971 -2 2 l 0 42 c 0 0.971 1.029 2 2 2 l 32 0 c 0.971 0 2 -1.029 2 -2 l 0 -31 -13 -13 z" style="fill:#dcdcdc"/>
- <path d="m 29 12 0.063 0.063 0.156 -0.063 -0.219 0 z m 2 2 11 11 0 -11 -11 0 z" style="fill-opacity:0.196"/>
- <path d="m 29 1 13 13 -11 0 c -0.971 0 -2 -1.029 -2 -2 l 0 -11 z" style="fill:#fff;fill-opacity:0.392"/>
- <rect ry="0.601" height="7" rx="0.579" y="17" x="15" width="8" style="fill:#888"/>
- <path d="m 25.5 17.5 6 0" style="fill:#888;fill-opacity:1;stroke:#888;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:0.774"/>
- <path d="m 15.5 26.5 16 0" style="fill:#888;fill-opacity:1;stroke:#888;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:0.774"/>
- <path d="m 15.5 29.5 16 0" style="fill:#888;fill-opacity:1;stroke:#888;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:0.774"/>
- <path d="m 15.5 32.5 16 0" style="fill:#888;fill-opacity:1;stroke:#888;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:0.774"/>
- <path d="m 15.5 35.5 16 0" style="fill:#888;fill-opacity:1;stroke:#888;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:0.774"/>
- <path d="m 25.5 20.5 6 0" style="fill:#888;fill-opacity:1;stroke:#888;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:0.774"/>
- <path d="m 25.5 23.5 6 0" style="fill:#888;fill-opacity:1;stroke:#888;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:0.774"/>
+<svg version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <path d="m8 1c-1.03 0-2 0.971-2 2v42c0 0.971 1.03 2 2 2h32c0.971 0 2-1.03 2-2v-31l-13-13z" style="fill:#dcdcdc"/>
+ <path d="m31 14 11 11v-11z" style="opacity:.2"/>
+ <path d="m29 1 13 13h-11c-0.971 0-2-1.03-2-2v-11z" style="fill:#fff;opacity:.4"/>
+ <path d="m15.6 17c-0.321 0-0.578 0.269-0.578 0.602v5.8c0 0.333 0.257 0.602 0.578 0.602h6.84c0.321 0 0.578-0.269 0.578-0.602v-5.8c0-0.333-0.257-0.602-0.578-0.602zm9.92 0a0.5 0.5 0 0 0-0.5 0.5 0.5 0.5 0 0 0 0.5 0.5h6a0.5 0.5 0 0 0 0.5-0.5 0.5 0.5 0 0 0-0.5-0.5zm0 3a0.5 0.5 0 0 0-0.5 0.5 0.5 0.5 0 0 0 0.5 0.5h6a0.5 0.5 0 0 0 0.5-0.5 0.5 0.5 0 0 0-0.5-0.5zm0 3a0.5 0.5 0 0 0-0.5 0.5 0.5 0.5 0 0 0 0.5 0.5h6a0.5 0.5 0 0 0 0.5-0.5 0.5 0.5 0 0 0-0.5-0.5zm-10 3a0.5 0.5 0 0 0-0.5 0.5 0.5 0.5 0 0 0 0.5 0.5h16a0.5 0.5 0 0 0 0.5-0.5 0.5 0.5 0 0 0-0.5-0.5zm0 3a0.5 0.5 0 0 0-0.5 0.5 0.5 0.5 0 0 0 0.5 0.5h16a0.5 0.5 0 0 0 0.5-0.5 0.5 0.5 0 0 0-0.5-0.5zm0 3a0.5 0.5 0 0 0-0.5 0.5 0.5 0.5 0 0 0 0.5 0.5h16a0.5 0.5 0 0 0 0.5-0.5 0.5 0.5 0 0 0-0.5-0.5zm0 3a0.5 0.5 0 0 0-0.5 0.5 0.5 0.5 0 0 0 0.5 0.5h16a0.5 0.5 0 0 0 0.5-0.5 0.5 0.5 0 0 0-0.5-0.5z" style="fill:#888"/>
 </svg>
