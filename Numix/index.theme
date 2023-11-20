@@ -3,7 +3,7 @@ Name=Numix
 
 Comment=Icon theme from Numix Project
 
-Inherits=Adwaita,Breeze,gnome,hicolor
+Inherits=Adwaita,breeze-dark,gnome,hicolor
 
 Example=folder
 
