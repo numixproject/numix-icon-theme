@@ -483,11 +483,6 @@ Scale=2
 Context=Status
 Type=Fixed
 
-[48/actions]
-Size=48
-Context=Actions
-Type=Fixed
-
 [48/animations]
 Size=48
 Context=Animations
@@ -536,12 +531,6 @@ Type=Fixed
 [48/status]
 Size=48
 Context=Status
-Type=Fixed
-
-[48@2x/actions]
-Size=48
-Scale=2
-Context=Actions
 Type=Fixed
 
 [48@2x/animations]
