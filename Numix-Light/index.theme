@@ -8,7 +8,7 @@ FollowsColorScheme=true
 
 Example=folder
 
-Directories=16/animations,16/apps,16/panel,16/status,22/animations,22/apps,22/panel,22/status,24/animations,24/apps,24/panel,24/status,16@2x/animations,16@2x/apps,16@2x/panel,16@2x/status,22@2x/animations,22@2x/apps,22@2x/panel,22@2x/status,24@2x/animations,24@2x/apps,24@2x/panel,24@2x/status,scalable/actions,scalable/categories,scalable/devices,scalable/emblems,scalable/mimetypes,scalable/places,scalable/status
+Directories=16/animations,16/apps,16/panel,16/status,22/animations,22/apps,22/panel,22/status,24/animations,24/apps,24/panel,24/status,16@2x/animations,16@2x/apps,16@2x/panel,16@2x/status,22@2x/animations,22@2x/apps,22@2x/panel,22@2x/status,24@2x/animations,24@2x/apps,24@2x/panel,24@2x/status,scalable/actions,scalable/categories,scalable/devices,scalable/emblems,scalable/emotes,scalable/mimetypes,scalable/places,scalable/status
 
 [16/animations]
 Size=16
