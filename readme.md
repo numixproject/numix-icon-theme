@@ -5,12 +5,14 @@ Numix is the official icon theme from the [Numix Project](https://numixproject.g
 If using this with one of our app icon themes (like [Numix Circle](https://github.com/numixproject/numix-icon-theme-circle)) make sure you install both parts using the same method. This makes sure that the panel icons keep working as intended.
 
 ### Distro Packages
-If you use Fedora, Debian, Ubuntu, or any of their derivatives then you're sorted! Numix is available from the official repositories.
+If you use, Fedora, Debian, Ubuntu, or any of their derivatives then you're sorted! Numix is available from the official repositories.
+`numix-icon-theme` is available also on `conda-forge`
 
 |Distro|Install Command/Links|
 |:----:|:----:|
 |![fedora][fedora]|`sudo dnf install numix-icon-theme`|
 |![debian][debian] &nbsp;![ubuntu][ubuntu]|`sudo apt install numix-icon-theme`|
+|![conda][conda]|`conda install -c conda-forge numix-icon-theme`|
 
 ### Nightly Packages
 If you use Ubuntu or any of its derivatives (including Mint and elementary OS) you can use our Numix PPA to get the very latest version of the theme. Fire up a Terminal and run the following:
@@ -29,9 +31,7 @@ Application icon requests should be posted in the [Numix Core](https://github.co
 ## Hardcoded Icons
 To deal with hardcoded status icons Numix recommends you use the [Hardcode Tray](https://github.com/bil-elmoussaoui/Hardcode-Tray) script.
 
-[antergos]: https://antergos.com/distro-logos/logo-square26x26.png "antergos"
-[arch]: https://antergos.com/distro-logos/archlogo26x26.png "arch"
-[fedora]: https://antergos.com/distro-logos/fedora-logo.png "fedora"
-[openSUSE]: https://antergos.com/distro-logos/Geeko-button-bling7.png "openSUSE"
-[ubuntu]: https://antergos.com/distro-logos/ubuntu_orange_hex.png "ubuntu"
-[debian]: https://antergos.com/distro-logos/openlogo-nd-25.png "debian"
+[fedora]: https://user-images.githubusercontent.com/17854950/86288769-c3351a00-bbea-11ea-908c-156c7bf0b778.png
+[ubuntu]: https://user-images.githubusercontent.com/17854950/86288823-e069e880-bbea-11ea-9214-4764c5628f39.png
+[debian]: https://user-images.githubusercontent.com/17854950/86288828-e4960600-bbea-11ea-9a46-4eb19621b3ae.png
+[conda]: https://user-images.githubusercontent.com/16744101/162778090-0a2c6316-5a41-4c98-8d32-41a6ed7e5cd3.png
