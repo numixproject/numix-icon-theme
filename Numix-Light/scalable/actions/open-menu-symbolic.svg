@@ -1,7 +1,3 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" style="enable-background:new">
- <g transform="translate(-387,-169.00012)">
-  <rect height="2" width="10" x="390" y="172" style="fill:#353535;fill-opacity:1;color:#f00"/>
-  <rect height="2" width="10" x="390" y="176" style="fill:#353535;fill-opacity:1;color:#f00"/>
-  <rect height="2" width="10" x="390" y="180" style="fill:#353535;fill-opacity:1;color:#f00"/>
- </g>
+<svg version="1.1" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+ <path d="m3 3v2h10v-2h-10zm0 4v2h10v-2h-10zm0 4v2h10v-2h-10z" style="fill:#353535"/>
 </svg>
