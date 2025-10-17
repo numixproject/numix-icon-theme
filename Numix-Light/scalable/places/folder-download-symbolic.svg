@@ -1,7 +1,3 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
- <rect width="16" height="2" y="14" rx="1" style="fill:#353535;fill-opacity:1;stroke:none"/>
- <rect rx="1" y="-2" x="9" height="2" width="7" transform="matrix(0,1,-1,0,0,0)" style="fill:#353535;fill-opacity:1;stroke:none"/>
- <rect transform="matrix(0,1,-1,0,0,0)" width="7" height="2" x="9" y="-16" rx="1" style="fill:#353535;fill-opacity:1;stroke:none"/>
- <path d="M 9,12 C 8,13 8,13 7,12 L 4,9 C 3,8 3,8 4,8 l 8,0 c 1,0 1,0 0,1 z" style="fill:#353535;fill-opacity:1;stroke:none"/>
- <rect width="4" height="10" x="6" y="1" rx="2" style="fill:#353535;fill-opacity:1;stroke:none"/>
+<svg version="1.1" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+ <path d="m8 1c-1.11 0-2 0.892-2 2v5h-2c-1 0-1 0 0 1l3 3c1 1 1 1 2 0l3-3c1-1 1-1 0-1h-2v-5c0-1.11-0.892-2-2-2zm-7 8c-0.554 0-1 0.446-1 1v5c0 0.554 0.446 1 1 1h14c0.0346 0 0.0679-0.00246 0.102-0.00586 0.505-0.051 0.898-0.475 0.898-0.994v-5c0-0.554-0.446-1-1-1s-1 0.446-1 1v4h-12v-4c0-0.554-0.446-1-1-1z" style="fill:#353535"/>
 </svg>
