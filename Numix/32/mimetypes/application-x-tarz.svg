@@ -1,9 +1,8 @@
 <svg version="1.1" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
  <path d="m5.34 0c-0.687 0-1.34 0.676-1.34 1.39v29.2c0 0.676 0.687 1.41 1.34 1.41h21.3c0.648 0 1.36-0.737 1.36-1.41v-21.6l-9-8.99z" style="fill:#c19553"/>
  <path d="m4 24v6.67c0 0.648 0.688 1.33 1.33 1.33h21.3c0.645 0 1.33-0.684 1.33-1.33v-6.67z" style="opacity:.2"/>
- <path d="m15.8 25v0.991h-1.65v5.01h-1.15v-5.01h-1.8v-0.991h4.6" style="fill:#fff"/>
+ <path d="m16.3 25v0.984h2.35c-0.84 1.37-1.71 2.8-2.48 4.3v0.685h4.02v-0.981h-2.62c0.78-1.39 1.6-2.78 2.53-4.15v-0.831zm-5.1 0.033v0.984h1.8v4.98h1.15v-4.98h1.65v-0.984z" style="fill:#fff"/>
  <path d="m21 9 7 7v-7z" style="opacity:.2"/>
  <path d="m19 0 8.99 9h-7.61c-0.673 0-1.38-0.713-1.38-1.39z" style="fill:#fff;opacity:.4"/>
- <path d="m20.1 25.8c-0.926 1.38-1.75 2.78-2.53 4.18h2.62v0.986h-4.02v-0.688c0.773-1.5 1.64-2.94 2.48-4.32h-2.35v-0.991h3.8v0.835" style="fill:#fff"/>
- <path d="m9 0v3h3v-3h-3zm3 3v3h3v-3h-3zm0 3h-3v3h3v-3zm0 3v3h3v-3h-3zm0 3h-3v3h3v-3zm-3 4v6h6v-6h-6z" style="fill:#f9f9f9"/>
+ <path d="m9 0v3h3v-3h-3zm3 3v3h3v-3h-3zm0 3h-3v3h3v-3zm0 3v3h3v-3h-3zm0 3h-3v3h3v-3zm-3 4v6h6v-6h-6z" style="fill:#fff"/>
 </svg>
