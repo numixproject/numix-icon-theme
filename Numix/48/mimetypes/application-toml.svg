@@ -2,5 +2,5 @@
  <path d="m8 1c-1.03 0-2 0.971-2 2v42c0 0.971 1.03 2 2 2h32c0.971 0 2-1.03 2-2v-31l-13-13z" style="fill:#dcdcdc"/>
  <path d="m31 14 11 11v-11z" style="opacity:.2"/>
  <path d="m29 1 13 13h-11c-0.971 0-2-1.03-2-2z" style="fill:#fff;opacity:.4"/>
- <path d="m14 19v1h20v-1zm0 2v1h20v-1zm0 2v1h20v-1zm0 2v1h20v-1zm0 2v1h20v-1zm0 2v1h20v-1zm0 2v1h20v-1zm0 2v1h20v-1zm0 2v1h20v-1z" style="fill:#888"/>
+ <path d="m14 19v20h5v-2h-3v-16h3v-2zm15 0v2h3v16h-3v2h5v-20zm-10 4v2h4v12h2v-12h4v-2z" style="fill:#888"/>
 </svg>
