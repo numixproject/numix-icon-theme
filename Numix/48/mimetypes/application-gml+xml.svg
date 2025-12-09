@@ -1,1 +1,6 @@
-application-x-osm+xml.svg
+<svg version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <path d="m8 1c-1.03 0-2 0.971-2 2v42c0 0.971 1.03 2 2 2h32c0.971 0 2-1.03 2-2v-31l-13-13z" style="fill:#dcdcdc"/>
+ <path d="m31 14 11 11v-11z" style="opacity:.2"/>
+ <path d="m29 1 13 13h-11c-0.971 0-2-1.03-2-2v-11z" style="fill:#fff;opacity:.4"/>
+ <path d="m24 20c-2.76 0-5 2.24-5 5 0 5 5 14 5 14s5-9 5-14c0-2.76-2.24-5-5-5zm-7 1-6 6v2l6 6v-4l-3-3 3-3v-4zm14 0v4l3 3-3 3v4l6-6v-2l-6-6zm-7 2c1.1 0 2 0.895 2 2s-0.895 2-2 2-2-0.895-2-2 0.895-2 2-2z" style="fill:#888"/>
+</svg>
