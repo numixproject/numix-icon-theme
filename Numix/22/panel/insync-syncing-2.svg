@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 22">
  <g transform="translate(0,-42)">
-  <path d="m 13 48 c -4.406 0 -8 3.594 -8 8 l 2 0 c 0 -3.326 2.674 -6 6 -6 l 0 -2 z" solid-color="#000000" style="fill:#ececec;color:#000;fill-rule:nonzero;color-rendering:auto;color-interpolation:sRGB"/>
-  <path d="m 13 44 c -6.616 0 -12 5.384 -12 12 l 2 0 c 0 -5.535 4.465 -10 10 -10 l 0 -2 z" solid-color="#000000" style="fill:#ececec;color:#000;fill-rule:nonzero;color-rendering:auto;color-interpolation:sRGB"/>
+  <path d="m 13 48 c -4.406 0 -8 3.594 -8 8 l 2 0 c 0 -3.326 2.674 -6 6 -6 l 0 -2 z" solid-color="#000000" style="fill:#ececec;color:#000;fill-rule:nonzero;color-interpolation:sRGB"/>
+  <path d="m 13 44 c -6.616 0 -12 5.384 -12 12 l 2 0 c 0 -5.535 4.465 -10 10 -10 l 0 -2 z" solid-color="#000000" style="fill:#ececec;color:#000;fill-rule:nonzero;color-interpolation:sRGB"/>
   <circle cx="11" cy="54.25" r="1.75" style="fill:#ececec;opacity:0.4;fill-rule:nonzero"/>
   <rect width="2" height="6" x="10" y="57" rx="0.336" ry="0.371" style="fill:#ececec;fill-rule:nonzero"/>
  </g>
