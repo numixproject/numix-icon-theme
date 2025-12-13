@@ -4,13 +4,13 @@
    <!-- color: #d14040 -->
    <g>
     <path d="m 31.5,16 c 1.5,0 1.5,0 1.5,1.5 l 0,15 C 33,34 33,34 31.5,34 l -15,0 C 15,34 15,34 15,32.5 l 0,-15 C 15,16 15,16 16.5,16" style="fill:#e6b07f;fill-rule:evenodd"/>
-    <path d="m 30 16 -12 0 0 15 12 0" style="fill:#fff;fill-rule:nonzero"/>
-    <path d="m 19.5 13 0 4.5 9 0 0 -4.5" style="fill:#aaa;fill-rule:nonzero"/>
-    <path d="m 19.5 25 0 1.5 9 0 0 -1.5" style="fill:#868686;fill-rule:nonzero"/>
-    <path d="m 19.5 28 0 1.5 6 0 0 -1.5" style="fill:#868686;fill-rule:nonzero"/>
+    <path d="m 30 16 -12 0 0 15 12 0" style="fill:#fff"/>
+    <path d="m 19.5 13 0 4.5 9 0 0 -4.5" style="fill:#aaa"/>
+    <path d="m 19.5 25 0 1.5 9 0 0 -1.5" style="fill:#868686"/>
+    <path d="m 19.5 28 0 1.5 6 0 0 -1.5" style="fill:#868686"/>
    </g>
   </g>
  </g>
- <path d="m 10 14 0 2 12 0 0 -2" style="fill:#868686;fill-rule:nonzero"/>
+ <path d="m 10 14 0 2 12 0 0 -2" style="fill:#868686"/>
  <path d="m 30 16 -10 -10 l 0 6 -10 0 0 8 10 0 0 6 z" style="fill:#268bd2"/>
 </svg>

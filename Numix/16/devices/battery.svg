@@ -7,7 +7,7 @@
  </defs>
  <path d="m 7 0 c -0.554 0 -1 0.446 -1 1 l 0 1.01 -1 0 c -0.554 0 -1 0.446 -1 1 l 0 11.992 c 0 0.554 0.446 1 1 1 l 6 0 c 0.554 0 1 -0.446 1 -1 l 0 -11.992 c 0 -0.554 -0.447 -1.028 -1 -1 l -1 0 0 -1.01 c 0 -0.554 -0.446 -1 -1 -1 z" style="fill:url(#linearGradient3008)"/>
  <rect width="1" height="2" x="8" style="fill:#fff;opacity:0.2"/>
- <rect width="8" height="14" x="4" y="2" rx="1" style="fill:#6fa7ce;fill-rule:nonzero"/>
- <rect rx="1" y="2" x="4" height="14" width="8" style="fill:#6fa7ce;opacity:0.2;fill-rule:nonzero"/>
+ <rect width="8" height="14" x="4" y="2" rx="1" style="fill:#6fa7ce"/>
+ <rect rx="1" y="2" x="4" height="14" width="8" style="fill:#6fa7ce;opacity:0.2"/>
  <rect width="2" height="14" x="9" y="2" style="fill:#fff;opacity:0.2"/>
 </svg>

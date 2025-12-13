@@ -6,8 +6,8 @@
  <circle cx="8" r="7.482" cy="8" style="stroke-dasharray:none;stroke-fill:none;stroke-miterlimit:4;stroke:#888;stroke-linecap:butt;stroke-linejoin:round;stroke-width:1.037;stroke-dashoffset:0"/>
  <circle cx="8" r="3.5" cy="8" style="stroke-dasharray:none;stroke-fill:none;stroke-miterlimit:4;stroke:#888;stroke-linecap:butt;stroke-linejoin:round;stroke-width:1;stroke-dashoffset:0"/>
  <g transform="matrix(1.12069 0 0 1.12069 7.243 19.902)">
-  <path style="fill:#ff6f03;fill-rule:nonzero" d="m 7.814 -16.55 c 0 0 0.001 -0.39 -0.868 -0.891 -0.838 -0.484 -1.229 -0.271 -1.229 -0.271 l -4.52 7.829 -0.25 2.832 2.326 -1.634"/>
-  <path style="fill:#ffc13d;fill-rule:nonzero" d="m 1.197 -9.883 -0.25 2.832 2.326 -1.634"/>
-  <path style="fill:#2d2d2d;fill-rule:nonzero" d="m 1.06 -8.371 -0.112 1.32 1.089 -0.757"/>
+  <path style="fill:#ff6f03" d="m 7.814 -16.55 c 0 0 0.001 -0.39 -0.868 -0.891 -0.838 -0.484 -1.229 -0.271 -1.229 -0.271 l -4.52 7.829 -0.25 2.832 2.326 -1.634"/>
+  <path style="fill:#ffc13d" d="m 1.197 -9.883 -0.25 2.832 2.326 -1.634"/>
+  <path style="fill:#2d2d2d" d="m 1.06 -8.371 -0.112 1.32 1.089 -0.757"/>
  </g>
 </svg>

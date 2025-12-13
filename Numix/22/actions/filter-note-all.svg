@@ -4,18 +4,18 @@
  </defs>
  <g transform="translate(2,2)">
   <use height="22" width="22" xlink:href="#SVGCleanerId_0" transform="matrix(0.60416667,0,0,0.60416667,-3.5000001,-3.5000001)" style="stroke-dasharray:none;stroke-fill:none;stroke-miterlimit:4;stroke:#af8566;stroke-linecap:butt;stroke-linejoin:miter;stroke-width:2.483"/>
-  <use height="22" width="22" xlink:href="#SVGCleanerId_0" transform="matrix(0.58333333,0,0,0.58333333,-2.9999999,-2.9999999)" style="fill:#fff4ab;fill-rule:nonzero"/>
-  <path d="m 4 14 14 0 0 1 -14 0 z" style="fill:#e4d66a;fill-rule:nonzero"/>
-  <path d="m 4 11 14 0 0 1 -14 0" style="fill:#e4d66a;fill-rule:nonzero"/>
-  <path d="m 4 8 14 0 0 1 -14 0" style="fill:#e4d66a;fill-rule:nonzero"/>
-  <path d="m 8 4 1 0 0 14 -1 0" style="fill:#e6b2a9;fill-rule:nonzero"/>
+  <use height="22" width="22" xlink:href="#SVGCleanerId_0" transform="matrix(0.58333333,0,0,0.58333333,-2.9999999,-2.9999999)" style="fill:#fff4ab"/>
+  <path d="m 4 14 14 0 0 1 -14 0 z" style="fill:#e4d66a"/>
+  <path d="m 4 11 14 0 0 1 -14 0" style="fill:#e4d66a"/>
+  <path d="m 4 8 14 0 0 1 -14 0" style="fill:#e4d66a"/>
+  <path d="m 8 4 1 0 0 14 -1 0" style="fill:#e6b2a9"/>
  </g>
  <g transform="translate(-2,-2)">
   <use transform="matrix(0.60416667,0,0,0.60416667,-3.5000001,-3.5000001)" xlink:href="#SVGCleanerId_0" width="22" height="22" style="stroke-dasharray:none;stroke-fill:none;stroke-miterlimit:4;stroke:#af8566;stroke-linecap:butt;stroke-linejoin:miter;stroke-width:2.483"/>
-  <use transform="matrix(0.58333333,0,0,0.58333333,-2.9999999,-2.9999999)" xlink:href="#SVGCleanerId_0" width="22" height="22" style="fill:#fff4ab;fill-rule:nonzero"/>
-  <path d="m 4 14 14 0 0 1 -14 0 z" style="fill:#e4d66a;fill-rule:nonzero"/>
-  <path d="m 4 11 14 0 0 1 -14 0" style="fill:#e4d66a;fill-rule:nonzero"/>
-  <path d="m 4 8 14 0 0 1 -14 0" style="fill:#e4d66a;fill-rule:nonzero"/>
-  <path d="m 8 4 1 0 0 14 -1 0" style="fill:#e6b2a9;fill-rule:nonzero"/>
+  <use transform="matrix(0.58333333,0,0,0.58333333,-2.9999999,-2.9999999)" xlink:href="#SVGCleanerId_0" width="22" height="22" style="fill:#fff4ab"/>
+  <path d="m 4 14 14 0 0 1 -14 0 z" style="fill:#e4d66a"/>
+  <path d="m 4 11 14 0 0 1 -14 0" style="fill:#e4d66a"/>
+  <path d="m 4 8 14 0 0 1 -14 0" style="fill:#e4d66a"/>
+  <path d="m 8 4 1 0 0 14 -1 0" style="fill:#e6b2a9"/>
  </g>
 </svg>
