@@ -21,7 +21,7 @@
     <linearGradient
        id="linearGradient3855">
       <stop
-         style="stop-color:#000000;stop-opacity:1;"
+         style="stop-color:#000000;stop-"
          offset="0"
          id="stop3857" />
       <stop
@@ -34,42 +34,42 @@
       <stop
          id="stop3835"
          offset="0"
-         style="stop-color:#fdfeff;stop-opacity:1;" />
+         style="stop-color:#fdfeff;stop-" />
       <stop
          id="stop3837"
          offset="1"
-         style="stop-color:#dfe4e4;stop-opacity:1;" />
+         style="stop-color:#dfe4e4;stop-" />
     </linearGradient>
     <linearGradient
        id="linearGradient3823">
       <stop
-         style="stop-color:#49b7ef;stop-opacity:1;"
+         style="stop-color:#49b7ef;stop-"
          offset="0"
          id="stop3825" />
       <stop
-         style="stop-color:#1d8de2;stop-opacity:1;"
+         style="stop-color:#1d8de2;stop-"
          offset="1"
          id="stop3827" />
     </linearGradient>
     <linearGradient
        id="linearGradient3956">
       <stop
-         style="stop-color:#f8f4e1;stop-opacity:1;"
+         style="stop-color:#f8f4e1;stop-"
          offset="0"
          id="stop3958" />
       <stop
-         style="stop-color:#eae5c8;stop-opacity:1;"
+         style="stop-color:#eae5c8;stop-"
          offset="1"
          id="stop3960" />
     </linearGradient>
     <linearGradient
        id="linearGradient3915">
       <stop
-         style="stop-color:#f8f4e1;stop-opacity:1;"
+         style="stop-color:#f8f4e1;stop-"
          offset="0"
          id="stop3917" />
       <stop
-         style="stop-color:#ad9e57;stop-opacity:1;"
+         style="stop-color:#ad9e57;stop-"
          offset="1"
          id="stop3919" />
     </linearGradient>
@@ -77,7 +77,7 @@
        inkscape:collect="always"
        id="linearGradient3861">
       <stop
-         style="stop-color:#000000;stop-opacity:1;"
+         style="stop-color:#000000;stop-"
          offset="0"
          id="stop3863" />
       <stop
@@ -99,11 +99,11 @@
     <linearGradient
        id="linearGradient3810">
       <stop
-         style="stop-color:#f2c66f;stop-opacity:1;"
+         style="stop-color:#f2c66f;stop-"
          offset="0"
          id="stop3812" />
       <stop
-         style="stop-color:#fbd68f;stop-opacity:1;"
+         style="stop-color:#fbd68f;stop-"
          offset="1"
          id="stop3814" />
     </linearGradient>
@@ -341,7 +341,7 @@
      id="layer1"
      transform="translate(0,-1036.3622)">
     <path
-       style="opacity:1;fill:#66bb6a;fill-rule:nonzero;stroke:none"
+       style="fill:#66bb6a;fill-rule:nonzero;stroke:none"
        d="M 12.5 1.3125 C 10.574536 1.3125 9 2.8273 9 4.6875 C 9 5.3118377 9.1903968 5.9018139 9.5 6.40625 L 9.5 10.0625 C 9.1186557 10.138639 8.7663529 10.30681 8.46875 10.53125 L 5 9.03125 C 5 7.70455 3.8747164 6.625 2.5 6.625 C 1.1277451 6.625 -5.9211895e-16 7.70385 0 9.03125 C 0 10.36045 1.1271297 11.46875 2.5 11.46875 C 3.0567601 11.46875 3.5828475 11.270041 4 10.96875 L 7.5 12.5 C 7.5360845 13.799478 8.6496108 14.84375 10 14.84375 C 11.374716 14.84375 12.5 13.7667 12.5 12.4375 C 12.5 11.883667 12.296533 11.377821 11.96875 10.96875 L 12 10.96875 L 13.84375 7.8125 C 13.856906 7.8070854 13.861925 7.786816 13.875 7.78125 C 15.109004 7.2559384 16 6.0685421 16 4.6875 C 16 2.8291 14.423003 1.3125 12.5 1.3125 z M 12.5 2.4375 C 13.793489 2.4375 14.8125 3.4377 14.8125 4.6875 C 14.8125 5.9398 13.792873 6.9375 12.5 6.9375 C 11.204665 6.9375 10.1875 5.9398 10.1875 4.6875 C 10.1875 3.4377 11.204665 2.4375 12.5 2.4375 z M 12.5 3.25 C 11.672955 3.25 11 3.8844 11 4.6875 C 11 5.4874 11.672955 6.125 12.5 6.125 C 13.329507 6.125 14 5.488 14 4.6875 C 14 3.885 13.329507 3.25 12.5 3.25 z M 2.5 7.59375 C 3.3211024 7.59375 3.7893505 7.9142488 3.9375 8.5625 L 3.0625 8.1875 C 2.4951372 7.9542 1.8343561 8.1988 1.59375 8.75 C 1.3531438 9.2983 1.6201371 9.92555 2.1875 10.15625 L 2.84375 10.46875 C 2.7341941 10.483851 2.6252259 10.5 2.5 10.5 C 1.5000385 10.5 1 9.99975 1 9.03125 C 1 8.06505 1.5000385 7.59375 2.5 7.59375 z M 10 10.8125 C 10.925502 10.8125 11.65625 11.5434 11.65625 12.4375 C 11.65625 13.3316 10.925502 14.03125 10 14.03125 C 9.2484407 14.03125 8.613934 13.564114 8.40625 12.90625 L 9.59375 13.40625 C 10.161113 13.63945 10.821894 13.3628 11.0625 12.8125 C 11.303106 12.2642 11.036112 11.63705 10.46875 11.40625 L 9.375 10.9375 C 9.5665978 10.863722 9.7798249 10.8125 10 10.8125 z "
        transform="translate(0,1036.3622)"
        id="path3447" />

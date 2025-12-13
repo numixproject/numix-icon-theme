@@ -4,8 +4,8 @@
   <path d="m 42 18 l 14 14 l 0 -14 m -14 0" style="opacity:0.2;stroke:none;fill-rule:nonzero"/>
   <path d="m 38 0 l 17.984 18 l -15.227 0 c -1.348 0 -2.758 -1.426 -2.758 -2.773 m 0 -15.227" style="fill:#fff;opacity:0.4;stroke:none;fill-rule:nonzero"/>
  </g>
- <circle cx="42.5" cy="22.5" r="2.5" style="fill:#fff;opacity:1;stroke:none"/>
- <circle cx="20.5" cy="53.5" r="2.5" style="fill:#fff;opacity:1;stroke:none"/>
- <circle cx="20" cy="25" r="2" style="fill:#fff;opacity:1;stroke:none"/>
- <path d="m 32 24 a 14 14 0 0 0 -13.566 10.606 15 8 0 0 1 13.566 -4.606 15 8 0 0 1 13.57 4.614 14 14 0 0 0 -13.57 -10.614 z m -13.57 17.386 a 14 14 0 0 0 13.57 10.614 14 14 0 0 0 13.566 -10.606 15 8 0 0 1 -13.566 4.606 15 8 0 0 1 -13.57 -4.614 z" style="fill:#fff;opacity:1;stroke:none"/>
+ <circle cx="42.5" cy="22.5" r="2.5" style="fill:#fff;stroke:none"/>
+ <circle cx="20.5" cy="53.5" r="2.5" style="fill:#fff;stroke:none"/>
+ <circle cx="20" cy="25" r="2" style="fill:#fff;stroke:none"/>
+ <path d="m 32 24 a 14 14 0 0 0 -13.566 10.606 15 8 0 0 1 13.566 -4.606 15 8 0 0 1 13.57 4.614 14 14 0 0 0 -13.57 -10.614 z m -13.57 17.386 a 14 14 0 0 0 13.57 10.614 14 14 0 0 0 13.566 -10.606 15 8 0 0 1 -13.566 4.606 15 8 0 0 1 -13.57 -4.614 z" style="fill:#fff;stroke:none"/>
 </svg>

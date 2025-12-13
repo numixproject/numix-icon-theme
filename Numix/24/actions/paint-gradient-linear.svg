@@ -5,5 +5,5 @@
    <stop offset="1" style="stop-color:#268bd2;stop-opacity:0"/>
   </linearGradient>
  </defs>
- <rect x="3.5" width="17" y="3.5" style="stroke-opacity:1;fill:url(#linearGradient4140);opacity:1;stroke:#313131;fill-rule:nonzero;stroke-width:1" height="17" rx="1"/>
+ <rect x="3.5" width="17" y="3.5" style="stroke-fill:url(#linearGradient4140);stroke:#313131;fill-rule:nonzero;stroke-width:1" height="17" rx="1"/>
 </svg>
