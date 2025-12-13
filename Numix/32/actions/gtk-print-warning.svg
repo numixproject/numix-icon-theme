@@ -4,7 +4,7 @@
   <path d="M 3.199219 8 L 28.800781 8 C 32 8 32 8 32 11.199219 L 32 20.800781 C 32 24 32 24 28.800781 24 L 3.199219 24 C 0 24 0 24 0 20.800781 L 0 11.199219 C 0 8 0 8 3.199219 8 Z " style="fill:#ccc"/>
  </g>
  <path d="m 6 16 l 20 0 l 0 16 l -20 0 Z" style="fill:#dc322f"/>
- <path d="m 32 7 a 7 7 0 0 1 -14 0 7 7 0 1 1 14 0 z" style="fill:#ffe546;fill-rule:evenodd"/>
+ <path d="m 32 7 a 7 7 0 0 1 -14 0 7 7 0 1 1 14 0 z" style="fill:#ffe546"/>
  <g transform="matrix(-1,0,0,-1,50,14.500005)">
   <g transform="matrix(0.5,0,0,1,19,-6)">
    <path d="m 14 18 -4 0 0 -6 4 0 0 6" style="fill:#fff;fill-opacity:0.9"/>

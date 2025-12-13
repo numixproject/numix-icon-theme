@@ -7,7 +7,7 @@
    <path d="m 25.676 21.281 l 1.371 0" transform="scale(.33333)" style="fill:none;stroke:url(#linear0);stroke-linecap:round;stroke-width:0.681"/>
   </g>
   <g id="surface6">
-   <path d="m 27.727 25.441 l 0 3.984 c 1.254 1.066 2.063 2.648 2.063 4.43 c 0 0.105 0 0.27 0 0.375 l -2.063 0 l 0 2.707 l 1.359 0 l 0 0.703 l 1.406 0 l 0 -0.703 l 1.313 0 l 0 -7.922 c -0.961 -1.559 -2.391 -2.813 -4.078 -3.574 Z" transform="scale(.33333)" style="fill:#6fac63;stroke:#6fac63;fill-rule:evenodd;stroke-linecap:round;stroke-width:0.681"/>
+   <path d="m 27.727 25.441 l 0 3.984 c 1.254 1.066 2.063 2.648 2.063 4.43 c 0 0.105 0 0.27 0 0.375 l -2.063 0 l 0 2.707 l 1.359 0 l 0 0.703 l 1.406 0 l 0 -0.703 l 1.313 0 l 0 -7.922 c -0.961 -1.559 -2.391 -2.813 -4.078 -3.574 Z" transform="scale(.33333)" style="fill:#6fac63;stroke:#6fac63;stroke-linecap:round;stroke-width:0.681"/>
   </g>
   <linearGradient gradientTransform="matrix(.68089 0 0 .68085 19.21267 9.36186)" id="linear0" x1="9.531" gradientUnits="userSpaceOnUse" x2="11.468">
    <stop style="stop-color:#fff"/>
@@ -24,7 +24,7 @@
    </g>
   </mask>
  </defs>
- <g style="fill:#6fac63;fill-rule:evenodd">
+ <g style="fill:#6fac63">
   <g style="stroke:#6fac63;stroke-width:0.681">
    <path d="m 31.805 12.422 l 3.41 0 c 0 -0.891 -2.191 -1.805 -3.41 -2.039 Z" transform="scale(.33333)"/>
    <g style="stroke-linecap:round">
@@ -36,7 +36,7 @@
   <path d="m 4.824 12.434 l 0.227 0 l 0 -0.453 l -0.227 0 m 0.453 0.453 l 0.227 0 l 0 -0.684 l -0.227 0 m 0.453 0.684 l 0.227 0 l 0 -0.453 l -0.227 0 m 0.453 0.453 l 0.227 0 l 0 -0.684 l -0.227 0 m 0.453 0.684 l 0.227 0 l 0 -0.453 l -0.227 0 m 0.457 0.453 l 0.227 0 l 0 -0.684 l -0.227 0 m 0.453 0.684 l 0.227 0 l 0 -0.453 l -0.227 0 m 0.453 0.453 l 0.227 0 l 0 -0.684 l -0.227 0 m 0.453 0.684 l 0.227 0 l 0 -0.453 l -0.227 0 m 0.453 0.453 l 0.23 0 l 0 -0.684 l -0.23 0 m 0.457 0.684 l 0.227 0 l 0 -0.453 l -0.227 0 m 0.453 0.453 l 0.227 0 l 0 -0.684 l -0.227 0 m 0.453 0.684 l 0.227 0 l 0 -0.453 l -0.227 0 m 0.453 0.453 l 0.227 0 l 0 -0.684 l -0.227 0 m 0.453 0.684 l 0.23 0 l 0 -0.453 l -0.23 0 Z"/>
  </g>
  <use xlink:href="#surface6" style="mask:url(#mask0)"/>
- <g style="fill:#6fac63;fill-rule:evenodd">
+ <g style="fill:#6fac63">
   <g style="stroke:#6fac63;stroke-width:0.681">
    <path d="m 28.406 35.578 l 1.395 0 l 0 4.078 l -1.395 0 Z" transform="scale(.33333)" style="stroke-linecap:round;stroke-linejoin:round"/>
    <path d="m 31.13 6.34 l -4.758 0 c -1.395 0 -7.512 1.383 -7.512 1.383 c -0.598 0.34 -0.668 0.961 -0.668 2.027 l 7.488 0 c 0 -0.82 0.527 -0.691 1.371 -0.691 l 0 25.2 l 4.078 0 l 0 -24.492 c 1.535 0 4.09 -1.02 4.09 -2.062 l -4.09 0 Z" transform="scale(.33333)"/>
@@ -47,7 +47,7 @@
   <path d="m 10.262 5.391 l 0 0.227 l 0.227 0 l 0 -0.227 m -0.227 0.453 l 0 0.227 l 0.227 0 l 0 -0.227 m -0.227 0.453 l 0 0.227 l 0.227 0 l 0 -0.227 m -0.227 0.453 l 0 0.23 l 0.227 0 l 0 -0.23 Z" style="fill-opacity:0.102"/>
  </g>
  <use xlink:href="#surface9" style="mask:url(#mask1)"/>
- <g style="fill:#6fac63;fill-rule:evenodd">
+ <g style="fill:#6fac63">
   <path d="m 10.262 4.711 l 0.227 0 l 0 0.227 l -0.227 0 Z" style="fill-opacity:0.533"/>
   <path d="m 18.13 13.148 c 0 1.066 0.07 1.676 0.656 2.027 l 7.172 1.383 c 0.258 0.117 0.34 0.34 0.34 0.68 l 0 3.398 l -0.68 0 c -0.375 0 -0.68 0.305 -0.68 0.68 c 0 0.375 0.305 0.68 0.68 0.68 l 2.051 0 l 0 -8.168 l -1.371 0 c -0.691 0 -0.68 -0.059 -0.68 -0.68 m 4.77 0.68 l 0 8.168 l 1.359 0 l 0 -8.168 Z" transform="scale(.33333)" style="stroke-miterlimit:10;stroke:#6fac63;stroke-linecap:round;stroke-width:0.681"/>
  </g>
