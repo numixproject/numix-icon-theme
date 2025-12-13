@@ -1,7 +1,7 @@
 
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
- <rect height="10" style="stroke-fill:#fff;stroke-miterlimit:23.7;stroke:#c3c3c3;stroke-linecap:butt;stroke-linejoin:miter;stroke-width:2;stroke-dashoffset:0" width="8" x="5" y="19"/>
- <rect height="10" style="stroke-fill:#fff;stroke-miterlimit:23.7;stroke:#888;stroke-linecap:butt;stroke-linejoin:miter;stroke-width:2;stroke-dashoffset:0" width="8" x="5" y="3"/>
- <path style="stroke-fill:none;stroke:#6c71c4;stroke-linecap:butt;stroke-linejoin:miter;stroke-width:2" d="M 23,27 23,9"/>
+ <rect height="10" style="fill:#fff;stroke-miterlimit:23.7;stroke:#c3c3c3;stroke-linecap:butt;stroke-linejoin:miter;stroke-width:2;stroke-dashoffset:0" width="8" x="5" y="19"/>
+ <rect height="10" style="fill:#fff;stroke-miterlimit:23.7;stroke:#888;stroke-linecap:butt;stroke-linejoin:miter;stroke-width:2;stroke-dashoffset:0" width="8" x="5" y="3"/>
+ <path style="fill:none;stroke:#6c71c4;stroke-linecap:butt;stroke-linejoin:miter;stroke-width:2" d="M 23,27 23,9"/>
  <path style="fill:#6c71c4" d="m 18 11 5 -4.999 4.999 4.999 z"/>
 </svg>

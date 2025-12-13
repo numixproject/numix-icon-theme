@@ -5,5 +5,5 @@
    <stop style="stop-color:#268bd2;stop-opacity:1" offset="1"/>
   </radialGradient>
  </defs>
- <rect style="stroke-fill:url(#radialGradient4140);stroke:#313131;stroke-width:1" rx="1" height="13" y="1.5" x="1.5" width="13"/>
+ <rect style="fill:url(#radialGradient4140);stroke:#313131;stroke-width:1" rx="1" height="13" y="1.5" x="1.5" width="13"/>
 </svg>

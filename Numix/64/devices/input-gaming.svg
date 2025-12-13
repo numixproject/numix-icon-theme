@@ -6,7 +6,7 @@
   <ellipse ry="2" rx="2" cx="50" cy="28" style="fill:#e45146"/>
   <ellipse ry="2" rx="2" cy="32" cx="46" style="fill:#68bf45"/>
   <ellipse ry="2" rx="2" cx="42" cy="28" style="fill:#5b6dc1"/>
-  <ellipse ry="1.5" rx="1.5" cy="27" cx="32" style="stroke-fill:none;stroke-miterlimit:4;stroke:#3b3b3b;stroke-linecap:round;stroke-linejoin:miter;stroke-width:0.5;stroke-dashoffset:0"/>
+  <ellipse ry="1.5" rx="1.5" cy="27" cx="32" style="fill:none;stroke-miterlimit:4;stroke:#3b3b3b;stroke-linecap:round;stroke-linejoin:miter;stroke-width:0.5;stroke-dashoffset:0"/>
   <ellipse ry="1" rx="1" cy="27" cx="27" style="fill:#3b3b3b"/>
   <circle r="1" cx="37" cy="27" style="fill:#3b3b3b"/>
   <path d="m 45.536 14.01 c -0.065 -0.003 -0.137 0.008 -0.203 0.008 l 0 29.583 c 1.128 1.178 2.341 2.453 3.799 3.737 0.496 0.436 1.013 0.823 1.534 1.174 l 0 -31.427 c -0.552 -0.736 -1.12 -1.347 -1.695 -1.784 -0.815 -0.618 -1.996 -1.233 -3.435 -1.292 z" style="fill:#fff;opacity:0.4"/>

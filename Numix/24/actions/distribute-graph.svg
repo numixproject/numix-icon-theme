@@ -4,9 +4,9 @@
  <path d="m 6.719 8.301 c -0.06 0.343 -0.219 0.65 -0.448 0.894 l 5.01 2.505 c 0.06 -0.343 0.219 -0.65 0.448 -0.894 z" style="fill:#3daee9"/>
  <path d="m 11.32 12.461 -5.171 3.231 c 0.253 0.222 0.438 0.514 0.53 0.847 l 5.171 -3.231 c -0.253 -0.222 -0.438 -0.514 -0.53 -0.847 z" style="fill:#3daee9"/>
  <rect width="6" transform="matrix(0 -1 1 0 0 0)" x="-15.5" height="1" y="5" style="fill:#3daee9"/>
- <circle r="1.5" cx="5" cy="17" style="stroke-fill:#fff;stroke-miterlimit:4;stroke:#888;stroke-linecap:butt;stroke-linejoin:miter;stroke-width:1;stroke-dashoffset:0"/>
- <circle r="1.5" cx="5" cy="8" style="stroke-fill:#fff;stroke-miterlimit:4;stroke:#888;stroke-linecap:butt;stroke-linejoin:miter;stroke-width:1;stroke-dashoffset:0"/>
- <circle r="1.5" cx="13" cy="12" style="stroke-fill:#fff;stroke-miterlimit:4;stroke:#888;stroke-linecap:butt;stroke-linejoin:miter;stroke-width:1;stroke-dashoffset:0"/>
- <circle r="1.5" cx="19" cy="6" style="stroke-fill:#fff;stroke-miterlimit:4;stroke:#888;stroke-linecap:butt;stroke-linejoin:miter;stroke-width:1;stroke-dashoffset:0"/>
- <circle r="1.5" cx="19" cy="18" style="stroke-fill:#fff;stroke-miterlimit:4;stroke:#888;stroke-linecap:butt;stroke-linejoin:miter;stroke-width:1;stroke-dashoffset:0"/>
+ <circle r="1.5" cx="5" cy="17" style="fill:#fff;stroke-miterlimit:4;stroke:#888;stroke-linecap:butt;stroke-linejoin:miter;stroke-width:1;stroke-dashoffset:0"/>
+ <circle r="1.5" cx="5" cy="8" style="fill:#fff;stroke-miterlimit:4;stroke:#888;stroke-linecap:butt;stroke-linejoin:miter;stroke-width:1;stroke-dashoffset:0"/>
+ <circle r="1.5" cx="13" cy="12" style="fill:#fff;stroke-miterlimit:4;stroke:#888;stroke-linecap:butt;stroke-linejoin:miter;stroke-width:1;stroke-dashoffset:0"/>
+ <circle r="1.5" cx="19" cy="6" style="fill:#fff;stroke-miterlimit:4;stroke:#888;stroke-linecap:butt;stroke-linejoin:miter;stroke-width:1;stroke-dashoffset:0"/>
+ <circle r="1.5" cx="19" cy="18" style="fill:#fff;stroke-miterlimit:4;stroke:#888;stroke-linecap:butt;stroke-linejoin:miter;stroke-width:1;stroke-dashoffset:0"/>
 </svg>

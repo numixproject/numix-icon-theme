@@ -3,7 +3,7 @@
   <path id="SVGCleanerId_0" d="m 14 12 20 0 c 1.105 0 2 0.895 2 2 l 0 20 c 0 1.105 -0.895 2 -2 2 l -20 0 c -1.105 0 -2 -0.895 -2 -2 l 0 -20 c 0 -1.105 0.895 -2 2 -2 m 0 0"/>
  </defs>
  <g transform="translate(2.0000004,1.9999996)">
-  <use height="32" width="32" xlink:href="#SVGCleanerId_0" transform="matrix(1.0416667,0,0,1.0416667,-9.0000008,-9.0000008)" style="stroke-fill:none;stroke-miterlimit:4;stroke:#af8566;stroke-linecap:butt;stroke-linejoin:miter;stroke-width:2.88"/>
+  <use height="32" width="32" xlink:href="#SVGCleanerId_0" transform="matrix(1.0416667,0,0,1.0416667,-9.0000008,-9.0000008)" style="fill:none;stroke-miterlimit:4;stroke:#af8566;stroke-linecap:butt;stroke-linejoin:miter;stroke-width:2.88"/>
   <use height="32" width="32" xlink:href="#SVGCleanerId_0" transform="translate(-8.0000005,-8.0000008)" style="fill:#fff4ab"/>
   <path d="m 4 22 24 0 0 2 -24 0 z" style="fill:#e4d66a"/>
   <path d="m 4 16 24 0 0 2 -24 0 z" style="fill:#e4d66a"/>
@@ -11,7 +11,7 @@
   <path d="m 10 4 2 0 0 24 -2 0 z" style="fill:#e6b2a9"/>
  </g>
  <g transform="translate(-1.9999996,-2.0000004)">
-  <use transform="matrix(1.0416667,0,0,1.0416667,-9.0000008,-9.0000008)" xlink:href="#SVGCleanerId_0" width="32" height="32" style="stroke-fill:none;stroke-miterlimit:4;stroke:#af8566;stroke-linecap:butt;stroke-linejoin:miter;stroke-width:2.88"/>
+  <use transform="matrix(1.0416667,0,0,1.0416667,-9.0000008,-9.0000008)" xlink:href="#SVGCleanerId_0" width="32" height="32" style="fill:none;stroke-miterlimit:4;stroke:#af8566;stroke-linecap:butt;stroke-linejoin:miter;stroke-width:2.88"/>
   <use transform="translate(-8.0000005,-8.0000008)" xlink:href="#SVGCleanerId_0" width="32" height="32" style="fill:#fff4ab"/>
   <path d="m 4 22 24 0 0 2 -24 0 z" style="fill:#e4d66a"/>
   <path d="m 4 16 24 0 0 2 -24 0 z" style="fill:#e4d66a"/>

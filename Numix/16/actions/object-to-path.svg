@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
- <path style="stroke-fill:none;stroke:#50b34a;stroke-linejoin:miter;stroke-width:1" d="m 8.124 1.653 c -4.696 -2.818 -9.392 3.758 -4.696 7.516 2.166 0.846 4.657 -0.529 9.55 0.701 2.88 0.723 0.78 4.936 0.78 4.936 0 0 -5.747 1.449 -5.747 -3.249 0 -4.697 0.112 -4.267 0.112 -9.904 z"/>
- <rect style="stroke-fill:#fff;stroke-miterlimit:4;stroke:#313131;stroke-linecap:butt;stroke-linejoin:miter;stroke-width:1;stroke-dashoffset:0" height="2" width="2" y="8.5" x="2.5"/>
- <rect style="stroke-fill:#fff;stroke-miterlimit:4;stroke:#313131;stroke-linecap:butt;stroke-linejoin:miter;stroke-width:1;stroke-dashoffset:0" height="2" width="2" y="13.5" x="12.5"/>
- <rect style="stroke-fill:#fff;stroke-miterlimit:4;stroke:#313131;stroke-linecap:butt;stroke-linejoin:miter;stroke-width:1;stroke-dashoffset:0" height="2" width="2" y="0.5" x="7.5"/>
+<svg version="1.1" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+ <path d="m8.12 1.65c-4.7-2.82-9.39 3.76-4.7 7.52 2.17 0.846 4.66-0.529 9.55 0.701 2.88 0.723 0.78 4.94 0.78 4.94s-5.75 1.45-5.75-3.25c0-4.7 0.112-4.27 0.112-9.9z" style="fill:none;stroke:#50b34a"/>
+ <rect x="2.5" y="8.5" width="2" height="2" style="fill:#fff;stroke:#313131"/>
+ <rect x="12.5" y="13.5" width="2" height="2" style="fill:#fff;stroke:#313131"/>
+ <rect x="7.5" y=".5" width="2" height="2" style="fill:#fff;stroke:#313131"/>
 </svg>
