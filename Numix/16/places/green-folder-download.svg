@@ -77,10 +77,10 @@
          height="2"
          width="16"
          id="rect2989"
-         style="fill:#66bb6a;stroke:none" />
+         style="fill:#66bb6a" />
       <rect
          transform="matrix(0,1,-1,0,0,0)"
-         style="fill:#66bb6a;stroke:none"
+         style="fill:#66bb6a"
          id="rect2991-6"
          width="7"
          height="2"
@@ -96,14 +96,14 @@
          height="2"
          width="7"
          id="rect2993"
-         style="fill:#66bb6a;stroke:none"
+         style="fill:#66bb6a"
          transform="matrix(0,1,-1,0,0,0)" />
       <path
          sodipodi:nodetypes="ccccccc"
          inkscape:connector-curvature="0"
          id="path2997-6"
          d="m -6.607183,1032.4873 c -1,1 -1,1 -2,0 l -3,-3 c -1,-1 -1,-1 0,-1 l 8,0 c 1,0 1,0 0,1 z"
-         style="fill:#66bb6a;stroke:none" />
+         style="fill:#66bb6a" />
       <rect
          ry="2"
          rx="2"
@@ -112,7 +112,7 @@
          height="10"
          width="4"
          id="rect2995"
-         style="fill:#66bb6a;stroke:none" />
+         style="fill:#66bb6a" />
     </g>
   </g>
 </svg>

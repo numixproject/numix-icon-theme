@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
- <path style="visibility:visible;color-interpolation-filters:linearRGB;fill:#353535;image-rendering:auto;text-rendering:auto;stroke:none;display:inline;color:#000;fill-rule:nonzero;color-rendering:auto;color-interpolation:sRGB" d="m 1 3.07 1.035 0 c 6.03 0 10.895 4.865 10.895 10.895 l 0 1.035 2.07 0 0 -1.035 c 0 -7.148 -5.817 -12.965 -12.965 -12.965 l -1.035 0 0 2.07 z"/>
- <path style="visibility:visible;color-interpolation-filters:linearRGB;fill:#353535;image-rendering:auto;text-rendering:auto;stroke:none;display:inline;color:#000;fill-rule:nonzero;color-rendering:auto;color-interpolation:sRGB" d="m 1 8.07 1.035 0 c 3.268 0 5.895 2.627 5.895 5.895 l 0 1.035 2.07 0 0 -1.035 c 0 -4.387 -3.578 -7.965 -7.965 -7.965 l -1.035 0 0 2.07 z"/>
- <circle r="2" style="fill:#353535;stroke:none;fill-rule:nonzero" cy="13" cx="3"/>
+ <path style="visibility:visible;color-interpolation-filters:linearRGB;fill:#353535;image-rendering:auto;text-rendering:auto;display:inline;color:#000;fill-rule:nonzero;color-rendering:auto;color-interpolation:sRGB" d="m 1 3.07 1.035 0 c 6.03 0 10.895 4.865 10.895 10.895 l 0 1.035 2.07 0 0 -1.035 c 0 -7.148 -5.817 -12.965 -12.965 -12.965 l -1.035 0 0 2.07 z"/>
+ <path style="visibility:visible;color-interpolation-filters:linearRGB;fill:#353535;image-rendering:auto;text-rendering:auto;display:inline;color:#000;fill-rule:nonzero;color-rendering:auto;color-interpolation:sRGB" d="m 1 8.07 1.035 0 c 3.268 0 5.895 2.627 5.895 5.895 l 0 1.035 2.07 0 0 -1.035 c 0 -4.387 -3.578 -7.965 -7.965 -7.965 l -1.035 0 0 2.07 z"/>
+ <circle r="2" style="fill:#353535;fill-rule:nonzero" cy="13" cx="3"/>
 </svg>

@@ -71,16 +71,16 @@
        height="5"
        width="4"
        id="rect3804"
-       style="fill:#42a5f5;stroke:none" />
+       style="fill:#42a5f5" />
     <rect
-       style="fill:#42a5f5;stroke:none"
+       style="fill:#42a5f5"
        id="rect3802"
        width="4"
        height="5"
        x="22"
        y="1019.3622" />
     <rect
-       style="fill:#09b69e;stroke:none"
+       style="fill:#09b69e"
        id="rect3000"
        width="42"
        height="10"
@@ -96,9 +96,9 @@
        height="10"
        width="42"
        id="rect2998"
-       style="fill:#42a5f5;stroke:none" />
+       style="fill:#42a5f5" />
     <rect
-       style="fill:#486cd7;stroke:none"
+       style="fill:#486cd7"
        id="rect2992"
        width="42"
        height="10"
@@ -107,7 +107,7 @@
        rx="2"
        ry="2" />
     <rect
-       style="fill:#f9f9f9;stroke:none"
+       style="fill:#f9f9f9"
        id="rect3806"
        width="21"
        height="3.9999826"
@@ -115,7 +115,7 @@
        y="1013.3622" />
     <path
        sodipodi:type="arc"
-       style="fill:#f9f9f9;stroke:none"
+       style="fill:#f9f9f9"
        id="path3808"
        sodipodi:cx="-7"
        sodipodi:cy="17"
@@ -131,7 +131,7 @@
        sodipodi:cy="17"
        sodipodi:cx="-7"
        id="path3810"
-       style="fill:#f9f9f9;stroke:none"
+       style="fill:#f9f9f9"
        sodipodi:type="arc" />
     <rect
        y="1039.3622"
@@ -139,7 +139,7 @@
        height="3.9999826"
        width="21"
        id="rect3812"
-       style="fill:#f9f9f9;stroke:none" />
+       style="fill:#f9f9f9" />
     <path
        transform="translate(40,1024.3622)"
        d="m -5,17 c 0,1.104569 -0.8954305,2 -2,2 -1.1045695,0 -2,-0.895431 -2,-2 0,-1.104569 0.8954305,-2 2,-2 1.1045695,0 2,0.895431 2,2 z"
@@ -148,11 +148,11 @@
        sodipodi:cy="17"
        sodipodi:cx="-7"
        id="path3814"
-       style="fill:#f9f9f9;stroke:none"
+       style="fill:#f9f9f9"
        sodipodi:type="arc" />
     <path
        sodipodi:type="arc"
-       style="fill:#f9f9f9;stroke:none"
+       style="fill:#f9f9f9"
        id="path3816"
        sodipodi:cx="-7"
        sodipodi:cy="17"
@@ -161,7 +161,7 @@
        d="m -5,17 c 0,1.104569 -0.8954305,2 -2,2 -1.1045695,0 -2,-0.895431 -2,-2 0,-1.104569 0.8954305,-2 2,-2 1.1045695,0 2,0.895431 2,2 z"
        transform="translate(47,1024.3622)" />
     <rect
-       style="fill:#f9f9f9;stroke:none"
+       style="fill:#f9f9f9"
        id="rect3818"
        width="21"
        height="3.9999826"
@@ -169,7 +169,7 @@
        y="1026.3622" />
     <path
        sodipodi:type="arc"
-       style="fill:#f9f9f9;stroke:none"
+       style="fill:#f9f9f9"
        id="path3820"
        sodipodi:cx="-7"
        sodipodi:cy="17"
@@ -185,7 +185,7 @@
        sodipodi:cy="17"
        sodipodi:cx="-7"
        id="path3822"
-       style="fill:#f9f9f9;stroke:none"
+       style="fill:#f9f9f9"
        sodipodi:type="arc" />
   </g>
 </svg>

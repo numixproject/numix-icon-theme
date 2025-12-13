@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
- <circle r="1.5" style="fill:#ececec;stroke:none;fill-rule:nonzero" cy="8.5" cx="8"/>
- <rect height="5" style="fill:#ececec;stroke:none;fill-rule:nonzero" y="11" x="7" width="2" ry="0.247" rx="0.336"/>
- <path style="visibility:visible;color-interpolation-filters:linearRGB;fill:#ececec;image-rendering:auto;stroke:none;display:inline;color:#000;fill-rule:nonzero;color-rendering:auto;color-interpolation:sRGB" d="M 9,3 C 5.698,3 3,5.698 3,9 H 5 C 5,6.779 6.779,5 9,5 Z"/>
- <path style="visibility:visible;color-interpolation-filters:linearRGB;fill:#ececec;opacity:0.4;image-rendering:auto;stroke:none;display:inline;color:#000;fill-rule:nonzero;color-rendering:auto;color-interpolation:sRGB" d="M 9,0 C 4.041,0 0,4.04 0,9 H 2 C 2,5.122 5.122,2 9,2 Z"/>
+ <circle r="1.5" style="fill:#ececec;fill-rule:nonzero" cy="8.5" cx="8"/>
+ <rect height="5" style="fill:#ececec;fill-rule:nonzero" y="11" x="7" width="2" ry="0.247" rx="0.336"/>
+ <path style="visibility:visible;color-interpolation-filters:linearRGB;fill:#ececec;image-rendering:auto;display:inline;color:#000;fill-rule:nonzero;color-rendering:auto;color-interpolation:sRGB" d="M 9,3 C 5.698,3 3,5.698 3,9 H 5 C 5,6.779 6.779,5 9,5 Z"/>
+ <path style="visibility:visible;color-interpolation-filters:linearRGB;fill:#ececec;opacity:0.4;image-rendering:auto;display:inline;color:#000;fill-rule:nonzero;color-rendering:auto;color-interpolation:sRGB" d="M 9,0 C 4.041,0 0,4.04 0,9 H 2 C 2,5.122 5.122,2 9,2 Z"/>
 </svg>

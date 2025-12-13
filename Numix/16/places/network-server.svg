@@ -61,16 +61,16 @@
      height="3.1999993"
      width="2.4000001"
      id="rect3804"
-     style="fill:#42a5f5;stroke:none" />
+     style="fill:#42a5f5" />
   <rect
-     style="fill:#42a5f5;stroke:none"
+     style="fill:#42a5f5"
      id="rect3802"
      width="2.4000001"
      height="3.1999996"
      x="5.5999999"
      y="2.4000001" />
   <rect
-     style="fill:#09b69e;stroke:none"
+     style="fill:#09b69e"
      id="rect3000"
      width="10.4"
      height="2.4000001"
@@ -86,9 +86,9 @@
      height="2.4000001"
      width="10.4"
      id="rect2998"
-     style="fill:#42a5f5;stroke:none" />
+     style="fill:#42a5f5" />
   <rect
-     style="fill:#486cd7;stroke:none"
+     style="fill:#486cd7"
      id="rect2992"
      width="10.4"
      height="2.4000001"
@@ -97,7 +97,7 @@
      rx="0.5"
      ry="0.50000012" />
   <rect
-     style="fill:#f9f9f9;stroke:none"
+     style="fill:#f9f9f9"
      id="rect3806"
      width="5.1999998"
      height="0.80000001"
@@ -105,7 +105,7 @@
      y="1.6000001" />
   <path
      sodipodi:type="arc"
-     style="fill:#f9f9f9;stroke:none"
+     style="fill:#f9f9f9"
      id="path3808"
      sodipodi:cx="-7"
      sodipodi:cy="17"
@@ -119,9 +119,9 @@
      height="0.80000001"
      width="5.1999998"
      id="rect3034"
-     style="fill:#f9f9f9;stroke:none" />
+     style="fill:#f9f9f9" />
   <rect
-     style="fill:#f9f9f9;stroke:none"
+     style="fill:#f9f9f9"
      id="rect3036"
      width="5.1999998"
      height="0.80000001"
@@ -135,7 +135,7 @@
      sodipodi:cy="17"
      sodipodi:cx="-7"
      id="path3038"
-     style="fill:#f9f9f9;stroke:none"
+     style="fill:#f9f9f9"
      sodipodi:type="arc" />
   <path
      transform="matrix(0.20000001,0,0,0.2,10.2,2.5999999)"
@@ -145,11 +145,11 @@
      sodipodi:cy="17"
      sodipodi:cx="-7"
      id="path3040"
-     style="fill:#f9f9f9;stroke:none"
+     style="fill:#f9f9f9"
      sodipodi:type="arc" />
   <path
      sodipodi:type="arc"
-     style="fill:#f9f9f9;stroke:none"
+     style="fill:#f9f9f9"
      id="path3042"
      sodipodi:cx="-7"
      sodipodi:cy="17"
@@ -159,7 +159,7 @@
      transform="matrix(0.20000001,0,0,0.2,11.8,2.5999999)" />
   <path
      sodipodi:type="arc"
-     style="fill:#f9f9f9;stroke:none"
+     style="fill:#f9f9f9"
      id="path3044"
      sodipodi:cx="-7"
      sodipodi:cy="17"
@@ -175,6 +175,6 @@
      sodipodi:cy="17"
      sodipodi:cx="-7"
      id="path3046"
-     style="fill:#f9f9f9;stroke:none"
+     style="fill:#f9f9f9"
      sodipodi:type="arc" />
 </svg>

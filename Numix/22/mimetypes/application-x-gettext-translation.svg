@@ -3,11 +3,11 @@
  <path d="m 14 6 5 5 0 -5 z" style="opacity:0.2"/>
  <path d="m 13 0 6 6 -5 0 c -0.445 0 -1 -0.555 -1 -1 z" style="fill:#fff;opacity:0.4"/>
  <g style="fill:#fff">
-  <rect y="6" x="8" height="3" width="1" style="fill:#fff;stroke:none;fill-rule:evenodd"/>
-  <rect y="10" x="8" height="3" width="1" style="fill:#fff;stroke:none;fill-rule:evenodd"/>
-  <path d="m 10 10 0 3 3 0 0 -3 -3 0 z m 1 1 1 0 0 1 -1 0 0 -1 z" style="fill:#fff;stroke:none;fill-rule:evenodd"/>
-  <rect y="14" x="8" height="3" width="1" style="fill:#fff;stroke:none;fill-rule:evenodd"/>
-  <path d="m 10 14 0 3 3 0 0 -3 -3 0 z m 1 1 1 0 0 1 -1 0 0 -1 z" style="fill:#fff;stroke:none;fill-rule:evenodd"/>
-  <rect y="14" x="14" height="3" width="1" style="fill:#fff;stroke:none;fill-rule:evenodd"/>
+  <rect y="6" x="8" height="3" width="1" style="fill:#fff;fill-rule:evenodd"/>
+  <rect y="10" x="8" height="3" width="1" style="fill:#fff;fill-rule:evenodd"/>
+  <path d="m 10 10 0 3 3 0 0 -3 -3 0 z m 1 1 1 0 0 1 -1 0 0 -1 z" style="fill:#fff;fill-rule:evenodd"/>
+  <rect y="14" x="8" height="3" width="1" style="fill:#fff;fill-rule:evenodd"/>
+  <path d="m 10 14 0 3 3 0 0 -3 -3 0 z m 1 1 1 0 0 1 -1 0 0 -1 z" style="fill:#fff;fill-rule:evenodd"/>
+  <rect y="14" x="14" height="3" width="1" style="fill:#fff;fill-rule:evenodd"/>
  </g>
 </svg>

@@ -5,8 +5,8 @@
    <rect style="stroke:none;fill-rule:nonzero" y="-192.5" x="321" width="3" ry="0.75" rx="1" height="1.5"/>
    <rect style="stroke:none;fill-rule:nonzero" y="-192.5" x="334" width="3" ry="0.75" rx="1" height="1.5"/>
   </g>
-  <rect transform="matrix(0 -1 1 0 0 0)" style="fill:#353535;stroke:none;fill-rule:nonzero" y="328.25" x="196.75" width="3" ry="0.75" rx="1" height="1.5"/>
-  <rect transform="matrix(-0.70711 -0.70711 0.70711 -0.70711 0 0)" style="fill:#353535;stroke:none;fill-rule:nonzero" y="367.48" x="-92.05" width="3" ry="0.75" rx="1" height="1.5"/>
-  <rect transform="matrix(0.70711 -0.70711 0.70711 0.70711 0 0)" style="fill:#353535;stroke:none;fill-rule:nonzero" y="96.3" x="373.23" width="3" ry="0.75" rx="1" height="1.5"/>
+  <rect transform="matrix(0 -1 1 0 0 0)" style="fill:#353535;fill-rule:nonzero" y="328.25" x="196.75" width="3" ry="0.75" rx="1" height="1.5"/>
+  <rect transform="matrix(-0.70711 -0.70711 0.70711 -0.70711 0 0)" style="fill:#353535;fill-rule:nonzero" y="367.48" x="-92.05" width="3" ry="0.75" rx="1" height="1.5"/>
+  <rect transform="matrix(0.70711 -0.70711 0.70711 0.70711 0 0)" style="fill:#353535;fill-rule:nonzero" y="96.3" x="373.23" width="3" ry="0.75" rx="1" height="1.5"/>
  </g>
 </svg>

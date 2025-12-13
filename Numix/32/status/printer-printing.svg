@@ -4,6 +4,6 @@
   <path d="M 3.199219 8 L 28.800781 8 C 32 8 32 8 32 11.199219 L 32 20.800781 C 32 24 32 24 28.800781 24 L 3.199219 24 C 0 24 0 24 0 20.800781 L 0 11.199219 C 0 8 0 8 3.199219 8 Z " style="fill:#ccc"/>
  </g>
  <path d="m 6 16 l 20 0 l 0 16 l -20 0 Z" style="fill:#dc322f"/>
- <rect width="4" height="8" x="14" y="18" style="fill:#fff;stroke:none"/>
- <path d="m 10 24 12 0 -6 6 z" style="fill:#fff;stroke:none"/>
+ <rect width="4" height="8" x="14" y="18" style="fill:#fff"/>
+ <path d="m 10 24 12 0 -6 6 z" style="fill:#fff"/>
 </svg>

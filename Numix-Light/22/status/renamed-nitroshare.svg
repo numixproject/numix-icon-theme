@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 22">
  <g>
-  <rect y="17" x="3" height="2" width="16" style="fill:#353535;stroke:none"/>
-  <path d="m 9 18 0 -8 4 0 0 8 z" style="fill:#353535;stroke:none"/>
-  <path d="m 9 11 -6 0 8 -8 8 8 -6 0 z" style="fill:#353535;stroke:none"/>
+  <rect y="17" x="3" height="2" width="16" style="fill:#353535"/>
+  <path d="m 9 18 0 -8 4 0 0 8 z" style="fill:#353535"/>
+  <path d="m 9 11 -6 0 8 -8 8 8 -6 0 z" style="fill:#353535"/>
  </g>
 </svg>

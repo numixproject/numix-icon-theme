@@ -2,6 +2,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
  <rect y="12" x="19" height="6" width="8" transform="matrix(0,1,1,0,0,0)" style="stroke-dasharray:none;stroke-fill:#fff;stroke-miterlimit:23.7;stroke:#888;fill-rule:nonzero;stroke-linecap:butt;stroke-linejoin:miter;stroke-width:2;stroke-dashoffset:0"/>
  <rect width="8" height="14" x="5" y="4" transform="matrix(0,1,1,0,0,0)" style="stroke-dasharray:none;stroke-fill:#fff;stroke-miterlimit:23.7;stroke:#888;fill-rule:nonzero;stroke-linecap:butt;stroke-linejoin:miter;stroke-width:2;stroke-dashoffset:0"/>
- <rect width="2" height="28" x="-24" y="2" transform="scale(-1,1)" style="fill:#f9b13a;stroke:none;fill-rule:nonzero"/>
- <rect width="4" height="8" x="-30" y="19" transform="scale(-1,1)" style="fill:#888;stroke:none;fill-rule:nonzero"/>
+ <rect width="2" height="28" x="-24" y="2" transform="scale(-1,1)" style="fill:#f9b13a;fill-rule:nonzero"/>
+ <rect width="4" height="8" x="-30" y="19" transform="scale(-1,1)" style="fill:#888;fill-rule:nonzero"/>
 </svg>

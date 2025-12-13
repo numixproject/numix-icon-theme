@@ -3,10 +3,10 @@
   <path id="SVGCleanerId_0" d="m 14 12 20 0 c 1.105 0 2 0.895 2 2 l 0 20 c 0 1.105 -0.895 2 -2 2 l -20 0 c -1.105 0 -2 -0.895 -2 -2 l 0 -20 c 0 -1.105 0.895 -2 2 -2 m 0 0"/>
  </defs>
  <use height="32" width="32" xlink:href="#SVGCleanerId_0" transform="matrix(1.0416667,0,0,1.0416667,-9.0000008,-9.0000008)" style="stroke-dasharray:none;stroke-fill:none;stroke-miterlimit:4;stroke:#af8566;stroke-linecap:butt;stroke-linejoin:miter;stroke-width:2.88"/>
- <use height="32" width="32" xlink:href="#SVGCleanerId_0" transform="translate(-8.0000005,-8.0000008)" style="fill:#fff4ab;stroke:none;fill-rule:nonzero"/>
- <path d="m 4 22 24 0 0 2 -24 0 z" style="fill:#e4d66a;stroke:none;fill-rule:nonzero"/>
- <path d="m 4 16 24 0 0 2 -24 0 z" style="fill:#e4d66a;stroke:none;fill-rule:nonzero"/>
- <path d="m 4 10 24 0 0 2 -24 0 z" style="fill:#e4d66a;stroke:none;fill-rule:nonzero"/>
- <path d="m 10 4 2 0 0 24 -2 0 z" style="fill:#e6b2a9;stroke:none;fill-rule:nonzero"/>
+ <use height="32" width="32" xlink:href="#SVGCleanerId_0" transform="translate(-8.0000005,-8.0000008)" style="fill:#fff4ab;fill-rule:nonzero"/>
+ <path d="m 4 22 24 0 0 2 -24 0 z" style="fill:#e4d66a;fill-rule:nonzero"/>
+ <path d="m 4 16 24 0 0 2 -24 0 z" style="fill:#e4d66a;fill-rule:nonzero"/>
+ <path d="m 4 10 24 0 0 2 -24 0 z" style="fill:#e4d66a;fill-rule:nonzero"/>
+ <path d="m 10 4 2 0 0 24 -2 0 z" style="fill:#e6b2a9;fill-rule:nonzero"/>
  <path d="m 32 20 -6 0 0 -6 -6 0 0 6 -6 0 0 6 6 0 0 6 6 0 0 -6 6 0 z" style="fill:#859900"/>
 </svg>

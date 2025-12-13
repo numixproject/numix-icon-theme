@@ -82,7 +82,7 @@
   </sodipodi:namedview>
   <path
      sodipodi:type="arc"
-     style="opacity:0.5;fill:url(#radialGradient3102);stroke:none"
+     style="opacity:0.5;fill:url(#radialGradient3102)"
      id="path3114"
      sodipodi:cx="33"
      sodipodi:cy="59"
@@ -94,7 +94,7 @@
      inkscape:connector-curvature="0"
      id="path3801"
      d="m 16.764717,7.4864723 -3.823533,2.432435 2.29412,0 z"
-     style="fill:none;stroke:none" />
+     style="fill:none" />
   <rect
      ry="1"
      rx="1"
@@ -103,9 +103,9 @@
      height="24"
      width="20.000015"
      id="rect3054"
-     style="fill:#8f98a8;stroke:none" />
+     style="fill:#8f98a8" />
   <path
-     style="fill:#8f98a8;stroke:none"
+     style="fill:#8f98a8"
      d="m 12.000007,1.0000003 c -0.764706,0 -1.500001,0.810789 -1.500001,1.621601 l 0,4.378404 0.147059,1.486467 1.529413,0 0.82353,-1.621623 0,-2.621625 c 0,-0.810811 0.705883,-1.743222 1.47059,-1.743222 l 3.058826,0 c 0.764706,0 1.470589,0.932411 1.470589,1.743222 l 0,2.621625 0,1.621623 2.352943,0 0.147059,-1.486467 0,-4.500003 c 0,-0.810812 -0.735295,-1.500002 -1.500002,-1.500002 z"
      id="path3861"
      inkscape:connector-curvature="0"
@@ -115,7 +115,7 @@
      inkscape:connector-curvature="0"
      id="path3824"
      d="M 3,10.000008 C 3,8.4000063 4.529413,6.0000043 5.294119,6.0000043 l 21.411783,0 c 0.764706,0 2.294119,2.400002 2.294119,4.0000037 z"
-     style="fill:#b0b6c5;stroke:none" />
+     style="fill:#b0b6c5" />
   <rect
      ry="0.5"
      rx="0.5"
@@ -124,9 +124,9 @@
      height="17"
      width="2"
      id="rect3826-0"
-     style="fill:#687385;stroke:none" />
+     style="fill:#687385" />
   <rect
-     style="fill:#687385;stroke:none"
+     style="fill:#687385"
      id="rect4016"
      width="2"
      height="17"
@@ -142,12 +142,12 @@
      height="17"
      width="2"
      id="rect4018"
-     style="fill:#687385;stroke:none" />
+     style="fill:#687385" />
   <rect
      y="10.000008"
      x="6.0000014"
      height="4.0000033"
      width="20.000015"
      id="rect3863"
-     style="opacity:0.1;fill:#000000;stroke:none" />
+     style="opacity:0.1;fill:#000000" />
 </svg>
