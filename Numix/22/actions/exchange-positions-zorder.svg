@@ -4,8 +4,8 @@
  <path d="m 11 5.5 5 0" style="stroke-dasharray:none;stroke-fill:none;stroke-miterlimit:4;stroke:#79d073;stroke-linecap:butt;stroke-linejoin:miter;stroke-width:1"/>
  <path d="m 6 16.5 5 0" style="stroke-dasharray:none;stroke-fill:none;stroke-miterlimit:4;stroke:#79d073;stroke-linecap:butt;stroke-linejoin:miter;stroke-width:1"/>
  <rect x="2.5" y="2.5" width="7" style="stroke-dasharray:none;stroke-fill:#fff;stroke-miterlimit:4;stroke:#888;fill-rule:nonzero;stroke-linecap:butt;stroke-linejoin:miter;stroke-width:1;stroke-dashoffset:0" height="7"/>
- <path d="m 14.5 12 -3 3 1.414 0 l 1.586 -1.586 1.586 1.586 1.414 0 z" style="visibility:visible;fill:#888;image-rendering:auto;text-rendering:auto;color:#000;fill-rule:nonzero;color-rendering:auto;color-interpolation:sRGB"/>
+ <path d="m 14.5 12 -3 3 1.414 0 l 1.586 -1.586 1.586 1.586 1.414 0 z" style="visibility:visible;fill:#888;text-rendering:auto;color:#000;fill-rule:nonzero;color-rendering:auto;color-interpolation:sRGB"/>
  <rect x="14" y="13" width="1" style="fill:#888;fill-rule:nonzero" height="6"/>
- <path d="m 18.5 20 -3 -3 1.414 0 l 1.586 1.586 1.586 -1.586 1.414 0 z" style="visibility:visible;fill:#888;image-rendering:auto;text-rendering:auto;color:#000;fill-rule:nonzero;color-rendering:auto;color-interpolation:sRGB"/>
+ <path d="m 18.5 20 -3 -3 1.414 0 l 1.586 1.586 1.586 -1.586 1.414 0 z" style="visibility:visible;fill:#888;text-rendering:auto;color:#000;fill-rule:nonzero;color-rendering:auto;color-interpolation:sRGB"/>
  <rect transform="matrix(1 0 0 -1 0 0)" width="1" height="6" x="18" y="-19" style="fill:#888;fill-rule:nonzero"/>
 </svg>
