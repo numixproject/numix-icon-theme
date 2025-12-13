@@ -11,7 +11,7 @@
  <path d="m 9.575 6.088 c 0 0.688 -0.695 1.25 -1.555 1.25 -0.859 0 -1.555 -0.563 -1.555 -1.25 0 -0.691 0.695 -1.25 1.555 -1.25 0.859 0 1.555 0.559 1.555 1.25 z" style="fill:#ec7878"/>
  <path d="m 7.384 3.916 c 0 0.047 -0.039 0.09 -0.086 0.09 -0.047 0 -0.086 -0.043 -0.086 -0.09 0 -0.051 0.039 -0.09 0.086 -0.09 0.047 0 0.086 0.039 0.086 0.09 z" style="fill:#ec7878"/>
  <path d="m 8.786 3.916 c 0 0.047 -0.039 0.09 -0.086 0.09 -0.047 0 -0.086 -0.043 -0.086 -0.09 0 -0.051 0.039 -0.09 0.086 -0.09 0.047 0 0.086 0.039 0.086 0.09 z" style="fill:#ec7878"/>
- <path d="m 13.13 8 c 0 2.831 -2.292 5.125 -5.125 5.125 -2.829 0 -5.125 -2.294 -5.125 -5.125 0 -2.831 2.296 -5.125 5.125 -5.125 2.833 0 5.125 2.294 5.125 5.125" style="stroke-dasharray:none;fill:none;stroke-miterlimit:4;stroke:#ec7878;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.5"/>
- <path d="m 8 1.393 0 13.227" style="stroke-dasharray:none;stroke-fill:none;stroke-miterlimit:4;stroke:#ec7878;stroke-linecap:round;stroke-linejoin:miter;stroke-width:0.75"/>
- <path d="m 14.613 8.01 -13.227 0" style="stroke-dasharray:none;stroke-fill:none;stroke-miterlimit:4;stroke:#ec7878;stroke-linecap:round;stroke-linejoin:miter;stroke-width:0.75"/>
+ <path d="m 13.13 8 c 0 2.831 -2.292 5.125 -5.125 5.125 -2.829 0 -5.125 -2.294 -5.125 -5.125 0 -2.831 2.296 -5.125 5.125 -5.125 2.833 0 5.125 2.294 5.125 5.125" style="fill:none;stroke-miterlimit:4;stroke:#ec7878;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.5"/>
+ <path d="m 8 1.393 0 13.227" style="stroke-fill:none;stroke-miterlimit:4;stroke:#ec7878;stroke-linecap:round;stroke-linejoin:miter;stroke-width:0.75"/>
+ <path d="m 14.613 8.01 -13.227 0" style="stroke-fill:none;stroke-miterlimit:4;stroke:#ec7878;stroke-linecap:round;stroke-linejoin:miter;stroke-width:0.75"/>
 </svg>

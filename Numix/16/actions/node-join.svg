@@ -3,8 +3,8 @@
  <path style="fill:#cb4b16" d="m 8 10 2.5 -3 -5 0 z"/>
  <rect width="0.991" x="13" style="fill:#3daee9" y="1" height="5.5" transform="matrix(0 1 1 0 0 0)"/>
  <rect width="0.991" x="13" style="fill:#3daee9" y="9.5" height="5.5" transform="matrix(0 1 1 0 0 0)"/>
- <rect height="3" transform="matrix(1 0 0 -1 0 0)" width="3" style="stroke-dasharray:none;stroke-fill:none;stroke-miterlimit:4;stroke:#313131;stroke-linecap:butt;stroke-linejoin:miter;stroke-width:1;stroke-dashoffset:0" x="6.5" y="-15.5"/>
- <rect height="2" transform="matrix(1 0 0 -1 0 0)" width="2" style="stroke-dasharray:none;stroke-fill:none;stroke-miterlimit:4;stroke:#313131;stroke-linecap:butt;stroke-linejoin:miter;stroke-width:1;stroke-dashoffset:0" x="1.5" y="-3.5"/>
+ <rect height="3" transform="matrix(1 0 0 -1 0 0)" width="3" style="stroke-fill:none;stroke-miterlimit:4;stroke:#313131;stroke-linecap:butt;stroke-linejoin:miter;stroke-width:1;stroke-dashoffset:0" x="6.5" y="-15.5"/>
+ <rect height="2" transform="matrix(1 0 0 -1 0 0)" width="2" style="stroke-fill:none;stroke-miterlimit:4;stroke:#313131;stroke-linecap:butt;stroke-linejoin:miter;stroke-width:1;stroke-dashoffset:0" x="1.5" y="-3.5"/>
  <rect width="1" x="2" style="fill:#3daee9" y="-12.5" height="2.5" transform="matrix(0 1 -1 0 0 0)"/>
- <rect height="2" transform="matrix(-1 0 0 -1 0 0)" width="2" style="stroke-dasharray:none;stroke-fill:none;stroke-miterlimit:4;stroke:#313131;stroke-linecap:butt;stroke-linejoin:miter;stroke-width:1;stroke-dashoffset:0" x="-14.5" y="-3.5"/>
+ <rect height="2" transform="matrix(-1 0 0 -1 0 0)" width="2" style="stroke-fill:none;stroke-miterlimit:4;stroke:#313131;stroke-linecap:butt;stroke-linejoin:miter;stroke-width:1;stroke-dashoffset:0" x="-14.5" y="-3.5"/>
 </svg>
