@@ -2,7 +2,7 @@
  <rect width="14" height="25" x="17" y="7" rx="7" ry="8" style="fill:#d6d6d6;fill-rule:nonzero"/>
  <path d="m 17 25 -3 1.496 0.023 -1.5" style="fill:#373737;fill-rule:nonzero"/>
  <path d="m 31 25 3 1.496 -0.023 -1.5" style="fill:#373737;fill-rule:nonzero"/>
- <path d="M 13.984 23.986 A 1 1 0 0 0 13 25 c 0 3.929 2.098 7.563 5.5 9.527 3.402 1.964 7.598 1.964 11 0 C 32.902 32.563 35 28.929 35 25 a 1 1 0 1 0 -2 0 c 0 3.217 -1.714 6.186 -4.5 7.795 -2.786 1.609 -6.214 1.609 -9 0 C 16.714 31.19 15 28.22 15 25 a 1 1 0 0 0 -1.016 -1.014 z" solid-color="#000000" style="visibility:visible;fill:#547181;color:#000;fill-rule:nonzero;color-rendering:auto;color-interpolation:sRGB"/>
+ <path d="M 13.984 23.986 A 1 1 0 0 0 13 25 c 0 3.929 2.098 7.563 5.5 9.527 3.402 1.964 7.598 1.964 11 0 C 32.902 32.563 35 28.929 35 25 a 1 1 0 1 0 -2 0 c 0 3.217 -1.714 6.186 -4.5 7.795 -2.786 1.609 -6.214 1.609 -9 0 C 16.714 31.19 15 28.22 15 25 a 1 1 0 0 0 -1.016 -1.014 z" solid-color="#000000" style="fill:#547181;color:#000;fill-rule:nonzero;color-rendering:auto;color-interpolation:sRGB"/>
  <path d="m 23 35.8 c -0.386 2.896 -2.615 4.703 -5 6.2 l 12 0 c -2.385 -1.497 -4.614 -3.304 -5 -6.2 z" style="fill:#547181;fill-rule:evenodd"/>
  <rect width="14" height="1" x="17" y="23" style="fill:#373737;fill-rule:nonzero"/>
  <path d="m 31 24 c 0 4.432 -3.122 8 -7 8 -3.878 0 -7 -3.568 -7 -8 z" style="fill:#547181;fill-rule:nonzero"/>
