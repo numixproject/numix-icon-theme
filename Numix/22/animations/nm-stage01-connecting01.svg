@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 22">
- <g transform="translate(-81.000208,-527.36047)">
-  <path d="m 101 533.48 c -2.601 -1.979 -5.69 -3.121 -9 -3.121 -3.31 0 -6.399 1.142 -9 3.121 l 9 12.879 z" style="fill:#ececec;opacity:0.4;mask:none"/>
-  <path d="m 94.25 543.14 c -0.65 -0.495 -1.422 -0.78 -2.25 -0.78 -0.828 0 -1.6 0.285 -2.25 0.78 l 2.25 3.22 z" style="fill:#ececec;mask:none"/>
+<svg viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg">
+ <g transform="translate(-81 -527.36)">
+  <path d="m101 533.48c-2.601-1.979-5.69-3.121-9-3.121-3.31 0-6.399 1.142-9 3.121l9 12.879z" fill="#ececec" opacity=".4"/>
+  <path d="m94.25 543.14c-.65-.495-1.422-.78-2.25-.78-.828 0-1.6.285-2.25.78l2.25 3.22z" fill="#ececec"/>
  </g>
 </svg>

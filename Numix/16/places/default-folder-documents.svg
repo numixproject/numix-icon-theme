@@ -1,11 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
- <g transform="translate(0,-1036.3622)">
-  <g transform="translate(0,1036.3622)" style="fill:#f2bb64;opacity:1">
-   <path d="M 4,0 C 2.892,0 2,0.892 2,2 l 0,12 c 0,1.108 0.892,2 2,2 l 8,0 c 1.108,0 2,-0.892 2,-2 L 14,5 9,0 z m 0,2 6,0 1,1 1,1 0,10 -8,0 z" style="fill:#f2bb64"/>
-   <path d="m 9 0 0 5 5 0 z" style="fill:#f2bb64"/>
-   <rect rx="0.25" y="7" x="5" height="1" width="4" style="fill:#f2bb64"/>
-   <rect width="6" height="1" x="5" y="9" rx="0.25" style="fill:#f2bb64"/>
-   <rect rx="0.25" y="11" x="5" height="1" width="6" style="fill:#f2bb64"/>
+<svg viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+ <g transform="translate(0 -1036.362)">
+  <g fill="#f2bb64" transform="translate(0 1036.362)">
+   <path d="M4 0C2.892 0 2 .892 2 2l0 12c0 1.108.892 2 2 2l8 0c1.108 0 2-.892 2-2L14 5 9 0zm0 2 6 0 1 1 1 1 0 10-8 0z" fill="#f2bb64"/>
+   <path d="m9 0 0 5 5 0z" fill="#f2bb64"/>
+   <rect fill="#f2bb64" height="1" rx=".25" width="4" x="5" y="7"/>
+   <rect fill="#f2bb64" height="1" rx=".25" width="6" x="5" y="9"/>
+   <rect fill="#f2bb64" height="1" rx=".25" width="6" x="5" y="11"/>
   </g>
  </g>
 </svg>
